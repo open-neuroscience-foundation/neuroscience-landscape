@@ -9,7 +9,7 @@ Here you may find good entrypoints to answer these questions.
 ### Basic Facts and Concepts
 
 * Brain is not a _randomly_ connected mesh, there is low and high level structure
-* _Grey matter_ — surface layer, cortex, mostly neurons
+* _Grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons, for other animals less, varies by area
 * _White matter_ — insides, connections between neurons, moslty axons
 * _Occurent information_ — current representation, vector at layer in network, what is being processed now
 * _Abeyant information_ — stored representation, weights at layer of network
@@ -20,7 +20,6 @@ Here you may find good entrypoints to answer these questions.
 * _Translational neuroscience_ - how genes are encoding, guiding, controling brain structures
 * _Hebbian rule_ - "what fires together, wires together". Some mechanisms in brain are anti-Hebbian and some are neither. Overall, it is important model.
 * Does model need to be accurate down to molecular level to understand cognition? Computational neuroscience says no, level of neurons and their connections might be sufficient
-* Cortex is ~6 layers for humans, for other animals less, varies by area
 * There are a lot of recurrent loops in networks
 * _Timing_ is very important, as a lot of processing and wiring are in _oscilating currents_
 * There are different types of neurons
