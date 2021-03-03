@@ -1,6 +1,8 @@
 > How much do we know about the brain?
 > What software is used in neuroscience? 
-> What are the key labs, companies, and avenues?
+> What are the key labs?
+> Which software can I try to contribute to?
+> Which companies are in the field to keep an eye on?
 
 Here you may find good entrypoints to answer these questions.
 
