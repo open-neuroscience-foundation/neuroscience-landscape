@@ -39,6 +39,11 @@ Terrence J. Sejnowski, MIT Press
 * [Emergent Brain Dynamics: Prebirth to Adolescence](https://mitpress.mit.edu/books/emergent-brain-dynamics), MIT Press, 2018
 * [Translational Neuroscience: Toward New Therapies](https://mitpress.mit.edu/books/translational-neuroscience), MIT Press, 2015
 
+### Courses
+
+* [Neuromatch Academy](https://github.com/NeuromatchAcademy)
+* [MIT Brain and Cognitive Sciences list](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
+
 ### Software
 
 * [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
@@ -74,8 +79,9 @@ Organizations
 
 * 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)
 * 🇺🇸 University of Pennsylvania: [Kording Lab](kordinglab.com)
-* 🇺🇸 Stanford: [Cognitive & Systems Neuroscience Laboratory](https://med.stanford.edu/scsnl/about1.html)
+* 🇺🇸 MIT, Princeton: [Seung Lab](https://seunglab.org/)
 * 🇺🇸 MIT: [brain + cognitive sciences department](https://bcs.mit.edu/)
+* 🇺🇸 Stanford: [Cognitive & Systems Neuroscience Laboratory](https://med.stanford.edu/scsnl/about1.html)
 * 🇺🇸 Carnegie Mellon: [Cognitive Neuroscience](https://www.cmu.edu/ni/research/cognitive-neuroscience.html) | [Computational Neuroscience](https://www.cmu.edu/ni/research/computational-neuroscience.html) | [Neuro Tech & Engineering](https://www.cmu.edu/ni/research/neuro-tech-and-engineering.html) | [Systems Neuroscience](https://www.cmu.edu/ni/research/systems-neuroscience.html)
 * 🇯🇵 OIST: [Neural Coding and Brain Computing](https://groups.oist.jp/ncbc)
 * 🇸🇬 Duke-NUS: [Neuroscience and Behavioural Disorders](https://www.duke-nus.edu.sg/nbd)
