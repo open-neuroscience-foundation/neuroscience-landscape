@@ -87,3 +87,6 @@ Terrence J. Sejnowski, MIT Press
 * 🇺🇸 [NWB](https://www.nwb.org/) Neuroscience without borders [:keyboard:](https://www.nwb.org/source-codes/)
 * 🇺🇸 [IARPA](https://www.iarpa.gov) Intelligence Advanced Research Projects Activity
 * 🇸🇬 [SFN Sigapore](https://www.sfn.sg/) Society for Neuroscience Singapore chapter
+* 🇰🇷 [KSBNS](https://www.ksbns.org/Default.asp) Korean Society for Brain and Neural Sciences
+* 🇰🇷 [AKNeuro](https://akneuro.org/) Assosiation of Korean Neuroscientists
+* 🇰🇷 [KBRI](https://www.kbri.re.kr/new/pages_eng/main/) Korea Brain Research Institute
