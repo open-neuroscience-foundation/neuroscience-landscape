@@ -48,7 +48,7 @@ Terrence J. Sejnowski, MIT Press
 
 Labs
 * [Kording lab](https://github.com/KordingLab)
-* [Seung lab](https://seunglab.org/software/)
+* [Seung lab](https://seunglab.org/software/) [:octocat:](https://github.com/seung-lab)
 * [OIST NCBC](https://github.com/oist-ncbc)
 * [Stanford Cognitive & Systems Neuroscience Laboratory](https://github.com/scsnl)
 * [Penn Image Computing & Science Lab](http://picsl.upenn.edu/software/)
@@ -66,10 +66,11 @@ Projects
 * [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
 * [VERTEX](http://vertexsimulator.org/) - model of electrical stimulation at neuronal level
 * [SpikeInterface](https://github.com/SpikeInterface) - a unified framework for spike sorting
-* [MICrONS](https://www.iarpa.gov/index.php/research-programs/microns) - Machine Intelligence from Cortical Networks by IARPA
-* [SpikeGLX](http://billkarsh.github.io/SpikeGLX/) - used in neuropixels by Allen Institute
-* [SMART](https://github.com/mjin1812/SMART) - BICCN spatial registration tool
-* [HistoloZee](http://picsl.upenn.edu/software/histolozee/) - BICCN spatial registration tool, MRI visualization, histology
+* [MICrONS](https://www.iarpa.gov/index.php/research-programs/microns) - machine intelligence from cortical networks, IARPA
+* [SpikeGLX](http://billkarsh.github.io/SpikeGLX/) - used in neuropixels, Allen Institute
+* [SMART](https://github.com/mjin1812/SMART) - spatial registration tool, BICCN
+* [HistoloZee](http://picsl.upenn.edu/software/histolozee/) - spatial registration tool, MRI visualization, histology, BICCN
+* [cnpkg ](https://github.com/srinituraga/cnpkg) - cortical network simulator, optimized with CUDA, Seung Lab, MIT
 
 ### Hardware
 
