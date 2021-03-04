@@ -46,8 +46,6 @@ Terrence J. Sejnowski, MIT Press
 
 ### Software
 
-Many more software is available in labs and organizations links
-
 * [NITRC](https://www.nitrc.org/projects) - large list of neuroimaging tools
 * [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
 * [VERTEX](http://vertexsimulator.org/) - model of electrical stimulation at neuronal level
@@ -57,6 +55,7 @@ Many more software is available in labs and organizations links
 * [SMART](https://github.com/mjin1812/SMART) - spatial registration tool, BICCN
 * [HistoloZee](http://picsl.upenn.edu/software/histolozee/) - spatial registration tool, MRI visualization, histology, BICCN
 * [cnpkg](https://github.com/srinituraga/cnpkg) - cortical network simulator, optimized with CUDA, Seung Lab, MIT
+* ... many more software is available in labs and organizations links
 
 ### Hardware
 
