@@ -19,7 +19,7 @@ Here you may find good entrypoints to answer these questions.
 * _Translational neuroscience_ - how genes are encoding, guiding, controling brain structures.
 * _Hebbian rule_ - "what fires together, wires together" is imporant model for plasticity, however some mechanisms in brain are anti-Hebbian and some are neither.
 * Does model need to be accurate down to molecular level to understand cognition? Computational neuroscience says no, level of neurons and their connections might be sufficient.
-* Important observations about networks: timinig is important, as a lot of processing is oscilating potentiation; many recurrent loops; differnt types of neurons.
+* Important observations about networks: timinig is important, as a lot of processing is oscilating potentiation; many recurrent loops; different types of neurons.
 
 ### Books
 
