@@ -46,13 +46,6 @@ Terrence J. Sejnowski, MIT Press
 
 ### Software
 
-Labs
-* [Kording lab](https://github.com/KordingLab)
-* [Seung lab](https://seunglab.org/software/) [:octocat:](https://github.com/seung-lab)
-* [OIST NCBC](https://github.com/oist-ncbc)
-* [Stanford Cognitive & Systems Neuroscience Laboratory](https://github.com/scsnl)
-* [Penn Image Computing & Science Lab](http://picsl.upenn.edu/software/)
-
 Organizations
 * [NITRC](https://www.nitrc.org/projects), [top downloaded](https://www.nitrc.org/top/toplist.php?type=downloads) - large list of neuroimaging tools
 * [Brain Initiative](https://www.braininitiative.org/toolmakers-resources/) — curated list of tools
@@ -80,12 +73,12 @@ Projects
 ### Labs
 
 * 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)
-* 🇺🇸 University of Pennsylvania: [Kording Lab](kordinglab.com)
-* 🇺🇸 MIT, Princeton: [Seung Lab](https://seunglab.org/)
+* 🇺🇸 University of Pennsylvania: [Kording Lab](kordinglab.com) [:octocat:](https://github.com/KordingLab) | [Penn Image Computing & Science Lab](picsl.upenn.edu) [:keyboard:](http://picsl.upenn.edu/software/)
+* 🇺🇸 MIT, Princeton: [Seung Lab](https://seunglab.org/) [:keyboard:](https://seunglab.org/software/) [:octocat:](https://github.com/seung-lab)
 * 🇺🇸 MIT: [brain + cognitive sciences department](https://bcs.mit.edu/)
-* 🇺🇸 Stanford: [Cognitive & Systems Neuroscience Laboratory](https://med.stanford.edu/scsnl/about1.html)
+* 🇺🇸 Stanford: [Cognitive & Systems Neuroscience Laboratory](https://med.stanford.edu/scsnl/about1.html) [:octocat:](https://github.com/scsnl)
 * 🇺🇸 Carnegie Mellon: [Cognitive Neuroscience](https://www.cmu.edu/ni/research/cognitive-neuroscience.html) | [Computational Neuroscience](https://www.cmu.edu/ni/research/computational-neuroscience.html) | [Neuro Tech & Engineering](https://www.cmu.edu/ni/research/neuro-tech-and-engineering.html) | [Systems Neuroscience](https://www.cmu.edu/ni/research/systems-neuroscience.html)
-* 🇯🇵 OIST: [Neural Coding and Brain Computing](https://groups.oist.jp/ncbc)
+* 🇯🇵 OIST: [Neural Coding and Brain Computing](https://groups.oist.jp/ncbc) [:octocat:](https://github.com/oist-ncbc)
 * 🇸🇬 Duke-NUS: [Neuroscience and Behavioural Disorders](https://www.duke-nus.edu.sg/nbd)
 * 🇰🇷 KAIST: [Cognitive Neuroscience and Neuroimaging](http://ibrain.kaist.ac.kr/) | [Brain Dynamics](http://raphe.kaist.ac.kr/index.htm) | [Behavioral Genetics](https://sites.google.com/site/bglabkorea/) | [Synaptic Brain Dysfunction](http://molneuro.kaist.ac.kr/contents/) | [Neural Interoception](https://www.suhlab-neuralinteroception.kaist.ac.kr/) | [Sensory processing](https://sites.google.com/site/leelab2013/) | [Systems neuroscience](https://sites.google.com/site/systemsneurolaboratory/)
 
