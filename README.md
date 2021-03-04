@@ -42,10 +42,27 @@ Terrence J. Sejnowski, MIT Press
 ### Courses
 
 * [Neuromatch Academy](https://github.com/NeuromatchAcademy)
-* [MIT Brain and Cognitive Sciences list](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
+* [List of MIT Brain and Cognitive Sciences](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
 
 ### Software
 
+Labs
+* [Kording lab](https://github.com/KordingLab)
+* [Seung lab](https://seunglab.org/software/)
+* [OIST NCBC](https://github.com/oist-ncbc)
+* [Stanford Cognitive & Systems Neuroscience Laboratory](https://github.com/scsnl)
+* [Penn Image Computing & Science Lab](http://picsl.upenn.edu/software/)
+
+Organizations
+* [NITRC](https://www.nitrc.org/projects), [top downloaded](https://www.nitrc.org/top/toplist.php?type=downloads) - large list of neuroimaging tools
+* [Brain Initiative](https://www.braininitiative.org/toolmakers-resources/) — curated list of tools
+* [INCF](https://github.com/INCF)
+* [Allen Institute](http://alleninstitute.github.io/)
+* [BICCN](https://github.com/BICCN) - BICCN GitHub
+* [BICCN Tools](https://biccn.org/tools) - links to different tools, including outside of GitHub
+* [NWB source code](https://www.nwb.org/source-codes/)
+
+Projects
 * [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
 * [VERTEX](http://vertexsimulator.org/) - model of electrical stimulation at neuronal level
 * [SpikeInterface](https://github.com/SpikeInterface) - a unified framework for spike sorting
@@ -53,22 +70,6 @@ Terrence J. Sejnowski, MIT Press
 * [SpikeGLX](http://billkarsh.github.io/SpikeGLX/) - used in neuropixels by Allen Institute
 * [SMART](https://github.com/mjin1812/SMART) - BICCN spatial registration tool
 * [HistoloZee](http://picsl.upenn.edu/software/histolozee/) - BICCN spatial registration tool, MRI visualization, histology
-* [NITRC top downloaded](https://www.nitrc.org/top/toplist.php?type=downloads) - various tools
-
-Labs
-* [OIST NCBC](https://github.com/oist-ncbc)
-* [Kording](https://github.com/KordingLab)
-* [Stanford Cognitive & Systems Neuroscience Laboratory](https://github.com/scsnl)
-* [Penn Image Computing & Science Lab](http://picsl.upenn.edu/software/)
-
-Organizations
-* [NITRC](https://www.nitrc.org/projects) - large list of neuroimaging tools
-* [Brain Initiative](https://www.braininitiative.org/toolmakers-resources/) — curated list of tools
-* [INCF](https://github.com/INCF)
-* [Allen Institute](http://alleninstitute.github.io/)
-* [BICCN](https://github.com/BICCN) - BICCN GitHub
-* [BICCN Tools](https://biccn.org/tools) - links to different tools, including outside of GitHub
-* [NWB source code](https://www.nwb.org/source-codes/)
 
 ### Hardware
 
