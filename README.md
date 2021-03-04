@@ -9,7 +9,7 @@ Here you may find good entrypoints to answer these questions.
 ### Basic Facts and Concepts
 
 * Brain is not a _randomly_ connected mesh, there is low and high level structure
-* _Grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons, for other animals less, varies by area
+* _Grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons
 * _White matter_ — insides, connections between neurons, moslty axons
 * _Occurent information_ — current representation, vector at layer in network, what is being processed now
 * _Abeyant information_ — stored representation, weights at layer of network
