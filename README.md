@@ -46,16 +46,9 @@ Terrence J. Sejnowski, MIT Press
 
 ### Software
 
-Organizations
-* [NITRC](https://www.nitrc.org/projects), [top downloaded](https://www.nitrc.org/top/toplist.php?type=downloads) - large list of neuroimaging tools
-* [Brain Initiative](https://www.braininitiative.org/toolmakers-resources/) — curated list of tools
-* [INCF](https://github.com/INCF)
-* [Allen Institute](http://alleninstitute.github.io/)
-* [BICCN](https://github.com/BICCN) - BICCN GitHub
-* [BICCN Tools](https://biccn.org/tools) - links to different tools, including outside of GitHub
-* [NWB source code](https://www.nwb.org/source-codes/)
+Many more software is available in labs and organizations links
 
-Projects
+* [NITRC](https://www.nitrc.org/projects) - large list of neuroimaging tools
 * [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
 * [VERTEX](http://vertexsimulator.org/) - model of electrical stimulation at neuronal level
 * [SpikeInterface](https://github.com/SpikeInterface) - a unified framework for spike sorting
@@ -63,12 +56,12 @@ Projects
 * [SpikeGLX](http://billkarsh.github.io/SpikeGLX/) - used in neuropixels, Allen Institute
 * [SMART](https://github.com/mjin1812/SMART) - spatial registration tool, BICCN
 * [HistoloZee](http://picsl.upenn.edu/software/histolozee/) - spatial registration tool, MRI visualization, histology, BICCN
-* [cnpkg ](https://github.com/srinituraga/cnpkg) - cortical network simulator, optimized with CUDA, Seung Lab, MIT
+* [cnpkg](https://github.com/srinituraga/cnpkg) - cortical network simulator, optimized with CUDA, Seung Lab, MIT
 
 ### Hardware
 
-* [Neuropixels](https://www.neuropixels.org/), Allan Institute, 🇺🇸
-* [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT 🇺🇸
+* 🇺🇸 [Neuropixels](https://www.neuropixels.org/), Allan Institute
+* 🇺🇸 [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT
 
 ### Labs
 
@@ -84,17 +77,17 @@ Projects
 
 ### Companies
 
-* [Neuralink](https://neuralink.com) 🇺🇸
-* [LVIS](http://lviscorp.com/) 🇺🇸🇰🇷
-* [Imaging Biometrics](https://www.imagingbiometrics.com) 🇺🇸
+* 🇺🇸 [Neuralink](https://neuralink.com)
+* 🇺🇸🇰🇷 [LVIS](http://lviscorp.com/)
+* 🇺🇸 [Imaging Biometrics](https://www.imagingbiometrics.com)
 
 ### Organizations
 
-* [INCF](http://www.incf.org) International Neuroinformatics Coordinating Facility
-* [The BRAIN Initiative](https://www.braininitiative.org/) 🇺🇸
-* [IEEE Brain](https://brain.ieee.org/) 🇺🇸
-* [Allen Institute of Brain Science](https://alleninstitute.org/what-we-do/brain-science/) 🇺🇸
-* [BICCN](https://biccn.org/) BRAIN Initiative Cell Census Network, Allen Institute of Brain Science 🇺🇸
-* [NWB](https://www.nwb.org/) Neuroscience without borders 🇺🇸
-* [IARPA](https://www.iarpa.gov) Intelligence Advanced Research Projects Activity 🇺🇸
-* [SFN Sigapore](https://www.sfn.sg/) Society for Neuroscience Singapore chapter 🇸🇬
+* 🌏 [INCF](http://www.incf.org) International Neuroinformatics Coordinating Facility [:octocat:](https://github.com/INCF)
+* 🇺🇸 [The BRAIN Initiative](https://www.braininitiative.org/) [:keyboard:](https://www.braininitiative.org/toolmakers-resources/)
+* 🇺🇸 [IEEE Brain](https://brain.ieee.org/)
+* 🇺🇸 [Allen Institute of Brain Science](https://alleninstitute.org/what-we-do/brain-science/) [:octocat:](http://alleninstitute.github.io/)
+* 🇺🇸 [BICCN](https://biccn.org/) BRAIN Initiative Cell Census Network, Allen Institute of Brain Science [:octocat:](https://github.com/BICCN) [:keyboard:](https://biccn.org/tools)
+* 🇺🇸 [NWB](https://www.nwb.org/) Neuroscience without borders [:keyboard:](https://www.nwb.org/source-codes/)
+* 🇺🇸 [IARPA](https://www.iarpa.gov) Intelligence Advanced Research Projects Activity
+* 🇸🇬 [SFN Sigapore](https://www.sfn.sg/) Society for Neuroscience Singapore chapter
