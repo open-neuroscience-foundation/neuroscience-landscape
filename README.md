@@ -62,10 +62,10 @@ Terrence J. Sejnowski, MIT Press
 ### Labs
 
 * 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)
-* 🇺🇸 University of Pennsylvania: [Kording Lab](kordinglab.com) [:octocat:](https://github.com/KordingLab) | [Penn Image Computing & Science Lab](picsl.upenn.edu) [:keyboard:](http://picsl.upenn.edu/software/)
+* 🇺🇸 University of Pennsylvania: [Kording Lab](kordinglab.com) [:octocat:](https://github.com/KordingLab) | [Penn Image Computing & Science](picsl.upenn.edu) [:keyboard:](http://picsl.upenn.edu/software/)
 * 🇺🇸 MIT, Princeton: [Seung Lab](https://seunglab.org/) [:keyboard:](https://seunglab.org/software/) [:octocat:](https://github.com/seung-lab)
 * 🇺🇸 MIT: [brain + cognitive sciences department](https://bcs.mit.edu/)
-* 🇺🇸 Stanford: [Cognitive & Systems Neuroscience Laboratory](https://med.stanford.edu/scsnl/about1.html) [:octocat:](https://github.com/scsnl)
+* 🇺🇸 Stanford: [Cognitive & Systems Neuroscience](https://med.stanford.edu/scsnl/about1.html) [:octocat:](https://github.com/scsnl) | [Brain Dynamics](https://web.stanford.edu/group/bdl/) [:octocat:](https://github.com/braindynamicslab)
 * 🇺🇸 Carnegie Mellon: [Cognitive Neuroscience](https://www.cmu.edu/ni/research/cognitive-neuroscience.html) | [Computational Neuroscience](https://www.cmu.edu/ni/research/computational-neuroscience.html) | [Neuro Tech & Engineering](https://www.cmu.edu/ni/research/neuro-tech-and-engineering.html) | [Systems Neuroscience](https://www.cmu.edu/ni/research/systems-neuroscience.html)
 * 🇯🇵 OIST: [Neural Coding and Brain Computing](https://groups.oist.jp/ncbc) [:octocat:](https://github.com/oist-ncbc)
 * 🇸🇬 Duke-NUS: [Neuroscience and Behavioural Disorders](https://www.duke-nus.edu.sg/nbd)
