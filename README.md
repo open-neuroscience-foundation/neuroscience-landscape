@@ -42,7 +42,7 @@ Terrence J. Sejnowski, MIT Press
 ### Courses
 
 * [Neuromatch Academy](https://github.com/NeuromatchAcademy)
-* [List of MIT Brain and Cognitive Sciences](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
+* [List of MIT Brain and Cognitive Sciences courses](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
 
 ### Software
 
