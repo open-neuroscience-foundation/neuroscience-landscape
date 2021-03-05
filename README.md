@@ -8,17 +8,11 @@ Here you may find good entrypoints to answer these questions
 ### Basic Facts and Concepts
 
 * Brain is not a _randomly_ connected mesh, there is a lot of high and low level structure.
-* _Grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons.
-* _White matter_ — insides, connections between neurons, moslty axons.
-* _Occurent information_ — current representation, vector at layer in network, what is being processed now.
-* _Abeyant information_ — stored representation, weights at layer of network.
-* _Local conding_ model — concept of "Grandmother" is handled by single neuron.
-* _Distributed coding_ model — concept of "Grandmother" is distributed on many neurons.
+* _grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons; _white matter_ — insides, connections between neurons, moslty axons.
+* _occurent information_ — current representation, vector at layer in network, what is being processed now; _abeyant information_ — stored representation, weights at layer of network.
+* _local conding_ model — concept of "Grandmother" is handled by single neuron; _distributed coding_ model — concept of "Grandmother" is distributed on many neurons.
 * _Connectomics_ — given brain is a graph, what are its properties, how does it differ by animal, how it comes to being, how it changes with time. Status of mapping: C elegans, Drosophilia, Fly — fully mapped; pigeon, monkey, human — good, but not full. Not all, but a lot of structure of connectome and its weights is encoded in genes.
 * _Plasticity_ — how neurons change their connection weights: structural plasticity — changing what is connected; functional plasticity — changing strength and qualities of connections.
-* _Translational neuroscience_ — how genes are encoding, guiding, controling brain structures.
-* _Hebbian rule_ — "what fires together, wires together" is imporant model for plasticity, however some mechanisms in brain are anti-Hebbian and some are neither.
-* Does model need to be accurate down to molecular level to understand cognition? Computational neuroscience says no, level of neurons and their connections might be sufficient.
 * Important observations about networks: timinig is important, as a lot of processing is oscilating potentiation; many recurrent loops; different types of neurons.
 
 ### Books
