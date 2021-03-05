@@ -3,7 +3,7 @@
 > Which companies work on this?
 > What software is being used?
 
-Here you may find good entrypoints to answer these questions.
+Here you may find good entrypoints to answer these questions
 
 ### Basic Facts and Concepts
 
