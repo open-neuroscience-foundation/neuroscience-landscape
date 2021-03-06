@@ -9,9 +9,9 @@ Here you may find good entrypoints to answer these questions
 
 * Brain is not a _randomly_ connected mesh, there is a lot of high and low level structure.
 * _grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons; _white matter_ — insides, connections between neurons, moslty axons.
-* _occurent information_ — current representation, vector at layer in network, what is being processed now; _abeyant information_ — stored representation, weights at layer of network.
-* _local conding_ model — concept of "grandmother" is handled by single neuron; _distributed coding_ model — it is distributed on many neurons.
-* _connectomics_ — given brain is a graph, what are its properties, how does it differ in animals, how it comes into being, how it changes with time. Status of mapping: C elegans, Drosophilia, Fly — fully mapped; pigeon, monkey, human — good, but not full. A lot of structure of connectome is encoded in genes.
+* _curent representation_ — vector at layer in network, what is being processed now; _abeyant representation_ — stored knowledge, weights at layer of network.
+* _local coding_ — concept of "grandmother" is handled by a single neuron; _distributed coding_ — it is distributed on many neurons, vector coding.
+* _connectomics_ — given brain is a graph, what are its properties, how does it differ in animals, how it comes into being, how it changes with time. Status of mapping: C elegans worm, Drosophilia fruit fly — fully mapped; pigeon, monkey, human — good, but not full. A lot of structure of connectome is encoded in genes.
 * _plasticity_ — how neurons change their connection weights: structural plasticity — changing what is connected; functional plasticity — changing strength of connection.
 * _time_ is important, as a lot of processing is oscilating potentiation; many recurrent loops; different types of neurons; neurons are either inhibitory or excitatory.
 
