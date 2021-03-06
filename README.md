@@ -7,7 +7,7 @@ Here you may find good entrypoints to answer these questions
 
 ### Basic Facts and Concepts
 
-* Brain is not a _randomly_ connected mesh, there is a lot of high and low level structure.
+* brain is not a _randomly_ connected mesh, there is a lot of high and low level structure.
 * _grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons; _white matter_ — insides, connections between neurons, moslty axons.
 * _current representation_ — vector at layer in network, what is being processed now; _abeyant representation_ — stored knowledge, weights at layer of network.
 * _local coding_ — concept of "grandmother" is handled by a single neuron; _distributed coding_ — it is distributed on many neurons, vector coding.
