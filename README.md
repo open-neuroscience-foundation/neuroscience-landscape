@@ -13,7 +13,7 @@ Here you may find good entrypoints to answer these questions
 * _local conding_ model — concept of "grandmother" is handled by single neuron; _distributed coding_ model — it is distributed on many neurons.
 * _connectomics_ — given brain is a graph, what are its properties, how does it differ in animals, how it comes into being, how it changes with time. Status of mapping: C elegans, Drosophilia, Fly — fully mapped; pigeon, monkey, human — good, but not full. A lot of structure of connectome is encoded in genes.
 * _plasticity_ — how neurons change their connection weights: structural plasticity — changing what is connected; functional plasticity — changing strength of connection.
-* _time_ is important, as a lot of processing is oscilating potentiation; many _recurrent loops_; different types of neurons; neurons are either inhibitory or excitatory.
+* _time_ is important, as a lot of processing is oscilating potentiation; many recurrent loops; different types of neurons; neurons are either inhibitory or excitatory.
 
 ### Books
 
