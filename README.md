@@ -71,6 +71,7 @@ Terrence J. Sejnowski, MIT Press
 * 🇺🇸 [Neuralink](https://neuralink.com) [:octocat:](https://github.com/neuralinkcorp)
 * 🇺🇸🇰🇷 [LVIS](http://lviscorp.com/)
 * 🇺🇸 [Imaging Biometrics](https://www.imagingbiometrics.com)
+* 🇺🇸 [Numenta](https://numenta.com) [:octocat:](https://github.com/numenta)
 
 ### Organizations
 
