@@ -5,7 +5,7 @@
 
 Here you may find good entrypoints to answer these questions
 
-### Basic Facts and Concepts
+### Basics
 
 * brain is not a _randomly_ connected mesh, there is a lot of high and low level structure.
 * _grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons; _white matter_ — insides, connections between neurons, moslty axons.
