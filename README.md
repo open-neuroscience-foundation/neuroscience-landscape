@@ -71,9 +71,10 @@ Terrence J. Sejnowski, MIT Press
 ### Companies
 
 * 🇺🇸 [Neuralink](https://neuralink.com) [:octocat:](https://github.com/neuralinkcorp)
-* 🇺🇸🇰🇷 [LVIS](http://lviscorp.com/) — Lee Lab, Stanford
+* 🇺🇸🇰🇷 [LVIS](http://lviscorp.com/) — Lee Lab, Stanford, visualization
 * 🇺🇸 [Imaging Biometrics](https://www.imagingbiometrics.com)
 * 🇺🇸 [Numenta](https://numenta.com) [:octocat:](https://github.com/numenta)
+* 🇺🇸🇯🇵 [INSIGHTEC](https://www.insightec.com/) — neurosurgery, lesion with no incisions, ultrasound
 
 ### Organizations
 
