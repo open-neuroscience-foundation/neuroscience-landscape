@@ -89,3 +89,4 @@ Terrence J. Sejnowski, MIT Press
 * 🇰🇷 [KSBNS](https://www.ksbns.org/Default.asp) Korean Society for Brain and Neural Sciences
 * 🇰🇷 [AKNeuro](https://akneuro.org/) Assosiation of Korean Neuroscientists
 * 🇰🇷 [KBRI](https://www.kbri.re.kr/new/pages_eng/main/) Korea Brain Research Institute
+* 🇯🇵 [JNSS](https://www.jnss.org/en/) Japan Neuroscience Society
