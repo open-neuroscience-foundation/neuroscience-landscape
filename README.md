@@ -66,6 +66,7 @@ Terrence J. Sejnowski, MIT Press
 🇺🇸 MIT: [brain + cognitive sciences department](https://bcs.mit.edu/)  
 🇺🇸 Stanford: [Cognitive & Systems Neuroscience](https://med.stanford.edu/scsnl/about1.html) [:octocat:](https://github.com/scsnl) | [Brain Dynamics](https://web.stanford.edu/group/bdl/) [:octocat:](https://github.com/braindynamicslab) | [Lee Lab](https://llab.stanford.edu/index.html)  
 🇺🇸 Carnegie Mellon: [Cognitive Neuroscience](https://www.cmu.edu/ni/research/cognitive-neuroscience.html) | [Computational Neuroscience](https://www.cmu.edu/ni/research/computational-neuroscience.html) | [Neuro Tech & Engineering](https://www.cmu.edu/ni/research/neuro-tech-and-engineering.html) | [Systems Neuroscience](https://www.cmu.edu/ni/research/systems-neuroscience.html)  
+🇺🇸 Berkeley: [Compuatation and Language](http://colala.berkeley.edu/) [:octocat:](https://github.com/piantado) | [Perceptual Reality](http://www.emilyacooper.org/index.html) [:octocat:](https://github.com/eacooper)  
 🇯🇵 OIST: [Neural Coding and Brain Computing](https://groups.oist.jp/ncbc) [:octocat:](https://github.com/oist-ncbc)  
 🇸🇬 Duke-NUS: [Neuroscience and Behavioural Disorders](https://www.duke-nus.edu.sg/nbd)  
 🇰🇷 KAIST: [Cognitive Neuroscience and Neuroimaging](http://ibrain.kaist.ac.kr/) | [Brain Dynamics](http://raphe.kaist.ac.kr/index.htm) | [Behavioral Genetics](https://sites.google.com/site/bglabkorea/) | [Synaptic Brain Dysfunction](http://molneuro.kaist.ac.kr/contents/) | [Neural Interoception](https://www.suhlab-neuralinteroception.kaist.ac.kr/) | [Sensory processing](https://sites.google.com/site/leelab2013/) | [Systems neuroscience](https://sites.google.com/site/systemsneurolaboratory/)  
@@ -77,6 +78,7 @@ Terrence J. Sejnowski, MIT Press
 🇺🇸 [Imaging Biometrics](https://www.imagingbiometrics.com)  
 🇺🇸 [Numenta](https://numenta.com) [:octocat:](https://github.com/numenta)  
 🇺🇸🇯🇵 [INSIGHTEC](https://www.insightec.com/) - neurosurgery, lesion with no incisions, ultrasound  
+🇺🇸 [AMRIT](https://www.advancedmri.com) - David Feinberg, Berkeley, imaging 
 
 ### Organizations
 
