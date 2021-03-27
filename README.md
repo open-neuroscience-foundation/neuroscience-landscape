@@ -49,6 +49,7 @@ Terrence J. Sejnowski, MIT Press
 * [SMART](https://github.com/mjin1812/SMART) - spatial registration tool, BICCN
 * [HistoloZee](http://picsl.upenn.edu/software/histolozee/) - spatial registration tool, MRI visualization, histology, BICCN
 * [cnpkg](https://github.com/srinituraga/cnpkg) - cortical network simulator, optimized with CUDA, Seung Lab, MIT
+* [fimpy](https://github.com/portugueslab/fimpy) — parallelizable processing of fluorescent imaging data
 * ... many more software is available in labs and organizations links
 
 ### Hardware
@@ -59,6 +60,7 @@ Terrence J. Sejnowski, MIT Press
 ### Labs
 
 * 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)
+* 🇩🇪 TUM: [Portugues Lab](http://www.portugueslab.com) [:octocat:](https://github.com/portugueslab)
 * 🇺🇸 University of Pennsylvania: [Kording Lab](kordinglab.com) [:octocat:](https://github.com/KordingLab) | [Penn Image Computing & Science](picsl.upenn.edu) [:keyboard:](http://picsl.upenn.edu/software/)
 * 🇺🇸 MIT, Princeton: [Seung Lab](https://seunglab.org/) [:keyboard:](https://seunglab.org/software/) [:octocat:](https://github.com/seung-lab)
 * 🇺🇸 MIT: [brain + cognitive sciences department](https://bcs.mit.edu/)
