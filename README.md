@@ -49,7 +49,7 @@ Terrence J. Sejnowski, MIT Press
 * [SMART](https://github.com/mjin1812/SMART) - spatial registration tool, BICCN
 * [HistoloZee](http://picsl.upenn.edu/software/histolozee/) - spatial registration tool, MRI visualization, histology, BICCN
 * [cnpkg](https://github.com/srinituraga/cnpkg) - cortical network simulator, optimized with CUDA, Seung Lab, MIT
-* [fimpy](https://github.com/portugueslab/fimpy) — parallelizable processing of fluorescent imaging data
+* [fimpy](https://github.com/portugueslab/fimpy) - parallelizable processing of fluorescent imaging data, HDF5
 * ... many more software is available in labs and organizations links
 
 ### Hardware
