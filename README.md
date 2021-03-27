@@ -54,41 +54,41 @@ Terrence J. Sejnowski, MIT Press
 
 ### Hardware
 
-* 🇺🇸 [Neuropixels](https://www.neuropixels.org/), Allan Institute
-* 🇺🇸 [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT
+🇺🇸 [Neuropixels](https://www.neuropixels.org/), Allan Institute  
+🇺🇸 [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT  
 
 ### Labs
 
-* 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)
-* 🇩🇪 TUM: [Portugues Lab](http://www.portugueslab.com) [:octocat:](https://github.com/portugueslab)
-* 🇺🇸 University of Pennsylvania: [Kording Lab](kordinglab.com) [:octocat:](https://github.com/KordingLab) | [Penn Image Computing & Science](picsl.upenn.edu) [:keyboard:](http://picsl.upenn.edu/software/)
-* 🇺🇸 MIT, Princeton: [Seung Lab](https://seunglab.org/) [:keyboard:](https://seunglab.org/software/) [:octocat:](https://github.com/seung-lab)
-* 🇺🇸 MIT: [brain + cognitive sciences department](https://bcs.mit.edu/)
-* 🇺🇸 Stanford: [Cognitive & Systems Neuroscience](https://med.stanford.edu/scsnl/about1.html) [:octocat:](https://github.com/scsnl) | [Brain Dynamics](https://web.stanford.edu/group/bdl/) [:octocat:](https://github.com/braindynamicslab) | [Lee Lab](https://llab.stanford.edu/index.html)
-* 🇺🇸 Carnegie Mellon: [Cognitive Neuroscience](https://www.cmu.edu/ni/research/cognitive-neuroscience.html) | [Computational Neuroscience](https://www.cmu.edu/ni/research/computational-neuroscience.html) | [Neuro Tech & Engineering](https://www.cmu.edu/ni/research/neuro-tech-and-engineering.html) | [Systems Neuroscience](https://www.cmu.edu/ni/research/systems-neuroscience.html)
-* 🇯🇵 OIST: [Neural Coding and Brain Computing](https://groups.oist.jp/ncbc) [:octocat:](https://github.com/oist-ncbc)
-* 🇸🇬 Duke-NUS: [Neuroscience and Behavioural Disorders](https://www.duke-nus.edu.sg/nbd)
-* 🇰🇷 KAIST: [Cognitive Neuroscience and Neuroimaging](http://ibrain.kaist.ac.kr/) | [Brain Dynamics](http://raphe.kaist.ac.kr/index.htm) | [Behavioral Genetics](https://sites.google.com/site/bglabkorea/) | [Synaptic Brain Dysfunction](http://molneuro.kaist.ac.kr/contents/) | [Neural Interoception](https://www.suhlab-neuralinteroception.kaist.ac.kr/) | [Sensory processing](https://sites.google.com/site/leelab2013/) | [Systems neuroscience](https://sites.google.com/site/systemsneurolaboratory/)
+🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)  
+🇩🇪 TUM: [Portugues Lab](http://www.portugueslab.com) [:octocat:](https://github.com/portugueslab)  
+🇺🇸 University of Pennsylvania: [Kording Lab](kordinglab.com) [:octocat:](https://github.com/KordingLab) | [Penn Image Computing & Science](picsl.upenn.edu) [:keyboard:](http://picsl.upenn.edu/software/)  
+🇺🇸 MIT, Princeton: [Seung Lab](https://seunglab.org/) [:keyboard:](https://seunglab.org/software/) [:octocat:](https://github.com/seung-lab)  
+🇺🇸 MIT: [brain + cognitive sciences department](https://bcs.mit.edu/)  
+🇺🇸 Stanford: [Cognitive & Systems Neuroscience](https://med.stanford.edu/scsnl/about1.html) [:octocat:](https://github.com/scsnl) | [Brain Dynamics](https://web.stanford.edu/group/bdl/) [:octocat:](https://github.com/braindynamicslab) | [Lee Lab](https://llab.stanford.edu/index.html)  
+🇺🇸 Carnegie Mellon: [Cognitive Neuroscience](https://www.cmu.edu/ni/research/cognitive-neuroscience.html) | [Computational Neuroscience](https://www.cmu.edu/ni/research/computational-neuroscience.html) | [Neuro Tech & Engineering](https://www.cmu.edu/ni/research/neuro-tech-and-engineering.html) | [Systems Neuroscience](https://www.cmu.edu/ni/research/systems-neuroscience.html)  
+🇯🇵 OIST: [Neural Coding and Brain Computing](https://groups.oist.jp/ncbc) [:octocat:](https://github.com/oist-ncbc)  
+🇸🇬 Duke-NUS: [Neuroscience and Behavioural Disorders](https://www.duke-nus.edu.sg/nbd)  
+🇰🇷 KAIST: [Cognitive Neuroscience and Neuroimaging](http://ibrain.kaist.ac.kr/) | [Brain Dynamics](http://raphe.kaist.ac.kr/index.htm) | [Behavioral Genetics](https://sites.google.com/site/bglabkorea/) | [Synaptic Brain Dysfunction](http://molneuro.kaist.ac.kr/contents/) | [Neural Interoception](https://www.suhlab-neuralinteroception.kaist.ac.kr/) | [Sensory processing](https://sites.google.com/site/leelab2013/) | [Systems neuroscience](https://sites.google.com/site/systemsneurolaboratory/)  
 
 ### Companies
 
-* 🇺🇸 [Neuralink](https://neuralink.com) [:octocat:](https://github.com/neuralinkcorp)
-* 🇺🇸🇰🇷 [LVIS](http://lviscorp.com/) — Lee Lab, Stanford, visualization
-* 🇺🇸 [Imaging Biometrics](https://www.imagingbiometrics.com)
-* 🇺🇸 [Numenta](https://numenta.com) [:octocat:](https://github.com/numenta)
-* 🇺🇸🇯🇵 [INSIGHTEC](https://www.insightec.com/) — neurosurgery, lesion with no incisions, ultrasound
+🇺🇸 [Neuralink](https://neuralink.com) [:octocat:](https://github.com/neuralinkcorp)  
+🇺🇸🇰🇷 [LVIS](http://lviscorp.com/) — Lee Lab, Stanford, visualization  
+🇺🇸 [Imaging Biometrics](https://www.imagingbiometrics.com)  
+🇺🇸 [Numenta](https://numenta.com) [:octocat:](https://github.com/numenta)  
+🇺🇸🇯🇵 [INSIGHTEC](https://www.insightec.com/) — neurosurgery, lesion with no incisions, ultrasound  
 
 ### Organizations
 
-* 🌏 [INCF](http://www.incf.org) International Neuroinformatics Coordinating Facility [:octocat:](https://github.com/INCF)
-* 🇺🇸 [The BRAIN Initiative](https://www.braininitiative.org/) [:keyboard:](https://www.braininitiative.org/toolmakers-resources/)
-* 🇺🇸 [IEEE Brain](https://brain.ieee.org/)
-* 🇺🇸 [Allen Institute of Brain Science](https://alleninstitute.org/what-we-do/brain-science/) [:octocat:](http://alleninstitute.github.io/)
-* 🇺🇸 [BICCN](https://biccn.org/) BRAIN Initiative Cell Census Network, Allen Institute of Brain Science [:octocat:](https://github.com/BICCN) [:keyboard:](https://biccn.org/tools)
-* 🇺🇸 [NWB](https://www.nwb.org/) Neuroscience without borders [:keyboard:](https://www.nwb.org/source-codes/)
-* 🇺🇸 [IARPA](https://www.iarpa.gov) Intelligence Advanced Research Projects Activity
-* 🇸🇬 [SFN Sigapore](https://www.sfn.sg/) Society for Neuroscience Singapore chapter
-* 🇰🇷 [KSBNS](https://www.ksbns.org/Default.asp) Korean Society for Brain and Neural Sciences
-* 🇰🇷 [AKNeuro](https://akneuro.org/) Assosiation of Korean Neuroscientists
-* 🇰🇷 [KBRI](https://www.kbri.re.kr/new/pages_eng/main/) Korea Brain Research Institute
-* 🇯🇵 [JNSS](https://www.jnss.org/en/) Japan Neuroscience Society
+🌏 [INCF](http://www.incf.org) International Neuroinformatics Coordinating Facility [:octocat:](https://github.com/INCF)  
+🇺🇸 [The BRAIN Initiative](https://www.braininitiative.org/) [:keyboard:](https://www.braininitiative.org/toolmakers-resources/)  
+🇺🇸 [IEEE Brain](https://brain.ieee.org/)  
+🇺🇸 [Allen Institute of Brain Science](https://alleninstitute.org/what-we-do/brain-science/) [:octocat:](http://alleninstitute.github.io/)  
+🇺🇸 [BICCN](https://biccn.org/) BRAIN Initiative Cell Census Network, Allen Institute of Brain Science [:octocat:](https://github.com/BICCN) [:keyboard:](https://biccn.org/tools)  
+🇺🇸 [NWB](https://www.nwb.org/) Neuroscience without borders [:keyboard:](https://www.nwb.org/source-codes/)  
+🇺🇸 [IARPA](https://www.iarpa.gov) Intelligence Advanced Research Projects Activity  
+🇸🇬 [SFN Sigapore](https://www.sfn.sg/) Society for Neuroscience Singapore chapter  
+🇰🇷 [KSBNS](https://www.ksbns.org/Default.asp) Korean Society for Brain and Neural Sciences  
+🇰🇷 [AKNeuro](https://akneuro.org/) Assosiation of Korean Neuroscientists  
+🇰🇷 [KBRI](https://www.kbri.re.kr/new/pages_eng/main/) Korea Brain Research Institute  
+🇯🇵 [JNSS](https://www.jnss.org/en/) Japan Neuroscience Society  
