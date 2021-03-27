@@ -1,7 +1,7 @@
-> How much do we know about the brain?
-> What are the key labs?
-> Which companies work on this?
-> What software is being used?
+> How much do we know about the brain?  
+> What are the key labs?  
+> Which companies work on this?  
+> What software is being used?  
 
 Here you may find good entrypoints to answer these questions
 
