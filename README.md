@@ -1,7 +1,4 @@
-> What do we know about the brain?  
-> What are the key labs?  
-> What are the key companies?  
-> What software is used?
+> What do we know about the brain? What are the key labs? What are the key companies? What software is used?
 
 Here you may find good entrypoints to answer these questions
 
@@ -63,9 +60,11 @@ Enterprise
 🇺🇸 [Neuropixels](https://www.neuropixels.org/), Allan Institute  
 🇺🇸 [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT  
 🇩🇪 Siemens [fMRI](https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging)  
+🇺🇸 [Braingate](https://www.braingate.org), BCI   
 
 ### Labs
 
+🇺🇸 [Braingate](https://www.braingate.org) (Brown, MGH, Stanford, USA gov, USA hospitals)  
 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)  
 🇩🇪 TUM: [Portugues Lab](http://www.portugueslab.com) [:octocat:](https://github.com/portugueslab)  
 🇺🇸 University of Pennsylvania: [Kording Lab](www.kordinglab.com) [:octocat:](https://github.com/KordingLab) | [Penn Image Computing & Science](www.picsl.upenn.edu) [:keyboard:](http://picsl.upenn.edu/software/)  
