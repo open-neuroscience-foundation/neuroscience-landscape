@@ -61,6 +61,7 @@ Enterprise
 🇺🇸 [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT  
 🇩🇪 Siemens [fMRI](https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging)  
 🇺🇸 [Braingate](https://www.braingate.org), BCI   
+🇺🇸 [Neurolutions](https://www.neurolutions.com), BCI  
 
 ### Labs
 
@@ -84,7 +85,8 @@ Enterprise
 🇺🇸 [Imaging Biometrics](https://www.imagingbiometrics.com)  
 🇺🇸 [Numenta](https://numenta.com) [:octocat:](https://github.com/numenta)  
 🇺🇸🇯🇵 [INSIGHTEC](https://www.insightec.com/) - neurosurgery, lesion with no incisions, ultrasound  
-🇺🇸 [AMRIT](https://www.advancedmri.com) - David Feinberg, Berkeley, imaging 
+🇺🇸 [AMRIT](https://www.advancedmri.com) - David Feinberg, Berkeley, imaging  
+🇺🇸 [Neurolutions](https://www.neurolutions.com) — BCI, improve arms for people after stroke, FDA
 
 ### Organizations
 
