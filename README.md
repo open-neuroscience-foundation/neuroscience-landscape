@@ -86,7 +86,7 @@ Enterprise
 🇺🇸 [Numenta](https://numenta.com) [:octocat:](https://github.com/numenta)  
 🇺🇸🇯🇵 [INSIGHTEC](https://www.insightec.com/) - neurosurgery, lesion with no incisions, ultrasound  
 🇺🇸 [AMRIT](https://www.advancedmri.com) - David Feinberg, Berkeley, imaging  
-🇺🇸 [Neurolutions](https://www.neurolutions.com) — BCI, improve arms for people after stroke, FDA
+🇺🇸 [Neurolutions](https://www.neurolutions.com) - BCI, improve arms for people after stroke, FDA
 
 ### Organizations
 
