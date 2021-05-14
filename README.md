@@ -65,6 +65,7 @@ Enterprise
 
 ### Labs
 
+🇨🇭 EPFL [BlueBrain](https://www.epfl.ch/research/domains/bluebrain/) [:octocat:](https://github.com/BlueBrain) — related to NeuraLink  
 🇺🇸 [Braingate](https://www.braingate.org) (Brown, MGH, Stanford, USA gov, USA hospitals)  
 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)  
 🇩🇪 TUM: [Portugues Lab](http://www.portugueslab.com) [:octocat:](https://github.com/portugueslab)  
