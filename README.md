@@ -1,4 +1,7 @@
-> What do we know about the brain? What are the key labs? What are the key companies? What software is used?
+> What do we know about the brain?  
+> What are the key labs?  
+> What are the key companies?  
+> What software is used?  
 
 Here you may find good entrypoints to answer these questions
 
@@ -11,6 +14,7 @@ Here you may find good entrypoints to answer these questions
 * _connectomics_ — given brain is a graph, what are its properties, how does it differ in animals, how it comes into being, how it changes with time. Status of mapping: C elegans worm, Drosophilia fruit fly — fully mapped; pigeon, cat, monkey, human — good, but not full. A lot of structure of connectome is encoded in genes.
 * _plasticity_ — how neurons change their connection weights: structural plasticity — changing what is connected; functional plasticity — changing strength of connection.
 * _time_ is important, as a lot of processing is oscilating potentiation; many recurrent loops; different types of neurons; neurons are either inhibitory or excitatory.
+* brain development follows phases — neural plate, progenitor cells, neural fates, migrataion, synapse path finding, synapse connection forming, cells and synapse pruning 
 
 ### Books
 
