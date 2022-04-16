@@ -1,12 +1,5 @@
 # 🌌 Resources on Neuroscience
 
-> What do we know about the brain?  
-> What are the key labs?  
-> What are the key companies?  
-> What software is used?  
-
-Here you may find good entrypoints to answer these questions
-
 ### Basics
 
 * brain is not a _randomly_ connected mesh, there is a lot of high and low level structure.
