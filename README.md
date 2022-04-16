@@ -13,12 +13,12 @@
 
 ### Books
 
+* [Principles of Neural Science](https://www.goodreads.com/book/show/826396.Principles_of_Neural_Science), Kandel
+* [Fundamental Neuroscience](https://www.goodreads.com/book/show/13658691-fundamental-neuroscience), Squire, Academic Press
 * [The Computational Brain](https://www.goodreads.com/book/show/32078490-the-computational-brain),  Patricia S. Churchland,
 Terrence J. Sejnowski, MIT Press
 * [Changing Connectomes](https://www.goodreads.com/book/show/51456624-changing-connectomes), Marcus Kaiser, MIT Press
 * [Dynamic Patterns: The Self-Organization of Brain and Behavior](https://mitpress.mit.edu/books/dynamic-patterns), MIT Press
-* [Principles of Neural Science](https://www.goodreads.com/book/show/826396.Principles_of_Neural_Science), Kandel
-* [Fundamental Neuroscience](https://www.goodreads.com/book/show/13658691-fundamental-neuroscience), Squire, Academic Press
 * [Neuroscience of Mathematical Cognitive Development](https://www.goodreads.com/book/show/38250564-neuroscience-of-mathematical-cognitive-development), Rhonda Douglas Brown, Springer
 * [Chasing Men on Fire](https://www.goodreads.com/book/show/36722581-chasing-men-on-fire), Stephen G Waxman, MIT Press
 * [The Ego Tunnel](https://www.goodreads.com/book/show/5895503-the-ego-tunnel), Thomas Metzinger
