@@ -23,7 +23,7 @@ Terrence J. Sejnowski, MIT Press
 * [Chasing Men on Fire](https://www.goodreads.com/book/show/36722581-chasing-men-on-fire), Stephen G Waxman, MIT Press
 * [The Ego Tunnel](https://www.goodreads.com/book/show/5895503-the-ego-tunnel), Thomas Metzinger
 
-[Strüngmann Forum Reports](https://mitpress.mit.edu/books/series/strungmann-forum-reports), yearly meeting of leading researchers regarding current status of selected topic:
+[Strüngmann Forum Reports](https://mitpress.mit.edu/books/series/strungmann-forum-reports):
 
 * [The Neocortex](https://mitpress.mit.edu/books/neocortex), MIT Press, 2019
 * [Emergent Brain Dynamics: Prebirth to Adolescence](https://mitpress.mit.edu/books/emergent-brain-dynamics), MIT Press, 2018
