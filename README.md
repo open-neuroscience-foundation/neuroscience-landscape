@@ -79,7 +79,7 @@ Enterprise
 * _time_ is important, as a lot of processing is oscilating potentiation; many recurrent loops; different types of neurons
 * neurons are either inhibitory or excitatory
 * brain development follows phases — neural plate, progenitor cells, neural fates, migrataion, synapse path finding, synapse connection forming, cells and synapse pruning 
-* action potential — propagation of neuron memerane depolarization and subsequent re-polarization to original state by activation of Na+ and subseqent K+ ion channles spread over membrane
+* action potential — propagation of neuron membrane depolarization and subsequent re-polarization to original state by activation of Na+ and subseqent K+ ion channles spread over membrane
 * ion channles have different conductance-voltage dependenance, which leads them to open-close at different conditions. this makes action potential posssible. some ion channels activated mechanically, some chemically, some via photons, some by voltage.   
 
 ### Courses
