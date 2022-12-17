@@ -6,7 +6,7 @@
   * in syllabus of graduate courses of MIT ([HST.131](https://ocw.mit.edu/courses/hst-131-introduction-to-neuroscience-fall-2005/pages/syllabus)), CU ([w3005](http://www.columbia.edu/cu/biology/courses/w3005/index.html)), UNVL ([PSY720](https://www.unlv.edu/sites/default/files/page_files/27/PSY720.pdf))
 
 ### Labs
-🇨🇭 EPFL: [BlueBrain](https://www.epfl.ch/research/domains/bluebrain/) [:octocat:](https://github.com/BlueBrain) — related to Neuralink  
+🇨🇭 EPFL: [BlueBrain](https://www.epfl.ch/research/domains/bluebrain/) [:octocat:](https://github.com/BlueBrain)   
 🇺🇸 [Braingate](https://www.braingate.org) — Brown, MGH, Stanford, USA gov, USA hospitals  
 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)  
 🇩🇪 TUM: [Portugues Lab](http://www.portugueslab.com) [:octocat:](https://github.com/portugueslab)  
