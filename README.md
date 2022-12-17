@@ -7,7 +7,7 @@
 
 ### Labs
 🇨🇭 EPFL: [BlueBrain](https://www.epfl.ch/research/domains/bluebrain/) [:octocat:](https://github.com/BlueBrain)   
-🇺🇸 [Braingate](https://www.braingate.org) — Brown, MGH, Stanford, USA gov, USA hospitals  
+🇺🇸 [Braingate](https://www.braingate.org): Brown, MGH, Stanford, USA gov, USA hospitals  
 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)  
 🇩🇪 TUM: [Portugues Lab](http://www.portugueslab.com) [:octocat:](https://github.com/portugueslab)  
 🇺🇸 University of Pennsylvania: [Kording Lab](www.kordinglab.com) [:octocat:](https://github.com/KordingLab) | [Penn Image Computing & Science](www.picsl.upenn.edu) [:keyboard:](http://picsl.upenn.edu/software/)  
