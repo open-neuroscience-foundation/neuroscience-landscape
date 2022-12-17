@@ -4,31 +4,6 @@
 
 * [Principles of Neural Science](https://www.amazon.com/Principles-Neural-Science-Sixth-Kandel-dp-1259642232/dp/1259642232), McGraw Hill / Medical; 6th edition (March 29, 2021)
 
-### Software
-
-Labs
-* [NITRC](https://www.nitrc.org/projects) - large list of neuroimaging tools
-* [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
-* [VERTEX](http://vertexsimulator.org/) - model of electrical stimulation at neuronal level
-* [SpikeInterface](https://github.com/SpikeInterface) - a unified framework for spike sorting
-* [MICrONS](https://www.iarpa.gov/index.php/research-programs/microns) - machine intelligence from cortical networks, IARPA
-* [SpikeGLX](http://billkarsh.github.io/SpikeGLX/) - used in neuropixels, Allen Institute
-* [SMART](https://github.com/mjin1812/SMART) - spatial registration tool, BICCN
-* [HistoloZee](http://picsl.upenn.edu/software/histolozee/) - spatial registration tool, MRI visualization, histology, BICCN
-* [cnpkg](https://github.com/srinituraga/cnpkg) - cortical network simulator, optimized with CUDA, Seung Lab, MIT
-* [fimpy](https://github.com/portugueslab/fimpy) - parallelizable processing of fluorescent imaging data, HDF5
-* ... many more software is available in labs and organizations links
-
-Enterprise
-* [Siemense](https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging/options-and-upgrades/clinical-applications)
-
-### Hardware
-🇺🇸 [Neuropixels](https://www.neuropixels.org/), Allan Institute  
-🇺🇸 [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT  
-🇩🇪 Siemens [fMRI](https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging)  
-🇺🇸 [Braingate](https://www.braingate.org), BCI   
-🇺🇸 [Neurolutions](https://www.neurolutions.com), BCI  
-
 ### Labs
 🇨🇭 EPFL: [BlueBrain](https://www.epfl.ch/research/domains/bluebrain/) [:octocat:](https://github.com/BlueBrain) — related to Neuralink  
 🇺🇸 [Braingate](https://www.braingate.org) — Brown, MGH, Stanford, USA gov, USA hospitals  
@@ -67,6 +42,31 @@ Enterprise
 🇰🇷 [KBRI](https://www.kbri.re.kr/new/pages_eng/main/) Korea Brain Research Institute  
 🇯🇵 [JNSS](https://www.jnss.org/en/) Japan Neuroscience Society  
 
+### Software
+
+Labs
+* [NITRC](https://www.nitrc.org/projects) - large list of neuroimaging tools
+* [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
+* [VERTEX](http://vertexsimulator.org/) - model of electrical stimulation at neuronal level
+* [SpikeInterface](https://github.com/SpikeInterface) - a unified framework for spike sorting
+* [MICrONS](https://www.iarpa.gov/index.php/research-programs/microns) - machine intelligence from cortical networks, IARPA
+* [SpikeGLX](http://billkarsh.github.io/SpikeGLX/) - used in neuropixels, Allen Institute
+* [SMART](https://github.com/mjin1812/SMART) - spatial registration tool, BICCN
+* [HistoloZee](http://picsl.upenn.edu/software/histolozee/) - spatial registration tool, MRI visualization, histology, BICCN
+* [cnpkg](https://github.com/srinituraga/cnpkg) - cortical network simulator, optimized with CUDA, Seung Lab, MIT
+* [fimpy](https://github.com/portugueslab/fimpy) - parallelizable processing of fluorescent imaging data, HDF5
+* ... many more software is available in labs and organizations links
+
+Enterprise
+* [Siemense](https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging/options-and-upgrades/clinical-applications)
+
+### Hardware
+🇺🇸 [Neuropixels](https://www.neuropixels.org/), Allan Institute  
+🇺🇸 [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT  
+🇩🇪 Siemens [fMRI](https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging)  
+🇺🇸 [Braingate](https://www.braingate.org), BCI   
+🇺🇸 [Neurolutions](https://www.neurolutions.com), BCI  
+
 ----
 
 ### Basics
@@ -88,6 +88,7 @@ Enterprise
 
 ### Additional Reading
 * [Fundamental Neuroscience](https://www.goodreads.com/book/show/13658691-fundamental-neuroscience), Squire, Academic Press
+* [Connectome: How the Brain's Wiring Makes Us Who We Are](https://www.amazon.com/Connectome-How-Brains-Wiring-Makes/dp/0547678592), Sebastian Seung, PhD, prof at MIT, Director of R&D at Samsung, 2013
 * [The Computational Brain](https://www.goodreads.com/book/show/32078490-the-computational-brain),  Patricia S. Churchland,
 Terrence J. Sejnowski, MIT Press
 * [Changing Connectomes](https://www.goodreads.com/book/show/51456624-changing-connectomes), Marcus Kaiser, MIT Press
