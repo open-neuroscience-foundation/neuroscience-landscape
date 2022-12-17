@@ -1,43 +1,12 @@
 # 🌌 Resources on Neuroscience
 
-### Basics
+### Key Reading
 
-* brain is not a _randomly_ connected mesh, there is a lot of high and low level structure.
-* _grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons; _white matter_ — insides, connections between neurons, moslty axons.
-* _current representation_ — vector at layer in network, what is being processed now; _abeyant representation_ — stored knowledge, weights at layer of network.
-* _local coding_ — concept of "grandmother" is handled by a single neuron; _distributed coding_ — it is distributed on many neurons, vector coding.
-* _connectomics_ — given brain is a graph, what are its properties, how does it differ in animals, how it comes into being, how it changes with time. Status of mapping: C elegans worm, Drosophilia fruit fly — fully mapped; pigeon, cat, monkey, human — good, but not full. A lot of structure of connectome is encoded in genes.
-* _plasticity_ — how neurons change their connection weights: structural plasticity — changing what is connected; functional plasticity — changing strength of connection.
-* _time_ is important, as a lot of processing is oscilating potentiation; many recurrent loops; different types of neurons; neurons are either inhibitory or excitatory.
-* brain development follows phases — neural plate, progenitor cells, neural fates, migrataion, synapse path finding, synapse connection forming, cells and synapse pruning 
-
-### Books
-
-* [Principles of Neural Science](https://www.goodreads.com/book/show/826396.Principles_of_Neural_Science), Kandel
-* [Fundamental Neuroscience](https://www.goodreads.com/book/show/13658691-fundamental-neuroscience), Squire, Academic Press
-* [The Computational Brain](https://www.goodreads.com/book/show/32078490-the-computational-brain),  Patricia S. Churchland,
-Terrence J. Sejnowski, MIT Press
-* [Changing Connectomes](https://www.goodreads.com/book/show/51456624-changing-connectomes), Marcus Kaiser, MIT Press
-* [Dynamic Patterns: The Self-Organization of Brain and Behavior](https://mitpress.mit.edu/books/dynamic-patterns), MIT Press
-* [Neuroscience of Mathematical Cognitive Development](https://www.goodreads.com/book/show/38250564-neuroscience-of-mathematical-cognitive-development), Rhonda Douglas Brown, Springer
-* [Chasing Men on Fire](https://www.goodreads.com/book/show/36722581-chasing-men-on-fire), Stephen G Waxman, MIT Press
-* [The Ego Tunnel](https://www.goodreads.com/book/show/5895503-the-ego-tunnel), Thomas Metzinger
-
-[Strüngmann Forum Reports](https://mitpress.mit.edu/books/series/strungmann-forum-reports):
-
-* [The Neocortex](https://mitpress.mit.edu/books/neocortex), MIT Press, 2019
-* [Emergent Brain Dynamics: Prebirth to Adolescence](https://mitpress.mit.edu/books/emergent-brain-dynamics), MIT Press, 2018
-* [Translational Neuroscience: Toward New Therapies](https://mitpress.mit.edu/books/translational-neuroscience), MIT Press, 2015
-
-### Courses
-
-* [Neuromatch Academy](https://github.com/NeuromatchAcademy)
-* [List of MIT Brain and Cognitive Sciences courses](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
+* [Principles of Neural Science](https://www.amazon.com/Principles-Neural-Science-Sixth-Kandel-dp-1259642232/dp/1259642232), McGraw Hill / Medical; 6th edition (March 29, 2021)
 
 ### Software
 
 Labs
-
 * [NITRC](https://www.nitrc.org/projects) - large list of neuroimaging tools
 * [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
 * [VERTEX](http://vertexsimulator.org/) - model of electrical stimulation at neuronal level
@@ -51,11 +20,9 @@ Labs
 * ... many more software is available in labs and organizations links
 
 Enterprise
-
 * [Siemense](https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging/options-and-upgrades/clinical-applications)
 
 ### Hardware
-
 🇺🇸 [Neuropixels](https://www.neuropixels.org/), Allan Institute  
 🇺🇸 [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT  
 🇩🇪 Siemens [fMRI](https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging)  
@@ -63,7 +30,6 @@ Enterprise
 🇺🇸 [Neurolutions](https://www.neurolutions.com), BCI  
 
 ### Labs
-
 🇨🇭 EPFL: [BlueBrain](https://www.epfl.ch/research/domains/bluebrain/) [:octocat:](https://github.com/BlueBrain) — related to Neuralink  
 🇺🇸 [Braingate](https://www.braingate.org) — Brown, MGH, Stanford, USA gov, USA hospitals  
 🇩🇪 Ernst Strüngmann Institute for Neuroscience: [Singer Lab](https://www.esi-frankfurt.de/research/singer-lab/)  
@@ -79,7 +45,6 @@ Enterprise
 🇰🇷 KAIST: [Cognitive Neuroscience and Neuroimaging](http://ibrain.kaist.ac.kr/) | [Brain Dynamics](http://raphe.kaist.ac.kr/index.htm) | [Behavioral Genetics](https://sites.google.com/site/bglabkorea/) | [Synaptic Brain Dysfunction](http://molneuro.kaist.ac.kr/contents/) | [Neural Interoception](https://www.suhlab-neuralinteroception.kaist.ac.kr/) | [Sensory processing](https://sites.google.com/site/leelab2013/) | [Systems neuroscience](https://sites.google.com/site/systemsneurolaboratory/)  
 
 ### Companies
-
 🇺🇸 [Neuralink](https://neuralink.com) [:octocat:](https://github.com/neuralinkcorp)  
 🇺🇸🇰🇷 [LVIS](http://lviscorp.com/) - Lee Lab, Stanford, visualization  
 🇺🇸 [Imaging Biometrics](https://www.imagingbiometrics.com)  
@@ -89,7 +54,6 @@ Enterprise
 🇺🇸 [Neurolutions](https://www.neurolutions.com) - BCI, improve arms for people after stroke, FDA
 
 ### Organizations
-
 🌏 [INCF](http://www.incf.org) International Neuroinformatics Coordinating Facility [:octocat:](https://github.com/INCF)  
 🇺🇸 [BRAIN Initiative](https://www.braininitiative.org/) [:keyboard:](https://www.braininitiative.org/toolmakers-resources/)  
 🇺🇸 [IEEE Brain](https://brain.ieee.org/)  
@@ -102,3 +66,37 @@ Enterprise
 🇰🇷 [AKNeuro](https://akneuro.org/) Assosiation of Korean Neuroscientists  
 🇰🇷 [KBRI](https://www.kbri.re.kr/new/pages_eng/main/) Korea Brain Research Institute  
 🇯🇵 [JNSS](https://www.jnss.org/en/) Japan Neuroscience Society  
+
+----
+
+### Basics
+* brain is not a _randomly_ connected mesh, there is a lot of high and low level structure
+* _grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons; _white matter_ — insides, connections between neurons, moslty axons
+* _current representation_ — vector at layer in network, what is being processed or thinked now; _abeyant representation_ — stored knowledge, weights at layer of network, what can be thinked or recalled
+* _local coding_ — concept of "grandmother" is handled by a single neuron; _distributed coding_ — concept of "grandmother" is distributed on many neurons, vector coding
+* _connectomics_ — given brain is a graph, what are its properties, how does it differ in animals, how it comes into being, how it changes with time Status of mapping: C elegans worm, Drosophilia fruit fly — fully mapped; pigeon, cat, monkey, human — good, but not full. A lot of structure of connectome is encoded in genes
+* _plasticity_ — how neurons change their connection weights: structural plasticity — changing what is connected; functional plasticity — changing strength of connection
+* _time_ is important, as a lot of processing is oscilating potentiation; many recurrent loops; different types of neurons
+* neurons are either inhibitory or excitatory
+* brain development follows phases — neural plate, progenitor cells, neural fates, migrataion, synapse path finding, synapse connection forming, cells and synapse pruning 
+* action potential — propagation of neuron memerane depolarization and subsequent re-polarization to original state by activation of Na+ and subseqent K+ ion channles spread over membrane
+* ion channles have different conductance-voltage dependenance, which leads them to open-close at different conditions. this makes action potential posssible. some ion channels activated mechanically, some chemically, some via photons, some by voltage.   
+
+### Courses
+* [Neuromatch Academy](https://github.com/NeuromatchAcademy)
+* [List of MIT Brain and Cognitive Sciences courses](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
+
+### Additional Reading
+* [Fundamental Neuroscience](https://www.goodreads.com/book/show/13658691-fundamental-neuroscience), Squire, Academic Press
+* [The Computational Brain](https://www.goodreads.com/book/show/32078490-the-computational-brain),  Patricia S. Churchland,
+Terrence J. Sejnowski, MIT Press
+* [Changing Connectomes](https://www.goodreads.com/book/show/51456624-changing-connectomes), Marcus Kaiser, MIT Press
+* [Dynamic Patterns: The Self-Organization of Brain and Behavior](https://mitpress.mit.edu/books/dynamic-patterns), MIT Press
+* [Neuroscience of Mathematical Cognitive Development](https://www.goodreads.com/book/show/38250564-neuroscience-of-mathematical-cognitive-development), Rhonda Douglas Brown, Springer
+* [Chasing Men on Fire](https://www.goodreads.com/book/show/36722581-chasing-men-on-fire), Stephen G Waxman, MIT Press
+* [The Ego Tunnel](https://www.goodreads.com/book/show/5895503-the-ego-tunnel), Thomas Metzinger
+
+[Strüngmann Forum Reports](https://mitpress.mit.edu/books/series/strungmann-forum-reports)
+* [The Neocortex](https://mitpress.mit.edu/books/neocortex), MIT Press, 2019
+* [Emergent Brain Dynamics: Prebirth to Adolescence](https://mitpress.mit.edu/books/emergent-brain-dynamics), MIT Press, 2018
+* [Translational Neuroscience: Toward New Therapies](https://mitpress.mit.edu/books/translational-neuroscience), MIT Press, 2015
