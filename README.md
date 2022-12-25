@@ -1,4 +1,4 @@
-# 🌌 Resources on Neuroscience
+# 🌌 Neuroscience Landscape
 
 ### Key Reading
 
