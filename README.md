@@ -33,6 +33,7 @@
 
 ### Organizations
 🌏 [INCF](http://www.incf.org) International Neuroinformatics Coordinating Facility [:octocat:](https://github.com/INCF)  
+🌎 [NITRC](https://www.nitrc.org) Neuroimaging Informatics Tools and Resources Clearinghouse, data, tools, and compute sharing for neuroimaging  
 🇺🇸 [BRAIN Initiative](https://www.braininitiative.org/) [:keyboard:](https://www.braininitiative.org/toolmakers-resources/)  
 🇺🇸 [IEEE Brain](https://brain.ieee.org/)  
 🇺🇸 [Allen Institute of Brain Science](https://alleninstitute.org/what-we-do/brain-science/) [:octocat:](http://alleninstitute.github.io/)  
@@ -48,7 +49,7 @@
 ### Software
 
 Labs
-* [NITRC](https://www.nitrc.org/projects) - large list of neuroimaging tools
+* [NITRC](https://www.nitrc.org) - large list of neuroimaging tools
 * [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
 * [VERTEX](http://vertexsimulator.org/) - model of electrical stimulation at neuronal level
 * [SpikeInterface](https://github.com/SpikeInterface) - a unified framework for spike sorting
@@ -75,6 +76,7 @@ Enterprise
 ### Data
 
 * [ConnectomeDB](https://db.humanconnectome.org) — humman connectome 
+* [1000 Functional Connectomes](https://fcon_1000.projects.nitrc.org/) — human functional connetomes, NITRC, INDI 
 
 ----
 
