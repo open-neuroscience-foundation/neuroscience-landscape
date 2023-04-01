@@ -33,7 +33,7 @@
 
 ### Organizations
 🌏 [INCF](http://www.incf.org) International Neuroinformatics Coordinating Facility [:octocat:](https://github.com/INCF)  
-🌎 [NITRC](https://www.nitrc.org) Neuroimaging Informatics Tools and Resources Clearinghouse, data, tools, and compute sharing for neuroimaging  
+🌎 [NITRC](https://www.nitrc.org) Neuroimaging Informatics Tools and Resources Clearinghouse
 🇺🇸 [BRAIN Initiative](https://www.braininitiative.org/) [:keyboard:](https://www.braininitiative.org/toolmakers-resources/)  
 🇺🇸 [IEEE Brain](https://brain.ieee.org/)  
 🇺🇸 [Allen Institute of Brain Science](https://alleninstitute.org/what-we-do/brain-science/) [:octocat:](http://alleninstitute.github.io/)  
