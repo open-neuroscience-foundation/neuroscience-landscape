@@ -59,6 +59,7 @@ Labs
 * [cnpkg](https://github.com/srinituraga/cnpkg) - cortical network simulator, optimized with CUDA, Seung Lab, MIT
 * [fimpy](https://github.com/portugueslab/fimpy) - parallelizable processing of fluorescent imaging data, HDF5
 * [Connectome Workbench](https://github.com/Washington-University/workbench) — visualization of connectome, UW
+* [Connectome Viewer](https://github.com/LTS5/connectomeviewer) 🏚️ — visualization of connectome
 * ... many more software is available in labs and organizations links
 
 Enterprise
