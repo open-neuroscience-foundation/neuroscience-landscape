@@ -78,6 +78,7 @@ Enterprise
 * [ConnectomeDB](https://db.humanconnectome.org) — humman connectome 
 * [1000 Functional Connectomes](https://fcon_1000.projects.nitrc.org/) — human functional connetomes, NITRC, INDI 
 * [Virtual Brain](http://thevirtualbrain.org) — human brain simulator, 11 labs, Berlin Institute of Health, Simon Fraser University, Univeristy of Toronto, INSERM
+* [Neurosynth](https://neurosynth.org)[:octocat:](https://github.com/neurosynth/neurosynth) — automatic meta analysis of published fMRI to generate visualizations
 
 ----
 
