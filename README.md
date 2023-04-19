@@ -3,7 +3,7 @@
 ### Key Reading
 
 * [Principles of Neural Science](https://www.amazon.com/Principles-Neural-Science-Sixth-Kandel-dp-1259642232/dp/1259642232), McGraw Hill / Medical; 6th edition (March 29, 2021)
-  * is a primary reading of graduate courses at MIT[[HST.131](https://ocw.mit.edu/courses/hst-131-introduction-to-neuroscience-fall-2005/pages/syllabus)] CU[[w3005](http://www.columbia.edu/cu/biology/courses/w3005/index.html)] UNVL[[PSY720](https://www.unlv.edu/sites/default/files/page_files/27/PSY720.pdf)]
+  * primary reading for graduate courses at MIT[[HST.131](https://ocw.mit.edu/courses/hst-131-introduction-to-neuroscience-fall-2005/pages/syllabus)] CU[[w3005](http://www.columbia.edu/cu/biology/courses/w3005/index.html)] UNVL[[PSY720](https://www.unlv.edu/sites/default/files/page_files/27/PSY720.pdf)]
 
 ### Labs
 🇨🇭 EPFL: [BlueBrain](https://www.epfl.ch/research/domains/bluebrain/) [:octocat:](https://github.com/BlueBrain)  
