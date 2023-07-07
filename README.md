@@ -49,6 +49,7 @@
 ### Software
 
 Labs
+* [OSB](https://www.opensourcebrain.org/projects#technology)(Open Source Brain) — collection of open source neuroscience tools
 * [NITRC](https://www.nitrc.org) - large list of neuroimaging tools
 * [LEAD-DBS](https://www.lead-dbs.org/) - model of deep brain stimulation as population level
 * [VERTEX](http://vertexsimulator.org/) - model of electrical stimulation at neuronal level
@@ -61,6 +62,8 @@ Labs
 * [fimpy](https://github.com/portugueslab/fimpy) - parallelizable processing of fluorescent imaging data, HDF5
 * [Connectome Workbench](https://github.com/Washington-University/workbench) — visualization of connectome, UW
 * [Connectome Viewer](https://github.com/LTS5/connectomeviewer) 🏚️ — visualization of connectome
+* [Open Worm](https://openworm.org) — tools for simulation full neural system of C'Elegans
+* [Sibernetic](https://github.com/openworm/sibernetic) — simulator of biomechanical matter (membrances, potentials, liquids, solids)
 * ... many more software is available in labs and organizations links
 
 Enterprise
