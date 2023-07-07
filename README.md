@@ -29,7 +29,8 @@
 🇺🇸 [Numenta](https://numenta.com) [:octocat:](https://github.com/numenta)  
 🇺🇸🇯🇵 [INSIGHTEC](https://www.insightec.com/) - neurosurgery, lesion with no incisions, ultrasound  
 🇺🇸 [AMRIT](https://www.advancedmri.com) - David Feinberg, Berkeley, imaging  
-🇺🇸 [Neurolutions](https://www.neurolutions.com) - BCI, improve arms for people after stroke, FDA
+🇺🇸 [Neurolutions](https://www.neurolutions.com) - BCI, improve arms for people after stroke, FDA  
+🇺🇸 [Zetta.ai](http://zetta.ai) — connectome reconstruction from brail slices scans, [S.Segun, Princeton]
 
 ### Organizations
 🌏 [INCF](http://www.incf.org) International Neuroinformatics Coordinating Facility [:octocat:](https://github.com/INCF)  
