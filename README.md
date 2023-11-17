@@ -41,6 +41,7 @@
 🇺🇸 [BICCN](https://biccn.org/) BRAIN Initiative Cell Census Network, Allen Institute of Brain Science [:octocat:](https://github.com/BICCN) [:keyboard:](https://biccn.org/tools)  
 🇺🇸 [NWB](https://www.nwb.org/) Neuroscience without borders [:keyboard:](https://www.nwb.org/source-codes/)  
 🇺🇸 [IARPA](https://www.iarpa.gov) Intelligence Advanced Research Projects Activity  
+🇺🇸 [OCNS](https://www.cnsorg.org) Organization for Computational Neuroscience  
 🇸🇬 [SFN Sigapore](https://www.sfn.sg/) Society for Neuroscience Singapore chapter  
 🇰🇷 [KSBNS](https://www.ksbns.org/Default.asp) Korean Society for Brain and Neural Sciences  
 🇰🇷 [AKNeuro](https://akneuro.org/) Assosiation of Korean Neuroscientists  
@@ -65,6 +66,7 @@ Labs
 * [Connectome Viewer](https://github.com/LTS5/connectomeviewer) 🏚️ — visualization of connectome
 * [Open Worm](https://openworm.org) — tools for simulation full neural system of C'Elegans
 * [Sibernetic](https://github.com/openworm/sibernetic) — simulator of biomechanical matter (membrances, potentials, liquids, solids)
+* [OCNS](https://www.cnsorg.org/model-database)🏚️  — list of models for compuational neruoseicnes  
 * ... many more software is available in labs and organizations links
 
 Enterprise
