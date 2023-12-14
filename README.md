@@ -66,7 +66,8 @@ Labs
 * [Connectome Viewer](https://github.com/LTS5/connectomeviewer) 🏚️ — visualization of connectome
 * [Open Worm](https://openworm.org) — tools for simulation full neural system of C'Elegans
 * [Sibernetic](https://github.com/openworm/sibernetic) — simulator of biomechanical matter (membrances, potentials, liquids, solids)
-* [OCNS](https://www.cnsorg.org/model-database)🏚️  — list of models for compuational neruoseicnes  
+* [OCNS](https://www.cnsorg.org/model-database)🏚️  — list of models for compuational neruoseicnes
+* [google/neuroglancer](http://github.com/google/neuroglancer) — interactive visualization of volumetric neural data (cross sections, slices)
 * ... many more software is available in labs and organizations links
 
 Enterprise
