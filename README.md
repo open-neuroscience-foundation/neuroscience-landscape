@@ -68,6 +68,7 @@ Labs
 * [Sibernetic](https://github.com/openworm/sibernetic) — simulator of biomechanical matter (membrances, potentials, liquids, solids)
 * [OCNS](https://www.cnsorg.org/model-database)🏚️  — list of models for compuational neruoseicnes
 * [google/neuroglancer](http://github.com/google/neuroglancer) — interactive visualization of volumetric neural data (cross sections, slices)
+* [pyrates](https://github.com/pyrates-neuroscience/PyRates) — toolkit for dynamical system simualation (ref. "From Neuoron to Cognition via Computational Neuroscience")
 * ... many more software is available in labs and organizations links
 
 Enterprise
