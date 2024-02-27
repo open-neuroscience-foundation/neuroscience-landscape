@@ -10,7 +10,9 @@ with dimensions of educational materials, research groups, software, hardware, a
    1. (optional) convert PNG to SVG ([png2svg.com](https://png2svg.com/#google_vignette))
    2. (optional) edit SVG ([editor.method.ac](https://editor.method.ac))
 2. add your entry to `data.yaml`
-3. submit Pull Request
+3. add links
+   1. `repo_url` has to be repository, not organization
+4. submit Pull Request
 
 ## Appendix: Build
 
