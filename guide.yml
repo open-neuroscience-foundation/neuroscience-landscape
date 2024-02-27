@@ -1,0 +1,38 @@
+categories:
+  - category: Laboratories
+    content: |
+      This is a list of major laboratories at universities that work on domains related to neuroscience.
+      This list is organized by their affiliated universities, as usually each university has multiple research labs.
+      Major labs are emphasized.
+
+      Disclaimer: lab emphasis is experimental.
+      Neuroscience Landscape maintainers strive for welcoming and constructive collaboration. 
+      As we receive more feedback from the academic community we will adjust this.
+      Feel free to bring to our attention strategy for emphasize as well as data points.
+      Contributions welcomed.
+    subcategories:
+      - subcategory: EPFL
+        content: |
+          École Polytechnique Fédérale de Lausanne is a major public research university in Lausanne, Switzerland.
+      - subcategory: KAIST
+        content: |
+          Korea Advanced Institute of Science & Technology is a major science and technology university in South Korea.
+  - category: Books
+    content: |
+      This is a list of books on neuroscience.
+      This does not include research papers and journals.
+    subcategories:
+      - subcategory: Academic
+        content: |
+          This is books that are used in Undergraduate, Graduate or Post-Graduate programs in university curriculums.
+          Books that appear in many curriculums or widely repeatedly used are emphasized.
+      - subcategory: Strüngmann Forum Reports
+        content: |
+          [The Ernst Strüngmann Forum](https://esforum.de/) is dedicated to the promotion of interdisciplinary communication and research.
+          It facilitates the expansion of knowledge by providing experts with a creative environment to scrutinize high-priority problems from multiple perspectives.
+          The insights and future research directions that emerge are disseminated in the Strüngmann Forum Reports. ([MIT Press](https://mitpress.mit.edu/series/strungmann-forum-reports/))
+      - subcategory: Popular Science
+        content: |
+          This is books are intended for general public.
+          These books do not have to contain in-depth detail on scientific topics or notation.
+          However, these books have to written by accredited members of academic or commercial neuroscience community.

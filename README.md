@@ -1,9 +1,51 @@
-# 🌌 Neuroscience Landscape
+# Neuroscience Landscape
 
-### Key Reading
+This is community-driven landscape of resources on neuroscience.
+The primary goal is to make bird-eye view of academic and commercial neuroscience
+with dimensions of educational materials, research groups, software, hardware, and more.
 
-* [Principles of Neural Science](https://www.amazon.com/Principles-Neural-Science-Sixth-Kandel-dp-1259642232/dp/1259642232), McGraw Hill / Medical; 6th edition (March 29, 2021)
-  * primary reading for graduate courses at MIT[[HST.131](https://ocw.mit.edu/courses/hst-131-introduction-to-neuroscience-fall-2005/pages/syllabus)] CU[[w3005](http://www.columbia.edu/cu/biology/courses/w3005/index.html)] UNVL[[PSY720](https://www.unlv.edu/sites/default/files/page_files/27/PSY720.pdf)]
+## How to add new entry
+
+1. get logo in SVG
+   1. (optional) convert PNG to SVG ([png2svg.com](https://png2svg.com/#google_vignette))
+   2. (optional) edit SVG ([editor.method.ac](https://editor.method.ac))
+2. add your entry to `data.yaml`
+3. submit Pull Request
+
+## Appendix: Build
+
+This project utilizes https://github.com/cncf/landscape2.
+
+build
+```bash
+landscape2 build \                    
+  --data-file data.yml \
+  --settings-file settings.yml \
+  --guide-file guide.yml \
+  --logos-path logos \
+  --output-dir build
+```
+
+serve
+```bash
+landscape2 serve --landscape-dir build
+```
+
+## Appendix: Work in Progress
+
+Laboratories
+- [ ] citations plugin
+- [ ] leader tab (similar to organization)
+- [ ] funding
+- [ ] industry affiliations
+
+Main
+- [ ] images
+- [ ] PNG
+- [ ] feature item by custom enums (to allow more academic books)
+
+Books
+- [ ] dedicated Amazon URL icon
 
 ### Labs
 🇨🇭 EPFL: [BlueBrain](https://www.epfl.ch/research/domains/bluebrain/) [:octocat:](https://github.com/BlueBrain)  
@@ -21,16 +63,6 @@
 🇯🇵 OIST: [Neural Coding and Brain Computing](https://groups.oist.jp/ncbc) [:octocat:](https://github.com/oist-ncbc)  
 🇸🇬 Duke-NUS: [Neuroscience and Behavioural Disorders](https://www.duke-nus.edu.sg/nbd)  
 🇰🇷 KAIST: [Cognitive Neuroscience and Neuroimaging](http://ibrain.kaist.ac.kr/) | [Brain Dynamics](http://raphe.kaist.ac.kr/index.htm) | [Behavioral Genetics](https://sites.google.com/site/bglabkorea/) | [Synaptic Brain Dysfunction](http://molneuro.kaist.ac.kr/contents/) | [Neural Interoception](https://www.suhlab-neuralinteroception.kaist.ac.kr/) | [Sensory processing](https://sites.google.com/site/leelab2013/) | [Systems neuroscience](https://sites.google.com/site/systemsneurolaboratory/)  
-
-### Companies
-🇺🇸 [Neuralink](https://neuralink.com) [:octocat:](https://github.com/neuralinkcorp)  
-🇺🇸🇰🇷 [LVIS](http://lviscorp.com/) - Lee Lab, Stanford, visualization  
-🇺🇸 [Imaging Biometrics](https://www.imagingbiometrics.com)  
-🇺🇸 [Numenta](https://numenta.com) [:octocat:](https://github.com/numenta)  
-🇺🇸🇯🇵 [INSIGHTEC](https://www.insightec.com/) - neurosurgery, lesion with no incisions, ultrasound  
-🇺🇸 [AMRIT](https://www.advancedmri.com) - David Feinberg, Berkeley, imaging  
-🇺🇸 [Neurolutions](https://www.neurolutions.com) - BCI, improve arms for people after stroke, FDA  
-🇺🇸 [Zetta.ai](http://zetta.ai) — connectome reconstruction from brail slices scans, [S.Segun, Princeton]
 
 ### Organizations
 🌏 [INCF](http://www.incf.org) International Neuroinformatics Coordinating Facility [:octocat:](https://github.com/INCF)  
@@ -89,37 +121,3 @@ Enterprise
 * [NiMARE](https://github.com/neurostuff/NiMARE):octocat: — automatic meta analysis of published fMRI to generate visualizations
 * [Neurosynth](https://neurosynth.org)[:octocat:](https://github.com/neurosynth/neurosynth)🏚️ — automatic meta analysis of published fMRI to generate visualizations
 
-----
-
-### Basics
-* brain is not a _randomly_ connected mesh, there is a lot of high and low level structure
-* _grey matter_ — surface layer, cortex, mostly neurons, ~6 layers of neurons; _white matter_ — insides, connections between neurons, moslty axons
-* _current representation_ — vector at layer in network, what is being processed or thinked now; _abeyant representation_ — stored knowledge, weights at layer of network, what can be thinked or recalled
-* _local coding_ — concept of "grandmother" is handled by a single neuron; _distributed coding_ — concept of "grandmother" is distributed on many neurons, vector coding
-* _connectomics_ — given brain is a graph, what are its properties, how does it differ in animals, how it comes into being, how it changes with time Status of mapping: C elegans worm, Drosophilia fruit fly — fully mapped; pigeon, cat, monkey, human — good, but not full. A lot of structure of connectome is encoded in genes
-* _plasticity_ — how neurons change their connection weights: structural plasticity — changing what is connected; functional plasticity — changing strength of connection
-* _time_ is important, as a lot of processing is oscilating potentiation; many recurrent loops; different types of neurons
-* neurons are either inhibitory or excitatory
-* brain development follows phases — neural plate, progenitor cells, neural fates, migrataion, synapse path finding, synapse connection forming, cells and synapse pruning 
-* action potential — propagation of neuron membrane depolarization and subsequent re-polarization to original state by activation of Na+ and subseqent K+ ion channles spread over membrane
-* ion channles have different conductance-voltage dependenance, which leads them to open-close at different conditions. this makes action potential posssible. some ion channels activated mechanically, some chemically, some via photons, some by voltage.   
-
-### Courses
-* [Neuromatch Academy](https://github.com/NeuromatchAcademy)
-* [List of MIT Brain and Cognitive Sciences courses](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
-
-### Additional Reading
-* [Fundamental Neuroscience](https://www.goodreads.com/book/show/13658691-fundamental-neuroscience), Squire, Academic Press
-* [Connectome: How the Brain's Wiring Makes Us Who We Are](https://www.amazon.com/Connectome-How-Brains-Wiring-Makes/dp/0547678592), Sebastian Seung, PhD, prof at MIT, Director of R&D at Samsung, 2013
-* [The Computational Brain](https://www.goodreads.com/book/show/32078490-the-computational-brain),  Patricia S. Churchland,
-Terrence J. Sejnowski, MIT Press
-* [Changing Connectomes](https://www.goodreads.com/book/show/51456624-changing-connectomes), Marcus Kaiser, MIT Press
-* [Dynamic Patterns: The Self-Organization of Brain and Behavior](https://mitpress.mit.edu/books/dynamic-patterns), MIT Press
-* [Neuroscience of Mathematical Cognitive Development](https://www.goodreads.com/book/show/38250564-neuroscience-of-mathematical-cognitive-development), Rhonda Douglas Brown, Springer
-* [Chasing Men on Fire](https://www.goodreads.com/book/show/36722581-chasing-men-on-fire), Stephen G Waxman, MIT Press
-* [The Ego Tunnel](https://www.goodreads.com/book/show/5895503-the-ego-tunnel), Thomas Metzinger
-
-[Strüngmann Forum Reports](https://mitpress.mit.edu/books/series/strungmann-forum-reports)
-* [The Neocortex](https://mitpress.mit.edu/books/neocortex), MIT Press, 2019
-* [Emergent Brain Dynamics: Prebirth to Adolescence](https://mitpress.mit.edu/books/emergent-brain-dynamics), MIT Press, 2018
-* [Translational Neuroscience: Toward New Therapies](https://mitpress.mit.edu/books/translational-neuroscience), MIT Press, 2015
