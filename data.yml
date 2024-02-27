@@ -13,7 +13,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/neuralink
             logo: neuralink.svg
             extra:
-              tags: usa, bci, robotics, utah-array
+              tags: usa, bci, robotics, utah-array, hardware
           - item:
             name: Neurolutions
             description: Neurolutions provides non-invasive FDA approved devices for stroke rehabilitation.
@@ -21,7 +21,20 @@ landscape:
             curnchbase: https://www.crunchbase.com/organization/neurolutions
             logo: neurolutions.svg
             extra:
-              tags: usa, bci, robotics, fda, stroke, non-invasive
+              tags: usa, bci, robotics, fda, stroke, non-invasive, hardware
+          - item:
+            name: Braingate
+            description: |
+              Our research team includes leading neurologists, neuroscientists, 
+              engineers, computer scientists, neurosurgeons, mathematicians, and other researchers
+              - all focused on developing brain-computer interface (BCI) technologies to restore the communication, mobility, 
+              and independence of people with neurologic disease, injury, or limb loss. 
+              Our research is focused not only on improving the ability to operate a computer, but also on providing people with ALS, spinal cord injury, 
+              and stroke with reliable, constant control over their environment.
+            homepage_url: https://www.braingate.org
+            logo: braingate.svg
+            extra:
+              tags: usa, bci, robotics, utah-array, hardware,
       - subcategory:
         name: Visualization
         items:
@@ -65,6 +78,17 @@ landscape:
             logo: insightec.svg
             extra:
               tags: usa, israel, japan, surgery, healthcare, tremor, parkinsons
+          - item:
+            name: Brainlab
+            description: |
+              Brainlab has been innovating for over a quarter century in the areas of surgery and radiation therapy, 
+              developing hardware and software technology to help healthcare providers, physicians and 
+              their patients fight cancer and other conditions of the brain and body.
+              Some of the customers include Neuralink.
+            homepage_url: https://www.brainlab.com
+            logo: brainlab.svg
+            extra:
+              tags: usa, neuralink, surgery, radiation-therapy
       - subcategory:
         name: Brain-Inspired Compute
         items:
@@ -94,6 +118,18 @@ landscape:
             logo: zettaai.svg
             extra:
               tags: usa, cloud, princeton, mit, connectomics
+      - subcategory:
+        name: fMRI
+        items:
+          - item:
+            name: Siemens
+            description: Siemens produces leading fMRI machines and software for operating them.
+            homepage_url: https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging
+            crunchbase: https://www.crunchbase.com/organization/siemens-healthcare
+            logo: siemens_healthineers.svg
+            repo_url: https://github.com/Siemens-Healthineers/ETWAnalyzer
+            extra:
+              tags: germany, mfi, fmri, clinical
   - category:
     name: Organizations
     subcategories:
@@ -129,7 +165,7 @@ landscape:
               and facilitate U.S. BRAIN Initiative-related communications from its BIA members to diverse audiences, including the public, Congress and policymakers, 
               and the scientific community.
             homepage_url: https://www.braininitiative.org
-            logo: brain-initiative.svg
+            logo: brain-initiative-dark.svg
             extra:
               tags: usa, brain-initiative, fda, government
           - item:
@@ -314,6 +350,33 @@ landscape:
             extra:
               tags: germany, zebrafish
   - category:
+    name: Hardware
+    subcategories:
+      - subcategory:
+        name: Sensors
+        items:
+          - item:
+            name: Neuropixels
+            description: |
+              Neuropixels probes were developed through an international collaboration funded by the Howard Hughes Medical Institute (HHMI), 
+              Wellcome Trust, Gatsby Charitable Foundation and Allen Institute for Brain Science.
+              Probes were designed, developed and fabricated at imec, Leuven Belgium in collaboration with HHMI Janelia Research Campus, 
+              Allen Institute for Brain Science, and University College London.
+            homepage_url: https://www.neuropixels.org/
+            logo: neuropixels.svg
+            extra:
+              tags: usa, allen-institute, neuropixels, ucl, hhmi
+      - subcategory:
+        name: Surgery
+        items:
+          - item:
+            name: Auth-Surgery
+            description: A method for performing precise surgery, automated cranitomies and large cranial windows.
+            homepage_url: http://www.autosurgery.org
+            logo: autosurgery.svg
+            extra:
+              tags: usa, mit, allen-institute
+  - category:
     name: Software
     subcategories:
       - subcategory:
@@ -447,17 +510,6 @@ landscape:
             logo: netpyne.svg
             extra:
               tags: meta-cell, open-source-brain
-      - subcategory:
-        name: Clinical
-        items:
-          - item:
-            name: "Siemense: Magnetic Resonance Imaging - Clinical Software Applications"
-            description: Collection of MRI software for clinical applications.
-            homepage_url: https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging/options-and-upgrades/clinical-applications
-            repo_url: https://github.com/Siemens-Healthineers/ETWAnalyzer
-            logo: siemens_healthineers.svg
-            extra:
-              tags: mfi, clinical
       - subcategory:
         name: Recording
         items:

@@ -135,6 +135,7 @@ groups:
       - Organizations
       - Laboratories
       - Software
+      - Hardware
       - Books
       - Courses
   - name: Laboratories
