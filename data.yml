@@ -72,7 +72,7 @@ landscape:
             name: Numenta
             description: Neurologically inspired machine learning algorithms and solutions for cloud.
             homepage_url: https://numenta.com
-            repo_url: https://github.com/numenta
+            repo_url: https://github.com/numenta/nupic.torch
             crunchbase: https://www.crunchbase.com/organization/numenta
             logo: numenta.svg
             extra:
@@ -90,7 +90,7 @@ landscape:
               BRAIN CONNECTS is an ambitious ten-year project to map a whole mouse brain at synaptic resolution, turning the dream of exascale connectomics into reality.
               Seung Lab, Princeton
             homepage_url: http://zetta.ai
-            repo_url: https://github.com/ZettaAI
+            repo_url: https://github.com/ZettaAI/zetta_utils
             logo: zettaai.svg
             extra:
               tags: usa, cloud, princeton, mit, connectomics
@@ -104,7 +104,7 @@ landscape:
             name: BlueBrain
             description: The goal of the Blue Brain Project is to build biologically detailed digital reconstructions and simulations of the mouse brain.
             homepage_url: https://www.epfl.ch/research/domains/bluebrain/
-            repo_url: https://github.com/BlueBrain
+            repo_url: https://github.com/BlueBrain/HighFive
             logo: cncf.svg
             extra:
               tags: swizerland, simulation
@@ -125,7 +125,7 @@ landscape:
             name: Seung Lab
             description: Construction of connectomics from tissue slice data.
             homepage_url: https://seunglab.org/
-            repo_url: https://github.com/seung-lab
+            repo_url: https://github.com/seung-lab/connected-components-3d
             logo: cncf.svg
             extra:
               tags: usa, connectomics
@@ -228,7 +228,7 @@ landscape:
             name: Neuromatch Academy
             description: Neuromatch Academy (NMA) teaches computational techniques crucial for success in academia and industry. It serves thousands of students each year with hundreds of teaching assistants (TA). Students learn by solving problems in small groups and by running group projects; they learn in many languages in an incredibly supportive environment.
             homepage_url: https://academy.neuromatch.io
-            repo_url: https://github.com/NeuromatchAcademy
+            repo_url: https://github.com/NeuromatchAcademy/course-content
             twitter: https://twitter.com/neuromatch
             logo: neuromatch-academy.svg
           - item:
