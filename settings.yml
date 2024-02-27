@@ -132,7 +132,9 @@ groups:
   - name: All categories
     categories:
       - Companies
+      - Organizations
       - Laboratories
+      - Software
       - Books
       - Courses
   - name: Laboratories

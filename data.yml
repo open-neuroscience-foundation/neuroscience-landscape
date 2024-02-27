@@ -95,6 +95,163 @@ landscape:
             extra:
               tags: usa, cloud, princeton, mit, connectomics
   - category:
+    name: Organizations
+    subcategories:
+      - subcategory:
+        name: Groups
+        items:
+          - item:
+            name: INCF
+            description: |
+              The mission of INCF is to promote the uptake of FAIR data management practices in neuroscience through the development of standards and best practices that support open, FAIR, and citable neuroscience.
+              INCF also provides training on how standards and best practices facilitate reproducibility and enable the sharing of data and code.
+            homepage_url: http://www.incf.org
+            repo_url: https://github.com/INCF/eeg-database
+            logo: incf.svg
+            extra:
+              tags: worldwide
+          - item:
+            name: NITRC
+            description: |
+              NeuroImaging Tools & Resources Collaboratory is a United States Department of Health and Human Services award-winning, 
+              and free web-based resource that offers comprehensive information on an ever expanding scope of neuroinformatics software and data. 
+              NITRC has met the stringent FAIR sharing and open access requirements to be listed as a NIH-Supported Scientific Data Repository, a NLM Domain-Specific Repository and a neuroscience repository on Scientific Data. 
+              Since 2007, NITRC has been helping the global neuroscience community make further discoveries using software and data produced from research that used to end up lost or disregarded. 
+              NITRC also provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost.
+            homepage_url: https://www.nitrc.org
+            logo: nitrc.svg
+            extra:
+              tags: worldwide, software, tools, data
+          - item:
+            name: The Brain Initiative Alliance
+            description: |
+              Comprising federal and non-federal members and affiliates, the BRAIN Initiative Alliance (BIA)'s mission is to coordinate 
+              and facilitate U.S. BRAIN Initiative-related communications from its BIA members to diverse audiences, including the public, Congress and policymakers, 
+              and the scientific community.
+            homepage_url: https://www.braininitiative.org
+            logo: brain-initiative.svg
+            extra:
+              tags: usa, brain-initiative, fda, government
+          - item:
+            name: IEEE Brain
+            description: |
+              As an IEEE-wide effort, the IEEE Brain Technical Community unites engineering and computing expertise across IEEE Societies and Councils relevant to neuroscience, 
+              and provides an avenue for IEEE to work with multiple constituencies in academia, industry, and government to incubate and sponsor new activities, projects, 
+              and standards that facilitate bringing neurotechnology to market in an ethical and responsible manner.
+              Our goal is to facilitate cross-disciplinary collaboration and coordination to advance research, standardization, and development of engineering
+              and technology to improve understanding of the brain in order to treat diseases and improve the human condition.
+            homepage_url: https://brain.ieee.org
+            logo: ieee-brain.svg
+            extra:
+              tags: worldwide, brain-initiative
+          - item:
+            name: Allen Institute of Brain Science
+            description: |
+              The Allen Institute for Brain Science is a division of the Allen Institute, based in Seattle, Washington, that focuses on bioscience research.
+              Founded in 2003, it is dedicated to accelerating the understanding of how the human brain works.
+            homepage_url: https://alleninstitute.org/what-we-do/brain-science/
+            repo_url: https://github.com/AllenInstitute/AllenSDK
+            logo: allen-institute-brain-science.svg
+            extra:
+              tags: usa
+          - item:
+            name: BICCN
+            description: |
+              NIH's Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative - Cell Census Network (BICCN) aims to provide researchers 
+              and the public with a comprehensive reference of the diverse cell types in human, mouse, and non-human primate brain.
+              A network of integrated centers and laboratories including U01, RF1, and U19 data generating centers, R24 data archives, 
+              and a U24 Brain Cell Data Center (BCDC) are working collaboratively to generate, map, and share these data with the community.
+            homepage_url: https://biccn.org
+            repo_url: https://github.com/BICCN/CellCensusMotorCortex
+            logo: biccn.svg
+            extra:
+              tags: usa, nih, allen-institute-of-brain-science
+          - item:
+            name: Neurodata Without Borders
+            description: |
+              Neurodata Without Borders (NWB) is a data standard for neurophysiology, providing neuroscientists with a common standard to share, archive, use, and build analysis tools for neurophysiology data.
+              NWB is designed to store a variety of neurophysiology data, including data from intracellular and extracellular electrophysiology experiments, data from optical physiology experiments, and tracking and stimulus data.
+              The NWB team consists of neuroscientists and software developers who recognize that adoption of a unified data format is an important step toward breaking down the barriers to data sharing in neuroscience.
+            homepage_url: https://www.nwb.org/
+            logo: neurodata_without_borders.svg
+            extra:
+              tags: usa, worldwide
+          - item:
+            name: IARPA
+            description: |
+              The Intelligence Advanced Research Projects Activity invests in high-risk, high-payoff research programs to tackle some of the most difficult challenges of the agencies and disciplines in the Intelligence Community (IC).
+            homepage_url: https://www.iarpa.gov
+            logo: iarpa.svg
+            extra:
+              tags: usa, government
+          - item:
+            name: OCNS
+            description: |
+              The purpose of the Organization for Computational Neurosciences is to create a scientific and educational forum for students, scientists,
+              other professionals and the general public to learn about, to share, to contribute to, and to advance the state of knowledge in computational neuroscience.
+              Computational neuroscience combines mathematical analyses and computer simulations with experimental neuroscience, to develop a principled understanding 
+              of the workings of nervous systems and apply it in a wide range of technologies.
+              The Organization for Computational Neurosciences promotes meetings and courses in computational neuroscience and organizes the Annual CNS Meeting 
+              which serves as a forum for young scientists to present their work and to interact with senior leaders in the field.
+              The Organization for Computational Neurosciences is incorporated in the State of California as a 501(c)(3) Nonprofit Corporation.
+            homepage_url: https://www.cnsorg.org
+            logo: ocns.svg
+            extra:
+              tags: usa, government
+          - item:
+            name: KBRI
+            description: |
+              The Korea Brain Research Institute is a research institute in South Korea. Core facilities include the Korea Brain Bank and lab animal centers.
+            homepage_url: https://www.kbri.re.kr
+            logo: kbri.svg
+            extra:
+              tags: south-korea, society, korea-brain-initiative, korea-brain-bank
+      - subcategory:
+        name: Societies
+        items:
+          - item:
+            name: SFN Sigapore
+            description: |
+              The Singapore Chapter of the Society for Neuroscience is a nonprofit membership organization.
+              Our mission is to advance neuroscience research, collaboration, and education in Singapore.
+            homepage_url: https://www.sfn.sg
+            logo: sfn-sg.svg
+            extra:
+              tags: singapore, society
+          - item:
+            name: KSBNS
+            description: |
+              The Korean Society for Brain and Neural Sciences (KSBNS) was founded in 1998.
+              The KSBNS succeeds The Korean Society of Neuroscience and The Korean Society of Neurobiology which were established in 1992 and merged to found the KSBNS.
+              The number of registered members in the KSBNS is more than 3,800 and their fields cover the whole range of neuroscience, including basic and clinical neuroscience.
+            homepage_url: https://www.ksbns.org
+            logo: kbns.svg
+            extra:
+              tags: south-korea, society
+          - item:
+            name: AKNeuro
+            description: |
+              During the 1982 meeting of the Society for Neuroscience, which was held in Minneapolis, Minnesota, 8 Korean neuroscientists got together 
+              in a local restaurant and agreed to have annual gatherings of Korean neuroscientists at subsequent meetings of the Society.
+              As the number of members in the Society for Neuroscience increased, the number of Korean neuroscientist members grew as well and
+              more Korean neuroscientists attended the annual dinner meeting each year. 
+              In 1988, at the Toronto, Canada meeting, bylaws were adopted (click here to view the bylaws) and the Association was formally founded.
+              There have been well over 250 Korean neuroscientists in attendance at recent annual dinner meetings.
+            homepage_url: https://akneuro.org
+            logo: association-of-korean-neuroscientists.svg
+            extra:
+              tags: south-korea, society
+          - item:
+            name: JNSS
+            description: |
+              The Japan Neuroscience Society (JNS) is an academic organization of scientists who study the brain and nervous system and wish to publish their findings in order to promote the welfare and culture of humans.
+              The Society holds annual academic meetings to provide a place for society members to present their findings, exchange information, and establish new collaborations.
+              The Society also publishes an academic journal in English, Neuroscience Research, to disseminate their research findings to the world.
+            homepage_url: https://www.jnss.org
+            logo: japan-neuroscience-society.svg
+            extra:
+              tags: japan, society
+  - category:
     name: Laboratories
     subcategories:
       - subcategory:
@@ -146,6 +303,182 @@ landscape:
             logo: kasit-sbdl.svg
             extra:
               tags: south-korea synaptopathy autism
+      - subcategory:
+        name: TUM
+        items:
+          - item:
+            name: Portugues Lab
+            description: Portugues lab studies zebrafish behavior and brain fxn/circuitry using cutting-edge imaging techniques.
+            homepage_url: https://portugueslab.com
+            logo: cncf.svg
+            extra:
+              tags: germany, zebrafish
+  - category:
+    name: Software
+    subcategories:
+      - subcategory:
+        name: Visualization
+        items:
+          - item:
+            name: neuroglancer
+            description: |
+              Neuroglancer is a WebGL-based viewer for volumetric data.
+              It is capable of displaying arbitrary (non axis-aligned) cross-sectional views of volumetric data, as well as 3-D meshes and line-segment based models (skeletons).
+              This is major tool for visualization of scanned slice tissue data.
+            homepage_url: http://github.com/google/neuroglancer
+            repo_url: http://github.com/google/neuroglancer
+            logo: neuroglancer.svg
+            extra:
+              tags: connectomics, tissue-slices
+          - item:
+            name: connectomeviewer
+            description: Software Application for the Visualization and Analysis of Multi-Modal Multi-Scale Network and Neuroimaging Data with Python
+            homepage_url: https://github.com/LTS5/connectomeviewer
+            repo_url: https://github.com/LTS5/connectomeviewer
+            logo: connectomeviewer.svg
+          - item:
+            name: Connectome Workbench
+            description: |
+              Connectome Workbench is an open source, freely available visualization and discovery tool used to map neuroimaging data, 
+              especially data generated by the Human Connectome Project. The distribution includes wb_view, a GUI-based visualiation platform, and wb_command, 
+              a command-line program for performing a variety of algorithmic tasks using volume, surface, and grayordinate data.
+            homepage_url: https://www.humanconnectome.org/software/connectome-workbench
+            repo_url: https://github.com/Washington-University/workbench
+            logo: uw-ccf.svg
+            extra:
+              tags: usa, connectomics, human-connectome, univesity-of-washington, nih
+          - item:
+            name: SMART
+            description: "Semi-manual alignment to reference templates (SMART): An open source pipeline in R for whole brain mapping."
+            homepage_url: https://github.com/mjin1812/SMART
+            repo_url: https://github.com/mjin1812/SMART
+            logo: cncf.svg
+            extra:
+              tags: usa, columbia-university, bicnn
+          - item:
+            name: processing fluorescent images
+            description: Parallelizable processing of fluorescent imaging data in HDF5.
+            homepage_url: https://github.com/portugueslab/fimpy
+            repo_url: https://github.com/portugueslab/fimpy
+            logo: portugues-lab.svg
+            extra:
+              tags: tum, portugues-lab, hdf5
+          - item:
+            name: HistoloZee
+            description: |
+              HistoloZee is a tool that integrates histology reconstruction, MRI co-registration, and manual segmentation tools in an easy-to-use and intuitive interface.
+              HistoloZee permits real-time interaction with complex and large (multi-GB) histology datasets during the co-registration steps of histology reconstruction.
+            homepage_url: http://picsl.upenn.edu/software/histolozee
+            logo: histolozee.svg
+            extra:
+              tags: penn, mri
+          - item:
+            name: NWB Explorer
+            description: NWB Explorer is a web application that can be used by scientists to read, visualise and explore the content of NWB:N 2 files.
+            homepage_url: https://docs.opensourcebrain.org/OSBv2/NWBE.html
+            repo_url: https://github.com/MetaCell/nwb-explorer
+            logo: neurodata_without_borders.svg
+            extra:
+              tags: meta-cell, ucl, open-source-brain
+      - subcategory:
+        name: Simulation
+        items:
+          - item:
+            name: pyrates
+            description: PyRates is a framework for dynamical systems modeling, developed by Richard Gast and Daniel Rose.
+            homepage_url: https://github.com/pyrates-neuroscience/PyRates
+            repo_url: https://github.com/pyrates-neuroscience/PyRates
+            logo: pyrates.svg
+          - item:
+            name: sibernetic
+            description: |
+              Sibernetic is physical simulator of biomechanical matter (membranes, elastic matter, contractile matter)
+              and environments (liquids, solids and elastic matter with variable physical properties) developed for 
+              simulations of C. elegans physical body dynamics within the OpenWorm project by Andrey Palyanov, Sergey Khayrulin and Mike Vella 
+              (development of a Python module for external muscle activating signals generation and input) as part of the OpenWorm team. 
+              At its core, Sibernetic is built as an extension to Predictive-Corrective Incompressible Smoothed Particle Hydrodynamics (PCISPH). 
+              It is primarily written in C++ and OpenCL, which makes possible to run simulations on CPUs or GPUs, and has 3D visualization support built on top of OpenGL.
+            homepage_url: https://openworm.org
+            repo_url: https://github.com/openworm/sibernetic
+            logo: sibernetic.svg
+            extra:
+              tags: open-worm, simulation, biomechanics
+          - item:
+            name: geppetto
+            description: |
+              Geppetto is an open-source platform to build web-based applications to visualize and simulate neuroscience data and models.
+            homepage_url: http://geppetto.org
+            repo_url: https://github.com/openworm/org.geppetto
+            logo: geppetto.svg
+            extra:
+              tags: open-worm, simulation, visualization
+          - item:
+            name: cnpkg
+            description: Cortical network simulator optimized with CUDA.
+            homepage_url: https://github.com/srinituraga/cnpkg
+            repo_url: https://github.com/srinituraga/cnpkg
+            logo: cncf.svg
+            extra:
+              tags: mit, seung-lab, cuda, gpu, simulation, cortex
+          - item:
+            name: Lead-DBS & Lead-OR
+            description: |
+              Lead-DBS: A toolbox facilitating Deep Brain Stimulation electrode reconstruction and computer simulation based on postoperative MRI & CT imaging.
+              Lead-OR: A toolbox facilitating research during Deep Brain Stimulation surgery.
+            homepage_url: https://www.lead-dbs.org
+            logo: lead-dbs.svg
+            extra:
+              tags: berlin-institute-of-health, dfg
+          - item:
+            name: Open Source Brain (OSB)
+            description: |
+              Open Source Brain is a resource for sharing and collaboratively developing computational models of neural systems.
+              It can simulate electrophysiologically detailed cell models.
+            homepage_url: https://opensourcebrain.org
+            repo_url: https://github.com/OpenSourceBrain/OSBv2
+            logo: osb.svg
+            extra:
+              tags: ucl, open-source-brain
+          - item:
+            name: NetPyNE
+            description: NetPyNE is a high-level Python interface to NEURON that facilitates the development, parallel simulation and analysis of biological neuronal networks.
+            homepage_url: https://www.netpyne.org
+            repo_url: https://github.com/MetaCell/NetPyNE-UI
+            logo: netpyne.svg
+            extra:
+              tags: meta-cell, open-source-brain
+      - subcategory:
+        name: Clinical
+        items:
+          - item:
+            name: "Siemense: Magnetic Resonance Imaging - Clinical Software Applications"
+            description: Collection of MRI software for clinical applications.
+            homepage_url: https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging/options-and-upgrades/clinical-applications
+            repo_url: https://github.com/Siemens-Healthineers/ETWAnalyzer
+            logo: siemens_healthineers.svg
+            extra:
+              tags: mfi, clinical
+      - subcategory:
+        name: Recording
+        items:
+          - item:
+            name: SpikeInterface
+            description: SpikeInterface is a Python framework designed to unify preexisting spike sorting technologies into a single code base.
+            homepage_url: https://spikeinterface.readthedocs.io
+            repo_url: https://github.com/SpikeInterface/spikeinterface
+            logo: spike-interface.svg
+            extra:
+              tags: spikes, eth, swizerland, cinpla, oslo, alllen-institute, cnrs
+          - item:
+            name: SpikeGLX
+            description: |
+              SpikeGLX is a recording system for extracellular neural probes.
+              The emphasis is on concurrent synchronous recording from high channel count probes together with numerous auxiliary analog and digital channels.
+            homepage_url: http://billkarsh.github.io/SpikeGLX/
+            repo_url: https://github.com/billkarsh/SpikeGLX
+            logo: spike-glx.svg
+            extra:
+              tags: mfi, clinical, allen-institute, neuropixels
   - category:
     name: Books
     subcategories:

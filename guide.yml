@@ -13,10 +13,13 @@ categories:
     subcategories:
       - subcategory: EPFL
         content: |
-          École Polytechnique Fédérale de Lausanne is a major public research university in Lausanne, Switzerland.
+          École Polytechnique Fédérale de Lausanne is a major public research university in Switzerland.
       - subcategory: KAIST
         content: |
           Korea Advanced Institute of Science & Technology is a major science and technology university in South Korea.
+      - subcategory: TUM
+        content: |
+          Technische Universität München is a major public research university in Germany.
   - category: Books
     content: |
       This is a list of books on neuroscience.
