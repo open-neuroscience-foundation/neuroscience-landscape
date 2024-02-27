@@ -242,6 +242,16 @@ landscape:
             logo: kbri.svg
             extra:
               summary_tags: south-korea, society, korea-brain-initiative, korea-brain-bank
+          - item:
+            name: NeuroNex
+            description: |
+              NeuroNex brings together researchers working across disciplines into a coherent network to develop innovative, accessible, 
+              and shared technologies and approaches, as well as theoretical frameworks and computational modeling to 
+              advance understanding of brain function across organizational levels and a diversity of species.
+            homepage_url: https://neuronex.org
+            logo: neuronex.svg
+            extra:
+              summary_tags: usa, brain-initiative, stanford, uc-stanta-barbara, university-of-michigan, columbia-university, university-of-huston, berkeley, john-hopkins-university, yale
       - subcategory:
         name: Societies
         items:
@@ -611,7 +621,11 @@ landscape:
         items:
           - item:
             name: Neuromatch Academy
-            description: Neuromatch Academy (NMA) teaches computational techniques crucial for success in academia and industry. It serves thousands of students each year with hundreds of teaching assistants (TA). Students learn by solving problems in small groups and by running group projects; they learn in many languages in an incredibly supportive environment.
+            description: |
+              Neuromatch Academy (NMA) teaches computational techniques crucial for success in academia and industry.
+              It serves thousands of students each year with hundreds of teaching assistants (TA).
+              Students learn by solving problems in small groups and by running group projects;
+              they learn in many languages in an incredibly supportive environment.
             homepage_url: https://academy.neuromatch.io
             repo_url: https://github.com/NeuromatchAcademy/course-content
             twitter: https://twitter.com/neuromatch
