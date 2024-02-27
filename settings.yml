@@ -61,11 +61,11 @@ colors:
 #       - value: <SUBCATEGORY2_NAME>
 #
 featured_items:
-  - field: subcategory
+  - field: maturity
     options:
-      - value: Academic
+      - value: graduated
         order: 1
-        label: Academic
+        label: Major
 
 # Footer (optional)
 #

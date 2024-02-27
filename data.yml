@@ -13,7 +13,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/neuralink
             logo: neuralink.svg
             extra:
-              tags: usa, bci, robotics, utah-array, hardware
+              summary_tags: usa, bci, robotics, utah-array, hardware
           - item:
             name: Neurolutions
             description: Neurolutions provides non-invasive FDA approved devices for stroke rehabilitation.
@@ -21,7 +21,7 @@ landscape:
             curnchbase: https://www.crunchbase.com/organization/neurolutions
             logo: neurolutions.svg
             extra:
-              tags: usa, bci, robotics, fda, stroke, non-invasive, hardware
+              summary_tags: usa, bci, robotics, fda, stroke, non-invasive, hardware
           - item:
             name: Braingate
             description: |
@@ -34,7 +34,7 @@ landscape:
             homepage_url: https://www.braingate.org
             logo: braingate.svg
             extra:
-              tags: usa, bci, robotics, utah-array, hardware,
+              summary_tags: usa, bci, robotics, utah-array, hardware,
       - subcategory:
         name: Visualization
         items:
@@ -45,7 +45,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/lvis
             logo: lvis.svg
             extra:
-              tags: usa, south-korea, connectomics, visualization, standord
+              summary_tags: usa, south-korea, connectomics, visualization, standord
           - item:
             name: Imaging Biometrics
             description: |
@@ -57,7 +57,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/imaging-biometrics
             logo: imaging_biometrics.svg
             extra:
-              tags: usa, fmri, surgery
+              summary_tags: usa, fmri, surgery
           - item:
             name: AMRIT
             description: |
@@ -66,7 +66,7 @@ landscape:
             homepage_url: https://www.advancedmri.com
             logo: amrit.svg
             extra:
-              tags: usa, fmri, imaging, berkeley
+              summary_tags: usa, fmri, imaging, berkeley
       - subcategory:
         name: Surgery
         items:
@@ -77,7 +77,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/insightec
             logo: insightec.svg
             extra:
-              tags: usa, israel, japan, surgery, healthcare, tremor, parkinsons
+              summary_tags: usa, israel, japan, surgery, healthcare, tremor, parkinsons
           - item:
             name: Brainlab
             description: |
@@ -88,7 +88,7 @@ landscape:
             homepage_url: https://www.brainlab.com
             logo: brainlab.svg
             extra:
-              tags: usa, neuralink, surgery, radiation-therapy
+              summary_tags: usa, neuralink, surgery, radiation-therapy
       - subcategory:
         name: Brain-Inspired Compute
         items:
@@ -100,7 +100,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/numenta
             logo: numenta.svg
             extra:
-              tags: usa, cloud
+              summary_tags: usa, cloud
       - subcategory:
         name: Connectomics
         items:
@@ -117,7 +117,7 @@ landscape:
             repo_url: https://github.com/ZettaAI/zetta_utils
             logo: zettaai.svg
             extra:
-              tags: usa, cloud, princeton, mit, connectomics
+              summary_tags: usa, cloud, princeton, mit, connectomics
       - subcategory:
         name: fMRI
         items:
@@ -129,7 +129,7 @@ landscape:
             logo: siemens_healthineers.svg
             repo_url: https://github.com/Siemens-Healthineers/ETWAnalyzer
             extra:
-              tags: germany, mfi, fmri, clinical
+              summary_tags: germany, mfi, fmri, clinical
   - category:
     name: Organizations
     subcategories:
@@ -145,7 +145,7 @@ landscape:
             repo_url: https://github.com/INCF/eeg-database
             logo: incf.svg
             extra:
-              tags: worldwide
+              summary_tags: worldwide
           - item:
             name: NITRC
             description: |
@@ -157,7 +157,7 @@ landscape:
             homepage_url: https://www.nitrc.org
             logo: nitrc.svg
             extra:
-              tags: worldwide, software, tools, data
+              summary_tags: worldwide, software, tools, data
           - item:
             name: The Brain Initiative Alliance
             description: |
@@ -167,7 +167,7 @@ landscape:
             homepage_url: https://www.braininitiative.org
             logo: brain-initiative-dark.svg
             extra:
-              tags: usa, brain-initiative, fda, government
+              summary_tags: usa, brain-initiative, fda, government
           - item:
             name: IEEE Brain
             description: |
@@ -179,7 +179,7 @@ landscape:
             homepage_url: https://brain.ieee.org
             logo: ieee-brain.svg
             extra:
-              tags: worldwide, brain-initiative
+              summary_tags: worldwide, brain-initiative
           - item:
             name: Allen Institute of Brain Science
             description: |
@@ -189,7 +189,7 @@ landscape:
             repo_url: https://github.com/AllenInstitute/AllenSDK
             logo: allen-institute-brain-science.svg
             extra:
-              tags: usa
+              summary_tags: usa
           - item:
             name: BICCN
             description: |
@@ -201,7 +201,7 @@ landscape:
             repo_url: https://github.com/BICCN/CellCensusMotorCortex
             logo: biccn.svg
             extra:
-              tags: usa, nih, allen-institute-of-brain-science
+              summary_tags: usa, nih, allen-institute-of-brain-science
           - item:
             name: Neurodata Without Borders
             description: |
@@ -211,7 +211,7 @@ landscape:
             homepage_url: https://www.nwb.org/
             logo: neurodata_without_borders.svg
             extra:
-              tags: usa, worldwide
+              summary_tags: usa, worldwide
           - item:
             name: IARPA
             description: |
@@ -219,7 +219,7 @@ landscape:
             homepage_url: https://www.iarpa.gov
             logo: iarpa.svg
             extra:
-              tags: usa, government
+              summary_tags: usa, government
           - item:
             name: OCNS
             description: |
@@ -233,7 +233,7 @@ landscape:
             homepage_url: https://www.cnsorg.org
             logo: ocns.svg
             extra:
-              tags: usa, government
+              summary_tags: usa, government
           - item:
             name: KBRI
             description: |
@@ -241,7 +241,7 @@ landscape:
             homepage_url: https://www.kbri.re.kr
             logo: kbri.svg
             extra:
-              tags: south-korea, society, korea-brain-initiative, korea-brain-bank
+              summary_tags: south-korea, society, korea-brain-initiative, korea-brain-bank
       - subcategory:
         name: Societies
         items:
@@ -253,7 +253,7 @@ landscape:
             homepage_url: https://www.sfn.sg
             logo: sfn-sg.svg
             extra:
-              tags: singapore, society
+              summary_tags: singapore, society
           - item:
             name: KSBNS
             description: |
@@ -263,7 +263,7 @@ landscape:
             homepage_url: https://www.ksbns.org
             logo: kbns.svg
             extra:
-              tags: south-korea, society
+              summary_tags: south-korea, society
           - item:
             name: AKNeuro
             description: |
@@ -276,7 +276,7 @@ landscape:
             homepage_url: https://akneuro.org
             logo: association-of-korean-neuroscientists.svg
             extra:
-              tags: south-korea, society
+              summary_tags: south-korea, society
           - item:
             name: JNSS
             description: |
@@ -286,7 +286,7 @@ landscape:
             homepage_url: https://www.jnss.org
             logo: japan-neuroscience-society.svg
             extra:
-              tags: japan, society
+              summary_tags: japan, society
   - category:
     name: Laboratories
     subcategories:
@@ -298,9 +298,9 @@ landscape:
             description: The goal of the Blue Brain Project is to build biologically detailed digital reconstructions and simulations of the mouse brain.
             homepage_url: https://www.epfl.ch/research/domains/bluebrain/
             repo_url: https://github.com/BlueBrain/HighFive
-            logo: cncf.svg
+            logo: blue-brain-project.svg
             extra:
-              tags: swizerland, simulation
+              summary_tags: swizerland, simulation
       - subcategory:
         name: Utah
         items:
@@ -310,7 +310,7 @@ landscape:
             homepage_url: https://neuroscience.med.utah.edu/faculty/normann.php
             logo: cncf.svg
             extra:
-              tags: usa, bci, utah-array
+              summary_tags: usa, bci, utah-array
       - subcategory:
         name: Princeton
         items:
@@ -321,7 +321,7 @@ landscape:
             repo_url: https://github.com/seung-lab/connected-components-3d
             logo: cncf.svg
             extra:
-              tags: usa, connectomics
+              summary_tags: usa, connectomics
       - subcategory:
         name: KAIST
         items:
@@ -331,14 +331,14 @@ landscape:
             homepage_url: http://ibrain.kaist.ac.kr
             logo: cncf.svg
             extra:
-              tags: south-korea, connectomic, imagin, pathophysiolog, alzheimer
+              summary_tags: south-korea, connectomic, imagin, pathophysiolog, alzheimer
           - item:
             name: Synaptic Brain Dysfunction
             description: Explore the mechanisms underlying various neuropsychiatric disorders by focusing on defects in synaptic development.
             homepage_url: https://molneuro.kaist.ac.kr/contents/
             logo: kasit-sbdl.svg
             extra:
-              tags: south-korea synaptopathy autism
+              summary_tags: south-korea synaptopathy autism
       - subcategory:
         name: TUM
         items:
@@ -348,7 +348,7 @@ landscape:
             homepage_url: https://portugueslab.com
             logo: cncf.svg
             extra:
-              tags: germany, zebrafish
+              summary_tags: germany, zebrafish
   - category:
     name: Hardware
     subcategories:
@@ -365,7 +365,7 @@ landscape:
             homepage_url: https://www.neuropixels.org/
             logo: neuropixels.svg
             extra:
-              tags: usa, allen-institute, neuropixels, ucl, hhmi
+              summary_tags: usa, allen-institute, neuropixels, ucl, hhmi
       - subcategory:
         name: Surgery
         items:
@@ -375,7 +375,7 @@ landscape:
             homepage_url: http://www.autosurgery.org
             logo: autosurgery.svg
             extra:
-              tags: usa, mit, allen-institute
+              summary_tags: usa, mit, allen-institute
   - category:
     name: Software
     subcategories:
@@ -388,11 +388,11 @@ landscape:
               Neuroglancer is a WebGL-based viewer for volumetric data.
               It is capable of displaying arbitrary (non axis-aligned) cross-sectional views of volumetric data, as well as 3-D meshes and line-segment based models (skeletons).
               This is major tool for visualization of scanned slice tissue data.
-            homepage_url: http://github.com/google/neuroglancer
-            repo_url: http://github.com/google/neuroglancer
+            homepage_url: https://github.com/google/neuroglancer
+            repo_url: https://github.com/google/neuroglancer
             logo: neuroglancer.svg
             extra:
-              tags: connectomics, tissue-slices
+              summary_tags: connectomics, tissue-slices
           - item:
             name: connectomeviewer
             description: Software Application for the Visualization and Analysis of Multi-Modal Multi-Scale Network and Neuroimaging Data with Python
@@ -409,7 +409,7 @@ landscape:
             repo_url: https://github.com/Washington-University/workbench
             logo: uw-ccf.svg
             extra:
-              tags: usa, connectomics, human-connectome, univesity-of-washington, nih
+              summary_tags: usa, connectomics, human-connectome, univesity-of-washington, nih
           - item:
             name: SMART
             description: "Semi-manual alignment to reference templates (SMART): An open source pipeline in R for whole brain mapping."
@@ -417,15 +417,15 @@ landscape:
             repo_url: https://github.com/mjin1812/SMART
             logo: cncf.svg
             extra:
-              tags: usa, columbia-university, bicnn
+              summary_tags: usa, columbia-university, bicnn
           - item:
-            name: processing fluorescent images
+            name: fimpy
             description: Parallelizable processing of fluorescent imaging data in HDF5.
             homepage_url: https://github.com/portugueslab/fimpy
             repo_url: https://github.com/portugueslab/fimpy
             logo: portugues-lab.svg
             extra:
-              tags: tum, portugues-lab, hdf5
+              summary_tags: tum, portugues-lab, hdf5
           - item:
             name: HistoloZee
             description: |
@@ -434,7 +434,7 @@ landscape:
             homepage_url: http://picsl.upenn.edu/software/histolozee
             logo: histolozee.svg
             extra:
-              tags: penn, mri
+              summary_tags: penn, mri
           - item:
             name: NWB Explorer
             description: NWB Explorer is a web application that can be used by scientists to read, visualise and explore the content of NWB:N 2 files.
@@ -442,7 +442,7 @@ landscape:
             repo_url: https://github.com/MetaCell/nwb-explorer
             logo: neurodata_without_borders.svg
             extra:
-              tags: meta-cell, ucl, open-source-brain
+              summary_tags: meta-cell, ucl, open-source-brain
       - subcategory:
         name: Simulation
         items:
@@ -465,7 +465,7 @@ landscape:
             repo_url: https://github.com/openworm/sibernetic
             logo: sibernetic.svg
             extra:
-              tags: open-worm, simulation, biomechanics
+              summary_tags: open-worm, simulation, biomechanics
           - item:
             name: geppetto
             description: |
@@ -474,7 +474,7 @@ landscape:
             repo_url: https://github.com/openworm/org.geppetto
             logo: geppetto.svg
             extra:
-              tags: open-worm, simulation, visualization
+              summary_tags: open-worm, simulation, visualization
           - item:
             name: cnpkg
             description: Cortical network simulator optimized with CUDA.
@@ -482,7 +482,7 @@ landscape:
             repo_url: https://github.com/srinituraga/cnpkg
             logo: cncf.svg
             extra:
-              tags: mit, seung-lab, cuda, gpu, simulation, cortex
+              summary_tags: mit, seung-lab, cuda, gpu, simulation, cortex
           - item:
             name: Lead-DBS & Lead-OR
             description: |
@@ -491,7 +491,7 @@ landscape:
             homepage_url: https://www.lead-dbs.org
             logo: lead-dbs.svg
             extra:
-              tags: berlin-institute-of-health, dfg
+              summary_tags: berlin-institute-of-health, dfg
           - item:
             name: Open Source Brain (OSB)
             description: |
@@ -501,7 +501,7 @@ landscape:
             repo_url: https://github.com/OpenSourceBrain/OSBv2
             logo: osb.svg
             extra:
-              tags: ucl, open-source-brain
+              summary_tags: ucl, open-source-brain
           - item:
             name: NetPyNE
             description: NetPyNE is a high-level Python interface to NEURON that facilitates the development, parallel simulation and analysis of biological neuronal networks.
@@ -509,7 +509,7 @@ landscape:
             repo_url: https://github.com/MetaCell/NetPyNE-UI
             logo: netpyne.svg
             extra:
-              tags: meta-cell, open-source-brain
+              summary_tags: meta-cell, open-source-brain
       - subcategory:
         name: Recording
         items:
@@ -520,7 +520,7 @@ landscape:
             repo_url: https://github.com/SpikeInterface/spikeinterface
             logo: spike-interface.svg
             extra:
-              tags: spikes, eth, swizerland, cinpla, oslo, alllen-institute, cnrs
+              summary_tags: spikes, eth, swizerland, cinpla, oslo, alllen-institute, cnrs
           - item:
             name: SpikeGLX
             description: |
@@ -530,7 +530,7 @@ landscape:
             repo_url: https://github.com/billkarsh/SpikeGLX
             logo: spike-glx.svg
             extra:
-              tags: mfi, clinical, allen-institute, neuropixels
+              summary_tags: mfi, clinical, allen-institute, neuropixels
   - category:
     name: Books
     subcategories:
@@ -552,6 +552,11 @@ landscape:
             description: Rhonda Douglas Brown, Springer
             homepage_url: https://www.goodreads.com/book/show/38250564-neuroscience-of-mathematical-cognitive-development
             logo: neuroscience_of_mathematical_cognitive_development.svg
+          - item:
+            name: The Computational Brain
+            description: Patricia S. Churchland, Terrence J. Sejnowski, MIT Press
+            homepage_url: https://www.goodreads.com/book/show/32078490-the-computational-brain
+            logo: computational_brain.svg
       - subcategory:
         name: Strüngmann Forum Reports
         items:
@@ -573,11 +578,6 @@ landscape:
       - subcategory:
         name: Popular Science
         items:
-          - item:
-            name: The Computational Brain
-            description: Patricia S. Churchland, Terrence J. Sejnowski, MIT Press
-            homepage_url: https://www.goodreads.com/book/show/32078490-the-computational-brain
-            logo: computational_brain.svg
           - item:
             name: "Dynamic Patterns: The Self-Organization of Brain and Behavior"
             description: MIT Press
