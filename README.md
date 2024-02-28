@@ -31,6 +31,7 @@ Laboratories
 - [ ] leader tab (similar to organization)
 - [ ] funding
 - [ ] industry affiliations
+- [ ] hindex of lab head
 
 Main
 - [ ] images
