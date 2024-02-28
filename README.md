@@ -27,18 +27,20 @@ landscape2 serve --landscape-dir build
 ## Work in Progress
 
 Laboratories
-- [ ] citations plugin
-- [ ] leader tab (similar to organization)
-- [ ] funding
-- [ ] industry affiliations
-- [ ] hindex of lab head
+- [ ] citations metric
+- [ ] number of papers metric
+- [ ] head description
+- [ ] hindex of head
 
 Main
-- [ ] images
-- [ ] PNG
-- [ ] feature item by custom enums (to allow more academic books)
-- [ ] category without subcategories
-- [ ] footer citation codeblock
+- [ ] manual location
+- [ ] search by everything
+- [ ] filter by tags
+- [ ] filter by location
+- [ ] image in summary
+- [ ] feature by hindex
+- [ ] feature manually
+- [ ] BibTeX citation in footer
 
 Books
 - [ ] dedicated Amazon URL icon
