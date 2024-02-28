@@ -45,6 +45,7 @@ Main
 - [ ] images
 - [ ] PNG
 - [ ] feature item by custom enums (to allow more academic books)
+- [ ] category without subcategories
 
 Books
 - [ ] dedicated Amazon URL icon
@@ -66,12 +67,6 @@ Books
 🇸🇬 Duke-NUS: [Neuroscience and Behavioural Disorders](https://www.duke-nus.edu.sg/nbd)  
 🇰🇷 KAIST: [Cognitive Neuroscience and Neuroimaging](http://ibrain.kaist.ac.kr/) | [Brain Dynamics](http://raphe.kaist.ac.kr/index.htm) | [Behavioral Genetics](https://sites.google.com/site/bglabkorea/) | [Synaptic Brain Dysfunction](http://molneuro.kaist.ac.kr/contents/) | [Neural Interoception](https://www.suhlab-neuralinteroception.kaist.ac.kr/) | [Sensory processing](https://sites.google.com/site/leelab2013/) | [Systems neuroscience](https://sites.google.com/site/systemsneurolaboratory/)  
 
-### Hardware
-🇺🇸 [Neuropixels](https://www.neuropixels.org/), Allan Institute  
-🇺🇸 [Auto-Surgery](http://www.autosurgery.org/), Allan Institute, MIT  
-🇩🇪 Siemens [fMRI](https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging)  
-🇺🇸 [Braingate](https://www.braingate.org), BCI   
-🇺🇸 [Neurolutions](https://www.neurolutions.com), BCI  
 
 ### Data
 

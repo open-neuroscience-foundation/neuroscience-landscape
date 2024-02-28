@@ -239,7 +239,7 @@ landscape:
             description: |
               The Korea Brain Research Institute is a research institute in South Korea. Core facilities include the Korea Brain Bank and lab animal centers.
             homepage_url: https://www.kbri.re.kr
-            logo: kbri.svg
+            logo: kbri-short.svg
             extra:
               summary_tags: south-korea, society, korea-brain-initiative, korea-brain-bank
           - item:
@@ -387,6 +387,75 @@ landscape:
             extra:
               summary_tags: usa, mit, allen-institute
   - category:
+    name: Datasets
+    subcategories:
+      - subcategory:
+        name: All
+        items:
+          - item:
+            name: MICrONS
+            description: |
+              The Machine Intelligence from Cortical Networks (MICrONS) program seeks to revolutionize machine learning by reverse-engineering the algorithms of the brain.
+              It is an ambitious program to map the function and connectivity of cortical circuits, using high throughput imaging technologies,
+              with the goal of providing insights into the computational principles that underlie cortical function in order to advance the next generation of machine learning algorithms.
+            homepage_url: https://www.microns-explorer.org
+            repo_url: https://github.com/AllenInstitute/MicronsBinder
+            logo: microns.svg
+            extra:
+              summary_tags: usa, allen-institute, princeton, iarpa, baylor-college-of-medicine, electron-microscopy, mouse, visual-cortext, neuroglancer
+          - item:
+            name: "Allen Brain Cell Atlas"
+            description: |
+              The Allen Brain Cell Atlas (ABC Atlas) aims to empower researchers worldwide to explore and analyze multiple whole-brain datasets simultaneously.
+              As the Allen Institute and its collaborators continue to add new modalities, species, and insights to the ABC Atlas, this groundbreaking platform will keep growing,
+              opening up endless possibilities for groundbreaking discoveries and breakthroughs in neuroscience.
+              With the ABC Atlas, researchers everywhere can gain new insights into the brain's complex workings, advancing our understanding of this amazing organ in ways we never thought possible.
+              Data associated with the ABC Atlas is hosted on Amazon Web Services (AWS) in an S3 bucket as a AWS Public Dataset, arn:aws:s3:::allen-brain-cell-atlas. No account or login is required for access.
+              The purpose of this repo is to provide an overview of the available data, how to download and use it through example use cases.
+              Explorer (https://knowledge.brain-map.org/data/LVDBJAW8BI5YSS1QUBG/explore).
+            homepage_url: https://alleninstitute.github.io/abc_atlas_access/intro.html
+            repo_url: https://github.com/AllenInstitute/abc_atlas_access
+            logo: abc-atlas.svg
+            extra:
+              summary_tags: usa, allen-institute, mouse, cell-atlas, aws
+          - item:
+            name: Brain Knowledge Platform
+            description: |
+              This site provides a public index of neuroscience data and tools from the Allen Institute for Brain Science and NIH's BRAIN Initiative Cell Census Network.
+              New data will be added regularly. Functionality for data visualization, analysis, and inferencing will become available over time.
+              It contains multiple species, modalities, techniques.
+            homepage_url: https://knowledge.brain-map.org/data
+            logo: brain-knowledge-platform.svg
+            extra:
+              summary_tags: usa, allen-institute, mouse, human, data-catalog, atlas, nih, brain-initiative
+          - item:
+            name: BioModels
+            description: |
+              BioModels is a repository of mathematical models of biological and biomedical systems.
+              It hosts a vast selection of existing literature-based physiologically and pharmaceutically relevant mechanistic models in standard formats.
+              Our mission is to provide the systems modelling community with reproducible, high-quality, freely-accessible models published in the scientific literature.
+            homepage_url: https://www.ebi.ac.uk/biomodels/
+            logo: biomodels.svg
+            extra:
+              summary_tags: uk, embl-ebi, embl
+          - item:
+            name: CoCoMac
+            description: |
+              This database is an approach to produce a systematic record of the known wiring of the primate brain.
+              The main database contains details of hundreds of tracing studies in their original descriptions.
+              Further data are continuously added.
+            homepage_url: http://cocomac.g-node.org/main/index.php
+            logo: cocomac.svg
+            extra:
+              summary_tags: macaque, atlas, scalable-brain-atlas
+          - item:
+            name: Wormatlas
+            description: A database of the behavioral and structural anatomy of the C.elegans.
+            homepage_url: https://www.wormatlas.org
+            logo: wormatlas.svg
+            extra:
+              summary_tags: worm, atlas, nih, albert-einstein-college-of-medicine
+  - category:
     name: Software
     subcategories:
       - subcategory:
@@ -453,6 +522,44 @@ landscape:
             logo: neurodata_without_borders.svg
             extra:
               summary_tags: meta-cell, ucl, open-source-brain
+          - item:
+            name: AGAVE
+            description: |
+              The volume viewer uses path-trace rendering in an interface designed and optimized for the display of multi-channel OME TIFF or OME-Zarr files.
+              View multi-channel images using cinematographic rendering.
+            homepage_url: https://www.allencell.org/pathtrace-rendering.html
+            repo_url: https://github.com/allen-cell-animated/agave
+            logo: agave.svg
+            extra:
+              summary_tags: usa, allen-institute, gpu, rendering
+          - item:
+            name: Cell Feature Explorer
+            description: |
+              The Cell Feature Explorer (CFE) is an online tool to access segmented and processed images of over 200,000 cells as curated datasets.
+              Each dataset has specific measured features, such as cellular volume and mitosis stage that are described in the user interface and 
+              detailed in publications associated with each dataset.
+              The CFE is composed of a plot, where each cell is graphed by these measured features, and a 3D viewer for in-depth visual analysis.
+            homepage_url: https://cfe.allencell.org
+            repo_url: https://github.com/allen-cell-animated/cell-feature-explorer
+            logo: cell-feature-explorer.svg
+            extra:
+              summary_tags: usa, allen-institute, cells
+          - item:
+            name: Segmenter
+            description: |
+              The Allen Cell & Structure Segmenter (Segmenter) is a Python-based open source toolkit developed at the Allen Institute for Cell Science 
+              for 3D segmentation of intracellular structures in fluorescence microscope images.
+              This toolkit brings together classic image segmentation and iterative deep learning workflows first to generate initial high-quality 3D 
+              intracellular structure segmentations and then to easily curate these results to generate the ground truths for building robust and accurate deep learning models.
+              The toolkit takes advantage of the high replicate 3D live cell image data collected at the Allen Institute for Cell Science of 
+              over 30 endogenous fluorescently tagged human induced pluripotent stem cell (hiPSC) lines. 
+              Each cell line represents a different intracellular structure with one or more distinct localization patterns 
+              within undifferentiated hiPS cells and hiPSC-derived cardiomyocytes.
+            homepage_url: https://www.allencell.org/segmenter.html
+            repo_url: https://github.com/AllenCell/aics-ml-segmentation
+            logo: segmenter.svg
+            extra:
+              summary_tags: usa, allen-institute, segmentation, fluorescence, intracellular
       - subcategory:
         name: Simulation
         items:
@@ -521,6 +628,33 @@ landscape:
             extra:
               summary_tags: meta-cell, open-source-brain
       - subcategory:
+        name: Deep Learning
+        items:
+          - item:
+            name: CytoDL
+            description: CytoDL aims to unify deep learning approaches for understanding 2D and 3D biological data as images, point clouds, and tabular data.
+            homepage_url: https://allencellmodeling.github.io/cyto-dl/
+            repo_url: https://github.com/AllenCellModeling/cyto-dl
+            logo: cytodl.svg
+            extra:
+              summary_tags: usa, alllen-institute, microscopy, images, pytorch, ml, segmentation, images, deep-learning, computer-visition, tabular-data
+          - item:
+            name: Pytorch 3D Integrated Cell
+            description: Integrated Cell project implemented in pytorch.
+            homepage_url: https://github.com/AllenCellModeling/pytorch_integrated_cell
+            repo_url: https://github.com/AllenCellModeling/pytorch_integrated_cell
+            logo: pytorch-3d-integrated-cell.svg
+            extra:
+              summary_tags: usa, alllen-institute, microscopy, images, pytorch, ml
+          - item:
+            name: pytorch_fnet
+            description: Label-free prediction of three-dimensional fluorescence images from transmitted-light microscopy
+            homepage_url: https://github.com/AllenCellModeling/pytorch_fnet
+            repo_url: https://github.com/AllenCellModeling/pytorch_fnet
+            logo: pytorch-fnet.svg
+            extra:
+              summary_tags: usa, alllen-institute, microscopy, images, pytorch, ml
+      - subcategory:
         name: Recording
         items:
           - item:
@@ -541,6 +675,17 @@ landscape:
             logo: spike-glx.svg
             extra:
               summary_tags: mfi, clinical, allen-institute, neuropixels
+      - subcategory:
+        name: Data Formats
+        items:
+          - item:
+            name: AICSImageIO
+            description: Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Python.
+            homepage_url: https://allencellmodeling.github.io/aicsimageio
+            repo_url: https://github.com/AllenCellModeling/aicsimageio
+            logo: aics-image-io.svg
+            extra:
+              summary_tags: usa, alllen-institute, microscopy, images
   - category:
     name: Books
     subcategories:
