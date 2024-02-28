@@ -110,7 +110,7 @@ groups:
 header:
   links:
     github: https://github.com/open-neuroscience-foundation/neuroscience-landscape
-  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
+  logo: https://raw.githubusercontent.com/open-neuroscience-foundation/neuroscience-landscape/main/logos/onf-light.svg
 
 # Images (optional)
 #
