@@ -66,6 +66,7 @@ footer:
   links:
     github: https://github.com/open-neuroscience-foundation
   logo: https://raw.githubusercontent.com/open-neuroscience-foundation/neuroscience-landscape/main/logos/onf-light.png
+  text: "Projects mentioned may or may not be affiliated with this foundation. Open Neuroscience Foundation. 2024"
 
 grid_items_size: medium
 
