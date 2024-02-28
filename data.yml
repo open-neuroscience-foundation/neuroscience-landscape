@@ -322,7 +322,7 @@ landscape:
             description: Construction of connectomics from tissue slice data.
             homepage_url: https://seunglab.org/
             repo_url: https://github.com/seung-lab/connected-components-3d
-            logo: cncf.svg
+            logo: seung-lab.svg
             extra:
               summary_tags: usa, connectomics
       - subcategory:
