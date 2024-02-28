@@ -37,6 +37,7 @@ Main
 - [ ] PNG
 - [ ] feature item by custom enums (to allow more academic books)
 - [ ] category without subcategories
+- [ ] footer citation codeblock
 
 Books
 - [ ] dedicated Amazon URL icon
