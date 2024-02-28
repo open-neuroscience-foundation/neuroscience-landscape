@@ -62,29 +62,8 @@ featured_items:
         order: 1
         label: Major
 
-# Footer (optional)
-#
-# This section allows customizing some aspects of the footer.
-#
-# footer:
-#   links:
-#     facebook: <FACEBOOK_URL>
-#     flickr: <FLICKR_URL>
-#     github: <GITHUB_URL>
-#     homepage: <HOMEPAGE_URL>
-#     instagram: <INSTAGRAM_URL>
-#     linkedin: <LINKEDIN_URL>
-#     slack: <SLACK_URL>
-#     twitch: <TWITCH_URL>
-#     twitter: <TWITTER_URL>
-#     wechat: <WECHAT_URL>
-#     youtube: <YOUTUBE_URL>
-#   logo: <LOGO_URL>  # Foundation logo featured on the footer
-#   text: <TEXT>      # Copyright notice, for example
-#
 footer:
   links:
-    github: "https://github.com/nikolaydubina/neuroscience-landscape"
   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
 
 grid_items_size: medium
@@ -129,7 +108,7 @@ groups:
 #
 header:
   links:
-    github: "https://github.com/cncf/landscape2"
+    github: https://github.com/open-neuroscience-foundation
   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
 
 # Images (optional)
