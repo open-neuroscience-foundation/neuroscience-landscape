@@ -98,6 +98,15 @@ groups:
   - name: Laboratories
     categories:
       - Laboratories
+  - name: Tools
+    categories:
+      - Software
+      - Hardware
+      - Datasets
+  - name: Learning
+    categories:
+      - Books
+      - Courses
 
 # Header (optional)
 #

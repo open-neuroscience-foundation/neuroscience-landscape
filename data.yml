@@ -359,6 +359,21 @@ landscape:
             logo: cncf.svg
             extra:
               summary_tags: germany, zebrafish
+      - subcategory:
+        name: Ernst Strüngmann Institute for Neuroscience
+        items:
+          - item:
+            name: Singer Lab
+            description: |
+              We pursue the hypothesis that computations are performed in the high dimensional dynamic state space provided by the non-linear dynamics that evolve in the recurrent network of delay coupled oscillatory circuits. Core assumptions are:
+              i) information about statistical contingencies in natural scenes is contained in the weight distributions of recurrent connections and expressed in temporal correlations among the discharges of feature specific neurons;
+              ii) information conveyed by top down projections as a function of attention and expectancy is also manifest in the correlation structure of distributed neuron populations and
+              iii) if sensory evidence matches the predictions stored in the functional architecture of the recurrent networks and/or the expectancies conveyed by top down projections, network dynamics converge to states characterized by increased coherence (synchrony) and specific correlation patterns.
+              To test the predictions of this conceptual framework we investigate population dynamics with cellular resolution by performing massive parallel recordings from the visual cortex of behaviourally trained monkeys with chronically implanted microelectrode arrays.
+            homepage_url: https://www.esi-frankfurt.de/research/singer-lab/
+            logo: singer-lab.svg
+            extra:
+              summary_tags: germany
   - category:
     name: Hardware
     subcategories:

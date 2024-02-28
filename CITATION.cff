@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you reference this library in publication, please cite it as below.
+title: Neuroscience Landscape
+abstract: A dynamic and interactive visualization of the neuroscience ecosystem.
+authors:
+  - family-names: Dubina
+    given-names: Nikolay
+version: 2.1
+date-released: 2024-02-29
+license: MIT
+repository-code: https://github.com/open-neuroscience-foundation/neuroscience-landscape
+url: https://neuroscience-landscape.com
