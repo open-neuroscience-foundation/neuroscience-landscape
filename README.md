@@ -1,20 +1,18 @@
 # Neuroscience Landscape
 
-This is community-driven landscape of resources on neuroscience.
-The primary goal is to make bird-eye view of academic and commercial neuroscience
-with dimensions of educational materials, research groups, software, hardware, and more.
+This is community driven landscape of resources on neuroscience.
+The primary goal is to make bird eye view of academic and commercial neuroscience
+with dimensions such as companies, research groups, software, hardware, datasets, educational materials, and more.
 
-## How to add new entry
+## How to add new entry?
 
-1. get logo in SVG
-   1. (optional) convert PNG to SVG ([png2svg.com](https://png2svg.com/#google_vignette))
-   2. (optional) edit SVG ([editor.method.ac](https://editor.method.ac))
-2. add your entry to `data.yaml`
-3. add links
-   1. `repo_url` has to be repository, not organization
-4. submit Pull Request
+Add your entry to `data.yaml`. Build and run locally, confirm that it looks correctly and no errors reported.
 
-## Appendix: Build
+Helpful links:
+* convert PNG to SVG ([png2svg.com](https://png2svg.com/#google_vignette))
+* edit SVG ([editor.method.ac](https://editor.method.ac))
+
+## Build
 
 This project utilizes https://github.com/cncf/landscape2.
 
@@ -33,7 +31,7 @@ serve
 landscape2 serve --landscape-dir build
 ```
 
-## Appendix: Work in Progress
+## Work in Progress
 
 Laboratories
 - [ ] citations plugin
@@ -66,12 +64,3 @@ Books
 🇯🇵 OIST: [Neural Coding and Brain Computing](https://groups.oist.jp/ncbc) [:octocat:](https://github.com/oist-ncbc)  
 🇸🇬 Duke-NUS: [Neuroscience and Behavioural Disorders](https://www.duke-nus.edu.sg/nbd)  
 🇰🇷 KAIST: [Cognitive Neuroscience and Neuroimaging](http://ibrain.kaist.ac.kr/) | [Brain Dynamics](http://raphe.kaist.ac.kr/index.htm) | [Behavioral Genetics](https://sites.google.com/site/bglabkorea/) | [Synaptic Brain Dysfunction](http://molneuro.kaist.ac.kr/contents/) | [Neural Interoception](https://www.suhlab-neuralinteroception.kaist.ac.kr/) | [Sensory processing](https://sites.google.com/site/leelab2013/) | [Systems neuroscience](https://sites.google.com/site/systemsneurolaboratory/)  
-
-
-### Data
-
-* [ConnectomeDB](https://db.humanconnectome.org) — humman connectome 
-* [1000 Functional Connectomes](https://fcon_1000.projects.nitrc.org/) — human functional connetomes, NITRC, INDI 
-* [Virtual Brain](http://thevirtualbrain.org) — human brain simulator, 11 labs, Berlin Institute of Health, Simon Fraser University, Univeristy of Toronto, INSERM
-* [NiMARE](https://github.com/neurostuff/NiMARE):octocat: — automatic meta analysis of published fMRI to generate visualizations
-* [Neurosynth](https://neurosynth.org)[:octocat:](https://github.com/neurosynth/neurosynth)🏚️ — automatic meta analysis of published fMRI to generate visualizations

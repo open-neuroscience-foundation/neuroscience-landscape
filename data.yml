@@ -186,7 +186,7 @@ landscape:
               The Allen Institute for Brain Science is a division of the Allen Institute, based in Seattle, Washington, that focuses on bioscience research.
               Founded in 2003, it is dedicated to accelerating the understanding of how the human brain works.
             homepage_url: https://alleninstitute.org/what-we-do/brain-science/
-            repo_url: https://github.com/AllenInstitute/AllenSDK
+            repo_url: https://github.com/AllenInstitute
             logo: allen-institute-brain-science.svg
             extra:
               summary_tags: usa
@@ -455,6 +455,38 @@ landscape:
             logo: wormatlas.svg
             extra:
               summary_tags: worm, atlas, nih, albert-einstein-college-of-medicine
+          - item:
+            name: Allen Brain Atlas SDK
+            description: This package is designed to help retrieve data from the Allen Brain Atlas API.
+            homepage_url: https://allensdk.readthedocs.io/en/latest/data_api_client.html
+            repo_url: https://github.com/AllenInstitute/AllenSDK
+            logo: allen-brain-atlas-sdk.svg
+            extra:
+              summary_tags: usa, allen-institute, sdk
+          - item:
+            name: 1000 Functional Connectomes
+            description: |
+              Unrestricted public release of 1200+ 'resting state' functional MRI (R-fMRI) datasets independently collected at 33 sites.
+              All datasets have been generously donated by the principal investigators from the member sites, 
+              for the purpose of providing the broader imaging community complete access to a large-scale functional imaging dataset.
+              Age, sex and imaging center information are provided for each of the datasets.
+              In accordance with HIPAA guidelines, all datasets are anonymous, with no protected health information included.
+              We anticipate this data-sharing effort will equip researchers with a means of exploring and refining R-fMRI approaches,
+              and facilitate the growing ethos of sharing and collaboration.
+            homepage_url: https://fcon_1000.projects.nitrc.org
+            logo: indi.svg
+            extra:
+              summary_tags: aws, connectomes, human, functional, nitrc, indi, child-mind-institute
+          - item:
+            name: ConnectomeDB
+            description: |
+              ConnectomeDB is a data management platform where users can access, explore and download the latest datasets from the Human Connectome Project.
+              Lifespan HCP-Development (ages 5-21) and HCP-Aging (ages 36-100+) data is available from the NIMH Data Archive (NDA).
+              For help getting access to NDA, see our Lifespan Access & Download Instructions.
+            homepage_url: https://db.humanconnectome.org/app/template/Login.vm
+            logo: connectome-db.svg
+            extra:
+              summary_tags: connectomes, human
   - category:
     name: Software
     subcategories:
@@ -560,6 +592,18 @@ landscape:
             logo: segmenter.svg
             extra:
               summary_tags: usa, allen-institute, segmentation, fluorescence, intracellular
+          - item:
+            name: NiMARE
+            description: |
+              NiMARE is a Python package for performing meta-analyses, and derivative analyses using meta-analytic data, of the neuroimaging literature.
+              While meta-analytic packages exist which implement one or two algorithms each, NiMARE provides 
+              a standard syntax for performing a wide range of analyses and for interacting with databases of coordinates and images from fMRI studies 
+              (e.g., brainspell, Neurosynth, and NeuroVault).
+            homepage_url: https://nimare.readthedocs.io/
+            repo_url: https://github.com/neurostuff/NiMARE
+            logo: nimare.svg
+            extra:
+              summary_tags: meta-analysis
       - subcategory:
         name: Simulation
         items:
@@ -610,9 +654,9 @@ landscape:
             extra:
               summary_tags: berlin-institute-of-health, dfg
           - item:
-            name: Open Source Brain (OSB)
+            name: Open Source Brain
             description: |
-              Open Source Brain is a resource for sharing and collaboratively developing computational models of neural systems.
+              Open Source Brain (OSB) is a resource for sharing and collaboratively developing computational models of neural systems.
               It can simulate electrophysiologically detailed cell models.
             homepage_url: https://opensourcebrain.org
             repo_url: https://github.com/OpenSourceBrain/OSBv2
@@ -627,6 +671,23 @@ landscape:
             logo: netpyne.svg
             extra:
               summary_tags: meta-cell, open-source-brain
+          - item:
+            name: Virtual Brain
+            description: |
+              Simulating the human brain is the holy grail of neuroscience - 
+              offering a pioneering tool for understanding how our brain works and how to deal with its disorders like stroke, 
+              epilepsy or neurodegenerative diseases like Alzheimer's or Parkinson's.
+              While large-scale research initiatives simulate neurons and small brain regions at the cellular level on massively parallel hardware, 
+              they are still years away from clinical applications.
+              The Virtual Brain (TVB) takes a different approach and reduces complexity on the micro level to attain the macro organization: 
+              a TVB model of a patient's brain generates sufficiently accurate EEG, MEG, BOLD and SEEG signals by reducing 
+              the complexity millionfold through methods from statistical physics. The key is TVB's hybrid approach of merging individual anatomy 
+              from brain imaging data with state-of-the-art mathematical modeling.
+            homepage_url: http://thevirtualbrain.org
+            repo_url: https://github.com/the-virtual-brain/tvb-root
+            logo: virtual-brain.svg
+            extra:
+              summary_tags: human, simulation, eu, eu-horizon, human-brain-project, virtual-brian-cloud
       - subcategory:
         name: Deep Learning
         items:
