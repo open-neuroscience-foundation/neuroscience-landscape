@@ -87,7 +87,7 @@ footer:
     github: "https://github.com/nikolaydubina/neuroscience-landscape"
   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
 
-grid_items_size: small
+grid_items_size: medium
 
 # Groups (optional)
 #
