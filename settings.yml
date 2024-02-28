@@ -1,14 +1,9 @@
 foundation: OpenNeuroscience
-url: http://127.0.0.1:8000
+url: https://neuroscience-landscape.com
 
-# Analytics (optional)
-#
-# Analytics providers configuration. When an analytics provider is set up, some
-# additional code from the provider will be injected into the web application.
-#
-# analytics:
-#   gtm:                            # Google Tag Manager configuration
-#     container_id: <CONTAINER_ID>  # Landscape web application container ID
+analytics:
+  gtm:
+    container_id: G-XZ2BK3C8FR
 
 # Categories (optional)
 #
@@ -89,30 +84,10 @@ featured_items:
 #
 footer:
   links:
-    facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
-    flickr: "https://www.flickr.com/photos/143247548@N03/albums"
-    github: "https://github.com/cncf"
-    homepage: "https://cncf.io"
-    instagram: "https://www.instagram.com/humans.of.cloudnative/"
-    linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
-    slack: "https://slack.cncf.io/"
-    twitch: "https://www.twitch.tv/cloudnativefdn"
-    twitter: "https://twitter.com/cloudnativefdn"
-    wechat: "https://www.cncf.io/wechat/"
-    youtube: "https://www.youtube.com/c/cloudnativefdn"
+    github: "https://github.com/nikolaydubina/neuroscience-landscape"
   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
 
-# Grid items size (optional)
-#
-# Defines the preferred size of the landscape items in the grid mode. When the
-# landscape contains many items, it is recommended to use the `small` size.
-# However, if there aren't many items, choosing `medium` or `large` may make
-# the landscape look nicer. Users will still be able to adjust the items size
-# from the UI using the zoom controls.
-#
-# grid_items_size: <small|medium|large>
-#
-grid_items_size: large
+grid_items_size: small
 
 # Groups (optional)
 #
