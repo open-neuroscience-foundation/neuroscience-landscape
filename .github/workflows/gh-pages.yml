@@ -1,4 +1,4 @@
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Build and Deploy GitHub Pages
 
 on:
   push:
@@ -33,11 +33,6 @@ jobs:
           --guide-file guide.yml \
           --logos-path logos \
           --output-dir build
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./build
-          destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

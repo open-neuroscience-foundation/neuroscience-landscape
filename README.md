@@ -16,17 +16,10 @@ Helpful links:
 
 This project utilizes https://github.com/cncf/landscape2.
 
-build
 ```bash
-landscape2 build \                    
-  --data-file data.yml \
-  --settings-file settings.yml \
-  --guide-file guide.yml \
-  --logos-path logos \
-  --output-dir build
+landscape2 build --data-file data.yml --settings-file settings.yml --guide-file guide.yml --logos-path logos --output-dir build
 ```
 
-serve
 ```bash
 landscape2 serve --landscape-dir build
 ```
