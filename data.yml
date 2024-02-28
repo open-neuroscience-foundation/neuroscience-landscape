@@ -10,7 +10,6 @@ landscape:
             description: Neuralink is developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.
             homepage_url: https://neuralink.com
             repo_url: https://github.com/neuralinkcorp
-            crunchbase: https://www.crunchbase.com/organization/neuralink
             logo: neuralink.svg
             extra:
               summary_tags: usa, bci, robotics, utah-array, hardware
@@ -18,7 +17,6 @@ landscape:
             name: Neurolutions
             description: Neurolutions provides non-invasive FDA approved devices for stroke rehabilitation.
             homepage_url: https://www.neurolutions.com
-            curnchbase: https://www.crunchbase.com/organization/neurolutions
             logo: neurolutions.svg
             extra:
               summary_tags: usa, bci, robotics, fda, stroke, non-invasive, hardware
@@ -42,7 +40,6 @@ landscape:
             name: LVIS
             description: Through our advanced brain network analysis tools (NeuroMatch®), provides Live Visualization to innovate how neurological diseases are examined. Lee Lab, Stanford.
             homepage_url: http://lviscorp.com
-            crunchbase: https://www.crunchbase.com/organization/lvis
             logo: lvis.svg
             extra:
               summary_tags: usa, south-korea, connectomics, visualization, standord
@@ -54,7 +51,6 @@ landscape:
               and IB DELTA SUITE™ MR image registration and subtraction for improved comparison of post-contrast to pre-contrast images.
               IB DCE™ and IB DIFFUSION™ complete the analysis for advanced MRI.
             homepage_url: https://www.imagingbiometrics.com
-            crunchbase: https://www.crunchbase.com/organization/imaging-biometrics
             logo: imaging_biometrics.svg
             extra:
               summary_tags: usa, fmri, surgery
@@ -74,7 +70,6 @@ landscape:
             name: INSIGHTEC
             description: Clinical neurosurgery solutions. Using ultrasound. Caregiving services.
             homepage_url: https://www.insightec.com
-            crunchbase: https://www.crunchbase.com/organization/insightec
             logo: insightec.svg
             extra:
               summary_tags: usa, israel, japan, surgery, healthcare, tremor, parkinsons
@@ -97,7 +92,6 @@ landscape:
             description: Neurologically inspired machine learning algorithms and solutions for cloud.
             homepage_url: https://numenta.com
             repo_url: https://github.com/numenta/nupic.torch
-            crunchbase: https://www.crunchbase.com/organization/numenta
             logo: numenta.svg
             extra:
               summary_tags: usa, cloud
@@ -125,7 +119,6 @@ landscape:
             name: Siemens
             description: Siemens produces leading fMRI machines and software for operating them.
             homepage_url: https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging
-            crunchbase: https://www.crunchbase.com/organization/siemens-healthcare
             logo: siemens_healthineers.svg
             repo_url: https://github.com/Siemens-Healthineers/ETWAnalyzer
             extra:
@@ -852,7 +845,12 @@ landscape:
             twitter: https://twitter.com/neuromatch
             logo: neuromatch-academy.svg
           - item:
-            name: "MIT OpenCourseWare: Brain and Cognitive Sciences"
+            name: "TODO: https://www.edx.org/learn/neuroscience"
+            description: Undergraduate and Graduate level course materials from MIT
+            homepage_url: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+            logo: mit_open_courseware_dark.svg
+          - item:
+            name: "TODO: coursera"
             description: Undergraduate and Graduate level course materials from MIT
             homepage_url: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
             logo: mit_open_courseware_dark.svg

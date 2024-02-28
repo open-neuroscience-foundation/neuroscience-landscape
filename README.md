@@ -43,6 +43,10 @@ Main
 Books
 - [ ] dedicated Amazon URL icon
 
+## Notes
+
+- `2024-02-29`, not using crunchbase, since it requires expensive Enterprise level subscription
+
 ### Labs
 🇺🇸 University of Pennsylvania: [Kording Lab](www.kordinglab.com) [:octocat:](https://github.com/KordingLab) | [Penn Image Computing & Science](www.picsl.upenn.edu) [:keyboard:](http://picsl.upenn.edu/software/)  
 🇺🇸 MIT, Princeton: [Seung Lab](https://seunglab.org/) [:keyboard:](https://seunglab.org/software/) [:octocat:](https://github.com/seung-lab)  
