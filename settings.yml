@@ -64,6 +64,7 @@ featured_items:
 
 footer:
   links:
+    github: https://github.com/open-neuroscience-foundation
   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
 
 grid_items_size: medium
@@ -108,7 +109,7 @@ groups:
 #
 header:
   links:
-    github: https://github.com/open-neuroscience-foundation
+    github: https://github.com/open-neuroscience-foundation/neuroscience-landscape
   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
 
 # Images (optional)
