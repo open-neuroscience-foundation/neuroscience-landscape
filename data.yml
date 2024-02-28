@@ -380,7 +380,7 @@ landscape:
         name: Surgery
         items:
           - item:
-            name: Auth-Surgery
+            name: Auto-Surgery
             description: A method for performing precise surgery, automated cranitomies and large cranial windows.
             homepage_url: http://www.autosurgery.org
             logo: autosurgery.svg
