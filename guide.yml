@@ -3,13 +3,12 @@ categories:
     content: |
       This is a list of major laboratories at universities that work on domains related to neuroscience.
       This list is organized by their affiliated universities, as usually each university has multiple research labs.
-      Major labs are emphasized.
 
       Disclaimer: lab emphasis is experimental.
-      Neuroscience Landscape maintainers strive for welcoming and constructive collaboration. 
-      As we receive more feedback from the academic community we will adjust this.
-      Feel free to bring to our attention strategy for emphasize as well as data points.
-      Contributions welcomed.
+      It is combination of hindex and number of publications.
+      We strive for welcoming and constructive collaboration. 
+      As we receive more feedback from the academic community we will adjust this policy.
+      Feel free to bring to our attention changes to policy or data. Contributions welcomed.
     subcategories:
       - subcategory: EPFL
         content: |
