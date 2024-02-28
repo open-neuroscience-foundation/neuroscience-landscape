@@ -26,13 +26,7 @@ jobs:
       - name: get landscape cli
         run: curl --proto '=https' --tlsv1.2 -LsSf https://github.com/cncf/landscape2/releases/download/v0.6.1/landscape2-installer.sh | sh
       - name: build landscape
-        run: |
-          landscape2 build \                    
-          --data-file data.yml \
-          --settings-file settings.yml \
-          --guide-file guide.yml \
-          --logos-path logos \
-          --output-dir build
+        run: landscape2 build --data-file data.yml --settings-file settings.yml --guide-file guide.yml --logos-path logos --output-dir .
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
