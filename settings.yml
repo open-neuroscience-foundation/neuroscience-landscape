@@ -23,7 +23,7 @@ featured_items:
 footer:
   links:
     github: https://github.com/open-neuroscience-foundation
-  logo: https://raw.githubusercontent.com/open-neuroscience-foundation/neuroscience-landscape/main/logos/onf-light.png
+  logo: https://raw.githubusercontent.com/open-neuroscience-foundation/.github/1d1273080474ce69a949cb8a5cec0820d0997f8d/logo/onf-light.png
   text: "Projects mentioned may or may not be affiliated with this foundation. Open Neuroscience Foundation. 2024"
 
 grid_items_size: medium
@@ -55,7 +55,7 @@ groups:
 header:
   links:
     github: https://github.com/open-neuroscience-foundation/neuroscience-landscape
-  logo: https://raw.githubusercontent.com/open-neuroscience-foundation/neuroscience-landscape/main/logos/onf-dark.png
+  logo: https://raw.githubusercontent.com/open-neuroscience-foundation/.github/1d1273080474ce69a949cb8a5cec0820d0997f8d/logo/onf-dark.png
 
 images:
   favicon: https://raw.githubusercontent.com/open-neuroscience-foundation/neuroscience-landscape/main/logos/onf-light-filled.png

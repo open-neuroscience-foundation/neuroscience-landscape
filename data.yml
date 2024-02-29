@@ -294,6 +294,22 @@ landscape:
     name: Laboratories
     subcategories:
       - subcategory:
+        name: University of Pennsylvania
+        items:
+          - item:
+            name: Kording Lab
+            description: |
+              We are a group of data scientists with interest in brains and, more general, biomedical research.
+              Our research is more diverse than most labs, and also changes much more quickly!
+              Right at the moment, much of the research in the lab is about deep learning and its applications.
+              We also do a good bit of neural data analysis.
+              Right now we are also very much interested in causality and its links with machine learning.
+            homepage_url: https://www.kordinglab.com
+            repo_url: https://github.com/KordingLab
+            logo: kording-lab.svg
+            extra:
+              summary_tags: usa, causality, computational-neuroscience, spikes
+      - subcategory:
         name: EPFL
         items:
           - item:
@@ -367,6 +383,126 @@ landscape:
             logo: singer-lab.svg
             extra:
               summary_tags: germany
+      - subcategory:
+        name: MIT
+        items:
+          - item:
+            name: brain + cognitive sciences
+            description: |
+              The mission of the MIT Department of Brain and Cognitive Sciences is to reverse engineer the brain in order to understand the mind.
+              To do that we delve deeply into the mechanisms of the brain at all levels: molecules, synapses, neurons, circuits, algorithms, human behavior, cognition, and everything in between.
+              Our headquarters is the largest neuroscience research facility in the world, with some 700 students, postdocs, undergraduates, faculty, and staff all engaged in brain science.
+            homepage_url: https://bcs.mit.edu/
+            logo: bcs-mit.svg
+            extra:
+              summary_tags: usa, boston, mit, cellular-neuroscience, systems-neuroscience, cognitive-neuroscience, computational-neuroscience
+      - subcategory:
+        name: Stanford
+        items:
+          - item:
+            name: Cognitive & Systems Neuroscience
+            description: |
+              The Stanford Cognitive and Systems Neuroscience Laboratory (SCSNL), directed by Prof. Vinod Menon, 
+              aims to advance fundamental knowledge of human brain function and to use this knowledge to help children and adults with psychiatric and neurological disorders.
+              Our research integrates multimodal brain imaging techniques with novel computational techniques and cognitive-behavioral-clinical assays 
+              to determine mechanisms underlying cognitive, emotional, and social function and dysfunction.
+              Our interdisciplinary team includes researchers from multiple scientific and engineering disciplines, including cognitive neuroscience, 
+              psychology, psychiatry, neurology, bioinformatics, computer science, and electrical/biomedical engineering.
+              Lab projects focus on normative neurocognitive function across the human lifespan, and robust identification of cognitive and 
+              neurobiological signatures of neurodevelopmental, psychiatric and neurological disorders. 
+              Projects span multiple clinical disorders, including learning disabilities, autism, ADHD, anxiety and mood disorders, schizophrenia, and dementia.
+              All projects typically involve working with a multidisciplinary team of researchers developing and implementing novel computational tools and 
+              experimental techniques for probing brain function and dysfunction.
+            homepage_url: https://med.stanford.edu/scsnl/about1.html
+            repo_url: https://github.com/scsnl
+            logo: scsnl.svg
+            extra:
+              summary_tags: usa, stanford
+          - item:
+            name: Brain Dynamics Lab
+            description: |
+              We are a computational neuropsychiatry lab dedicated to developing computational methods to better understand brain's
+              overall dynamical organization in healthy and patient populations.
+              We employ algorithms from a wide range of fields, including Applied Mathematics, Econometrics, Machine Learning, Biophysics, and Network Science.
+            homepage_url: https://web.stanford.edu/group/bdl
+            repo_url: https://github.com/braindynamicslab
+            logo: stanford_bdl.svg
+            extra:
+              summary_tags: usa, stanford, ml, biophysics, network-science
+          - item:
+            name: Lee Lab
+            description: |
+              One of our major research goals is to develop novel neuromodulation, neuroimaging, and recording technologies to enable discovery of circuit mechanisms underlying the brain.
+              Based on the unique data we obtain from novel neuromodulation, imaging, and recording technologies, we can model brain function computationally. 
+              We combine brain circuit modeling with neuromodulation, imaging, and behavioral experiments in vivo to discover, test, and validate circuit mechanisms underlying brain disorders.
+              We combine modeling with neuromodulation, imaging, and behavioral experiments to discover, test, and validate novel circuit based therapeutics.
+            homepage_url: https://llab.stanford.edu
+            logo: stanford_lee_lab.svg
+            extra:
+              summary_tags: usa, stanford, ml, fmri, circuitry, neurogimaging
+      - subcategory:
+        name: Berkeley
+        items:
+          - item:
+            name: Compuatation and Language
+            description: |
+              colala's research includes computational and experimental approaches to language acquistion, language processing, 
+              and understanding the core features of language. Our work draws on corpus methods, behavioral experiments
+              with adults and children, computational and mathematical modeling, as well as state-of-the-art techniques in machine learning, 
+              information theory, statistics, computer science, and linguistics.
+              We collaborate closely with Tedlab at MIT, The CAOS lab at CMU, The Kidd Lab at UC Berkeley, and The Hayden Lab at the University of Minnesota.
+            homepage_url: http://colala.berkeley.edu
+            repo_url: https://github.com/piantado
+            logo: berkeley_colala_lab.svg
+            extra:
+              summary_tags: usa, language, linguistics
+          - item:
+            name: Perceptual Reality
+            description: |
+              We are a vision research lab at University of California, Berkeley. 
+              Our work examines the principles underlying biological visual perception, with relevance to both basic and translational questions.
+            homepage_url: http://www.emilyacooper.org/index.html
+            repo_url: https://github.com/eacooper
+            logo: berkeley_perceptual_reality_lab.svg
+            extra:
+              summary_tags: usa, vision, perception
+          - item:
+            name: Gallant Lab
+            description: |
+              We focus on Cognitive, Systems and Computational Neuroscience.
+            homepage_url: https://www.gallantlab.org
+            repo_url: https://github.com/gallantlab
+            logo: gallant_lab.svg
+            extra:
+              summary_tags: usa, visualization, systems-neuroscience, computational-neuroscience
+          - item:
+            name: Theunissen Lab
+            description: |
+              The long term goal of the research in the laboratory is to understand the neural computations that underlie auditory perception
+              with a focus on how the brain of animals and humans decipher behaviorally relevant sounds and, in particular, vocalizations used in communication.
+              We believe that the neural representation of sound, the major auditory perceptual dimensions (pitch, timbre, rhythm) and the statistics of 
+              natural sounds are intertwined and that understanding this 3-way relationship is critical for explaining audition.
+              Our research approach is multifaceted and interdisciplinary; we combine animal behavior, human psychophysics, sensory neurophysiology
+              and theoretical and computational neuroscience.
+            homepage_url: http://theunissen.berkeley.edu
+            repo_url: https://github.com/theunissenlab
+            logo: theunissen_lab.svg
+            extra:
+              summary_tags: usa, audition, neurophysiology, computational-neuroscience
+          - item:
+            name: Bouchard Lab
+            description: |
+              We are an interdisciplinary team that focuses on understanding how distributed neural circuits gives rise to coordinated behaviors and perception.
+              We take a two-pronged approach to this problem by conducting in vivo neuroscience experiments and developing data science tools.
+              On the neuroscience side, we investigate functional organization and dynamic coordination in brain by combining in vivo multi-scale electrophysiology and optogenetics in rodents.
+              This multi-modal, multi-scale approach provides the simultaneous breadth of coverage and spatio-temporal resolution required to determine neural computations at the speed-of-thought.
+              On the data science side, we develop analysis tools for (neuro)-science, including statistical-machine learning algorithms, inference in dynamic graphical models, and data standards/formats.
+              These interpretable and predictive tools provide enhanced insight into the generative processes that produce data.
+            homepage_url: https://bouchardlab.lbl.gov/
+            repo_url: https://github.com/BouchardLab
+            logo: bouchard_lab.svg
+            extra:
+              summary_tags: usa, data-science, electrophysiology, optogenetics, rodentds, data-science, tooling
   - category:
     name: Hardware
     subcategories:
@@ -724,7 +860,7 @@ landscape:
             extra:
               summary_tags: usa, alllen-institute, microscopy, images, pytorch, ml
       - subcategory:
-        name: Recording
+        name: Spikes
         items:
           - item:
             name: SpikeInterface
@@ -744,6 +880,21 @@ landscape:
             logo: spike-glx.svg
             extra:
               summary_tags: mfi, clinical, allen-institute, neuropixels
+          - item:
+            name: spykes
+            description: |
+              Almost any electrophysiology study of neural spiking data relies on a battery of standard analyses. 
+              Raster plots and peri-stimulus time histograms aligned to stimuli and behavior provide a snapshot visual description of neural activity.
+              Similarly, tuning curves are the most standard way to characterize how neurons encode stimuli or behavioral preferences.
+              With increasing popularity of population recordings, maximum-likelihood decoders based on tuning models are becoming part of this standard.
+              Yet, virtually every lab relies on a set of in-house analysis scripts to go from raw data to summaries.
+              We want to improve this status quo in order to enable easier sharing, better reproducibility and fewer bugs.
+              Spykes is a collection of Python tools to make the visualization and analysis of neural data easy and reproducible.
+            homepage_url: https://kordinglab.com/spykes
+            repo_url: https://github.com/KordingLab/spykes
+            logo: spykes.svg
+            extra:
+              summary_tags: spikes, kording-lab, usa, university-of-pennsylvania
       - subcategory:
         name: Data Formats
         items:
