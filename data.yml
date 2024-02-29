@@ -346,11 +346,17 @@ landscape:
         items:
           - item:
             name: Cognitive Neuroscience and Neuroimaging
-            description: Biological mechanisms underlying cognition from a network perspective.
+            description: |
+              We study the biological mechanisms underlying cognition from a network perspective.
+              Brain networks span from the micro-scale of neurons and synapses to the macro-scale of long range connections between brain regions.
+              We investigate how networks connect levels of organization in the brain and how they link structure to function. We also investigate pathophysiology and try to find treatment modalities of diseases that give perturbation to cognitive functions such as Alzheimer's disease.
+              For these purposes, we mainly use in vivo imaging modalities such as two-photon microscopy, near-infrared fluorescence imaging, EEG and MRI.
+              Images are obtained from human subjects and animal models to investigate how the integrative nature of brain function can be illuminated from a microlevel network to a large scale network.
+              Through this we want to understand the higher cognitive functions of human brain (how the brain works) and to develop restoration, augmentation and modulation systems for patients with brain dysfunctions using current cutting-edge bioengineering techniques.
             homepage_url: http://ibrain.kaist.ac.kr
-            logo: cncf.svg
+            logo: kaist-cni-lab.svg
             extra:
-              summary_tags: south-korea, connectomic, imagin, pathophysiolog, alzheimer
+              summary_tags: south-korea, connectomics, imagining, pathophysiolog, alzheimer, eeg, mri, pathophysiology
           - item:
             name: Synaptic Brain Dysfunction
             description: Explore the mechanisms underlying various neuropsychiatric disorders by focusing on defects in synaptic development.
