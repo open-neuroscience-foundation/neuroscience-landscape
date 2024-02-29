@@ -357,7 +357,89 @@ landscape:
             homepage_url: https://molneuro.kaist.ac.kr/contents/
             logo: kasit-sbdl.svg
             extra:
-              summary_tags: south-korea synaptopathy autism
+              summary_tags: south-korea, synaptopathy, autism
+          - item:
+            name: Decision Brain Dynamics Laboratory
+            description: |
+              The ultimate goal of the DECISION Brain Dynamics Laboratory in KAIST (PI: Prof. Jaeseung Jeong) is to understand the complex brain mechanism underlying decision-making and social cognition and their impairments in neuropsychiatric disorders.
+              To achieve this goal, we use neuroimaging methods including EEG/fMRI and computational modeling tools to investigate how cortical-subcortical circuits work during decision-making and social cognition.
+              We attempt to develop the integrative models of impaired cognitive processes in neuropsychiatric disorders and develop brain-computer
+              Interface techniques for therapeutic neuromodulations of neuropsychiatric patients and robot-animal group controls.
+              In addition, we study how the brain produces aesthetic preference on paintings and music and how it manipulates social communications between humans.
+            homepage_url: https://raphe.kaist.ac.kr
+            logo: kaist-decision-brain-dynamics-lab.svg
+            extra:
+              summary_tags: south-korea
+          - item:
+            name: Lab of Neural Interoception
+            description: |
+              Animals in the wild encounter many types of external stimuli such as threat and food,
+              and must exhibit appropriate responses for survival. How does a brain recognize such
+              stimuli with sensory systems, create internal representations of these external stimuli,
+              and then elicit appropriate behavioral responses?
+              To address this problem, we take systems approach and use the fruit fly, Drosophila melanogaster,
+              because of a wealth of genetic tools available, a relatively simple brain, and a complex, interesting
+              behavioral repertoire. Rapidly emerging tools also permit relatively facile identification of neural
+              substrates. We recently launched studies using mice in addition to fruit flies. Our focus has been to identify neurons that subserve a particular innate behavior, apply functional imaging and electro-
+              physiology to probe their activity, therefore, define precisely contributions of each set of neurons
+              to behavior. We are currently interested in identification and characterization of post-ingestive,
+              internal sensors that detect the nutritional value of carbohydrate, fats and protein (macronutrients),
+              and micronutrients in Drosophila. We are extending this line of work in mice to elucidate the
+              identities and characteristics of the mammalian nutrient sensors, and understand the mechanisms
+              by which these sensors contribute to feeding and metabolism. Among a number of discoveries that our laboratory has made thus far, we have contributed
+              significantly to understanding the function of Glucose-sensing neurons in the brain. Glucose-sensing
+              neurons were identified initially by electrophysiological recordings (Oomura et al., 1964 Science),
+              but the physiological function mediated by these neurons in animals were unclear until recently.
+              We have been able to elucidate their function using Drosophila: 1) the nutritional content of sugar,
+              rather than its palatability, was detected by a discrete population of glucose-excited neurons (termed
+              DH44 neurons) that promote sugar consumption (Dus et al., 2015 Neuron and 2011 PNAS, Oh et al., 2021 Neuron) and 2) a pair of glucose-excited neurons (termed CN neurons) regulate the two key endocrine axes: insulin and glucagon (Oh et al., 2019 Nature).
+              These are a series of significant discoveries because approximately 10-15% of neurons in our brain are glucose-sensing, but it has taken over 50 years to reveal their physiological function in an animal.
+              Understanding the functions of glucose-sensing in Drosophila would provide a foundation for studying their functions in mice and humans, and developing therapeutic potentials for health issues such as obesity, diabetes, eating disorders.
+              In addition to the studies of glucose-sensing, we have identified and characterized neural circuits mediating the detection and response to the deprivation of amino acids (Kim et al., 2021 Nature), 
+              and other macronutrients, as well as essential micronutrients (see a Review by Kim et al, 2021 Cell Metabolism).
+            homepage_url: https://www.suhlab-neuralinteroception.kaist.ac.kr
+            logo: kaist-neural-interoception.svg
+            extra:
+              summary_tags: south-korea, snesors, interoception, fruit-fly
+          - item:
+            name: (Lee Lab) Neural Systems For Sensory Integration Laboratory
+            description: |
+              How do we perceive the world? Inputs from the external world, i.e., sensory stimuli, need to be actively processed in the brain to be transformed into a "percept".
+              Sensory processing (computation of sensory stimuli in the brain) is the gateway to sensory perception, and efficient sensory processing is required for the perceptual behavior of the animal.
+              Switching from a drowsy, inattentive behavioral state to an aroused, the attentive state is crucial for the effective perception of relevant sensory stimuli and execution of cognitively demanding tasks.
+              How do our brain circuits execute this amazing function? We answer this question by studying the following topics in the mouse animal model:
+              - Modality-specific sensory processing;
+              - Selective attention and modulation of perception;
+              - Multisensory integration and cross-modal binding;
+              - Perceptual decision and sensorimotor transformation;
+              - Social perception;
+              Our research aims to unravel brain circuits that are important for selective attention, multisensory integration, and behavioral decision, which are critical for cognitive and perceptual behaviors.
+              Insights from our study should be broadly applicable to the treatment of cognitive disorders, including attention deficit disorder, autism, schizophrenia, and dementia.
+            homepage_url: https://sites.google.com/site/leelab2013/home
+            logo: kaist_lee_lab.svg
+            extra:
+              summary_tags: south-korea, snesors, interoception, fruit-fly
+          - item:
+            name: Systems Neuroscience Laboratory
+            description: |
+              Our goal is to understand the neural mechanisms that support decision making and episodic memory. 
+              We investigate how neural processes underlying these functions are implemented in the rodent brain by examining discharge characteristics of neuronal ensembles in behaving animals, by examining the effects of manipulating specific neural systems on animal behavior and neural activity, and by computational modeling.
+              Neural basis of episodic memory.
+              Notwithstanding intensive and extensive investigations for the past few decades, neural circuit mechanisms underlying hippocampal mnemonic processing are far from being clear.
+              We have proposed a new model for hippocampal function—the binding-simulation-selection model—to account for new empirical findings and to make sense of why the hippocampus has evolved not only to remember but also to imagine episodes.
+              Under this working hypothesis, we investigate how simulation-selection processes are implemented in CA3-CA1 networks, concentrating on value-dependent online and offline activities of hippocampal neurons and the role of dopamine in these processes.
+              We also investigate hippocampal-neocortical interactions to understand how valuable sequences, that are selected by CA1, are stored as long-term memories in neocortical areas.
+              Neural basis of decision making.
+              Under the broad category of decision making, we investigate functional microcircuits in the frontal cortex underlying adaptive control of behavior.
+              Specific topics include reward-based learning, value representation, value-dependent action selection, and working memory.
+              We investigate how different types of excitatory and inhibitory neurons embedded in the frontal cortex neural circuitry process and store information for flexible control of behavior in a way to maximize a long-term sum of rewards. 
+              Neural basis of autism spectrum disorder (ASD).
+              We investigate how ASD symptoms might be linked to abnormalities in the hippocampal and frontal cortical neural processes.
+              Specifically, we investigate how hippocampal and frontal cortical neural activity differs between wild-type and ASD model mice under diverse behavioral settings such as perceptual decision making and social interactions.
+            homepage_url: https://sites.google.com/site/systemsneurolaboratory/project
+            logo: kaist_systems_neuro_lab.svg
+            extra:
+              summary_tags: south-korea, memory, alzheimer, hippocampus, autism
       - subcategory:
         name: TUM
         items:
@@ -396,6 +478,74 @@ landscape:
             logo: bcs-mit.svg
             extra:
               summary_tags: usa, boston, mit, cellular-neuroscience, systems-neuroscience, cognitive-neuroscience, computational-neuroscience
+      - subcategory:
+        name: Columbia University
+        items:
+          - item:
+            name: Kandel Lab
+            description: |
+              By probing the synaptic connections between nerve cells in the humble sea slug, 
+              Eric Kandel has uncovered some of the basic molecular mechanisms underlying learning and memory in animals ranging from snails to flies 
+              to mice and even in humans. His groundbreaking studies have demonstrated the fundamental ways that nerve cells alter their response 
+              to chemical signals to produce coordinated changes in behavior.
+              This work is central to understanding not only normal memory but also dementia and other mental illnesses that affect memory.
+              Kandel's research has shown that learning produces changes in behavior by modifying the strength of connections between nerve cells, 
+              rather than by altering the brain's basic circuitry. He went on to determine the biochemical changes that accompany memory formation, 
+              showing that short-term memory involves a functional modulation of the synapses while long-term memory requires the activation of genes and 
+              the synthesis of proteins to grow new synaptic connections.
+              For this work, the Austrian-born Kandel was awarded the 2000 Nobel Prize in Physiology or Medicine.
+            homepage_url: https://www.biochem.cuimc.columbia.edu/research-labs/kandel-lab
+            logo: kandel_lab.svg
+            extra:
+              summary_tags: usa, nobel-prize
+      - subcategory:
+        name: OIST
+        items:
+          - item:
+            name: Neural Coding and Brain Computing
+            description: |
+              Cognitive functions of the brain, such as sensory perception, learning and memory, and decision making emerge from computations by neural networks.
+              We consider that the advantages of biological neural computation in comparison with machine computation reside in the way that the brain's neural circuits implement computation.
+              To uncover neural code and circuit mechanisms of brain computing, we take computational and theoretical approaches.
+              Our goal is to construct a minimal but yet effective description of powerful and flexible computation implemented by the brain's neural circuits.
+            homepage_url: https://groups.oist.jp/ncbc
+            repo_url: https://github.com/oist-ncbc
+            logo: oist-ncbc.svg
+            extra:
+              summary_tags: japan, okinawa, computational-neuroscience
+      - subcategory:
+        name: OIST
+        items:
+          - item:
+            name: Neural Coding and Brain Computing
+            description: |
+              Cognitive functions of the brain, such as sensory perception, learning and memory, and decision making emerge from computations by neural networks.
+              We consider that the advantages of biological neural computation in comparison with machine computation reside in the way that the brain's neural circuits implement computation.
+              To uncover neural code and circuit mechanisms of brain computing, we take computational and theoretical approaches.
+              Our goal is to construct a minimal but yet effective description of powerful and flexible computation implemented by the brain's neural circuits.
+            homepage_url: https://groups.oist.jp/ncbc
+            repo_url: https://github.com/oist-ncbc
+            logo: oist-ncbc.svg
+            extra:
+              summary_tags: japan, okinawa, computational-neuroscience
+      - subcategory:
+        name: Duke-NUS
+        items:
+          - item:
+            name: Neuroscience and Behavioural Disorders
+            description: |
+              The Neuroscience and Behavioural Disorders Programme at Duke-NUS is focused on understanding the structure and function of the nervous systems, 
+              and the relation of neural mechanisms in model systems to human neurological, psychiatric and ophthalmological disorders. 
+              The research interests of the faculty members range from neural development and circuit regulation to brain imaging, perception and behavior.
+              Collaborating with the clinical faculty at Singapore General Hospital, the National Neuroscience Institute, 
+              the Institute of Mental Health and the Singapore Eye Research Centre, the Programme has a strong footing in neurodegenerative diseases, 
+              cognitive disorders, developmental disorders and diseases of the neural retina. The ultimate aim of the work carried out by the principal
+              investigators in the Programme is to unravel the secret behind human intelligence and to translate their discoveries into diagnostic and
+              therapeutic strategies in brain disorders like autism, Parkinson's disease and dementia.
+            homepage_url: https://www.duke-nus.edu.sg/nbd
+            logo: dukenus.svg
+            extra:
+              summary_tags: singapore, clinical, parkinsons, imaging
       - subcategory:
         name: Stanford
         items:
