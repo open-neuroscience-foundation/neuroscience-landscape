@@ -869,6 +869,24 @@ landscape:
             logo: neuropixels.svg
             extra:
               summary_tags: usa, allen-institute, neuropixels, ucl, hhmi
+          - item:
+            name: "DaXi: High-Resolution, Large Imaging Volume, and Multi-View Single Objective Light-Sheet Microscope"
+            description: |
+              The DaXi microscope is a single-objective light-sheet microscope design that combines the advantages of 
+              standard single-objective microscopes with the speed, coverage, resolution, and gentleness of light-sheet microscopes.
+              Its main features include a wider field of view and high-resolution imaging via a custom remote focusing objective, 
+              fast volumetric imaging over larger volumes without compromising image quality or necessitating tiled acquisition, 
+              fuller image coverage for large samples via multi-view imaging, and higher throughput multi-well imaging via remote coverslip placement. 
+              The microscope achieves a resolution of 450 nm laterally and 2 μm axially over an imaging volume of 3,000 x 800 x 300 μm, 
+              making it suitable for imaging large living samples such as developing embryos. 
+              The DaXi microscope also improves sample mounting ergonomics and can be converted from upright to inverted using remote focusing. 
+              The microscope has been successfully used to image various systems, including Drosophila egg chamber development, 
+              zebrafish whole-brain activity, and zebrafish embryonic development, up to nine embryos at a time.
+            homepage_url: https://github.com/royerlab/daxi
+            repo_url: https://github.com/royerlab/daxi
+            logo: daxi.svg
+            extra:
+              summary_tags: usa, chan-zuckerberg-foundation, royer-lab, microscope
       - subcategory:
         name: Surgery
         items:
@@ -879,6 +897,27 @@ landscape:
             logo: autosurgery.svg
             extra:
               summary_tags: usa, mit, allen-institute
+      - subcategory:
+        name: Lab Equipment
+        items:
+          - item:
+            name: "ZAF: Zebrafish Automated Feeder"
+            description: |
+              In the past few decades, aquatic animals have become popular model organisms in biology, spurring a growing interest in establishing aquatic facilities. 
+              Aquatic zebrafish are widely studied and relatively easy to culture using commercial systems. 
+              However, a challenging aspect of maintaining aquatic facilities is animal feeding, which is both time- and resource-consuming. 
+              To facilitate the implementation of a zebrafish colony in any laboratory, we developed an open-source fully automatic daily feeding system.
+               We named our system ZAF for Zebrafish Automatic Feeder. 
+               ZAF is reliable, provides a standardized amount of food to every tank, is cost-efficient and easy to build. 
+               The advanced version, ZAF+, allows for the precise control of food distribution as a function of fish density per tank. 
+               Here we provide all of the instructions to build the two automatic feeding systems, from the hardware and a friendly user interface 
+               to the open-source python code. Importantly, the design is modular and can be scaled depending on user needs. 
+               Furthermore, our results confirm that ZAF and ZAF+ do not adversely affect zebrafish culture, enabling fully automatic feeding for any aquatic facility.
+            homepage_url: https://github.com/royerlab/ZAF
+            repo_url: https://github.com/royerlab/ZAF
+            logo: zaf.svg
+            extra:
+              summary_tags: usa, chan-zuckerberg-foundation, royer-lab, zebrafish
   - category:
     name: Datasets
     subcategories:
