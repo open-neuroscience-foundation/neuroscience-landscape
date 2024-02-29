@@ -1008,6 +1008,23 @@ landscape:
             logo: allen-mcmodels.svg
             extra:
               summary_tags: uk, allen-institute, mouse
+      - subcategory:
+        name: Physiology
+        items:
+          - item:
+            name: Allen Brain Map Synaptic Physiology
+            description: |
+              The Allen Institute for Brain Science aims to further our understanding of neuronal cell types by describing the patterns of connectivity 
+              among them and characterizing their synaptic signaling. 
+              The Synaptic Physiology project advances this goal by examining the intralaminar connectivity between neuronal subclasses?
+              in human and mouse cortex via in vitro electrophysiology. 
+              This dataset is readily accessible and produced using standardized experimental methods and analysis.
+              The applications of the dataset are wide-ranging, as the data are suited to parameterize synaptic modeling studies,
+              address higher-order connectivity questions, and inform current comprehension of the cortical microcircuit.
+            homepage_url: http://portal.brain-map.org/connectivity/synaptic-physiology
+            logo: allen-synaptic-physiology.svg
+            extra:
+              summary_tags: usa, allen-institute, physiology, recordings, api, sqlite, hdf5, nwbv1
   - category:
     name: Software
     subcategories:
@@ -1148,6 +1165,16 @@ landscape:
             logo: allen-vnd.svg
             extra:
               summary_tags: usa, allen-institute, university-of-illinois
+          - item:
+            name: Allen Institute Synaptic Physiology (aisynphys)
+            description: |
+              This package provides data access and analysis tools for the Allen Institute Synaptic Physiology datasets.
+              The Matrix Analyzer allows you to browse and interact with the Synaptic Physiology Dataset through a graphical user interface.
+            homepage_url: http://portal.brain-map.org/explore/connectivity/synaptic-physiology
+            repo_url: https://github.com/AllenInstitute/aisynphys
+            logo: allen-synaptic-physiology.svg
+            extra:
+              summary_tags: physiology, allen-institute, synapse
       - subcategory:
         name: Segmentation
         items:
@@ -1159,6 +1186,17 @@ landscape:
             logo: segment-anything.svg
             extra:
               summary_tags: usa, facebook, meta, computer-vision, fair
+          - item:
+            name: napari
+            description: |
+              napari is a fast, interactive, multi-dimensional image viewer for Python.
+              It's designed for browsing, annotating, and analyzing large multi-dimensional images.
+              It's built on top of Qt (for the GUI), vispy (for performant GPU-based rendering), and the scientific Python stack (numpy, scipy).
+            homepage_url: https://napari.org/
+            repo_url: https://github.com/napari/napari
+            logo: napari.svg
+            extra:
+              summary_tags: usa
           - item:
             name: napari-segment-anything
             description: Segment Anything Model (SAM) native Qt UI. Used in ExA-SPIM.
