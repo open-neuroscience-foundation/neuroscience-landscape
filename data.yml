@@ -514,21 +514,6 @@ landscape:
             extra:
               summary_tags: japan, okinawa, computational-neuroscience
       - subcategory:
-        name: OIST
-        items:
-          - item:
-            name: Neural Coding and Brain Computing
-            description: |
-              Cognitive functions of the brain, such as sensory perception, learning and memory, and decision making emerge from computations by neural networks.
-              We consider that the advantages of biological neural computation in comparison with machine computation reside in the way that the brain's neural circuits implement computation.
-              To uncover neural code and circuit mechanisms of brain computing, we take computational and theoretical approaches.
-              Our goal is to construct a minimal but yet effective description of powerful and flexible computation implemented by the brain's neural circuits.
-            homepage_url: https://groups.oist.jp/ncbc
-            repo_url: https://github.com/oist-ncbc
-            logo: oist-ncbc.svg
-            extra:
-              summary_tags: japan, okinawa, computational-neuroscience
-      - subcategory:
         name: Duke-NUS
         items:
           - item:
