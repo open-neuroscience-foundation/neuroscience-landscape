@@ -64,6 +64,22 @@ landscape:
             extra:
               summary_tags: usa, fmri, imaging, berkeley
       - subcategory:
+        name: Neurophysiology
+        items:
+          - item:
+            name: OpenScope
+            description: |
+              A platform for high-throughput and reproducible neurophysiology, openly available to run experiments for external scientists.
+              OpenScope is the first astronomical observatory in Neuroscience.
+              Scientists across the world can propose new experiments that will be executed freely on the Allen Brain Observatory pipeline.
+              Record from thousands of neurons across the mouse brain using either multi-probes Neuropixels recordings or multi-area two photon calcium imaging.
+              An end-to-end standardized experimental platform including brain surgery, animal behavioral training, neuronal recordings and brain reconstruction.
+              All datasets are shared as standardized Neurodata Without Borders (NWB) files in a public archive (DANDI) in the cloud.
+            homepage_url: https://alleninstitute.org/division/neural-dynamics/openscope/
+            logo: open-scope.svg
+            extra:
+              summary_tags: usa, allen-institute, neuropixels, nwb, neurophysiology
+      - subcategory:
         name: Surgery
         items:
           - item:
