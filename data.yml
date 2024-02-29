@@ -607,20 +607,69 @@ landscape:
           - item:
             name: Kandel Lab
             description: |
+              The Kandel Lab studies explicit memory storage (the conscious recall of information about people, places, and objects) in mice and implicit memory storage in the snail Aplysia.
               By probing the synaptic connections between nerve cells in the humble sea slug, 
-              Eric Kandel has uncovered some of the basic molecular mechanisms underlying learning and memory in animals ranging from snails to flies 
-              to mice and even in humans. His groundbreaking studies have demonstrated the fundamental ways that nerve cells alter their response 
-              to chemical signals to produce coordinated changes in behavior.
+              Eric Kandel has uncovered some of the basic molecular mechanisms underlying learning and memory in animals ranging from snails to flies to mice and even in humans.
+              His groundbreaking studies have demonstrated the fundamental ways that nerve cells alter their response to chemical signals to produce coordinated changes in behavior.
               This work is central to understanding not only normal memory but also dementia and other mental illnesses that affect memory.
-              Kandel's research has shown that learning produces changes in behavior by modifying the strength of connections between nerve cells, 
-              rather than by altering the brain's basic circuitry. He went on to determine the biochemical changes that accompany memory formation, 
-              showing that short-term memory involves a functional modulation of the synapses while long-term memory requires the activation of genes and 
-              the synthesis of proteins to grow new synaptic connections.
+              Kandel's research has shown that learning produces changes in behavior by modifying the strength of connections between nerve cells, rather than by altering the brain's basic circuitry.
+              He went on to determine the biochemical changes that accompany memory formation, showing that short-term memory involves 
+              a functional modulation of the synapses while long-term memory requires the activation of genes and the synthesis of proteins to grow new synaptic connections.
               For this work, the Austrian-born Kandel was awarded the 2000 Nobel Prize in Physiology or Medicine.
             homepage_url: https://www.biochem.cuimc.columbia.edu/research-labs/kandel-lab
             logo: kandel_lab.svg
             extra:
-              summary_tags: usa, nobel-prize
+              summary_tags: usa, nobel-prize, memory
+          - item:
+            name: Al-Hashimi Lab
+            description: The goal of the Al-Hashimi laboratory is to develop new methods for 'imaging' the dynamics of nucleic acids at atomic resolution.
+            homepage_url: https://www.biochem.cuimc.columbia.edu/research/research-labs/al-hashimi-lab
+            logo: alhashimi-lab.svg
+            extra:
+              summary_tags: usa, imaging
+          - item:
+            name: Axel Lab
+            description: The Axel Lab is primarily concerned with olfaction, or the sense of smell.
+            homepage_url: http://www.axellab.columbia.edu/
+            logo: cu-axel-lab.svg
+            extra:
+              summary_tags: usa, olfaction
+          - item:
+            name: Califano Lab
+            description: The Califano Lab studies biology from the perspective of the complex networks of gene and protein interactions that define and regulate cell physiology.
+            homepage_url: http://califano.c2b2.columbia.edu/
+            repo_url: https://github.com/califano-lab
+            logo: andrea-califano-lab.svg
+            extra:
+              summary_tags: usa, systems-biology, gene-networks
+          - item:
+            name: Frank Lab
+            description: The Frank Lab investigates the mechanism of translation on the ribosome by using cryo-electron microscopy and single-particle reconstruction.
+            homepage_url: https://joachimfranklab.org
+            logo: cu-frank-lab.svg
+            extra:
+              summary_tags: usa, electron-microscopy, reconstruction
+          - item:
+            name: Hobert Lab
+            description: The Hobert Lab studies the gene regulatory control mechanisms that generate the astounding diversity of cell types in the nervous system.
+            homepage_url: http://hobertlab.org/
+            logo: hobert-lab.svg
+            extra:
+              summary_tags: usa, cell-fate, cell-type
+          - item:
+            name: Sobolevsky Lab
+            description: The Sobolevsky Lab studies structure and function of ion channels using biochemical and biophysical methods, including cryo-EM, X-ray crystallography, electrophysiology and fluorescence measurements.
+            homepage_url: http://hobertlab.org/
+            logo: sobolevsky-lab.svg
+            extra:
+              summary_tags: usa, ion-channels
+          - item:
+            name: Zhang Lab
+            description: The Zhang Lab seeks to dissect RNA regulatory networks in the nervous system.
+            homepage_url: https://zhanglab.c2b2.columbia.edu/index.php/Main_Page
+            logo: cu-zhang-lab.svg
+            extra:
+              summary_tags: usa, molecular-mechanisms, rna, biochemistry, genomics, computational-approach, pluripotent-stem-cells
       - subcategory:
         name: OIST
         items:
@@ -905,7 +954,7 @@ landscape:
             repo_url: https://github.com/google/neuroglancer
             logo: neuroglancer.svg
             extra:
-              summary_tags: connectomics, tissue-slices
+              summary_tags: connectomics, tissue-slices, google
           - item:
             name: connectomeviewer
             description: Software Application for the Visualization and Analysis of Multi-Modal Multi-Scale Network and Neuroimaging Data with Python
