@@ -1175,6 +1175,58 @@ landscape:
             logo: allen-synaptic-physiology.svg
             extra:
               summary_tags: physiology, allen-institute, synapse
+          - item:
+            name: dexp
+            description: |
+              dexp is a napari, CuPy, Zarr, and DASK based library for managing, processing and visualizing light-sheet microscopy datasets. 
+              It consists in light-sheet specialised image processing functions (equalisation, denoising, dehazing, registration, fusion, stabilization, deskewing, deconvolution), 
+              visualization functions (napari-based viewing, 2D/3D rendering, video compositing and resizing, mp4 generation), 
+              as well as dataset management functions (copy, crop, concatenation, tiff conversion).
+              Almost all functions are GPU accelerated via CuPy but also have a numpy-based fallback option for testing on small datasets.
+              In addition to a functional API, DEXP offers a command line interface that makes it very easy for non-coders to pipeline large processing jobs all the way 
+              from a large multi-terabyte raw dataset to fully processed and rendered video in MP4 format.
+            homepage_url: https://github.com/royerlab/dexp
+            repo_url: https://github.com/royerlab/dexp
+            logo: dexp.svg
+            extra:
+              summary_tags: usa, chan-zuckerberg-foundation, royer-lab
+      - subcategory:
+        name: Imaging and Microscopy
+        items:
+          - item:
+            name: shrimPy
+            description: shrimPy is a pythonic framework for correlative 3D imaging of physical and molecular properties of cells at high throughput.
+            homepage_url: https://github.com/czbiohub-sf/shrimPy
+            repo_url: https://github.com/czbiohub-sf/shrimPy
+            logo: shrimPy.svg
+            extra:
+              summary_tags: usa, chan-zuckerberg-foundation
+          - item:
+            name: recOrder
+            description: |
+              recOrder is a collection of computational imaging methods.
+              It currently provides QLIPP (quantitative label-free imaging with phase and polarization), phase from defocus, and fluorescence deconvolution.
+            homepage_url: https://github.com/mehta-lab/recOrder
+            repo_url: https://github.com/mehta-lab/recOrder
+            logo: recorder.svg
+            extra:
+              summary_tags: usa, chan-zuckerberg-foundation, fluorescence, imaging
+          - item:
+            name: WaveOrder
+            description: Software to measure intrinsic order with wave optical reconstructions of density and anisotropy.
+            homepage_url: https://github.com/mehta-lab/waveorder
+            repo_url: https://github.com/mehta-lab/waveorder
+            logo: waveorder.svg
+            extra:
+              summary_tags: usa, chan-zuckerberg-foundation, mehta-lab
+          - item:
+            name: Aydin
+            description: Aydin is a user-friendly, feature-rich, and fast image denoising tool that provides a number of self-supervised, auto-tuned, and unsupervised image denoising algorithms.
+            homepage_url: https://royerlab.github.io/aydin/v0.1.15/index.html
+            repo_url: https://github.com/royerlab/aydin
+            logo: aydin.svg
+            extra:
+              summary_tags: usa, chan-zuckerberg-foundation, royer-lab
       - subcategory:
         name: Segmentation
         items:
@@ -1335,6 +1387,14 @@ landscape:
             logo: pytorch-fnet.svg
             extra:
               summary_tags: usa, alllen-institute, microscopy, images, pytorch, ml
+          - item:
+            name: VisCy
+            description: VisCy is a deep learning pipeline for training and deploying computer vision models for image-based phenotyping at single-cell resolution.
+            homepage_url: https://github.com/mehta-lab/viscy
+            repo_url: https://github.com/mehta-lab/viscy
+            logo: VisCy.svg
+            extra:
+              summary_tags: usa, chan-zuckerberg-foundation, single-cell, imaging
       - subcategory:
         name: Spikes
         items:
