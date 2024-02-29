@@ -130,6 +130,18 @@ landscape:
         name: Groups
         items:
           - item:
+            name: The Chan Zuckerberg Biohub Network
+            description: |
+              The Chan Zuckerberg Biohub Network is a group of nonprofit research institutes that bring together physicians, scientists, 
+              and engineers with the goal of pursuing grand scientific challenges on 10- to 15-year time horizons.
+              These institutes partner with Chan Zuckerberg Science in its goal to understand the mysteries of the cell and how cells interact within systems.
+              This collaboration will bring us closer to our mission to cure, prevent, or manage all diseases by the end of the century.
+            homepage_url: https://www.czbiohub.org/
+            repo_url: https://github.com/czbiohub-sf/
+            logo: chan-zuckerberg-biohub.svg
+            extra:
+              summary_tags: usa
+          - item:
             name: INCF
             description: |
               The mission of INCF is to promote the uptake of FAIR data management practices in neuroscience through the development of standards and best practices that support open, FAIR, and citable neuroscience.
@@ -293,6 +305,20 @@ landscape:
   - category:
     name: Laboratories
     subcategories:
+      - subcategory:
+        name: Chan Zuckerberg Biohub
+        items:
+          - item:
+            name: Royer Lab
+            description: |
+              The Royer Lab at the Chan Zuckerberg Biohub San Francisco is a pluridisciplinary team of computer scientists, optical engineers, and biologists.
+              Our goal is to build a time-resolved, multidimensional atlas of vertebrate development using zebrafish as a model organism.
+              To attain this goal, we design, build, and implement novel state-of-the-art light-sheet microscopes, as well as deep learning-based image processing and analysis algorithms.
+            homepage_url: https://github.com/royerlab
+            repo_url: https://github.com/royerlab
+            logo: royer-lab.svg
+            extra:
+              summary_tags: usa, computer-science, microscopy, biology, tooling, allen-institute
       - subcategory:
         name: University of Pennsylvania
         items:
@@ -1122,6 +1148,25 @@ landscape:
             logo: allen-vnd.svg
             extra:
               summary_tags: usa, allen-institute, university-of-illinois
+      - subcategory:
+        name: Segmentation
+        items:
+          - item:
+            name: Segment Anything
+            description: The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. It has been trained on a dataset of 11 million images and 1.1 billion masks, and has strong zero-shot performance on a variety of segmentation tasks.
+            homepage_url: https://github.com/facebookresearch/segment-anything
+            repo_url: https://github.com/facebookresearch/segment-anything
+            logo: segment-anything.svg
+            extra:
+              summary_tags: usa, facebook, meta, computer-vision, fair
+          - item:
+            name: napari-segment-anything
+            description: Segment Anything Model (SAM) native Qt UI. Used in ExA-SPIM.
+            homepage_url: https://github.com/royerlab/napari-segment-anything
+            repo_url: https://github.com/royerlab/napari-segment-anything
+            logo: napari-segment-anything.svg
+            extra:
+              summary_tags: usa, allen-institute, exa-spim, allen-institute-of-neural-dynamics, royer-lab
       - subcategory:
         name: Simulation
         items:
