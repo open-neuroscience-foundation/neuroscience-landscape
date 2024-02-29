@@ -19,6 +19,12 @@ categories:
       - subcategory: TUM
         content: |
           Technische Universität München is a major public research university in Germany.
+      - subcategory: Ernst Strüngmann Institute for Neuroscience
+        content: |
+          The Ernst Strüngmann Institute (ESI) for Neuroscience in Cooperation with Max Planck Society is an independent research institute 
+          financed by the Ernst Strüngmann Foundation which was created by Drs. Andreas and Thomas Strüngmann and named after their father Dr. Ernst Strüngmann.
+          The ESI is under the scientific governance of the Max Planck Society with the mission to perform excellent fundamental brain research.
+          ESI research focuses on understanding how the many parts of the brain work together to bring about our behaviour.
   - category: Books
     content: |
       This is a list of books on neuroscience.

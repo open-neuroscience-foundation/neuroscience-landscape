@@ -462,7 +462,8 @@ landscape:
           - item:
             name: Singer Lab
             description: |
-              We pursue the hypothesis that computations are performed in the high dimensional dynamic state space provided by the non-linear dynamics that evolve in the recurrent network of delay coupled oscillatory circuits. Core assumptions are:
+              We pursue the hypothesis that computations are performed in the high dimensional dynamic state space provided by the non-linear dynamics that evolve in the recurrent network of delay coupled oscillatory circuits.
+              Core assumptions are:
               i) information about statistical contingencies in natural scenes is contained in the weight distributions of recurrent connections and expressed in temporal correlations among the discharges of feature specific neurons;
               ii) information conveyed by top down projections as a function of attention and expectancy is also manifest in the correlation structure of distributed neuron populations and
               iii) if sensory evidence matches the predictions stored in the functional architecture of the recurrent networks and/or the expectancies conveyed by top down projections, network dynamics converge to states characterized by increased coherence (synchrony) and specific correlation patterns.
@@ -470,7 +471,123 @@ landscape:
             homepage_url: https://www.esi-frankfurt.de/research/singer-lab/
             logo: singer-lab.svg
             extra:
-              summary_tags: germany
+              summary_tags: germany, utah-array, visual-cortext
+          - item:
+            name: Poeppel Lab
+            description: |
+              The overall goal of my research program is to develop a theoretically motivated, computationally explicit, and biologically realistic perspective on auditory cognition (including music), speech perception, and language comprehension.
+              The work proceeds on three fronts:
+              (i) basic physiological properties of human cortex (non-invasive studies of neural encoding);
+              (ii) hearing and speech perception (psychophysical and neurobiological approaches); and
+              (iii) neurobiological foundations of language.
+              These three areas of inquiry are closely related, although not all of the work is necessarily of an interdisciplinary nature.
+              The lab uses all available cognitive neuroscience tools.
+              The main methods employed include electrophysiological recordings using magnetoencephalography (MEG), electroencephalography (EEG), and electrocorticography (ECoG), as well as imaging studies using structural and functional magnetic resonance imaging (MRI).
+            homepage_url: https://www.esi-frankfurt.de/research/poeppel-lab/
+            logo: poeppel_lab.svg
+            extra:
+              summary_tags: germany, audition, language, meg, eeg, ecog, mri
+          - item:
+            name: Cuntz Lab
+            description: |
+              How are neurons connected?
+              What are the fundamental principles of wiring in the brain, i.e. what is the connection code? 
+              What are the implications for computation and function?
+              Just as the gene map carries the rules for the structural design of any given organism, it is thought that the map of all circuits in the brain will help unravel its design principles and reveal much about its functioning.
+              A realm of novel techniques has recently emerged allowing the dissection of neural circuits at various levels to ultimately obtain the so-called connectome describing all connections in a given brain area.
+              However, as opposed to the genetic system in which the underlying code is well known since the pioneering work on the structure of DNA, the corresponding connection code remains a mystery.
+              More than a hundred years ago, however, Ramón y Cajal has suggested to interpret construction plans of the brain by observing the morphology of individual neurons.
+              We are now responding to the challenge laid down by Cajal by developing computational tools and mathematical laws to describe this link between structure and function.
+              Morphology is key to understanding both circuits and computation since it reflects the constraints given by both.
+            homepage_url: https://www.esi-frankfurt.de/research/cuntz-lab/
+            repo_url: https://github.com/cuntzlab
+            logo: cuntz_lab.svg
+            extra:
+              summary_tags: germany, connectomics, morpology, computational-neuroatonomy, neuroinformatics
+          - item:
+            name: Havenith & Schölvinck Lab
+            description: |
+              Humans may not be good at multitasking - but their brains are! At any given moment, a neuronal population may be involved in multiple cognitive processes, such as representing 
+              the physical properties of objects in the environment, adjusting for fluctuating attention levels, and implementing the physiological long-term changes that underlie learning.
+              Previous research has overwhelmingly focused on studying how each of these cognitive processes affects neuronal activity in isolation.
+              In contrast, we want to find out how neuronal activity represents complementary cognitive processes simultaneously at any given moment.
+              What's more, we aim to investigate if the solutions to this fundamental challenge of brain computation are evolutionarily preserved, or if they vary across species.
+              To study these questions, our lab conducts parallel experiments in the two most dominant model species of neuroscience - monkeys and mice.
+              Specifically, we use naturalistic foraging tasks in a virtual environment to examine visually guided decision-making in both species.
+              Simultaneously, we record the activity of large neuronal populations in visual cortical areas that are preserved across mammals.
+              This approach uniquely allows us to obtain moment-by-moment readouts of the multi-faceted behaviour of animals, which we then relate to various aspects of ongoing brain activity using cutting-edge computational tools.
+              In this way, we aim to for the first time explain how the neuronal representations of universal processes like learning and attention jointly unfold in the brain in real time.
+            homepage_url: https://www.esi-frankfurt.de/research/havenith-scholvinck-lab/
+            logo: havenith_scholvinck_lab.svg
+            extra:
+              summary_tags: germany, mouse, monkey, simultaneous-encoding
+          - item:
+            name: Laurens Lab
+            description: |
+              How do we sense our own motion, and how do we orient ourselves when moving in 3D space?
+              My laboratory studies these questions by combining mathematical modeling and extracellular neuronal recordings in behaving Marmoset monkeys.
+              Some of current research projects are:
+              Three-dimensional navigation: I study how head-direction cells in the limbic system (the 'neuronal compass') encode the 3D orientation of the head;
+              Sensory signals for spatial navigation: I study how the brain integrates self-motion signals with visual landmarks to maintain spatial orientation;
+              Self-motion sensation: I study how the brain merges multiple sensory signals from the inner ear, vision and proprioception, together with motor commands, 
+              to create a sense of self-motion that underlies spatial cognition, gaze stabilization and postural control;
+            homepage_url: https://www.esi-frankfurt.de/research/laurens-lab/
+            logo: esi-laurens-lab.svg
+            extra:
+              summary_tags: germany, navigation, self-motion
+          - item:
+            name: Rademaker Lab
+            description: |
+              In the lab, we study how the interplay between sensation and cognition give rise to the rich experience that is human perception.
+              Present work investigates how images briefly held in mind (in your 'visual working memory') can be remembered in a robust way.
+              For example, when you're perceiving the surrounding world while simultaneously holding an image in mind - how can your brain best represent both the percept and the memory? 
+              And what happens if you need to pay close attention to your surroundings?
+              In addition to perception, working memory, and attention, we're also interested in various states of physiological arousal, how contexts can bias perception, computational neural principles, and much more.
+              Importantly, we think that science should be a fun and collaborative form of intellectual entertainment for anyone who wants to be a part of it!
+            homepage_url: https://www.rademakerlab.com
+            logo: rademaker-lab.svg
+            extra:
+              summary_tags: germany, human, perceptual-experiences, memory
+          - item:
+            name: Schmidt Lab
+            description: |
+              Neuroscientists have been exploring the representation of space in the brain for decades, discovering a wide range of cell types representing different navigational features.
+              The two most prominent of these cell types were identified in the hippocampus and the medial entorhinal cortex:
+              Place-modulated hippocampal neurons were found to be active only when an animal moves through a particular location in space (“place cells”). 
+              In the medial entorhinal cortex, cells were reported that respond in a periodic activity pattern as an animal moves through the environment (“grid cells”).
+              Both cortical regions were found to be highly interconnected, making it plausible to expect interactions between place and grid cells.
+              Despite extensive anatomical and functional experiments, the circuitry between grid and place cells, and how they shape each other's activity, 
+              and the contribution of local and long-range inhibitory circuits, is still unresolved.
+              Our goal is to resolve the networks underlying spatial navigation tasks, in particular the interplay of neurons in the hippocampus 
+              and medial entorhinal cortex in mammals, at the single cell and single synapse level
+              (i.e. the precise mapping of all point-to-point connections between all involved neurons at their chemical synapses).
+              We use cutting-edge 3D electron microscopy methods for large-scale high-resolution mapping of neuronal circuits.
+            homepage_url: https://www.esi-frankfurt.de/research/schmidt-lab/
+            logo: schmidt_lab.svg
+            extra:
+              summary_tags: germany, hippocampus, mammals, electron-microscopy, imaging
+          - item:
+            name: Vinck Lab
+            description: |
+              The lab's research is divided into three research lines: Circuits - Ensembles - Learning (CEL), funded by ERC and BMF grants and support from the ESI:
+              Circuits: We investigate how distinct classes of excitatory and inhibitory neurons regulate plasticity and contribute to flexible information processing.
+              Ensembles: We investigate how ensembles of neurons encode information through spatio-temporal patterns and what the role of spike sequences and bursting are in information encoding and transmission.
+              Furthermore we investigate what the relationship between spontaneous (imagination, dreams) and sensory evoked activity is.
+              Learning: We investigate how the brain performs self-supervised learning using predictions of the unknown (in space and time), 
+              utilizes parallel features for object recognition (motion, form, texture) and uses recurrent networks for object recognition.
+              To answer these kind of questions, we use a variety of techniques and approaches. 
+              We employ machine learning techniques to model predictive relationships among sensory inputs - across space and time. 
+              We develop new algorithms for unsupervised clustering of high-dimensional neural datasets.
+              We use information and neural network theory to understand neural coding.
+              We use high-density, multi-areal electrophysiological recordings of neurons, from all cortical layers.
+              This allows us to record many neurons at the same time.
+              We use optogenetics to identify subtypes of neurons - like interneurons or neurons with specific projection patterns - and modify cortical activity. 
+              We classify the state of the organism using e.g. pupil diameter. 
+              We develop new types of signal processing techniques to deal with electrophysiological data
+            homepage_url: https://www.esi-frankfurt.de/research/vinck-lab/
+            logo: vink_lab.svg
+            extra:
+              summary_tags: germany, circuitry, ml, electrophysiology
       - subcategory:
         name: MIT
         items:
@@ -889,6 +1006,21 @@ landscape:
             logo: nimare.svg
             extra:
               summary_tags: meta-analysis
+          - item:
+            name: Trees Toolbox
+            description: |
+              More than a century ago, Ramón y Cajal provided a qualitative description of neuronal branching in all its forms and variants.
+              However, even today, few rigorous and useful formalisms are available for a quantitative description of dendritic and axonal morphology.
+              The TREES Toolbox provides:
+              Tools to automatically reconstruct neuronal branching from microscopy image stacks and to generate synthetic axonal and dendritic trees;
+              The basic tools to edit, visualize and analyze dendritic and axonal trees;
+              Methods for quantitatively comparing branching structures between neurons;
+              Tools for exploring how dendritic and axonal branching depends on local optimization of total wiring and conduction distance;
+            homepage_url: https://www.treestoolbox.org/index.html
+            repo_url: https://github.com/cuntzlab/treestoolbox
+            logo: trees_toolbox.svg
+            extra:
+              summary_tags: germany, esi, cuntz-lab
       - subcategory:
         name: Simulation
         items:

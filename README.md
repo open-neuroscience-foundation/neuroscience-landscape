@@ -6,7 +6,7 @@ with dimensions such as companies, research groups, software, hardware, datasets
 
 ## How to add new entry?
 
-Add your entry to `data.yaml`. Build and run locally, confirm that it looks correctly and no errors reported.
+Add your entry to `data.yaml`. Build and run locally, confirm that it looks correctly and no errors reported. Then raise a PR.
 
 Helpful links:
 * convert PNG to SVG ([png2svg.com](https://png2svg.com/#google_vignette))
