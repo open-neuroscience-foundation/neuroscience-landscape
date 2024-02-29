@@ -44,4 +44,5 @@ Books
 
 ## Notes
 
-- `2024-02-29`, not using crunchbase, since it requires expensive Enterprise level subscription
+- `2024-02-29`, not using SerpAPI for h-index, since it is expensive
+- `2024-02-29`, not using Crunchbase for company info, since it requires expensive Enterprise level subscription

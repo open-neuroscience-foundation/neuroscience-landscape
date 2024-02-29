@@ -855,7 +855,7 @@ landscape:
             extra:
               summary_tags: usa, allen-institute, princeton, iarpa, baylor-college-of-medicine, electron-microscopy, mouse, visual-cortext, neuroglancer
           - item:
-            name: "Allen Brain Cell Atlas"
+            name: Allen Brain Cell Atlas
             description: |
               The Allen Brain Cell Atlas (ABC Atlas) aims to empower researchers worldwide to explore and analyze multiple whole-brain datasets simultaneously.
               As the Allen Institute and its collaborators continue to add new modalities, species, and insights to the ABC Atlas, this groundbreaking platform will keep growing,
@@ -879,16 +879,6 @@ landscape:
             logo: brain-knowledge-platform.svg
             extra:
               summary_tags: usa, allen-institute, mouse, human, data-catalog, atlas, nih, brain-initiative
-          - item:
-            name: BioModels
-            description: |
-              BioModels is a repository of mathematical models of biological and biomedical systems.
-              It hosts a vast selection of existing literature-based physiologically and pharmaceutically relevant mechanistic models in standard formats.
-              Our mission is to provide the systems modelling community with reproducible, high-quality, freely-accessible models published in the scientific literature.
-            homepage_url: https://www.ebi.ac.uk/biomodels/
-            logo: biomodels.svg
-            extra:
-              summary_tags: uk, embl-ebi, embl
           - item:
             name: CoCoMac
             description: |
@@ -938,6 +928,60 @@ landscape:
             logo: connectome-db.svg
             extra:
               summary_tags: connectomes, human
+      - subcategory:
+        name: Transcriptomics
+        items:
+          - item:
+            name: Transgenic Mouse Lines
+            description: |
+              The Allen Institute for Brain Science has generated a large collection of transgenic mouse lines for use in research.
+              Driver lines enable access to genetically-identified cell classes and can be used in combination with reporter lines to visualize or modify diverse populations of cells.
+              This suite of molecular tools is used in our research and lines are made available to the community via The Jackson Laboratory.
+            homepage_url: https://portal.brain-map.org/explore/toolkit/mice
+            logo: transgenic-mouse-lines.svg
+            extra:
+              summary_tags: usa, allen-institute, mouse, jackson-laboratory
+          - item:
+            name: Human Embryonic Stem Cell Lines
+            description: |
+              The Allen Institute has generated a variety of human embryonic stem cell lines that report the expression of selected genes, or cause the disruption of target genes.
+              Selected lines are available through WiCell's Allen Institute Stem Cell Collection for Early Human Brain Development.
+              Other lines, as well as vectors and plasmid maps, are available by request.
+            homepage_url: https://portal.brain-map.org/explore/toolkit/hesc
+            logo: human-embryonic-stem-cell-lines.svg
+            extra:
+              summary_tags: usa, allen-institute, human, embryonic
+          - item:
+            name: Viral Tools
+            description: |
+              Viral transduction is often used in a molecular toolkit to modify neurons; the Allen Institute for Brain Science uses viruses to target and label specific classes of neurons for further study.
+              A variety of different viruses have been generated and are available to the community.
+              This expanding list highlights viral reagents that have been used in recently published studies.
+            homepage_url: https://portal.brain-map.org/explore/toolkit/viruses
+            logo: viral-tools.svg
+            extra:
+              summary_tags: usa, allen-institute, molecular-toolkit, transcriptomic
+      - subcategory:
+        name: Models
+        items:
+          - item:
+            name: BioModels
+            description: |
+              BioModels is a repository of mathematical models of biological and biomedical systems.
+              It hosts a vast selection of existing literature-based physiologically and pharmaceutically relevant mechanistic models in standard formats.
+              Our mission is to provide the systems modelling community with reproducible, high-quality, freely-accessible models published in the scientific literature.
+            homepage_url: https://www.ebi.ac.uk/biomodels/
+            logo: biomodels.svg
+            extra:
+              summary_tags: uk, embl-ebi, embl
+          - item:
+            name: MCModels
+            description: MCModels is a Python package providing mesoscale connectivity models for the whole adult mouse brain.
+            homepage_url: http://portal.brain-map.org/explore/models/mcmodels
+            repo_url: https://github.com/AllenInstitute/mouse_connectivity_models
+            logo: allen-mcmodels.svg
+            extra:
+              summary_tags: uk, allen-institute, mouse
   - category:
     name: Software
     subcategories:
@@ -1058,8 +1102,7 @@ landscape:
           - item:
             name: Trees Toolbox
             description: |
-              More than a century ago, Ramón y Cajal provided a qualitative description of neuronal branching in all its forms and variants.
-              However, even today, few rigorous and useful formalisms are available for a quantitative description of dendritic and axonal morphology.
+              This project focuses on improving quantitative description of dendritic and axonal morphology.
               The TREES Toolbox provides:
               Tools to automatically reconstruct neuronal branching from microscopy image stacks and to generate synthetic axonal and dendritic trees;
               The basic tools to edit, visualize and analyze dendritic and axonal trees;
@@ -1070,6 +1113,15 @@ landscape:
             logo: trees_toolbox.svg
             extra:
               summary_tags: germany, esi, cuntz-lab
+          - item:
+            name: Visual Neuronal Dynamics (VND)
+            description: |
+              A software package for 3D visualization of neuronal network models and simulations.
+              Developed collaboratively by groups at UIUC and Allen Institute.
+            homepage_url: http://www.ks.uiuc.edu/Research/vnd/
+            logo: allen-vnd.svg
+            extra:
+              summary_tags: usa, allen-institute, university-of-illinois
       - subcategory:
         name: Simulation
         items:
@@ -1154,6 +1206,25 @@ landscape:
             logo: virtual-brain.svg
             extra:
               summary_tags: human, simulation, eu, eu-horizon, human-brain-project, virtual-brian-cloud
+          - item:
+            name: Brain Modeling Toolkit (BMTK)
+            description: A Python software package for building, simulating, and analyzing large-scale neural network models at multiple levels of resolution.
+            homepage_url: https://alleninstitute.github.io/bmtk/
+            repo_url: https://github.com/AllenInstitute/bmtk
+            logo: allen-bmtk.svg
+            extra:
+              summary_tags: usa, allen-institute
+          - item:
+            name: DiPDE
+            description: |
+              The displacement integro-partial differential equation (DiPDE) population density model refers to a simulation platform for numerically solving the time evolution of coupled networks of neuronal populations.
+              Instead of solving the subthreshold dynamics of individual model leaky-integrate-and-fire (LIF) neurons, DiPDE models the voltage distribution of a population of neurons with a single population density equation.
+              In this way, DiPDE can facilitate the fast exploration of mesoscale (population-level) network topologies, where large populations of neurons are treated as homogeneous with random fine-scale connectivity.
+            homepage_url: http://alleninstitute.github.io/dipde/
+            repo_url: https://github.com/AllenInstitute/dipde
+            logo: allen-dipde.svg
+            extra:
+              summary_tags: usa, allen-institute
       - subcategory:
         name: Deep Learning
         items:
@@ -1228,6 +1299,57 @@ landscape:
             logo: aics-image-io.svg
             extra:
               summary_tags: usa, alllen-institute, microscopy, images
+          - item:
+            name: SONATA
+            description: A cross-platform data format for storing large-scale network models and simulation results.
+            homepage_url: https://github.com/AllenInstitute/sonata
+            repo_url: https://github.com/AllenInstitute/sonata
+            logo: allen-sonata.svg
+            extra:
+              summary_tags: usa, allen-institute
+      - subcategory:
+        name: Cells & Transcriptomics
+        items:
+          - item:
+            name: Cell Type Mapper
+            description: A python package for mapping single sell RNA sequencing data onto a cell type taxonomy such as that provided by the Allen Institute for Brain Science.
+            homepage_url: https://github.com/AllenInstitute/cell_type_mapper
+            repo_url: https://github.com/AllenInstitute/cell_type_mapper
+            logo: cell_type_mapper.svg
+            extra:
+              summary_tags: usa, alllen-institute, mapping
+          - item:
+            name: mfishtools
+            description: Package for gene selection and analysis of spatial transcriptomics data, including MERFISH. Gene panels for several published studies using smFISH and MERFISH from the Allen Institute used these scripts.
+            homepage_url: https://github.com/AllenInstitute/mfishtools
+            repo_url: https://github.com/AllenInstitute/mfishtools
+            logo: mfishtools.svg
+            extra:
+              summary_tags: usa, alllen-institute, spatial-transcriptomics, transcriptomics, fish
+          - item:
+            name: scrattch
+            description: Single-cell RNA-seq analysis for transcriptomic type characterization (or "scrattch") is the umbrella package for the scrattch suite of R packages from the Allen Institute for Brain Science. It is modeled after the tidyverse package.
+            homepage_url: https://github.com/AllenInstitute/scrattch
+            repo_url: https://github.com/AllenInstitute/scrattch
+            logo: scrattch.svg
+            extra:
+              summary_tags: usa, alllen-institute, clustering, visualization, mapping, standards, tidyverse
+          - item:
+            name: transcriptomic_clustering
+            description: Python implementation of clustering method detailed in scrattch.hicat. Additional development for HMBA to (1) handle clustering human/NHP data with donor effects and (2) implement more computationally efficient methods utilizing GPUs for faster computations.
+            homepage_url: https://github.com/AllenInstitute/transcriptomic_clustering
+            repo_url: https://github.com/AllenInstitute/transcriptomic_clustering
+            logo: transcriptomic_clustering.svg
+            extra:
+              summary_tags: usa, alllen-institute, clustering, transcriptomic
+          - item:
+            name: Quality Control for scRNA-seq data (QCR)
+            description: Python implementation of clustering method detailed in scrattch.hicat. Additional development for HMBA to (1) handle clustering human/NHP data with donor effects and (2) implement more computationally efficient methods utilizing GPUs for faster computations.
+            homepage_url: https://github.com/AllenInstitute/QCR
+            repo_url: https://github.com/AllenInstitute/QCR
+            logo: allen_qcr.svg
+            extra:
+              summary_tags: usa, alllen-institute, clustering, transcriptomic
   - category:
     name: Books
     subcategories:
