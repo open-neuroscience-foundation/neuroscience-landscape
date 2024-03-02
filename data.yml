@@ -11,15 +11,29 @@ landscape:
             homepage_url: https://neuralink.com
             repo_url: https://github.com/neuralinkcorp
             logo: neuralink.svg
+            locations:
+              - location:
+                city: Fremont
+                country: USA
+              - location:
+                city: Austin
+                country: USA
             extra:
-              summary_tags: usa, bci, robotics, utah-array, hardware
+              summary_tags: bci, robotics, utah-array, hardware
           - item:
             name: Neurolutions
             description: Neurolutions provides non-invasive FDA approved devices for stroke rehabilitation.
             homepage_url: https://www.neurolutions.com
             logo: neurolutions.svg
+            locations:
+              - location:
+                city: St. Louis
+                country: USA
+              - location:
+                city: Santa Cruz
+                country: USA
             extra:
-              summary_tags: usa, bci, robotics, fda, stroke, non-invasive, hardware
+              summary_tags: bci, robotics, fda, stroke, non-invasive, hardware
           - item:
             name: Braingate
             description: |
@@ -31,8 +45,12 @@ landscape:
               and stroke with reliable, constant control over their environment.
             homepage_url: https://www.braingate.org
             logo: braingate.svg
+            locations:
+              - location:
+                city: Providence
+                country: USA
             extra:
-              summary_tags: usa, bci, robotics, utah-array, hardware,
+              summary_tags: bci, robotics, utah-array, hardware,
       - subcategory:
         name: Visualization
         items:
@@ -41,8 +59,18 @@ landscape:
             description: Through our advanced brain network analysis tools (NeuroMatch®), provides Live Visualization to innovate how neurological diseases are examined. Lee Lab, Stanford.
             homepage_url: http://lviscorp.com
             logo: lvis.svg
+            locations:
+              - location:
+                city: Palo Alto
+                country: USA
+              - location:
+                city: Seoul
+                country: South Korea
+              - location:
+                city: Daegu
+                country: South Korea
             extra:
-              summary_tags: usa, south-korea, connectomics, visualization, standord
+              summary_tags: connectomics, visualization, standord
           - item:
             name: Imaging Biometrics
             description: |
@@ -52,19 +80,27 @@ landscape:
               IB DCE™ and IB DIFFUSION™ complete the analysis for advanced MRI.
             homepage_url: https://www.imagingbiometrics.com
             logo: imaging_biometrics.svg
+            locations:
+              - location:
+                city: Milwaukee
+                country: USA
             extra:
-              summary_tags: usa, fmri, surgery
+              summary_tags: fmri, surgery
           - item:
             name: AMRIT
             description: |
               Advanced MRI Technologies, LLC (AMRIT) is a research and development company in the fields of medical and scientific imaging.
-              David Feinberg, Berkeley, imaging
+              David Feinberg.
             homepage_url: https://www.advancedmri.com
             logo: amrit.svg
+            locations:
+              - location:
+                city: Berkeley
+                country: USA
             extra:
-              summary_tags: usa, fmri, imaging, berkeley
+              summary_tags: fmri, imaging, berkeley
       - subcategory:
-        name: Neurophysiology
+        name: Research Platforms
         items:
           - item:
             name: OpenScope
@@ -77,8 +113,33 @@ landscape:
               All datasets are shared as standardized Neurodata Without Borders (NWB) files in a public archive (DANDI) in the cloud.
             homepage_url: https://alleninstitute.org/division/neural-dynamics/openscope/
             logo: open-scope.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, neuropixels, nwb, neurophysiology
+              summary_tags: allen-institute, neuropixels, nwb, neurophysiology
+          - item:
+            name: MetaCell
+            description: |
+              Our suite of products and services helps you visualise, share, and analyse your life science data in best-in-class applications — with support from the MetaCell team every step of the way.
+              Past projects done with UC San Diego, UCL, University of Edinburgh, State University of New York, Pfizer, Yale, Brain Observatory, BrainCommons, and more.
+            homepage_url: https://www.metacell.us
+            repo_url: http://github.com/MetaCell
+            logo: metacell.svg
+            locations:
+              - location:
+                city: Gloucestershire
+                country: UK
+              - location:
+                city: Cambridge
+                country: USA
+              - location:
+                city: Cagliari
+                country: Italy
+              - location:
+                country: Worldwide
+            extra:
+              summary_tags: cloud, visualization, hosting, software, tools
       - subcategory:
         name: Surgery
         items:
@@ -87,8 +148,15 @@ landscape:
             description: Clinical neurosurgery solutions. Using ultrasound. Caregiving services.
             homepage_url: https://www.insightec.com
             logo: insightec.svg
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: Israel
+              - location:
+                country: Japan
             extra:
-              summary_tags: usa, israel, japan, surgery, healthcare, tremor, parkinsons
+              summary_tags: surgery, healthcare, tremor, parkinsons
           - item:
             name: Brainlab
             description: |
@@ -98,8 +166,16 @@ landscape:
               Some of the customers include Neuralink.
             homepage_url: https://www.brainlab.com
             logo: brainlab.svg
+            locations:
+              - location:
+                city: Munich
+                country: Germany
+              - location:
+                country: USA
+              - location:
+                country: Worldwide
             extra:
-              summary_tags: usa, neuralink, surgery, radiation-therapy
+              summary_tags: neuralink, surgery, radiation-therapy
       - subcategory:
         name: Brain-Inspired Compute
         items:
@@ -109,8 +185,12 @@ landscape:
             homepage_url: https://numenta.com
             repo_url: https://github.com/numenta/nupic.torch
             logo: numenta.svg
+            locations:
+              - location:
+                city: Redwood City
+                country: USA
             extra:
-              summary_tags: usa, cloud
+              summary_tags: cloud
       - subcategory:
         name: Connectomics
         items:
@@ -126,8 +206,15 @@ landscape:
             homepage_url: http://zetta.ai
             repo_url: https://github.com/ZettaAI/zetta_utils
             logo: zettaai.svg
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: Germany
+              - location:
+                country: South Korea
             extra:
-              summary_tags: usa, cloud, princeton, mit, connectomics
+              summary_tags: cloud, princeton, mit, connectomics
       - subcategory:
         name: fMRI
         items:
@@ -155,8 +242,9 @@ landscape:
             homepage_url: https://www.czbiohub.org/
             repo_url: https://github.com/czbiohub-sf/
             logo: chan-zuckerberg-biohub.svg
-            extra:
-              summary_tags: usa
+            locations:
+              - location:
+                country: USA
           - item:
             name: INCF
             description: |
@@ -165,8 +253,11 @@ landscape:
             homepage_url: http://www.incf.org
             repo_url: https://github.com/INCF/eeg-database
             logo: incf.svg
-            extra:
-              summary_tags: worldwide
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: Worldwide
           - item:
             name: NITRC
             description: |
@@ -177,8 +268,13 @@ landscape:
               NITRC also provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost.
             homepage_url: https://www.nitrc.org
             logo: nitrc.svg
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: Worldwide
             extra:
-              summary_tags: worldwide, software, tools, data
+              summary_tags: software, tools, data
           - item:
             name: The Brain Initiative Alliance
             description: |
@@ -187,8 +283,11 @@ landscape:
               and the scientific community.
             homepage_url: https://www.braininitiative.org
             logo: brain-initiative-dark.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, brain-initiative, fda, government
+              summary_tags: brain-initiative, fda, government
           - item:
             name: IEEE Brain
             description: |
@@ -199,8 +298,13 @@ landscape:
               and technology to improve understanding of the brain in order to treat diseases and improve the human condition.
             homepage_url: https://brain.ieee.org
             logo: ieee-brain.svg
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: Worldwide
             extra:
-              summary_tags: worldwide, brain-initiative
+              summary_tags: brain-initiative
           - item:
             name: Allen Institute of Brain Science
             description: |
@@ -209,8 +313,9 @@ landscape:
             homepage_url: https://alleninstitute.org/what-we-do/brain-science/
             repo_url: https://github.com/AllenInstitute
             logo: allen-institute-brain-science.svg
-            extra:
-              summary_tags: usa
+            locations:
+              - location:
+                country: USA
           - item:
             name: BICCN
             description: |
@@ -221,8 +326,11 @@ landscape:
             homepage_url: https://biccn.org
             repo_url: https://github.com/BICCN/CellCensusMotorCortex
             logo: biccn.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, nih, allen-institute-of-brain-science
+              summary_tags: nih, allen-institute-of-brain-science
           - item:
             name: Neurodata Without Borders
             description: |
@@ -231,16 +339,22 @@ landscape:
               The NWB team consists of neuroscientists and software developers who recognize that adoption of a unified data format is an important step toward breaking down the barriers to data sharing in neuroscience.
             homepage_url: https://www.nwb.org/
             logo: neurodata_without_borders.svg
-            extra:
-              summary_tags: usa, worldwide
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: Worldwide
           - item:
             name: IARPA
             description: |
               The Intelligence Advanced Research Projects Activity invests in high-risk, high-payoff research programs to tackle some of the most difficult challenges of the agencies and disciplines in the Intelligence Community (IC).
             homepage_url: https://www.iarpa.gov
             logo: iarpa.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, government
+              summary_tags: government
           - item:
             name: OCNS
             description: |
@@ -253,16 +367,11 @@ landscape:
               The Organization for Computational Neurosciences is incorporated in the State of California as a 501(c)(3) Nonprofit Corporation.
             homepage_url: https://www.cnsorg.org
             logo: ocns.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, government
-          - item:
-            name: KBRI
-            description: |
-              The Korea Brain Research Institute is a research institute in South Korea. Core facilities include the Korea Brain Bank and lab animal centers.
-            homepage_url: https://www.kbri.re.kr
-            logo: kbri-short.svg
-            extra:
-              summary_tags: south-korea, society, korea-brain-initiative, korea-brain-bank
+              summary_tags: government
           - item:
             name: NeuroNex
             description: |
@@ -271,8 +380,11 @@ landscape:
               advance understanding of brain function across organizational levels and a diversity of species.
             homepage_url: https://neuronex.org
             logo: neuronex.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, brain-initiative, stanford, uc-stanta-barbara, university-of-michigan, columbia-university, university-of-huston, berkeley, john-hopkins-university, yale
+              summary_tags: brain-initiative, stanford, uc-stanta-barbara, university-of-michigan, columbia-university, university-of-huston, berkeley, john-hopkins-university, yale
       - subcategory:
         name: Societies
         items:
@@ -283,8 +395,9 @@ landscape:
               Our mission is to advance neuroscience research, collaboration, and education in Singapore.
             homepage_url: https://www.sfn.sg
             logo: sfn-sg.svg
-            extra:
-              summary_tags: singapore, society
+            locations:
+              - location:
+                country: Singapore
           - item:
             name: KSBNS
             description: |
@@ -293,8 +406,9 @@ landscape:
               The number of registered members in the KSBNS is more than 3,800 and their fields cover the whole range of neuroscience, including basic and clinical neuroscience.
             homepage_url: https://www.ksbns.org
             logo: kbns.svg
-            extra:
-              summary_tags: south-korea, society
+            locations:
+              - location:
+                country: South Korea
           - item:
             name: AKNeuro
             description: |
@@ -306,8 +420,9 @@ landscape:
               There have been well over 250 Korean neuroscientists in attendance at recent annual dinner meetings.
             homepage_url: https://akneuro.org
             logo: association-of-korean-neuroscientists.svg
-            extra:
-              summary_tags: south-korea, society
+            locations:
+              - location:
+                country: South Korea
           - item:
             name: JNSS
             description: |
@@ -316,8 +431,9 @@ landscape:
               The Society also publishes an academic journal in English, Neuroscience Research, to disseminate their research findings to the world.
             homepage_url: https://www.jnss.org
             logo: japan-neuroscience-society.svg
-            extra:
-              summary_tags: japan, society
+            locations:
+              - location:
+                country: Japan
   - category:
     name: Laboratories
     subcategories:
@@ -333,8 +449,12 @@ landscape:
             homepage_url: https://github.com/royerlab
             repo_url: https://github.com/royerlab
             logo: royer-lab.svg
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
             extra:
-              summary_tags: usa, computer-science, microscopy, biology, tooling, allen-institute
+              summary_tags: computer-science, microscopy, biology, tooling, allen-institute
       - subcategory:
         name: University of Pennsylvania
         items:
@@ -349,8 +469,12 @@ landscape:
             homepage_url: https://www.kordinglab.com
             repo_url: https://github.com/KordingLab
             logo: kording-lab.svg
+            locations:
+              - location:
+                city: Philadelphia
+                country: USA
             extra:
-              summary_tags: usa, causality, computational-neuroscience, spikes
+              summary_tags: causality, computational-neuroscience, spikes
       - subcategory:
         name: EPFL
         items:
@@ -360,8 +484,12 @@ landscape:
             homepage_url: https://www.epfl.ch/research/domains/bluebrain/
             repo_url: https://github.com/BlueBrain/HighFive
             logo: blue-brain-project.svg
+            locations:
+              - location:
+                city: Geneva
+                country: Switzerland
             extra:
-              summary_tags: swizerland, simulation
+              summary_tags: simulation
       - subcategory:
         name: Utah
         items:
@@ -370,8 +498,12 @@ landscape:
             description: Founders of Utah Electrode Array.
             homepage_url: https://neuroscience.med.utah.edu/faculty/normann.php
             logo: cncf.svg
+            locations:
+              - location:
+                city: Utah
+                country: USA
             extra:
-              summary_tags: usa, bci, utah-array
+              summary_tags: bci, utah-array
       - subcategory:
         name: Princeton
         items:
@@ -381,8 +513,12 @@ landscape:
             homepage_url: https://seunglab.org/
             repo_url: https://github.com/seung-lab/connected-components-3d
             logo: seung-lab.svg
+            locations:
+              - location:
+                city: Princeton
+                country: USA
             extra:
-              summary_tags: usa, connectomics
+              summary_tags: connectomics
       - subcategory:
         name: KAIST
         items:
@@ -397,15 +533,23 @@ landscape:
               Through this we want to understand the higher cognitive functions of human brain (how the brain works) and to develop restoration, augmentation and modulation systems for patients with brain dysfunctions using current cutting-edge bioengineering techniques.
             homepage_url: http://ibrain.kaist.ac.kr
             logo: kaist-cni-lab.svg
+            locations:
+              - location:
+                city: Daejeon
+                country: South Korea
             extra:
-              summary_tags: south-korea, connectomics, imagining, pathophysiolog, alzheimer, eeg, mri, pathophysiology
+              summary_tags: connectomics, imagining, pathophysiolog, alzheimer, eeg, mri, pathophysiology
           - item:
             name: Synaptic Brain Dysfunction
             description: Explore the mechanisms underlying various neuropsychiatric disorders by focusing on defects in synaptic development.
             homepage_url: https://molneuro.kaist.ac.kr/contents/
             logo: kasit-sbdl.svg
+            locations:
+              - location:
+                city: Daejeon
+                country: South Korea
             extra:
-              summary_tags: south-korea, synaptopathy, autism
+              summary_tags: synaptopathy, autism
           - item:
             name: Decision Brain Dynamics Laboratory
             description: |
@@ -416,8 +560,10 @@ landscape:
               In addition, we study how the brain produces aesthetic preference on paintings and music and how it manipulates social communications between humans.
             homepage_url: https://raphe.kaist.ac.kr
             logo: kaist-decision-brain-dynamics-lab.svg
-            extra:
-              summary_tags: south-korea
+            locations:
+              - location:
+                city: Daejeon
+                country: South Korea
           - item:
             name: Lab of Neural Interoception
             description: |
@@ -447,8 +593,12 @@ landscape:
               and other macronutrients, as well as essential micronutrients (see a Review by Kim et al, 2021 Cell Metabolism).
             homepage_url: https://www.suhlab-neuralinteroception.kaist.ac.kr
             logo: kaist-neural-interoception.svg
+            locations:
+              - location:
+                city: Daejeon
+                country: South Korea
             extra:
-              summary_tags: south-korea, snesors, interoception, fruit-fly
+              summary_tags: snesors, interoception, fruit-fly
           - item:
             name: (Lee Lab) Neural Systems For Sensory Integration Laboratory
             description: |
@@ -465,8 +615,12 @@ landscape:
               Insights from our study should be broadly applicable to the treatment of cognitive disorders, including attention deficit disorder, autism, schizophrenia, and dementia.
             homepage_url: https://sites.google.com/site/leelab2013/home
             logo: kaist_lee_lab.svg
+            locations:
+              - location:
+                city: Daejeon
+                country: South Korea
             extra:
-              summary_tags: south-korea, snesors, interoception, fruit-fly
+              summary_tags: snesors, interoception, fruit-fly
           - item:
             name: Systems Neuroscience Laboratory
             description: |
@@ -486,8 +640,23 @@ landscape:
               Specifically, we investigate how hippocampal and frontal cortical neural activity differs between wild-type and ASD model mice under diverse behavioral settings such as perceptual decision making and social interactions.
             homepage_url: https://sites.google.com/site/systemsneurolaboratory/project
             logo: kaist_systems_neuro_lab.svg
+            locations:
+              - location:
+                city: Daejeon
+                country: South Korea
             extra:
-              summary_tags: south-korea, memory, alzheimer, hippocampus, autism
+              summary_tags: memory, alzheimer, hippocampus, autism
+          - item:
+            name: KBRI
+            description: |
+              The Korea Brain Research Institute is a research institute in South Korea. Core facilities include the Korea Brain Bank and lab animal centers.
+            homepage_url: https://www.kbri.re.kr
+            logo: kbri-short.svg
+            locations:
+              - location:
+                country: South Korea
+            extra:
+              summary_tags: korea-brain-initiative, korea-brain-bank
       - subcategory:
         name: TUM
         items:
@@ -496,8 +665,12 @@ landscape:
             description: Portugues lab studies zebrafish behavior and brain fxn/circuitry using cutting-edge imaging techniques.
             homepage_url: https://portugueslab.com
             logo: cncf.svg
+            locations:
+              - location:
+                city: Munich
+                country: Germany
             extra:
-              summary_tags: germany, zebrafish
+              summary_tags: zebrafish
       - subcategory:
         name: Ernst Strüngmann Institute for Neuroscience
         items:
@@ -512,8 +685,12 @@ landscape:
               To test the predictions of this conceptual framework we investigate population dynamics with cellular resolution by performing massive parallel recordings from the visual cortex of behaviourally trained monkeys with chronically implanted microelectrode arrays.
             homepage_url: https://www.esi-frankfurt.de/research/singer-lab/
             logo: singer-lab.svg
+            locations:
+              - location:
+                city: Frankfurt
+                country: Germany
             extra:
-              summary_tags: germany, utah-array, visual-cortext
+              summary_tags: utah-array, visual-cortext
           - item:
             name: Poeppel Lab
             description: |
@@ -527,8 +704,12 @@ landscape:
               The main methods employed include electrophysiological recordings using magnetoencephalography (MEG), electroencephalography (EEG), and electrocorticography (ECoG), as well as imaging studies using structural and functional magnetic resonance imaging (MRI).
             homepage_url: https://www.esi-frankfurt.de/research/poeppel-lab/
             logo: poeppel_lab.svg
+            locations:
+              - location:
+                city: Frankfurt
+                country: Germany
             extra:
-              summary_tags: germany, audition, language, meg, eeg, ecog, mri
+              summary_tags: audition, language, meg, eeg, ecog, mri
           - item:
             name: Cuntz Lab
             description: |
@@ -544,8 +725,12 @@ landscape:
             homepage_url: https://www.esi-frankfurt.de/research/cuntz-lab/
             repo_url: https://github.com/cuntzlab
             logo: cuntz_lab.svg
+            locations:
+              - location:
+                city: Frankfurt
+                country: Germany
             extra:
-              summary_tags: germany, connectomics, morpology, computational-neuroatonomy, neuroinformatics
+              summary_tags: connectomics, morpology, computational-neuroatonomy, neuroinformatics
           - item:
             name: Havenith & Schölvinck Lab
             description: |
@@ -561,8 +746,12 @@ landscape:
               In this way, we aim to for the first time explain how the neuronal representations of universal processes like learning and attention jointly unfold in the brain in real time.
             homepage_url: https://www.esi-frankfurt.de/research/havenith-scholvinck-lab/
             logo: havenith_scholvinck_lab.svg
+            locations:
+              - location:
+                city: Frankfurt
+                country: Germany
             extra:
-              summary_tags: germany, mouse, monkey, simultaneous-encoding
+              summary_tags: mouse, monkey, simultaneous-encoding
           - item:
             name: Laurens Lab
             description: |
@@ -575,8 +764,12 @@ landscape:
               to create a sense of self-motion that underlies spatial cognition, gaze stabilization and postural control;
             homepage_url: https://www.esi-frankfurt.de/research/laurens-lab/
             logo: esi-laurens-lab.svg
+            locations:
+              - location:
+                city: Frankfurt
+                country: Germany
             extra:
-              summary_tags: germany, navigation, self-motion
+              summary_tags: navigation, self-motion
           - item:
             name: Rademaker Lab
             description: |
@@ -588,8 +781,12 @@ landscape:
               Importantly, we think that science should be a fun and collaborative form of intellectual entertainment for anyone who wants to be a part of it!
             homepage_url: https://www.rademakerlab.com
             logo: rademaker-lab.svg
+            locations:
+              - location:
+                city: Frankfurt
+                country: Germany
             extra:
-              summary_tags: germany, human, perceptual-experiences, memory
+              summary_tags: human, perceptual-experiences, memory
           - item:
             name: Schmidt Lab
             description: |
@@ -606,8 +803,12 @@ landscape:
               We use cutting-edge 3D electron microscopy methods for large-scale high-resolution mapping of neuronal circuits.
             homepage_url: https://www.esi-frankfurt.de/research/schmidt-lab/
             logo: schmidt_lab.svg
+            locations:
+              - location:
+                city: Frankfurt
+                country: Germany
             extra:
-              summary_tags: germany, hippocampus, mammals, electron-microscopy, imaging
+              summary_tags: hippocampus, mammals, electron-microscopy, imaging
           - item:
             name: Vinck Lab
             description: |
@@ -628,8 +829,12 @@ landscape:
               We develop new types of signal processing techniques to deal with electrophysiological data
             homepage_url: https://www.esi-frankfurt.de/research/vinck-lab/
             logo: vink_lab.svg
+            locations:
+              - location:
+                city: Frankfurt
+                country: Germany
             extra:
-              summary_tags: germany, circuitry, ml, electrophysiology
+              summary_tags: circuitry, ml, electrophysiology
       - subcategory:
         name: MIT
         items:
@@ -641,8 +846,12 @@ landscape:
               Our headquarters is the largest neuroscience research facility in the world, with some 700 students, postdocs, undergraduates, faculty, and staff all engaged in brain science.
             homepage_url: https://bcs.mit.edu/
             logo: bcs-mit.svg
+            locations:
+              - location:
+                city: Cambridge
+                country: USA
             extra:
-              summary_tags: usa, boston, mit, cellular-neuroscience, systems-neuroscience, cognitive-neuroscience, computational-neuroscience
+              summary_tags: cellular-neuroscience, systems-neuroscience, cognitive-neuroscience, computational-neuroscience
       - subcategory:
         name: Columbia University
         items:
@@ -660,58 +869,90 @@ landscape:
               For this work, the Austrian-born Kandel was awarded the 2000 Nobel Prize in Physiology or Medicine.
             homepage_url: https://www.biochem.cuimc.columbia.edu/research-labs/kandel-lab
             logo: kandel_lab.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
             extra:
-              summary_tags: usa, nobel-prize, memory
+              summary_tags: nobel-prize, memory
           - item:
             name: Al-Hashimi Lab
             description: The goal of the Al-Hashimi laboratory is to develop new methods for 'imaging' the dynamics of nucleic acids at atomic resolution.
             homepage_url: https://www.biochem.cuimc.columbia.edu/research/research-labs/al-hashimi-lab
             logo: alhashimi-lab.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
             extra:
-              summary_tags: usa, imaging
+              summary_tags: imaging
           - item:
             name: Axel Lab
             description: The Axel Lab is primarily concerned with olfaction, or the sense of smell.
             homepage_url: http://www.axellab.columbia.edu/
             logo: cu-axel-lab.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
             extra:
-              summary_tags: usa, olfaction
+              summary_tags: olfaction
           - item:
             name: Califano Lab
             description: The Califano Lab studies biology from the perspective of the complex networks of gene and protein interactions that define and regulate cell physiology.
             homepage_url: http://califano.c2b2.columbia.edu/
             repo_url: https://github.com/califano-lab
             logo: andrea-califano-lab.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
             extra:
-              summary_tags: usa, systems-biology, gene-networks
+              summary_tags: systems-biology, gene-networks
           - item:
             name: Frank Lab
             description: The Frank Lab investigates the mechanism of translation on the ribosome by using cryo-electron microscopy and single-particle reconstruction.
             homepage_url: https://joachimfranklab.org
             logo: cu-frank-lab.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
             extra:
-              summary_tags: usa, electron-microscopy, reconstruction
+              summary_tags: electron-microscopy, reconstruction
           - item:
             name: Hobert Lab
             description: The Hobert Lab studies the gene regulatory control mechanisms that generate the astounding diversity of cell types in the nervous system.
             homepage_url: http://hobertlab.org/
             logo: hobert-lab.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
             extra:
-              summary_tags: usa, cell-fate, cell-type
+              summary_tags: cell-fate, cell-type
           - item:
             name: Sobolevsky Lab
             description: The Sobolevsky Lab studies structure and function of ion channels using biochemical and biophysical methods, including cryo-EM, X-ray crystallography, electrophysiology and fluorescence measurements.
             homepage_url: http://hobertlab.org/
             logo: sobolevsky-lab.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
             extra:
-              summary_tags: usa, ion-channels
+              summary_tags: ion-channels
           - item:
             name: Zhang Lab
             description: The Zhang Lab seeks to dissect RNA regulatory networks in the nervous system.
             homepage_url: https://zhanglab.c2b2.columbia.edu/index.php/Main_Page
             logo: cu-zhang-lab.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
             extra:
-              summary_tags: usa, molecular-mechanisms, rna, biochemistry, genomics, computational-approach, pluripotent-stem-cells
+              summary_tags: molecular-mechanisms, rna, biochemistry, genomics, computational-approach, pluripotent-stem-cells
       - subcategory:
         name: OIST
         items:
@@ -725,8 +966,12 @@ landscape:
             homepage_url: https://groups.oist.jp/ncbc
             repo_url: https://github.com/oist-ncbc
             logo: oist-ncbc.svg
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
             extra:
-              summary_tags: japan, okinawa, computational-neuroscience
+              summary_tags: computational-neuroscience
       - subcategory:
         name: Duke-NUS
         items:
@@ -743,8 +988,12 @@ landscape:
               therapeutic strategies in brain disorders like autism, Parkinson's disease and dementia.
             homepage_url: https://www.duke-nus.edu.sg/nbd
             logo: dukenus.svg
+            locations:
+              - location:
+                city: Singapore
+                country: Singapore
             extra:
-              summary_tags: singapore, clinical, parkinsons, imaging
+              summary_tags: clinical, parkinsons, imaging
       - subcategory:
         name: Stanford
         items:
@@ -765,8 +1014,10 @@ landscape:
             homepage_url: https://med.stanford.edu/scsnl/about1.html
             repo_url: https://github.com/scsnl
             logo: scsnl.svg
-            extra:
-              summary_tags: usa, stanford
+            locations:
+              - location:
+                city: Palo Alto
+                country: USA
           - item:
             name: Brain Dynamics Lab
             description: |
@@ -776,8 +1027,12 @@ landscape:
             homepage_url: https://web.stanford.edu/group/bdl
             repo_url: https://github.com/braindynamicslab
             logo: stanford_bdl.svg
+            locations:
+              - location:
+                city: Palo Alto
+                country: USA
             extra:
-              summary_tags: usa, stanford, ml, biophysics, network-science
+              summary_tags: ml, biophysics, network-science
           - item:
             name: Lee Lab
             description: |
@@ -787,8 +1042,12 @@ landscape:
               We combine modeling with neuromodulation, imaging, and behavioral experiments to discover, test, and validate novel circuit based therapeutics.
             homepage_url: https://llab.stanford.edu
             logo: stanford_lee_lab.svg
+            locations:
+              - location:
+                city: Palo Alto
+                country: USA
             extra:
-              summary_tags: usa, stanford, ml, fmri, circuitry, neurogimaging
+              summary_tags: ml, fmri, circuitry, neurogimaging
       - subcategory:
         name: Berkeley
         items:
@@ -803,8 +1062,12 @@ landscape:
             homepage_url: http://colala.berkeley.edu
             repo_url: https://github.com/piantado
             logo: berkeley_colala_lab.svg
+            locations:
+              - location:
+                city: Berkeley
+                country: USA
             extra:
-              summary_tags: usa, language, linguistics
+              summary_tags: language, linguistics
           - item:
             name: Perceptual Reality
             description: |
@@ -813,8 +1076,12 @@ landscape:
             homepage_url: http://www.emilyacooper.org/index.html
             repo_url: https://github.com/eacooper
             logo: berkeley_perceptual_reality_lab.svg
+            locations:
+              - location:
+                city: Berkeley
+                country: USA
             extra:
-              summary_tags: usa, vision, perception
+              summary_tags: vision, perception
           - item:
             name: Gallant Lab
             description: |
@@ -822,8 +1089,12 @@ landscape:
             homepage_url: https://www.gallantlab.org
             repo_url: https://github.com/gallantlab
             logo: gallant_lab.svg
+            locations:
+              - location:
+                city: Berkeley
+                country: USA
             extra:
-              summary_tags: usa, visualization, systems-neuroscience, computational-neuroscience
+              summary_tags: visualization, systems-neuroscience, computational-neuroscience
           - item:
             name: Theunissen Lab
             description: |
@@ -836,8 +1107,12 @@ landscape:
             homepage_url: http://theunissen.berkeley.edu
             repo_url: https://github.com/theunissenlab
             logo: theunissen_lab.svg
+            locations:
+              - location:
+                city: Berkeley
+                country: USA
             extra:
-              summary_tags: usa, audition, neurophysiology, computational-neuroscience
+              summary_tags: audition, neurophysiology, computational-neuroscience
           - item:
             name: Bouchard Lab
             description: |
@@ -850,8 +1125,12 @@ landscape:
             homepage_url: https://bouchardlab.lbl.gov/
             repo_url: https://github.com/BouchardLab
             logo: bouchard_lab.svg
+            locations:
+              - location:
+                city: Berkeley
+                country: USA
             extra:
-              summary_tags: usa, data-science, electrophysiology, optogenetics, rodentds, data-science, tooling
+              summary_tags: data-science, electrophysiology, optogenetics, rodentds, data-science, tooling
   - category:
     name: Hardware
     subcategories:
@@ -867,8 +1146,11 @@ landscape:
               Allen Institute for Brain Science, and University College London.
             homepage_url: https://www.neuropixels.org/
             logo: neuropixels.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, neuropixels, ucl, hhmi
+              summary_tags: allen-institute, neuropixels, ucl, hhmi
           - item:
             name: "DaXi: High-Resolution, Large Imaging Volume, and Multi-View Single Objective Light-Sheet Microscope"
             description: |
@@ -885,8 +1167,11 @@ landscape:
             homepage_url: https://github.com/royerlab/daxi
             repo_url: https://github.com/royerlab/daxi
             logo: daxi.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, chan-zuckerberg-foundation, royer-lab, microscope
+              summary_tags: chan-zuckerberg-foundation, royer-lab, microscope
       - subcategory:
         name: Surgery
         items:
@@ -895,8 +1180,11 @@ landscape:
             description: A method for performing precise surgery, automated cranitomies and large cranial windows.
             homepage_url: http://www.autosurgery.org
             logo: autosurgery.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, mit, allen-institute
+              summary_tags: mit, allen-institute
       - subcategory:
         name: Lab Equipment
         items:
@@ -916,8 +1204,11 @@ landscape:
             homepage_url: https://github.com/royerlab/ZAF
             repo_url: https://github.com/royerlab/ZAF
             logo: zaf.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, chan-zuckerberg-foundation, royer-lab, zebrafish
+              summary_tags: chan-zuckerberg-foundation, royer-lab, zebrafish
   - category:
     name: Datasets
     subcategories:
@@ -933,8 +1224,11 @@ landscape:
             homepage_url: https://www.microns-explorer.org
             repo_url: https://github.com/AllenInstitute/MicronsBinder
             logo: microns.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, princeton, iarpa, baylor-college-of-medicine, electron-microscopy, mouse, visual-cortext, neuroglancer
+              summary_tags: allen-institute, princeton, iarpa, baylor-college-of-medicine, electron-microscopy, mouse, visual-cortext, neuroglancer
           - item:
             name: Allen Brain Cell Atlas
             description: |
@@ -948,8 +1242,11 @@ landscape:
             homepage_url: https://alleninstitute.github.io/abc_atlas_access/intro.html
             repo_url: https://github.com/AllenInstitute/abc_atlas_access
             logo: abc-atlas.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, mouse, cell-atlas, aws
+              summary_tags: allen-institute, mouse, cell-atlas, aws
           - item:
             name: Brain Knowledge Platform
             description: |
@@ -958,8 +1255,11 @@ landscape:
               It contains multiple species, modalities, techniques.
             homepage_url: https://knowledge.brain-map.org/data
             logo: brain-knowledge-platform.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, mouse, human, data-catalog, atlas, nih, brain-initiative
+              summary_tags: allen-institute, mouse, human, data-catalog, atlas, nih, brain-initiative
           - item:
             name: CoCoMac
             description: |
@@ -983,8 +1283,11 @@ landscape:
             homepage_url: https://allensdk.readthedocs.io/en/latest/data_api_client.html
             repo_url: https://github.com/AllenInstitute/AllenSDK
             logo: allen-brain-atlas-sdk.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, sdk
+              summary_tags: allen-institute, sdk
           - item:
             name: 1000 Functional Connectomes
             description: |
@@ -1020,8 +1323,11 @@ landscape:
               This suite of molecular tools is used in our research and lines are made available to the community via The Jackson Laboratory.
             homepage_url: https://portal.brain-map.org/explore/toolkit/mice
             logo: transgenic-mouse-lines.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, mouse, jackson-laboratory
+              summary_tags: allen-institute, mouse, jackson-laboratory
           - item:
             name: Human Embryonic Stem Cell Lines
             description: |
@@ -1030,8 +1336,11 @@ landscape:
               Other lines, as well as vectors and plasmid maps, are available by request.
             homepage_url: https://portal.brain-map.org/explore/toolkit/hesc
             logo: human-embryonic-stem-cell-lines.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, human, embryonic
+              summary_tags: allen-institute, human, embryonic
           - item:
             name: Viral Tools
             description: |
@@ -1040,8 +1349,11 @@ landscape:
               This expanding list highlights viral reagents that have been used in recently published studies.
             homepage_url: https://portal.brain-map.org/explore/toolkit/viruses
             logo: viral-tools.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, molecular-toolkit, transcriptomic
+              summary_tags: allen-institute, molecular-toolkit, transcriptomic
       - subcategory:
         name: Models
         items:
@@ -1053,16 +1365,22 @@ landscape:
               Our mission is to provide the systems modelling community with reproducible, high-quality, freely-accessible models published in the scientific literature.
             homepage_url: https://www.ebi.ac.uk/biomodels/
             logo: biomodels.svg
+            locations:
+              - location:
+                country: UK
             extra:
-              summary_tags: uk, embl-ebi, embl
+              summary_tags: embl-ebi, embl
           - item:
             name: MCModels
             description: MCModels is a Python package providing mesoscale connectivity models for the whole adult mouse brain.
             homepage_url: http://portal.brain-map.org/explore/models/mcmodels
             repo_url: https://github.com/AllenInstitute/mouse_connectivity_models
             logo: allen-mcmodels.svg
+            locations:
+              - location:
+                country: UK
             extra:
-              summary_tags: uk, allen-institute, mouse
+              summary_tags: allen-institute, mouse
       - subcategory:
         name: Physiology
         items:
@@ -1078,8 +1396,11 @@ landscape:
               address higher-order connectivity questions, and inform current comprehension of the cortical microcircuit.
             homepage_url: http://portal.brain-map.org/connectivity/synaptic-physiology
             logo: allen-synaptic-physiology.svg
+            locations:
+              - location:
+                country: UK
             extra:
-              summary_tags: usa, allen-institute, physiology, recordings, api, sqlite, hdf5, nwbv1
+              summary_tags: allen-institute, physiology, recordings, api, sqlite, hdf5, nwbv1
   - category:
     name: Software
     subcategories:
@@ -1112,8 +1433,11 @@ landscape:
             homepage_url: https://www.humanconnectome.org/software/connectome-workbench
             repo_url: https://github.com/Washington-University/workbench
             logo: uw-ccf.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, connectomics, human-connectome, univesity-of-washington, nih
+              summary_tags: connectomics, human-connectome, univesity-of-washington, nih
           - item:
             name: SMART
             description: "Semi-manual alignment to reference templates (SMART): An open source pipeline in R for whole brain mapping."
@@ -1128,8 +1452,11 @@ landscape:
             homepage_url: https://github.com/portugueslab/fimpy
             repo_url: https://github.com/portugueslab/fimpy
             logo: portugues-lab.svg
+            locations:
+              - location:
+                country: Germany
             extra:
-              summary_tags: tum, portugues-lab, hdf5
+              summary_tags: portugues-lab, hdf5
           - item:
             name: HistoloZee
             description: |
@@ -1145,6 +1472,9 @@ landscape:
             homepage_url: https://docs.opensourcebrain.org/OSBv2/NWBE.html
             repo_url: https://github.com/MetaCell/nwb-explorer
             logo: neurodata_without_borders.svg
+            locations:
+              - location:
+                country: UK
             extra:
               summary_tags: meta-cell, ucl, open-source-brain
           - item:
@@ -1155,8 +1485,11 @@ landscape:
             homepage_url: https://www.allencell.org/pathtrace-rendering.html
             repo_url: https://github.com/allen-cell-animated/agave
             logo: agave.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, gpu, rendering
+              summary_tags: allen-institute, gpu, rendering
           - item:
             name: Cell Feature Explorer
             description: |
@@ -1167,8 +1500,11 @@ landscape:
             homepage_url: https://cfe.allencell.org
             repo_url: https://github.com/allen-cell-animated/cell-feature-explorer
             logo: cell-feature-explorer.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, cells
+              summary_tags: allen-institute, cells
           - item:
             name: Segmenter
             description: |
@@ -1183,8 +1519,11 @@ landscape:
             homepage_url: https://www.allencell.org/segmenter.html
             repo_url: https://github.com/AllenCell/aics-ml-segmentation
             logo: segmenter.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, segmentation, fluorescence, intracellular
+              summary_tags: allen-institute, segmentation, fluorescence, intracellular
           - item:
             name: NiMARE
             description: |
@@ -1209,8 +1548,11 @@ landscape:
             homepage_url: https://www.treestoolbox.org/index.html
             repo_url: https://github.com/cuntzlab/treestoolbox
             logo: trees_toolbox.svg
+            locations:
+              - location:
+                country: Germany
             extra:
-              summary_tags: germany, esi, cuntz-lab
+              summary_tags: esi, cuntz-lab
           - item:
             name: Visual Neuronal Dynamics (VND)
             description: |
@@ -1218,8 +1560,11 @@ landscape:
               Developed collaboratively by groups at UIUC and Allen Institute.
             homepage_url: http://www.ks.uiuc.edu/Research/vnd/
             logo: allen-vnd.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, university-of-illinois
+              summary_tags: allen-institute, university-of-illinois
           - item:
             name: Allen Institute Synaptic Physiology (aisynphys)
             description: |
@@ -1243,8 +1588,11 @@ landscape:
             homepage_url: https://github.com/royerlab/dexp
             repo_url: https://github.com/royerlab/dexp
             logo: dexp.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, chan-zuckerberg-foundation, royer-lab
+              summary_tags: chan-zuckerberg-foundation, royer-lab
       - subcategory:
         name: Imaging and Microscopy
         items:
@@ -1254,8 +1602,11 @@ landscape:
             homepage_url: https://github.com/czbiohub-sf/shrimPy
             repo_url: https://github.com/czbiohub-sf/shrimPy
             logo: shrimPy.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, chan-zuckerberg-foundation
+              summary_tags: chan-zuckerberg-foundation
           - item:
             name: recOrder
             description: |
@@ -1264,24 +1615,33 @@ landscape:
             homepage_url: https://github.com/mehta-lab/recOrder
             repo_url: https://github.com/mehta-lab/recOrder
             logo: recorder.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, chan-zuckerberg-foundation, fluorescence, imaging
+              summary_tags: chan-zuckerberg-foundation, fluorescence, imaging
           - item:
             name: WaveOrder
             description: Software to measure intrinsic order with wave optical reconstructions of density and anisotropy.
             homepage_url: https://github.com/mehta-lab/waveorder
             repo_url: https://github.com/mehta-lab/waveorder
             logo: waveorder.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, chan-zuckerberg-foundation, mehta-lab
+              summary_tags: chan-zuckerberg-foundation, mehta-lab
           - item:
             name: Aydin
             description: Aydin is a user-friendly, feature-rich, and fast image denoising tool that provides a number of self-supervised, auto-tuned, and unsupervised image denoising algorithms.
             homepage_url: https://royerlab.github.io/aydin/v0.1.15/index.html
             repo_url: https://github.com/royerlab/aydin
             logo: aydin.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, chan-zuckerberg-foundation, royer-lab
+              summary_tags: chan-zuckerberg-foundation, royer-lab
       - subcategory:
         name: Segmentation
         items:
@@ -1291,8 +1651,11 @@ landscape:
             homepage_url: https://github.com/facebookresearch/segment-anything
             repo_url: https://github.com/facebookresearch/segment-anything
             logo: segment-anything.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, facebook, meta, computer-vision, fair
+              summary_tags: facebook, meta, computer-vision, fair
           - item:
             name: napari
             description: |
@@ -1302,16 +1665,20 @@ landscape:
             homepage_url: https://napari.org/
             repo_url: https://github.com/napari/napari
             logo: napari.svg
-            extra:
-              summary_tags: usa
+            locations:
+              - location:
+                country: USA
           - item:
             name: napari-segment-anything
             description: Segment Anything Model (SAM) native Qt UI. Used in ExA-SPIM.
             homepage_url: https://github.com/royerlab/napari-segment-anything
             repo_url: https://github.com/royerlab/napari-segment-anything
             logo: napari-segment-anything.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute, exa-spim, allen-institute-of-neural-dynamics, royer-lab
+              summary_tags: allen-institute, exa-spim, allen-institute-of-neural-dynamics, royer-lab
       - subcategory:
         name: Simulation
         items:
@@ -1359,6 +1726,9 @@ landscape:
               Lead-OR: A toolbox facilitating research during Deep Brain Stimulation surgery.
             homepage_url: https://www.lead-dbs.org
             logo: lead-dbs.svg
+            locations:
+              - location:
+                country: Germany
             extra:
               summary_tags: berlin-institute-of-health, dfg
           - item:
@@ -1369,6 +1739,9 @@ landscape:
             homepage_url: https://opensourcebrain.org
             repo_url: https://github.com/OpenSourceBrain/OSBv2
             logo: osb.svg
+            locations:
+              - location:
+                country: UK
             extra:
               summary_tags: ucl, open-source-brain
           - item:
@@ -1377,6 +1750,9 @@ landscape:
             homepage_url: https://www.netpyne.org
             repo_url: https://github.com/MetaCell/NetPyNE-UI
             logo: netpyne.svg
+            locations:
+              - location:
+                country: UK
             extra:
               summary_tags: meta-cell, open-source-brain
           - item:
@@ -1394,6 +1770,13 @@ landscape:
             homepage_url: http://thevirtualbrain.org
             repo_url: https://github.com/the-virtual-brain/tvb-root
             logo: virtual-brain.svg
+            locations:
+              - location:
+                country: Canada
+              - location:
+                country: France
+              - location:
+                country: Germany
             extra:
               summary_tags: human, simulation, eu, eu-horizon, human-brain-project, virtual-brian-cloud
           - item:
@@ -1402,8 +1785,11 @@ landscape:
             homepage_url: https://alleninstitute.github.io/bmtk/
             repo_url: https://github.com/AllenInstitute/bmtk
             logo: allen-bmtk.svg
+            locations:
+              - location:
+                country: UK
             extra:
-              summary_tags: usa, allen-institute
+              summary_tags: allen-institute
           - item:
             name: DiPDE
             description: |
@@ -1413,8 +1799,11 @@ landscape:
             homepage_url: http://alleninstitute.github.io/dipde/
             repo_url: https://github.com/AllenInstitute/dipde
             logo: allen-dipde.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute
+              summary_tags: allen-institute
       - subcategory:
         name: Deep Learning
         items:
@@ -1424,32 +1813,44 @@ landscape:
             homepage_url: https://allencellmodeling.github.io/cyto-dl/
             repo_url: https://github.com/AllenCellModeling/cyto-dl
             logo: cytodl.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, alllen-institute, microscopy, images, pytorch, ml, segmentation, images, deep-learning, computer-visition, tabular-data
+              summary_tags: alllen-institute, microscopy, images, pytorch, ml, segmentation, images, deep-learning, computer-visition, tabular-data
           - item:
             name: Pytorch 3D Integrated Cell
             description: Integrated Cell project implemented in pytorch.
             homepage_url: https://github.com/AllenCellModeling/pytorch_integrated_cell
             repo_url: https://github.com/AllenCellModeling/pytorch_integrated_cell
             logo: pytorch-3d-integrated-cell.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, alllen-institute, microscopy, images, pytorch, ml
+              summary_tags: alllen-institute, microscopy, images, pytorch, ml
           - item:
             name: pytorch_fnet
             description: Label-free prediction of three-dimensional fluorescence images from transmitted-light microscopy
             homepage_url: https://github.com/AllenCellModeling/pytorch_fnet
             repo_url: https://github.com/AllenCellModeling/pytorch_fnet
             logo: pytorch-fnet.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, alllen-institute, microscopy, images, pytorch, ml
+              summary_tags: alllen-institute, microscopy, images, pytorch, ml
           - item:
             name: VisCy
             description: VisCy is a deep learning pipeline for training and deploying computer vision models for image-based phenotyping at single-cell resolution.
             homepage_url: https://github.com/mehta-lab/viscy
             repo_url: https://github.com/mehta-lab/viscy
             logo: VisCy.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, chan-zuckerberg-foundation, single-cell, imaging
+              summary_tags: chan-zuckerberg-foundation, single-cell, imaging
       - subcategory:
         name: Spikes
         items:
@@ -1459,8 +1860,11 @@ landscape:
             homepage_url: https://spikeinterface.readthedocs.io
             repo_url: https://github.com/SpikeInterface/spikeinterface
             logo: spike-interface.svg
+            locations:
+              - location:
+                country: Switzerland
             extra:
-              summary_tags: spikes, eth, swizerland, cinpla, oslo, alllen-institute, cnrs
+              summary_tags: spikes, eth, cinpla, oslo, alllen-institute, cnrs
           - item:
             name: SpikeGLX
             description: |
@@ -1469,6 +1873,9 @@ landscape:
             homepage_url: http://billkarsh.github.io/SpikeGLX/
             repo_url: https://github.com/billkarsh/SpikeGLX
             logo: spike-glx.svg
+            locations:
+              - location:
+                country: USA
             extra:
               summary_tags: mfi, clinical, allen-institute, neuropixels
           - item:
@@ -1484,8 +1891,11 @@ landscape:
             homepage_url: https://kordinglab.com/spykes
             repo_url: https://github.com/KordingLab/spykes
             logo: spykes.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: spikes, kording-lab, usa, university-of-pennsylvania
+              summary_tags: spikes, kording-lab, university-of-pennsylvania
       - subcategory:
         name: Data Formats
         items:
@@ -1495,16 +1905,22 @@ landscape:
             homepage_url: https://allencellmodeling.github.io/aicsimageio
             repo_url: https://github.com/AllenCellModeling/aicsimageio
             logo: aics-image-io.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, alllen-institute, microscopy, images
+              summary_tags: alllen-institute, microscopy, images
           - item:
             name: SONATA
             description: A cross-platform data format for storing large-scale network models and simulation results.
             homepage_url: https://github.com/AllenInstitute/sonata
             repo_url: https://github.com/AllenInstitute/sonata
             logo: allen-sonata.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, allen-institute
+              summary_tags: allen-institute
       - subcategory:
         name: Cells & Transcriptomics
         items:
@@ -1514,40 +1930,55 @@ landscape:
             homepage_url: https://github.com/AllenInstitute/cell_type_mapper
             repo_url: https://github.com/AllenInstitute/cell_type_mapper
             logo: cell_type_mapper.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, alllen-institute, mapping
+              summary_tags: alllen-institute, mapping
           - item:
             name: mfishtools
             description: Package for gene selection and analysis of spatial transcriptomics data, including MERFISH. Gene panels for several published studies using smFISH and MERFISH from the Allen Institute used these scripts.
             homepage_url: https://github.com/AllenInstitute/mfishtools
             repo_url: https://github.com/AllenInstitute/mfishtools
             logo: mfishtools.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, alllen-institute, spatial-transcriptomics, transcriptomics, fish
+              summary_tags: alllen-institute, spatial-transcriptomics, transcriptomics, fish
           - item:
             name: scrattch
             description: Single-cell RNA-seq analysis for transcriptomic type characterization (or "scrattch") is the umbrella package for the scrattch suite of R packages from the Allen Institute for Brain Science. It is modeled after the tidyverse package.
             homepage_url: https://github.com/AllenInstitute/scrattch
             repo_url: https://github.com/AllenInstitute/scrattch
             logo: scrattch.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, alllen-institute, clustering, visualization, mapping, standards, tidyverse
+              summary_tags: alllen-institute, clustering, visualization, mapping, standards, tidyverse
           - item:
             name: transcriptomic_clustering
             description: Python implementation of clustering method detailed in scrattch.hicat. Additional development for HMBA to (1) handle clustering human/NHP data with donor effects and (2) implement more computationally efficient methods utilizing GPUs for faster computations.
             homepage_url: https://github.com/AllenInstitute/transcriptomic_clustering
             repo_url: https://github.com/AllenInstitute/transcriptomic_clustering
             logo: transcriptomic_clustering.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, alllen-institute, clustering, transcriptomic
+              summary_tags: alllen-institute, clustering, transcriptomic
           - item:
             name: Quality Control for scRNA-seq data (QCR)
             description: Python implementation of clustering method detailed in scrattch.hicat. Additional development for HMBA to (1) handle clustering human/NHP data with donor effects and (2) implement more computationally efficient methods utilizing GPUs for faster computations.
             homepage_url: https://github.com/AllenInstitute/QCR
             repo_url: https://github.com/AllenInstitute/QCR
             logo: allen_qcr.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, alllen-institute, clustering, transcriptomic
+              summary_tags: alllen-institute, clustering, transcriptomic
   - category:
     name: Books
     subcategories:
@@ -1637,13 +2068,3 @@ landscape:
             repo_url: https://github.com/NeuromatchAcademy/course-content
             twitter: https://twitter.com/neuromatch
             logo: neuromatch-academy.svg
-          - item:
-            name: "TODO: https://www.edx.org/learn/neuroscience"
-            description: Undergraduate and Graduate level course materials from MIT
-            homepage_url: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
-            logo: mit_open_courseware_dark.svg
-          - item:
-            name: "TODO: coursera"
-            description: Undergraduate and Graduate level course materials from MIT
-            homepage_url: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/
-            logo: mit_open_courseware_dark.svg

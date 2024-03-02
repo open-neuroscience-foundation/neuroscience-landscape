@@ -14,35 +14,8 @@ Helpful links:
 
 ## Build
 
-This project utilizes https://github.com/cncf/landscape2.
+This project utilizes http://github.com/open-neuroscience-foundation/landscape2-academic.
 
 ```bash
-GITHUB_TOKENS=... landscape2 build --data-file data.yml --settings-file settings.yml --guide-file guide.yml --logos-path logos --output-dir build && landscape2 serve --landscape-dir build
+GITHUB_TOKENS=... landscape2-academic build --data-file data.yml --settings-file settings.yml --guide-file guide.yml --logos-path logos --output-dir build && landscape2-academic serve --landscape-dir build
 ```
-
-## Work in Progress
-
-Laboratories
-- [ ] citations metric
-- [ ] number of papers metric
-- [ ] head description
-- [ ] hindex of head
-
-Main
-- [ ] manual location
-- [ ] search by everything
-- [ ] filter by tags
-- [ ] filter by location
-- [ ] image in summary
-- [ ] feature by hindex
-- [ ] feature manually
-- [ ] BibTeX citation in footer
-- [ ] git organization url instead of repository url
-
-Books
-- [ ] dedicated Amazon URL icon
-
-## Notes
-
-- `2024-02-29`, not using SerpAPI for h-index, since it is expensive
-- `2024-02-29`, not using Crunchbase for company info, since it requires expensive Enterprise level subscription
