@@ -13,6 +13,7 @@ Add your entry to `data.yaml`. Build and run locally, confirm that it looks corr
 Helpful links:
 * convert PNG to SVG ([png2svg.com](https://png2svg.com/#google_vignette))
 * edit SVG ([editor.method.ac](https://editor.method.ac))
+* create SVG or PNG ([canva](http://canva.com))
 
 ## Build
 
