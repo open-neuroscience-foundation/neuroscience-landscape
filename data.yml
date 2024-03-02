@@ -2086,5 +2086,8 @@ landscape:
             twitter: https://twitter.com/hubermanlab
             youtube_url: https://www.youtube.com/@hubermanlab
             logo: hubberman_lab.svg
+            locations:
+              - location:
+                country: USA
             extra:
               summary_tags: stanford
