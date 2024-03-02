@@ -1,5 +1,7 @@
 # [Neuroscience Landscape](http://neuroscience-landscape.com/)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fopen-neuroscience-foundation%2Fneuroscience-landscape&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 This is community driven landscape of resources on neuroscience.
 The primary goal is to make bird eye view of academic and commercial neuroscience
 with dimensions such as companies, research groups, software, hardware, datasets, educational materials, and more.
