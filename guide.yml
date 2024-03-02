@@ -3,12 +3,7 @@ categories:
     content: |
       This is a list of major laboratories at universities that work on domains related to neuroscience.
       This list is organized by their affiliated universities, as usually each university has multiple research labs.
-
-      Disclaimer: lab emphasis is experimental.
-      It is combination of hindex and number of publications.
-      We strive for welcoming and constructive collaboration. 
-      As we receive more feedback from the academic community we will adjust this policy.
-      Feel free to bring to our attention changes to policy or data. Contributions welcomed.
+      Laboratories are featured on the basis of their group leader hindex and global recognition.
     subcategories:
       - subcategory: Columbia University
         content: |
@@ -29,6 +24,7 @@ categories:
       - subcategory: KAIST
         content: |
           Korea Advanced Institute of Science & Technology is a major science and technology university in South Korea.
+          It is top 1 engineering school in South Korea, and repeatedly top 5 in Asia and top 50 worldwide.
       - subcategory: TUM
         content: |
           Technische Universität München is a major public research university in Germany.

@@ -446,9 +446,15 @@ landscape:
               The Royer Lab at the Chan Zuckerberg Biohub San Francisco is a pluridisciplinary team of computer scientists, optical engineers, and biologists.
               Our goal is to build a time-resolved, multidimensional atlas of vertebrate development using zebrafish as a model organism.
               To attain this goal, we design, build, and implement novel state-of-the-art light-sheet microscopes, as well as deep learning-based image processing and analysis algorithms.
-            homepage_url: https://github.com/royerlab
+            homepage_url: http://royerlab.org/
             repo_url: https://github.com/royerlab
             logo: royer-lab.svg
+            academics:
+              - academic:
+                name: Loic A. Royer
+                profile_url: https://scholar.google.com/citations?user=qNDoTVcAAAAJ&hl=en&oi=ao
+                hindex: 27
+                citations: 6953
             locations:
               - location:
                 city: San Francisco
@@ -469,6 +475,12 @@ landscape:
             homepage_url: https://www.kordinglab.com
             repo_url: https://github.com/KordingLab
             logo: kording-lab.svg
+            academics:
+              - academic:
+                name: Konrad Kording
+                profile_url: https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en
+                hindex: 77
+                citations: 25763
             locations:
               - location:
                 city: Philadelphia
@@ -484,6 +496,27 @@ landscape:
             homepage_url: https://www.epfl.ch/research/domains/bluebrain/
             repo_url: https://github.com/BlueBrain/HighFive
             logo: blue-brain-project.svg
+            academics:
+              - academic:
+                name: Henry Markram
+                profile_url: https://scholar.google.com/citations?user=W3lyJF8AAAAJ&hl=en
+                hindex: 94
+                citations: 51941
+              - academic:
+                name: Marc-Oliver Gewaltig
+                profile_url: https://scholar.google.com/citations?user=Dy-lNyAAAAAJ&hl=en
+                hindex: 25
+                citations: 4989
+              - academic:
+                name: Michael W. Reimann
+                profile_url: https://scholar.google.com/citations?user=uzjd33kAAAAJ&hl=en
+                hindex: 16
+                citations: 2899
+              - academic:
+                name: Werner Van Geit
+                profile_url: https://scholar.google.com/citations?user=5sr9FJgAAAAJ&hl=en
+                hindex: 15
+                citations: 2505
             locations:
               - location:
                 city: Geneva
@@ -498,6 +531,12 @@ landscape:
             description: Founders of Utah Electrode Array.
             homepage_url: https://neuroscience.med.utah.edu/faculty/normann.php
             logo: cncf.svg
+            academics:
+              - academic:
+                name: Richard A. Normann
+                researchgate_url: https://research.com/u/richard-a-normann
+                hindex: 55
+                citations: 14438
             locations:
               - location:
                 city: Utah
@@ -513,6 +552,12 @@ landscape:
             homepage_url: https://seunglab.org/
             repo_url: https://github.com/seung-lab/connected-components-3d
             logo: seung-lab.svg
+            academics:
+              - academic:
+                name: Sebastian Seung
+                researchgate_url: https://scholar.google.com/citations?user=BD8llAEAAAAJ&hl=en
+                hindex: 81
+                citations: 60280
             locations:
               - location:
                 city: Princeton
@@ -533,6 +578,12 @@ landscape:
               Through this we want to understand the higher cognitive functions of human brain (how the brain works) and to develop restoration, augmentation and modulation systems for patients with brain dysfunctions using current cutting-edge bioengineering techniques.
             homepage_url: http://ibrain.kaist.ac.kr
             logo: kaist-cni-lab.svg
+            academics:
+              - academic:
+                name: Yong Jeong
+                researchgate_url: https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=en
+                hindex: 40
+                citations: 6254
             locations:
               - location:
                 city: Daejeon
@@ -544,6 +595,12 @@ landscape:
             description: Explore the mechanisms underlying various neuropsychiatric disorders by focusing on defects in synaptic development.
             homepage_url: https://molneuro.kaist.ac.kr/contents/
             logo: kasit-sbdl.svg
+            academics:
+              - academic:
+                name: Eunjoon Kim
+                researchgate_url: https://scholar.google.com/citations?user=fgt4fvkAAAAJ&hl=en
+                hindex: 81
+                citations: 27907
             locations:
               - location:
                 city: Daejeon
@@ -560,6 +617,12 @@ landscape:
               In addition, we study how the brain produces aesthetic preference on paintings and music and how it manipulates social communications between humans.
             homepage_url: https://raphe.kaist.ac.kr
             logo: kaist-decision-brain-dynamics-lab.svg
+            academics:
+              - academic:
+                name: Jaeseung Jeong
+                researchgate_url: https://scholar.google.com/citations?user=ZfNxZ3sAAAAJ&hl=en
+                hindex: 38
+                citations: 7222
             locations:
               - location:
                 city: Daejeon
@@ -593,6 +656,12 @@ landscape:
               and other macronutrients, as well as essential micronutrients (see a Review by Kim et al, 2021 Cell Metabolism).
             homepage_url: https://www.suhlab-neuralinteroception.kaist.ac.kr
             logo: kaist-neural-interoception.svg
+            academics:
+              - academic:
+                name: Greg Seong-Bae Suh
+                profile_url: https://www.semanticscholar.org/author/Greg-S.-B.-Suh/4169121
+                hindex: 13
+                citations: 2445
             locations:
               - location:
                 city: Daejeon
@@ -615,6 +684,12 @@ landscape:
               Insights from our study should be broadly applicable to the treatment of cognitive disorders, including attention deficit disorder, autism, schizophrenia, and dementia.
             homepage_url: https://sites.google.com/site/leelab2013/home
             logo: kaist_lee_lab.svg
+            academics:
+              - academic:
+                name: Seung-Hee Lee
+                profile_url: https://scholar.google.com/citations?user=ifoan_MAAAAJ&hl=en
+                hindex: 24
+                citations: 4225
             locations:
               - location:
                 city: Daejeon
@@ -640,6 +715,12 @@ landscape:
               Specifically, we investigate how hippocampal and frontal cortical neural activity differs between wild-type and ASD model mice under diverse behavioral settings such as perceptual decision making and social interactions.
             homepage_url: https://sites.google.com/site/systemsneurolaboratory/project
             logo: kaist_systems_neuro_lab.svg
+            academics:
+              - academic:
+                name: Min Whan Jung
+                profile_url: https://scholar.google.co.kr/citations?user=Yb3-08YAAAAJ&hl=en
+                hindex: 50
+                citations: 11614
             locations:
               - location:
                 city: Daejeon
@@ -652,6 +733,12 @@ landscape:
               The Korea Brain Research Institute is a research institute in South Korea. Core facilities include the Korea Brain Bank and lab animal centers.
             homepage_url: https://www.kbri.re.kr
             logo: kbri-short.svg
+            academics:
+              - academic:
+                name: Pann-Ghill Suh
+                profile_url: https://scholar.google.co.kr/citations?user=ih5KsPkAAAAJ&hl=ko
+                hindex: 82
+                citations: 24218
             locations:
               - location:
                 country: South Korea
@@ -665,6 +752,12 @@ landscape:
             description: Portugues lab studies zebrafish behavior and brain fxn/circuitry using cutting-edge imaging techniques.
             homepage_url: https://portugueslab.com
             logo: cncf.svg
+            academics:
+              - academic:
+                name: Ruben Portugues
+                profile_url: https://scholar.google.de/citations?user=gDcRyKsAAAAJ&hl=en
+                hindex: 29
+                citations: 5676
             locations:
               - location:
                 city: Munich
@@ -685,6 +778,12 @@ landscape:
               To test the predictions of this conceptual framework we investigate population dynamics with cellular resolution by performing massive parallel recordings from the visual cortex of behaviourally trained monkeys with chronically implanted microelectrode arrays.
             homepage_url: https://www.esi-frankfurt.de/research/singer-lab/
             logo: singer-lab.svg
+            academics:
+              - academic:
+                name: Wolf Singer
+                profile_url: https://scholar.google.com/citations?user=Ho8cFO8AAAAJ&hl=en&oi=ao
+                hindex: 148
+                citations: 104519
             locations:
               - location:
                 city: Frankfurt
@@ -704,6 +803,12 @@ landscape:
               The main methods employed include electrophysiological recordings using magnetoencephalography (MEG), electroencephalography (EEG), and electrocorticography (ECoG), as well as imaging studies using structural and functional magnetic resonance imaging (MRI).
             homepage_url: https://www.esi-frankfurt.de/research/poeppel-lab/
             logo: poeppel_lab.svg
+            academics:
+              - academic:
+                name: David Poeppel
+                profile_url: https://scholar.google.com/citations?user=9EyT1mYAAAAJ
+                hindex: 88
+                citations: 45018
             locations:
               - location:
                 city: Frankfurt
@@ -725,6 +830,12 @@ landscape:
             homepage_url: https://www.esi-frankfurt.de/research/cuntz-lab/
             repo_url: https://github.com/cuntzlab
             logo: cuntz_lab.svg
+            academics:
+              - academic:
+                name: David Poeppel
+                profile_url: https://scholar.google.nl/citations?user=9g7Uj-MAAAAJ&hl=en&oi=ao
+                hindex: 25
+                citations: 2092
             locations:
               - location:
                 city: Frankfurt
@@ -746,6 +857,17 @@ landscape:
               In this way, we aim to for the first time explain how the neuronal representations of universal processes like learning and attention jointly unfold in the brain in real time.
             homepage_url: https://www.esi-frankfurt.de/research/havenith-scholvinck-lab/
             logo: havenith_scholvinck_lab.svg
+            academics:
+              - academic:
+                name: Marieke Scholvinck
+                profile_url: https://scholar.google.de/citations?user=N2MfHR8AAAAJ&hl=en
+                hindex: 18
+                citations: 3419
+              - academic:
+                name: Martha Nari Havenith
+                profile_url: https://scholar.google.com/citations?user=EY_4zioAAAAJ&hl=en
+                hindex: 11
+                citations: 778
             locations:
               - location:
                 city: Frankfurt
@@ -764,6 +886,12 @@ landscape:
               to create a sense of self-motion that underlies spatial cognition, gaze stabilization and postural control;
             homepage_url: https://www.esi-frankfurt.de/research/laurens-lab/
             logo: esi-laurens-lab.svg
+            academics:
+              - academic:
+                name: Jean Laurens
+                profile_url: https://scholar.google.com/citations?user=4dentLsAAAAJ&hl=de
+                hindex: 19
+                citations: 1629
             locations:
               - location:
                 city: Frankfurt
@@ -781,6 +909,12 @@ landscape:
               Importantly, we think that science should be a fun and collaborative form of intellectual entertainment for anyone who wants to be a part of it!
             homepage_url: https://www.rademakerlab.com
             logo: rademaker-lab.svg
+            academics:
+              - academic:
+                name: Rosanne Rademaker
+                profile_url: https://scholar.google.com/citations?user=KP28dO8AAAAJ&hl=en&oi=ao
+                hindex: 14
+                citations: 1137
             locations:
               - location:
                 city: Frankfurt
@@ -803,6 +937,12 @@ landscape:
               We use cutting-edge 3D electron microscopy methods for large-scale high-resolution mapping of neuronal circuits.
             homepage_url: https://www.esi-frankfurt.de/research/schmidt-lab/
             logo: schmidt_lab.svg
+            academics:
+              - academic:
+                name: Helene Schmidt
+                profile_url: https://scholar.google.de/citations?user=YWft174AAAAJ&hl=en
+                hindex: 6
+                citations: 572
             locations:
               - location:
                 city: Frankfurt
@@ -829,6 +969,12 @@ landscape:
               We develop new types of signal processing techniques to deal with electrophysiological data
             homepage_url: https://www.esi-frankfurt.de/research/vinck-lab/
             logo: vink_lab.svg
+            academics:
+              - academic:
+                name: Martin Vinck
+                profile_url: https://scholar.google.de/citations?user=2DB-CR8AAAAJ&hl=de&oi=ao
+                hindex: 39
+                citations: 7138
             locations:
               - location:
                 city: Frankfurt
@@ -846,6 +992,12 @@ landscape:
               Our headquarters is the largest neuroscience research facility in the world, with some 700 students, postdocs, undergraduates, faculty, and staff all engaged in brain science.
             homepage_url: https://bcs.mit.edu/
             logo: bcs-mit.svg
+            academics:
+              - academic:
+                name: Roger Levy
+                profile_url: https://scholar.google.com/citations?user=i86O0SAAAAAJ&hl=en
+                hindex: 52
+                citations: 23780
             locations:
               - location:
                 city: Cambridge
@@ -869,6 +1021,12 @@ landscape:
               For this work, the Austrian-born Kandel was awarded the 2000 Nobel Prize in Physiology or Medicine.
             homepage_url: https://www.biochem.cuimc.columbia.edu/research-labs/kandel-lab
             logo: kandel_lab.svg
+            academics:
+              - academic:
+                name: E. Kandel
+                profile_url: https://www.semanticscholar.org/author/E.-Kandel/5177815
+                hindex: 181
+                citations: 104696
             locations:
               - location:
                 city: New York
@@ -880,6 +1038,12 @@ landscape:
             description: The goal of the Al-Hashimi laboratory is to develop new methods for 'imaging' the dynamics of nucleic acids at atomic resolution.
             homepage_url: https://www.biochem.cuimc.columbia.edu/research/research-labs/al-hashimi-lab
             logo: alhashimi-lab.svg
+            academics:
+              - academic:
+                name: Hashim M Al-Hashimi
+                profile_url: https://scholar.google.com/citations?user=WpE2xEcAAAAJ&hl=en
+                hindex: 64
+                citations: 11812
             locations:
               - location:
                 city: New York
@@ -891,40 +1055,64 @@ landscape:
             description: The Axel Lab is primarily concerned with olfaction, or the sense of smell.
             homepage_url: http://www.axellab.columbia.edu/
             logo: cu-axel-lab.svg
+            academics:
+              - academic:
+                name: Richard Axel
+                profile_url: https://scholar.google.com/citations?user=WpE2xEcAAAAJ&hl=en
+                hindex: 92
+                citations: 44676
             locations:
               - location:
                 city: New York
                 country: USA
             extra:
-              summary_tags: olfaction
+              summary_tags: nobel-prize, olfaction
           - item:
             name: Califano Lab
             description: The Califano Lab studies biology from the perspective of the complex networks of gene and protein interactions that define and regulate cell physiology.
             homepage_url: http://califano.c2b2.columbia.edu/
             repo_url: https://github.com/califano-lab
             logo: andrea-califano-lab.svg
+            academics:
+              - academic:
+                name: Andrea Califano
+                profile_url: https://scholar.google.com/citations?user=NxBuRgcAAAAJ&hl=en
+                hindex: 91
+                citations: 44607
             locations:
               - location:
                 city: New York
                 country: USA
             extra:
-              summary_tags: systems-biology, gene-networks
+              summary_tags: systems-biology, gene-networks, chan-zuckerberg-foundation
           - item:
             name: Frank Lab
             description: The Frank Lab investigates the mechanism of translation on the ribosome by using cryo-electron microscopy and single-particle reconstruction.
             homepage_url: https://joachimfranklab.org
             logo: cu-frank-lab.svg
+            academics:
+              - academic:
+                name: Joachim Frank
+                profile_url: https://scholar.google.com/citations?user=a7LHl00AAAAJ&hl=en
+                hindex: 119
+                citations: 51901
             locations:
               - location:
                 city: New York
                 country: USA
             extra:
-              summary_tags: electron-microscopy, reconstruction
+              summary_tags: nobel-prize, electron-microscopy, reconstruction
           - item:
             name: Hobert Lab
             description: The Hobert Lab studies the gene regulatory control mechanisms that generate the astounding diversity of cell types in the nervous system.
             homepage_url: http://hobertlab.org/
             logo: hobert-lab.svg
+            academics:
+              - academic:
+                name: Oliver Hobert
+                profile_url: https://scholar.google.com/citations?user=BJ1TE4AAAAAJ&hl=en
+                hindex: 86
+                citations: 25730
             locations:
               - location:
                 city: New York
@@ -934,8 +1122,14 @@ landscape:
           - item:
             name: Sobolevsky Lab
             description: The Sobolevsky Lab studies structure and function of ion channels using biochemical and biophysical methods, including cryo-EM, X-ray crystallography, electrophysiology and fluorescence measurements.
-            homepage_url: http://hobertlab.org/
+            homepage_url: https://sobolevskylab.org
             logo: sobolevsky-lab.svg
+            academics:
+              - academic:
+                name: Alexander Sobolevsky
+                profile_url: https://scholar.google.com/citations?user=Gsf2Q_8AAAAJ&hl=en
+                hindex: 36
+                citations: 6269
             locations:
               - location:
                 city: New York
@@ -947,6 +1141,12 @@ landscape:
             description: The Zhang Lab seeks to dissect RNA regulatory networks in the nervous system.
             homepage_url: https://zhanglab.c2b2.columbia.edu/index.php/Main_Page
             logo: cu-zhang-lab.svg
+            academics:
+              - academic:
+                name: Chaolin Zhang
+                profile_url: https://scholar.google.com/citations?user=hWYleB8AAAAJ&hl=en
+                hindex: 41
+                citations: 14481
             locations:
               - location:
                 city: New York
@@ -966,6 +1166,12 @@ landscape:
             homepage_url: https://groups.oist.jp/ncbc
             repo_url: https://github.com/oist-ncbc
             logo: oist-ncbc.svg
+            academics:
+              - academic:
+                name: Tomoki Fukai
+                profile_url: https://scholar.google.com/citations?user=iO7jHc4AAAAJ&hl=en
+                hindex: 46
+                citations: 6324
             locations:
               - location:
                 city: Okinawa
@@ -988,6 +1194,17 @@ landscape:
               therapeutic strategies in brain disorders like autism, Parkinson's disease and dementia.
             homepage_url: https://www.duke-nus.edu.sg/nbd
             logo: dukenus.svg
+            academics:
+              - academic:
+                name: Zhang Suchun
+                profile_url: https://scholar.google.ca/citations?user=YTQT5RgAAAAJ&hl=en
+                hindex: 71
+                citations: 23018
+              - academic:
+                name: Hongyan Wang
+                profile_url: https://scholar.google.com/citations?user=ZY-eyuwAAAAJ&hl=en
+                hindex: 30
+                citations: 3554
             locations:
               - location:
                 city: Singapore
@@ -1014,6 +1231,12 @@ landscape:
             homepage_url: https://med.stanford.edu/scsnl/about1.html
             repo_url: https://github.com/scsnl
             logo: scsnl.svg
+            academics:
+              - academic:
+                name: Vinod Menon
+                profile_url: https://scholar.google.com/citations?user=QzqctJgAAAAJ&hl=en
+                hindex: 125
+                citations: 90821
             locations:
               - location:
                 city: Palo Alto
@@ -1027,6 +1250,12 @@ landscape:
             homepage_url: https://web.stanford.edu/group/bdl
             repo_url: https://github.com/braindynamicslab
             logo: stanford_bdl.svg
+            academics:
+              - academic:
+                name: Manish Saggar
+                profile_url: http://scholar.google.com/citations?user=KLbpCO0AAAAJ
+                hindex: 25
+                citations: 1975
             locations:
               - location:
                 city: Palo Alto
@@ -1042,6 +1271,12 @@ landscape:
               We combine modeling with neuromodulation, imaging, and behavioral experiments to discover, test, and validate novel circuit based therapeutics.
             homepage_url: https://llab.stanford.edu
             logo: stanford_lee_lab.svg
+            academics:
+              - academic:
+                name: Jin Hyung Lee
+                profile_url: https://www.semanticscholar.org/author/Jin-Hyung-Lee/1520031714
+                hindex: 23
+                citations: 3184
             locations:
               - location:
                 city: Palo Alto
@@ -1062,6 +1297,12 @@ landscape:
               In a 2021, our collaboration with Dr. Edward Chang, professor and chair of the Department of Neurological Surgery at the University of California, San Francisco (UCSF), was published in Current Biology, revealing that specific patterns of insular cortex neural activity may be linked to, and potentially predict, anxiety responses.
             homepage_url: https://hubermanlab.stanford.edu/about
             logo: stanford_huberman_lab.svg
+            academics:
+              - academic:
+                name: Andrew Huberman
+                profile_url: https://scholar.google.com/citations?user=CoADxCwAAAAJ&hl=en
+                hindex: 42
+                citations: 11641
             locations:
               - location:
                 city: Palo Alto
@@ -1080,6 +1321,12 @@ landscape:
             homepage_url: http://colala.berkeley.edu
             repo_url: https://github.com/piantado
             logo: berkeley_colala_lab.svg
+            academics:
+              - academic:
+                name: Steven T. Piantadosi
+                profile_url: https://scholar.google.com/citations?user=zykJTC4AAAAJ&hl=en
+                hindex: 41
+                citations: 9022
             locations:
               - location:
                 city: Berkeley
@@ -1094,6 +1341,12 @@ landscape:
             homepage_url: http://www.emilyacooper.org/index.html
             repo_url: https://github.com/eacooper
             logo: berkeley_perceptual_reality_lab.svg
+            academics:
+              - academic:
+                name: Emily Averill Cooper
+                profile_url: https://scholar.google.com/citations?user=6Wo3XX4AAAAJ&hl=en
+                hindex: 22
+                citations: 1741
             locations:
               - location:
                 city: Berkeley
@@ -1107,6 +1360,12 @@ landscape:
             homepage_url: https://www.gallantlab.org
             repo_url: https://github.com/gallantlab
             logo: gallant_lab.svg
+            academics:
+              - academic:
+                name: Jack Gallant
+                profile_url: https://scholar.google.com/citations?user=nSZG-vcAAAAJ&hl=en
+                hindex: 57
+                citations: 20864
             locations:
               - location:
                 city: Berkeley
@@ -1125,6 +1384,12 @@ landscape:
             homepage_url: http://theunissen.berkeley.edu
             repo_url: https://github.com/theunissenlab
             logo: theunissen_lab.svg
+            academics:
+              - academic:
+                name: Frederic Theunissen
+                profile_url: https://scholar.google.com/citations?user=0gyS3z0AAAAJ&hl=fr
+                hindex: 48
+                citations: 11199
             locations:
               - location:
                 city: Berkeley
@@ -1143,6 +1408,12 @@ landscape:
             homepage_url: https://bouchardlab.lbl.gov/
             repo_url: https://github.com/BouchardLab
             logo: bouchard_lab.svg
+            academics:
+              - academic:
+                name: Kristofer Bouchard
+                profile_url: https://scholar.google.com/citations?user=mDvGOLkAAAAJ&hl=en
+                hindex: 21
+                citations: 2173
             locations:
               - location:
                 city: Berkeley
@@ -2104,6 +2375,12 @@ landscape:
             twitter: https://twitter.com/hubermanlab
             youtube_url: https://www.youtube.com/@hubermanlab
             logo: hubberman_lab.svg
+            academics:
+              - academic:
+                name: Andrew Huberman
+                profile_url: https://scholar.google.com/citations?user=CoADxCwAAAAJ&hl=en
+                hindex: 42
+                citations: 11641
             locations:
               - location:
                 country: USA
