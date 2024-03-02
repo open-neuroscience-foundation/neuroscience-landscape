@@ -39,6 +39,7 @@ groups:
       - Datasets
       - Books
       - Courses
+      - Podcasts
   - name: Laboratories
     categories:
       - Laboratories

@@ -57,3 +57,8 @@ categories:
           This is books are intended for general public.
           These books do not have to contain in-depth detail on scientific topics or notation.
           However, these books have to written by accredited members of academic or commercial neuroscience community.
+  - category: Podcasts
+    content: Podcasts is a novel form of long-form video media that is rapidly gaining popularity.
+    subcategories:
+      - subcategory: All
+        content: Generally podcasts are oriented for general public.
