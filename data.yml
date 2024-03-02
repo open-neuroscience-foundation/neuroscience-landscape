@@ -56,7 +56,7 @@ landscape:
         items:
           - item:
             name: LVIS
-            description: Through our advanced brain network analysis tools (NeuroMatch®), provides Live Visualization to innovate how neurological diseases are examined. Lee Lab, Stanford.
+            description: Through our advanced brain network analysis tools (NeuroMatch®), provides Live Visualization to innovate how neurological diseases are examined.
             homepage_url: http://lviscorp.com
             logo: lvis.svg
             locations:
@@ -70,7 +70,7 @@ landscape:
                 city: Daegu
                 country: South Korea
             extra:
-              summary_tags: connectomics, visualization, standord
+              summary_tags: connectomics, visualization, stanford, lee-lab
           - item:
             name: Imaging Biometrics
             description: |
@@ -202,7 +202,6 @@ landscape:
               We are applying our pipeline to accelerate research in neuroscience labs around the world.
               We are also a key player in BRAIN CONNECTS, one of the three transformative projects of the US BRAIN Initiative.
               BRAIN CONNECTS is an ambitious ten-year project to map a whole mouse brain at synaptic resolution, turning the dream of exascale connectomics into reality.
-              Seung Lab, Princeton
             homepage_url: http://zetta.ai
             repo_url: https://github.com/ZettaAI/zetta_utils
             logo: zettaai.svg
@@ -214,7 +213,7 @@ landscape:
               - location:
                 country: South Korea
             extra:
-              summary_tags: cloud, princeton, mit, connectomics
+              summary_tags: cloud, princeton, mit, connectomics, seung-lab
       - subcategory:
         name: fMRI
         items:
