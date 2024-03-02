@@ -533,7 +533,7 @@ landscape:
             academics:
               - academic:
                 name: Richard A. Normann
-                researchgate_url: https://research.com/u/richard-a-normann
+                profile_url: https://research.com/u/richard-a-normann
                 hindex: 55
                 citations: 14438
             locations:
@@ -554,7 +554,7 @@ landscape:
             academics:
               - academic:
                 name: Sebastian Seung
-                researchgate_url: https://scholar.google.com/citations?user=BD8llAEAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=BD8llAEAAAAJ&hl=en
                 hindex: 81
                 citations: 60280
             locations:
@@ -580,7 +580,7 @@ landscape:
             academics:
               - academic:
                 name: Yong Jeong
-                researchgate_url: https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=en
                 hindex: 40
                 citations: 6254
             locations:
@@ -597,7 +597,7 @@ landscape:
             academics:
               - academic:
                 name: Eunjoon Kim
-                researchgate_url: https://scholar.google.com/citations?user=fgt4fvkAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=fgt4fvkAAAAJ&hl=en
                 hindex: 81
                 citations: 27907
             locations:
@@ -619,7 +619,7 @@ landscape:
             academics:
               - academic:
                 name: Jaeseung Jeong
-                researchgate_url: https://scholar.google.com/citations?user=ZfNxZ3sAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=ZfNxZ3sAAAAJ&hl=en
                 hindex: 38
                 citations: 7222
             locations:
@@ -788,7 +788,7 @@ landscape:
                 city: Frankfurt
                 country: Germany
             extra:
-              summary_tags: utah-array, visual-cortext
+              summary_tags: computational-neuroscience
           - item:
             name: Poeppel Lab
             description: |
