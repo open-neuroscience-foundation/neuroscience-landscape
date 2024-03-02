@@ -1048,6 +1048,24 @@ landscape:
                 country: USA
             extra:
               summary_tags: ml, fmri, circuitry, neurogimaging
+          - item:
+            name: Huberman Lab
+            description: |
+              In 2017, we developed a virtual reality platform to investigate the neural and autonomic mechanisms contributing to fear and anxiety.
+              That involved capturing 360-degree videos of various fear-provoking situations in real life for in-lab VR movies, such as heights and claustrophobia, as well as unusual scenarios like swimming in open water with great white sharks.
+              The primary objective of our VR platform is to develop new tools to help people better manage stress, anxiety and phobias in real-time, as an augment to in-clinic therapies. 
+              In May 2018, we reported the discovery of two novel mammalian brain circuits as a Research Article published in Nature.
+              One circuit promotes fear and anxiety-induced paralysis, while the other fosters confrontational reactions to threats.
+              This led to ongoing research into the involvement of these brain regions in anxiety-related disorders such as phobias and generalized anxiety in humans.
+              In 2020, we embarked on a collaborative effort with Dr. David Spiegel's laboratory in the Stanford Department of Psychiatry and Behavioral Sciences, aimed to explore how specific respiration patterns synergize with the visual system to influence autonomic arousal and stress, and other brain states, including sleep.
+              In 2023, the first results of that collaboration were published as a randomized controlled trial in Cell Reports Medicine, demonstrating that specific brief patterns of deliberate respiration are particularly effective in alleviating stress and enhancing mood, and improving sleep.
+              In a 2021, our collaboration with Dr. Edward Chang, professor and chair of the Department of Neurological Surgery at the University of California, San Francisco (UCSF), was published in Current Biology, revealing that specific patterns of insular cortex neural activity may be linked to, and potentially predict, anxiety responses.
+            homepage_url: https://hubermanlab.stanford.edu/about
+            logo: stanford_huberman_lab.svg
+            locations:
+              - location:
+                city: Palo Alto
+                country: USA
       - subcategory:
         name: Berkeley
         items:
