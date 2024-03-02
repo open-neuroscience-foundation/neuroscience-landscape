@@ -2084,7 +2084,7 @@ landscape:
               Alongside hosting the Huberman Lab podcast, Andrew Huberman is the co-founder of Scicomm Media, and actively invests in and advises a handful of businesses. Read full disclosures.
             homepage_url: https://www.hubermanlab.com
             twitter: https://twitter.com/hubermanlab
-            youtube: https://www.youtube.com/@hubermanlab
+            youtube_url: https://www.youtube.com/@hubermanlab
             logo: hubberman_lab.svg
             extra:
               summary_tags: stanford
