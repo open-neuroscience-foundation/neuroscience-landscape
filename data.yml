@@ -9,6 +9,7 @@ landscape:
             name: Neuralink
             description: Neuralink is developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.
             homepage_url: https://neuralink.com
+            crunchbase: https://www.crunchbase.com/organization/neuralink
             repo_url: https://github.com/neuralinkcorp
             logo: neuralink.svg
             locations:
@@ -24,6 +25,7 @@ landscape:
             name: Neurolutions
             description: Neurolutions provides non-invasive FDA approved devices for stroke rehabilitation.
             homepage_url: https://www.neurolutions.com
+            crunchbase: https://www.crunchbase.com/organization/neurolutions
             logo: neurolutions.svg
             locations:
               - location:
@@ -44,6 +46,7 @@ landscape:
               Our research is focused not only on improving the ability to operate a computer, but also on providing people with ALS, spinal cord injury, 
               and stroke with reliable, constant control over their environment.
             homepage_url: https://www.braingate.org
+            crunchbase: https://www.crunchbase.com/organization/braingate
             logo: braingate.svg
             locations:
               - location:
@@ -58,6 +61,7 @@ landscape:
             name: LVIS
             description: Through our advanced brain network analysis tools (NeuroMatch®), provides Live Visualization to innovate how neurological diseases are examined.
             homepage_url: http://lviscorp.com
+            crunchbase: https://www.crunchbase.com/organization/lvis
             logo: lvis.svg
             locations:
               - location:
@@ -79,6 +83,7 @@ landscape:
               and IB DELTA SUITE™ MR image registration and subtraction for improved comparison of post-contrast to pre-contrast images.
               IB DCE™ and IB DIFFUSION™ complete the analysis for advanced MRI.
             homepage_url: https://www.imagingbiometrics.com
+            crunchbase: https://www.crunchbase.com/organization/imaging-biometrics
             logo: imaging_biometrics.svg
             locations:
               - location:
@@ -112,6 +117,7 @@ landscape:
               An end-to-end standardized experimental platform including brain surgery, animal behavioral training, neuronal recordings and brain reconstruction.
               All datasets are shared as standardized Neurodata Without Borders (NWB) files in a public archive (DANDI) in the cloud.
             homepage_url: https://alleninstitute.org/division/neural-dynamics/openscope/
+            crunchbase: https://www.crunchbase.com/organization/allen-institute-for-brain-science
             logo: open-scope.svg
             locations:
               - location:
@@ -124,6 +130,7 @@ landscape:
               Our suite of products and services helps you visualise, share, and analyse your life science data in best-in-class applications — with support from the MetaCell team every step of the way.
               Past projects done with UC San Diego, UCL, University of Edinburgh, State University of New York, Pfizer, Yale, Brain Observatory, BrainCommons, and more.
             homepage_url: https://www.metacell.us
+            crunchbase: https://www.crunchbase.com/organization/metacell
             repo_url: http://github.com/MetaCell
             logo: metacell.svg
             locations:
@@ -147,6 +154,7 @@ landscape:
             name: INSIGHTEC
             description: Clinical neurosurgery solutions. Using ultrasound. Caregiving services.
             homepage_url: https://www.insightec.com
+            crunchbase: https://www.crunchbase.com/organization/insightec
             logo: insightec.svg
             locations:
               - location:
@@ -165,6 +173,7 @@ landscape:
               their patients fight cancer and other conditions of the brain and body.
               Some of the customers include Neuralink.
             homepage_url: https://www.brainlab.com
+            crunchbase: https://www.crunchbase.com/organization/brainlab
             logo: brainlab.svg
             locations:
               - location:
@@ -221,6 +230,7 @@ landscape:
             name: Siemens
             description: Siemens produces leading fMRI machines and software for operating them.
             homepage_url: https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging
+            crunchbase: https://www.crunchbase.com/organization/siemens-healthcare
             logo: siemens_healthineers.svg
             repo_url: https://github.com/Siemens-Healthineers/ETWAnalyzer
             extra:
@@ -311,6 +321,7 @@ landscape:
               Founded in 2003, it is dedicated to accelerating the understanding of how the human brain works.
             homepage_url: https://alleninstitute.org/what-we-do/brain-science/
             repo_url: https://github.com/AllenInstitute
+            crunchbase: https://www.crunchbase.com/organization/allen-institute-for-brain-science
             logo: allen-institute-brain-science.svg
             locations:
               - location:
@@ -454,6 +465,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=qNDoTVcAAAAJ&hl=en&oi=ao
                 hindex: 27
                 citations: 6953
+                i10index: 36
             locations:
               - location:
                 city: San Francisco
@@ -480,6 +492,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en
                 hindex: 77
                 citations: 25763
+                i10index: 239
             locations:
               - location:
                 city: Philadelphia
@@ -501,21 +514,25 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=W3lyJF8AAAAJ&hl=en
                 hindex: 94
                 citations: 51941
+                i10index: 201
               - academic:
                 name: Marc-Oliver Gewaltig
                 profile_url: https://scholar.google.com/citations?user=Dy-lNyAAAAAJ&hl=en
                 hindex: 25
                 citations: 4989
+                i10index: 40
               - academic:
                 name: Michael W. Reimann
                 profile_url: https://scholar.google.com/citations?user=uzjd33kAAAAJ&hl=en
                 hindex: 16
                 citations: 2899
+                i10index: 19
               - academic:
                 name: Werner Van Geit
                 profile_url: https://scholar.google.com/citations?user=5sr9FJgAAAAJ&hl=en
                 hindex: 15
                 citations: 2505
+                i10index: 17
             locations:
               - location:
                 city: Geneva
@@ -557,6 +574,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=BD8llAEAAAAJ&hl=en
                 hindex: 81
                 citations: 60280
+                i10index: 166
             locations:
               - location:
                 city: Princeton
@@ -583,6 +601,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=en
                 hindex: 40
                 citations: 6254
+                i10index: 85
             locations:
               - location:
                 city: Daejeon
@@ -600,6 +619,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=fgt4fvkAAAAJ&hl=en
                 hindex: 81
                 citations: 27907
+                i10index: 167
             locations:
               - location:
                 city: Daejeon
@@ -622,6 +642,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=ZfNxZ3sAAAAJ&hl=en
                 hindex: 38
                 citations: 7222
+                i10index: 85
             locations:
               - location:
                 city: Daejeon
@@ -689,6 +710,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=ifoan_MAAAAJ&hl=en
                 hindex: 24
                 citations: 4225
+                i10index: 35
             locations:
               - location:
                 city: Daejeon
@@ -720,6 +742,7 @@ landscape:
                 profile_url: https://scholar.google.co.kr/citations?user=Yb3-08YAAAAJ&hl=en
                 hindex: 50
                 citations: 11614
+                i10index: 96
             locations:
               - location:
                 city: Daejeon
@@ -738,6 +761,7 @@ landscape:
                 profile_url: https://scholar.google.co.kr/citations?user=ih5KsPkAAAAJ&hl=ko
                 hindex: 82
                 citations: 24218
+                i10index: 315
             locations:
               - location:
                 country: South Korea
@@ -757,6 +781,7 @@ landscape:
                 profile_url: https://scholar.google.de/citations?user=gDcRyKsAAAAJ&hl=en
                 hindex: 29
                 citations: 5676
+                i10index: 40
             locations:
               - location:
                 city: Munich
@@ -783,6 +808,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=Ho8cFO8AAAAJ&hl=en&oi=ao
                 hindex: 148
                 citations: 104519
+                i10index: 513
             locations:
               - location:
                 city: Frankfurt
@@ -808,6 +834,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=9EyT1mYAAAAJ
                 hindex: 88
                 citations: 45018
+                i10index: 218
             locations:
               - location:
                 city: Frankfurt
@@ -831,10 +858,11 @@ landscape:
             logo: cuntz_lab.svg
             academics:
               - academic:
-                name: David Poeppel
+                name: Hermann Cuntz
                 profile_url: https://scholar.google.nl/citations?user=9g7Uj-MAAAAJ&hl=en&oi=ao
                 hindex: 25
                 citations: 2092
+                i10index: 33
             locations:
               - location:
                 city: Frankfurt
@@ -862,11 +890,13 @@ landscape:
                 profile_url: https://scholar.google.de/citations?user=N2MfHR8AAAAJ&hl=en
                 hindex: 18
                 citations: 3419
+                i10index: 23
               - academic:
                 name: Martha Nari Havenith
                 profile_url: https://scholar.google.com/citations?user=EY_4zioAAAAJ&hl=en
                 hindex: 11
                 citations: 778
+                i10index: 10
             locations:
               - location:
                 city: Frankfurt
@@ -891,6 +921,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=4dentLsAAAAJ&hl=de
                 hindex: 19
                 citations: 1629
+                i10index: 32
             locations:
               - location:
                 city: Frankfurt
@@ -914,6 +945,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=KP28dO8AAAAJ&hl=en&oi=ao
                 hindex: 14
                 citations: 1137
+                i10index: 16
             locations:
               - location:
                 city: Frankfurt
@@ -942,6 +974,7 @@ landscape:
                 profile_url: https://scholar.google.de/citations?user=YWft174AAAAJ&hl=en
                 hindex: 6
                 citations: 572
+                i10index: 6
             locations:
               - location:
                 city: Frankfurt
@@ -974,6 +1007,7 @@ landscape:
                 profile_url: https://scholar.google.de/citations?user=2DB-CR8AAAAJ&hl=de&oi=ao
                 hindex: 39
                 citations: 7138
+                i10index: 55
             locations:
               - location:
                 city: Frankfurt
@@ -997,6 +1031,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=i86O0SAAAAAJ&hl=en
                 hindex: 52
                 citations: 23780
+                i10index: 123
             locations:
               - location:
                 city: Cambridge
@@ -1043,6 +1078,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=WpE2xEcAAAAJ&hl=en
                 hindex: 64
                 citations: 11812
+                i10index: 152
             locations:
               - location:
                 city: New York
@@ -1078,6 +1114,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=NxBuRgcAAAAJ&hl=en
                 hindex: 91
                 citations: 44607
+                i10index: 222
             locations:
               - location:
                 city: New York
@@ -1095,6 +1132,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=a7LHl00AAAAJ&hl=en
                 hindex: 119
                 citations: 51901
+                i10index: 384
             locations:
               - location:
                 city: New York
@@ -1112,6 +1150,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=BJ1TE4AAAAAJ&hl=en
                 hindex: 86
                 citations: 25730
+                i10index: 189
             locations:
               - location:
                 city: New York
@@ -1129,6 +1168,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=Gsf2Q_8AAAAJ&hl=en
                 hindex: 36
                 citations: 6269
+                i10index: 62
             locations:
               - location:
                 city: New York
@@ -1146,6 +1186,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=hWYleB8AAAAJ&hl=en
                 hindex: 41
                 citations: 14481
+                i10index: 53
             locations:
               - location:
                 city: New York
@@ -1171,6 +1212,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=iO7jHc4AAAAJ&hl=en
                 hindex: 46
                 citations: 6324
+                i10index: 116
             locations:
               - location:
                 city: Okinawa
@@ -1199,11 +1241,13 @@ landscape:
                 profile_url: https://scholar.google.ca/citations?user=YTQT5RgAAAAJ&hl=en
                 hindex: 71
                 citations: 23018
+                i10index: 132
               - academic:
                 name: Hongyan Wang
                 profile_url: https://scholar.google.com/citations?user=ZY-eyuwAAAAJ&hl=en
                 hindex: 30
                 citations: 3554
+                i10index: 46
             locations:
               - location:
                 city: Singapore
@@ -1236,6 +1280,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=QzqctJgAAAAJ&hl=en
                 hindex: 125
                 citations: 90821
+                i10index: 243
             locations:
               - location:
                 city: Palo Alto
@@ -1255,6 +1300,7 @@ landscape:
                 profile_url: http://scholar.google.com/citations?user=KLbpCO0AAAAJ
                 hindex: 25
                 citations: 1975
+                i10index: 41
             locations:
               - location:
                 city: Palo Alto
@@ -1302,6 +1348,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=CoADxCwAAAAJ&hl=en
                 hindex: 42
                 citations: 11641
+                i10index: 54
             locations:
               - location:
                 city: Palo Alto
@@ -1326,6 +1373,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=zykJTC4AAAAJ&hl=en
                 hindex: 41
                 citations: 9022
+                i10index: 80
             locations:
               - location:
                 city: Berkeley
@@ -1346,6 +1394,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=6Wo3XX4AAAAJ&hl=en
                 hindex: 22
                 citations: 1741
+                i10index: 28
             locations:
               - location:
                 city: Berkeley
@@ -1365,6 +1414,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=nSZG-vcAAAAJ&hl=en
                 hindex: 57
                 citations: 20864
+                i10index: 77
             locations:
               - location:
                 city: Berkeley
@@ -1389,6 +1439,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=0gyS3z0AAAAJ&hl=fr
                 hindex: 48
                 citations: 11199
+                i10index: 69
             locations:
               - location:
                 city: Berkeley
@@ -1413,6 +1464,7 @@ landscape:
                 profile_url: https://scholar.google.com/citations?user=mDvGOLkAAAAJ&hl=en
                 hindex: 21
                 citations: 2173
+                i10index: 34
             locations:
               - location:
                 city: Berkeley

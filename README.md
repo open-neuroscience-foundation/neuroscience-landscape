@@ -10,7 +10,9 @@ with dimensions such as companies, research groups, software, hardware, datasets
 
 ## How to add new entry?
 
-Add your entry to `data.yaml`. Build and run locally, confirm that it looks correctly and no errors reported. Then raise a PR.
+Add your entry to `data.yaml`.
+If any, add details to `crunchbase.json`.
+Build and run locally, confirm that it looks correctly and no errors reported. Then raise a PR.
 
 Helpful links:
 * convert PNG to SVG ([png2svg.com](https://png2svg.com/#google_vignette))
@@ -24,3 +26,5 @@ This project utilizes http://github.com/open-neuroscience-foundation/landscape2-
 ```bash
 GITHUB_TOKENS=... landscape2-academic build --data-file data.yml --settings-file settings.yml --guide-file guide.yml --logos-path logos --output-dir build && landscape2-academic serve --landscape-dir build
 ```
+
+You may also need to copy `crunchbase.json` into `landscape2-academic` cache location. Refer to debug logs.

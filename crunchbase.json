@@ -1,0 +1,249 @@
+{
+    "https://www.crunchbase.com/organization/neuralink": {
+        "name": "Neuralink",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "city": "Fremont",
+        "company_type": "for_profit",
+        "country": "USA",
+        "num_employees_max": 500,
+        "num_employees_min": 251,
+        "funding": 686200000,
+        "funding_rounds": [
+            {
+                "amount": 323200000,
+                "announced_on": "2023-10-07",
+                "kind": "series_d"
+            },
+            {
+                "announced_on": "2023-06-05",
+                "kind": "secondary_market"
+            },
+            {
+                "announced_on": "2021-12-07",
+                "kind": "secondary_market"
+            },
+            {
+                "amount": 205000000,
+                "announced_on": "2021-07-29",
+                "kind": "series_c"
+            },
+            {
+                "amount": 51000000,
+                "announced_on": "2010-04-29",
+                "kind": "series_b"
+            },
+            {
+                "amount": 107000000,
+                "announced_on": "2010-10-25",
+                "kind": "series_a"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/neurolutions": {
+        "name": "NeuroLutions",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "city": "St Louis",
+        "company_type": "for_profit",
+        "country": "USA",
+        "num_employees_max": 10,
+        "num_employees_min": 1,
+        "funding": 1300000,
+        "funding_rounds": [
+            {
+                "announced_on": "2018-06-01",
+                "kind": "venture_round"
+            },
+            {
+                "amount": 1200000,
+                "announced_on": "2015-06-11",
+                "kind": "venture_round"
+            },
+            {
+                "amount": 100000,
+                "announced_on": "2012-09-24",
+                "kind": "seed"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/braingate": {
+        "name": "BrainGate",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "city": "Stanford",
+        "company_type": "for_profit",
+        "country": "USA",
+        "num_employees_max": 10,
+        "num_employees_min": 1
+    },
+    "https://www.crunchbase.com/organization/lvis": {
+        "name": "LVIS",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Seocho",
+        "country": "South Korea",
+        "num_employees_max": 10,
+        "num_employees_min": 1,
+        "funding": 15500000,
+        "funding_rounds": [
+            {
+                "amount": 500000,
+                "announced_on": "2023-08-07",
+                "kind": "corporate_round"
+            },
+            {
+                "amount": 15000000,
+                "announced_on": "2022-01-11",
+                "kind": "series_b"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/imaging-biometrics": {
+        "name": "Imaging Biometrics",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "description": "Was acquired by IQAI.",
+        "stock_exchange": "LSE",
+        "ticker": "IQAI",
+        "company_type": "for_profit",
+        "city": "Elm Grove",
+        "country": "USA",
+        "num_employees_max": 10,
+        "num_employees_min": 1
+    },
+    "https://www.crunchbase.com/organization/allen-institute-for-brain-science": {
+        "name": "Allen Institute for Brain Science",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "description": "Allen Institute is a non-profit medical research organization that shares data and knowledge with scientists around the world.",
+        "company_type": "non_profit",
+        "city": "Seattle",
+        "country": "USA",
+        "num_employees_max": 500,
+        "num_employees_min": 251,
+        "funding": 277800000,
+        "funding_rounds": [
+            {
+                "amount": 173000000,
+                "announced_on": "2022-09-22",
+                "kind": "grant"
+            },
+            {
+                "amount": 100000000,
+                "announced_on": "2017-10-24",
+                "kind": "grant"
+            },
+            {
+                "amount": 4800000,
+                "announced_on": "2014-09-30",
+                "kind": "grant"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/metacell": {
+        "name": "Allen Institute for Brain Science",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Cambridge",
+        "country": "UK",
+        "num_employees_max": 50,
+        "num_employees_min": 11,
+        "funding": 100000,
+        "funding_rounds": [
+            {
+                "amount": 100000,
+                "announced_on": "2014-10-01",
+                "kind": "seed"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/insightec": {
+        "name": "InSightec",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Tirat Carmel",
+        "country": "Israel",
+        "num_employees_max": 500,
+        "num_employees_min": 251,
+        "funding": 732900000,
+        "funding_rounds": [
+            {
+                "amount": 100000000,
+                "announced_on": "2022-09-01",
+                "kind": "debt_financing"
+            },
+            {
+                "amount": 136000000,
+                "announced_on": "2021-04-07",
+                "kind": "venture_round"
+            },
+            {
+                "announced_on": "2020-11-24",
+                "kind": "corporate_round"
+            },
+            {
+                "amount": 150000000,
+                "announced_on": "2020-03-06",
+                "kind": "series_f"
+            },
+            {
+                "amount": 150000000,
+                "announced_on": "2016-12-14",
+                "kind": "series_e"
+            },
+            {
+                "amount": 22000000,
+                "announced_on": "2016-01-07",
+                "kind": "series_d"
+            },
+            {
+                "amount": 59000000,
+                "announced_on": "2014-12-15",
+                "kind": "series_d"
+            },
+            {
+                "amount": 30900000,
+                "announced_on": "2012-12-11",
+                "kind": "series_c"
+            },
+            {
+                "amount": 15000000,
+                "announced_on": "2009-03-19",
+                "kind": "series_b"
+            },
+            {
+                "amount": 30000000,
+                "announced_on": "2007-11-30",
+                "kind": "venture_round"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/brainlab": {
+        "name": "BrainLAB",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Munich",
+        "country": "Germany",
+        "num_employees_max": 5000,
+        "num_employees_min": 1001,
+        "funding": 7300000,
+        "funding_rounds": [
+            {
+                "announced_on": "2018-09-17",
+                "kind": "private_equity"
+            },
+            {
+                "amount": 7300000,
+                "announced_on": "2006-10-29",
+                "kind": "venture_round"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/siemens-healthcare": {
+        "name": "Siemens Healthineers",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Malvern",
+        "country": "USA",
+        "num_employees_min": 10001,
+        "funding": 2800000000,
+        "ticker": "SHL",
+        "stock_exchange": "etr"
+    }
+}
