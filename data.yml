@@ -348,6 +348,7 @@ landscape:
               NWB is designed to store a variety of neurophysiology data, including data from intracellular and extracellular electrophysiology experiments, data from optical physiology experiments, and tracking and stimulus data.
               The NWB team consists of neuroscientists and software developers who recognize that adoption of a unified data format is an important step toward breaking down the barriers to data sharing in neuroscience.
             homepage_url: https://www.nwb.org/
+            repo_url: https://github.com/NeurodataWithoutBorders
             logo: neurodata_without_borders.svg
             locations:
               - location:
