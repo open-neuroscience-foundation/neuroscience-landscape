@@ -103,7 +103,7 @@ landscape:
                 city: Berkeley
                 country: USA
             extra:
-              summary_tags: fmri, imaging, berkeley
+              summary_tags: fmri, imaging
       - subcategory:
         name: Research Platforms
         items:
@@ -234,7 +234,7 @@ landscape:
             logo: siemens_healthineers.svg
             repo_url: https://github.com/Siemens-Healthineers/ETWAnalyzer
             extra:
-              summary_tags: germany, mfi, fmri, clinical
+              summary_tags: mfi, fmri, clinical
   - category:
     name: Organizations
     subcategories:
@@ -340,7 +340,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: nih, allen-institute-of-brain-science
+              summary_tags: nih, allen-institute
           - item:
             name: Neurodata Without Borders
             description: |
@@ -395,7 +395,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: brain-initiative, stanford, uc-stanta-barbara, university-of-michigan, columbia-university, university-of-huston, berkeley, john-hopkins-university, yale
+              summary_tags: brain-initiative, stanford, uc-stanta-barbara, university-of-michigan, columbia-university, university-of-huston, john-hopkins-university, yale
       - subcategory:
         name: Societies
         items:
@@ -472,7 +472,7 @@ landscape:
                 city: San Francisco
                 country: USA
             extra:
-              summary_tags: computer-science, microscopy, biology, tooling, allen-institute
+              summary_tags: computer-science, microscopy, biology, tools, allen-institute
       - subcategory:
         name: University of Pennsylvania
         items:
@@ -608,7 +608,7 @@ landscape:
                 city: Daejeon
                 country: South Korea
             extra:
-              summary_tags: connectomics, imagining, pathophysiolog, alzheimer, eeg, mri, pathophysiology
+              summary_tags: connectomics, imagining, alzheimer, eeg, mri, pathophysiology
           - item:
             name: Synaptic Brain Dysfunction
             description: Explore the mechanisms underlying various neuropsychiatric disorders by focusing on defects in synaptic development.
@@ -688,7 +688,7 @@ landscape:
                 city: Daejeon
                 country: South Korea
             extra:
-              summary_tags: snesors, interoception, fruit-fly
+              summary_tags: sensors, interoception, fruit-fly
           - item:
             name: (Lee Lab) Neural Systems For Sensory Integration Laboratory
             description: |
@@ -717,7 +717,7 @@ landscape:
                 city: Daejeon
                 country: South Korea
             extra:
-              summary_tags: snesors, interoception, fruit-fly
+              summary_tags: sensors, interoception, fruit-fly
           - item:
             name: Systems Neuroscience Laboratory
             description: |
@@ -952,7 +952,7 @@ landscape:
                 city: Frankfurt
                 country: Germany
             extra:
-              summary_tags: human, perceptual-experiences, memory
+              summary_tags: human, perception, memory
           - item:
             name: Schmidt Lab
             description: |
@@ -1380,7 +1380,7 @@ landscape:
                 city: Berkeley
                 country: USA
             extra:
-              summary_tags: language, linguistics
+              summary_tags: language
           - item:
             name: Perceptual Reality
             description: |
@@ -1471,7 +1471,7 @@ landscape:
                 city: Berkeley
                 country: USA
             extra:
-              summary_tags: data-science, electrophysiology, optogenetics, rodentds, data-science, tooling
+              summary_tags: data-science, electrophysiology, optogenetics, rodentds, data-science, tools
   - category:
     name: Hardware
     subcategories:
@@ -1642,7 +1642,7 @@ landscape:
             homepage_url: https://fcon_1000.projects.nitrc.org
             logo: indi.svg
             extra:
-              summary_tags: aws, connectomes, human, functional, nitrc, indi, child-mind-institute
+              summary_tags: aws, connectomics, human, functional, nitrc, indi, child-mind-institute
           - item:
             name: ConnectomeDB
             description: |
@@ -1652,7 +1652,7 @@ landscape:
             homepage_url: https://db.humanconnectome.org/app/template/Login.vm
             logo: connectome-db.svg
             extra:
-              summary_tags: connectomes, human
+              summary_tags: connectomics, human
       - subcategory:
         name: Transcriptomics
         items:
@@ -1785,8 +1785,11 @@ landscape:
             homepage_url: https://github.com/mjin1812/SMART
             repo_url: https://github.com/mjin1812/SMART
             logo: cncf.svg
+            locations:
+              - location:
+                country: USA
             extra:
-              summary_tags: usa, columbia-university, bicnn
+              summary_tags: columbia-university, bicnn
           - item:
             name: fimpy
             description: Parallelizable processing of fluorescent imaging data in HDF5.
@@ -2019,7 +2022,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: allen-institute, exa-spim, allen-institute-of-neural-dynamics, royer-lab
+              summary_tags: allen-institute, exa-spim, allen-institute, royer-lab
       - subcategory:
         name: Simulation
         items:
@@ -2119,7 +2122,7 @@ landscape:
               - location:
                 country: Germany
             extra:
-              summary_tags: human, simulation, eu, eu-horizon, human-brain-project, virtual-brian-cloud
+              summary_tags: human, simulation, human-brain-project, virtual-brian-cloud
           - item:
             name: Brain Modeling Toolkit (BMTK)
             description: A Python software package for building, simulating, and analyzing large-scale neural network models at multiple levels of resolution.
@@ -2158,7 +2161,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: alllen-institute, microscopy, images, pytorch, ml, segmentation, images, deep-learning, computer-visition, tabular-data
+              summary_tags: allen-institute, microscopy, images, pytorch, ml, segmentation, images, deep-learning, computer-vision, tabular-data
           - item:
             name: Pytorch 3D Integrated Cell
             description: Integrated Cell project implemented in pytorch.
@@ -2169,7 +2172,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: alllen-institute, microscopy, images, pytorch, ml
+              summary_tags: allen-institute, microscopy, images, pytorch, ml
           - item:
             name: pytorch_fnet
             description: Label-free prediction of three-dimensional fluorescence images from transmitted-light microscopy
@@ -2180,7 +2183,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: alllen-institute, microscopy, images, pytorch, ml
+              summary_tags: allen-institute, microscopy, images, pytorch, ml
           - item:
             name: VisCy
             description: VisCy is a deep learning pipeline for training and deploying computer vision models for image-based phenotyping at single-cell resolution.
@@ -2203,9 +2206,10 @@ landscape:
             logo: spike-interface.svg
             locations:
               - location:
+                city: Oslo
                 country: Switzerland
             extra:
-              summary_tags: spikes, eth, cinpla, oslo, alllen-institute, cnrs
+              summary_tags: spikes, eth, cinpla, allen-institute, cnrs
           - item:
             name: SpikeGLX
             description: |
@@ -2250,7 +2254,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: alllen-institute, microscopy, images
+              summary_tags: allen-institute, microscopy, images
           - item:
             name: SONATA
             description: A cross-platform data format for storing large-scale network models and simulation results.
@@ -2275,7 +2279,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: alllen-institute, mapping
+              summary_tags: allen-institute, mapping
           - item:
             name: mfishtools
             description: Package for gene selection and analysis of spatial transcriptomics data, including MERFISH. Gene panels for several published studies using smFISH and MERFISH from the Allen Institute used these scripts.
@@ -2286,7 +2290,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: alllen-institute, spatial-transcriptomics, transcriptomics, fish
+              summary_tags: allen-institute, spatial-transcriptomics, transcriptomics, fish
           - item:
             name: scrattch
             description: Single-cell RNA-seq analysis for transcriptomic type characterization (or "scrattch") is the umbrella package for the scrattch suite of R packages from the Allen Institute for Brain Science. It is modeled after the tidyverse package.
@@ -2297,7 +2301,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: alllen-institute, clustering, visualization, mapping, standards, tidyverse
+              summary_tags: allen-institute, clustering, visualization, mapping, standards, tidyverse
           - item:
             name: transcriptomic_clustering
             description: Python implementation of clustering method detailed in scrattch.hicat. Additional development for HMBA to (1) handle clustering human/NHP data with donor effects and (2) implement more computationally efficient methods utilizing GPUs for faster computations.
@@ -2308,7 +2312,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: alllen-institute, clustering, transcriptomic
+              summary_tags: allen-institute, clustering, transcriptomic
           - item:
             name: Quality Control for scRNA-seq data (QCR)
             description: Python implementation of clustering method detailed in scrattch.hicat. Additional development for HMBA to (1) handle clustering human/NHP data with donor effects and (2) implement more computationally efficient methods utilizing GPUs for faster computations.
@@ -2319,7 +2323,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: alllen-institute, clustering, transcriptomic
+              summary_tags: allen-institute, clustering, transcriptomic
   - category:
     name: Books
     subcategories:
