@@ -233,6 +233,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/siemens-healthcare
             logo: siemens_healthineers.svg
             github_org_url: https://github.com/Siemens-Healthineers
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: Germany
+              - location:
+                country: Worldwide
             extra:
               summary_tags: mfi, fmri, clinical
   - category:
