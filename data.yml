@@ -2382,9 +2382,11 @@ landscape:
             logo: dynamic_patterns_self_organisation.svg
           - item:
             name: "Connectome: How the Brain's Wiring Makes Us Who We Are"
-            description: Sebastian Seung, PhD, prof at MIT, Director of R&D at Samsung, 2013
+            description: Sebastian Seung, PhD, professor at MIT, lead of Seung Lab at Princeton, Director of R&D at Samsung, 2013
             homepage_url: https://www.amazon.com/Connectome-How-Brains-Wiring-Makes/dp/0547678592
             logo: connectome.svg
+            extra:
+              summary_tags: mit, princeton, seung-lab, samsung
           - item:
             name: Changing Connectomes
             description: Marcus Kaiser, MIT Press
