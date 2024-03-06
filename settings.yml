@@ -14,11 +14,25 @@ colors:
   color6: "rgba(0, 42, 81, 0.7)" # Categories and subcategories frames (even)
 
 featured_items:
-  - field: maturity
+  - field: tag
     options:
-      - value: graduated
+      - value: nobel-prize
         order: 1
-        label: Major
+        label: Nobel Prize
+      - value: stars-2000
+        order: 2
+        label: 2K+ stars
+      - value: stars-800
+        order: 3
+        label: 800+ stars
+      - value: most-used-book
+        order: 4
+        label: Major Reading
+  - field: tag
+    options:
+      - value: largest-podcast
+        order: 5
+        label: Largest Podcast
 
 footer:
   links:

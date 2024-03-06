@@ -1756,7 +1756,7 @@ landscape:
             repo_url: https://github.com/google/neuroglancer
             logo: neuroglancer.svg
             extra:
-              summary_tags: connectomics, tissue-slices, google
+              summary_tags: connectomics, tissue-slices, google, stars-800
           - item:
             name: connectomeviewer
             description: Software Application for the Visualization and Analysis of Multi-Modal Multi-Scale Network and Neuroimaging Data with Python
@@ -2010,6 +2010,8 @@ landscape:
             locations:
               - location:
                 country: USA
+            extra:
+              summary_tags: royer-lab, stars-2000
           - item:
             name: napari-segment-anything
             description: Segment Anything Model (SAM) native Qt UI. Used in ExA-SPIM.
@@ -2333,6 +2335,8 @@ landscape:
             description: McGraw Hill / Medical; 6th edition (March 29, 2021) primary reading for graduate courses at MIT[HST.131] CU[w3005] UNVL[PSY720]
             homepage_url: https://www.amazon.sg/Principles-Neural-Science-Sixth-Kandel/dp/1259642232
             logo: principles_of_neroscience.svg
+            extra:
+              summary_tags: most-used-book
           - item:
             name: Fundamental Neuroscience
             description: Squire, Academic Press
@@ -2439,4 +2443,18 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: stanford
+              summary_tags: stanford, largest-podcast
+          - item:
+            name: CortexCast
+            description: |
+              In-depth yet accessible interviews with world-leading neuroscientists, exploring cutting edge techniques, challenges in the field, and how these researchers think not only about the brain but life in general.
+              The conversations are accessible to anyone with an interest in science.
+              CortexCast is the official podcast of the Oxford University Cortex Club, a student run society that connects local and internationally recognised neuroscientists with students and researchers in Oxford through forums such as panels discussions, lectures and small debates.
+              If you are interested in Cortex then this is the 'cast for you.
+            homepage_url: https://podcasts.ox.ac.uk/series/cortexcast-neuroscience-podcast
+            logo: coretexcast.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: oxford
