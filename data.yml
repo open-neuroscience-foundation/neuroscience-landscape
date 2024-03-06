@@ -539,7 +539,7 @@ landscape:
                 city: Geneva
                 country: Switzerland
             extra:
-              summary_tags: simulation
+              summary_tags: simulation, stars-2000
       - subcategory:
         name: Utah
         items:
