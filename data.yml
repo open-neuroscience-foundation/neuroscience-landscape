@@ -815,7 +815,7 @@ landscape:
                 city: Frankfurt
                 country: Germany
             extra:
-              summary_tags: computational-neuroscience
+              summary_tags: computational-neuroscience, hindex-100
           - item:
             name: Poeppel Lab
             description: |
@@ -1067,7 +1067,7 @@ landscape:
                 city: New York
                 country: USA
             extra:
-              summary_tags: nobel-prize, memory
+              summary_tags: nobel-prize, memory, hindex-100
           - item:
             name: Al-Hashimi Lab
             description: The goal of the Al-Hashimi laboratory is to develop new methods for 'imaging' the dynamics of nucleic acids at atomic resolution.
@@ -1139,7 +1139,7 @@ landscape:
                 city: New York
                 country: USA
             extra:
-              summary_tags: nobel-prize, electron-microscopy, reconstruction
+              summary_tags: nobel-prize, electron-microscopy, reconstruction, hindex-100
           - item:
             name: Hobert Lab
             description: The Hobert Lab studies the gene regulatory control mechanisms that generate the astounding diversity of cell types in the nervous system.
@@ -1286,6 +1286,8 @@ landscape:
               - location:
                 city: Palo Alto
                 country: USA
+            extra:
+              summary_tags: hindex-100
           - item:
             name: Brain Dynamics Lab
             description: |
@@ -1419,7 +1421,7 @@ landscape:
                 city: Berkeley
                 country: USA
             extra:
-              summary_tags: visualization, systems-neuroscience, computational-neuroscience
+              summary_tags: visualization, systems-neuroscience, computational-neuroscience, fmri, stars-1000
           - item:
             name: Theunissen Lab
             description: |

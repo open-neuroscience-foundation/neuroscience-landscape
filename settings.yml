@@ -16,15 +16,22 @@ colors:
 featured_items:
   - field: tag
     options:
-      - value: nobel-prize
-        order: 1
-        label: Nobel Prize
+      - value: hindex-100
+        order: 2
+        label: h-index 100+
+  - field: tag
+    options:
       - value: stars-2000
         order: 2
         label: 2K+ stars
-      - value: stars-800
+      - value: stars-1000
         order: 3
+        label: 1K+ stars
+      - value: stars-800
+        order: 4
         label: 800+ stars
+  - field: tag
+    options:
       - value: most-used-book
         order: 4
         label: Major Reading
@@ -33,6 +40,11 @@ featured_items:
       - value: largest-podcast
         order: 5
         label: Largest Podcast
+  - field: tag
+    options:
+      - value: nobel-prize
+        order: 1
+        label: Nobel Prize
 
 footer:
   links:
