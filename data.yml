@@ -2469,3 +2469,34 @@ landscape:
                 country: USA
             extra:
               summary_tags: oxford
+          - item:
+            name: Brain Inspired
+            description: |
+              Where neuroscience and artificial intelligence converge.
+              Neuroscience and AI work better together. AI leverages current brain research to inform its work.
+              Likewise, neuroscientists use AI tools to learn more about the workings of the brain.
+              This potent feedback cycle begs for great minds to join in.
+              There's so much to learn and explore at the interface of these two fields.
+              There are so many experts you can learn from. That's why I'm here.
+              I talk with many of the best minds who work at the interface of neuroscience and AI, or have a vision about how these two fields might connect.
+              You'll learn about cutting edge research, the newest theories about brains and AI, and hear first-hand from the experts how their scientific path led them to this exciting field.
+              Do we need to know how brains work to develop great AI? If so, how much detail?
+              Can AI pave the way to a grand theory of brain function? Or at least help us understand how brains work?
+              How is machine learning different than animal learning?
+              How is machine thinking different from animal thinking?
+              What the heck is consciousness anyway?
+            homepage_url: https://braininspired.co
+            twitter: https://twitter.com/pgmid
+            logo: braininspired.svg
+            academics:
+              - academic:
+                name: Paul Middlebrooks
+                profile_url: https://scholar.google.com/citations?user=wGUwjdQAAAAJ&hl=en
+                hindex: 6
+                citations: 327
+                i10index: 5
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: university-of-pittsburg, vanderbilt-university
