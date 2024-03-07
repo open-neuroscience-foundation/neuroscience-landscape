@@ -1,4 +1,9 @@
 foundation: Open Neuroscience Foundation
+title: Neuroscience Landscape
+metadata_description: An interactive map of companies, organizations, laboratories, software and hardware tools, datasets, books, courses, podcasts, and more in the field of neuroscience.
+metadata_keywords: landscape, neuroscience, research, industry, education, business, academia, tools, who-is-who, open-neuroscience-foundation
+metadata_thumbnail: https://raw.githubusercontent.com/open-neuroscience-foundation/.github/main/logo/onf-light-filled.png
+
 url: https://neuroscience-landscape.com
 
 analytics:
