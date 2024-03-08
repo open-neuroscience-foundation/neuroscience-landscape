@@ -1227,6 +1227,319 @@ landscape:
                 country: Japan
             extra:
               summary_tags: computational-neuroscience
+          - item:
+            name: Biological Nonlinear Dynamics Data Science Unit
+            description: |
+              The biological nonlinear dynamics data science unit investigates complex systems explicitly taking into account the role of time.
+              We do this by instead of averaging occurrences using their statistics, we treat observations as frames of a movie and if patterns reoccur then we can use their behaviors in the past to predict their future.
+              In most cases the systems that we study are part of complex networks of interactions and cover multiple scales.
+              These include but are not limited to systems neuroscience, gene expression, posttranscriptional regulatory processes, to ecology, but also include societal and economic systems that have complex interdependencies.
+              The processes that we are most interested in are those where the data has a particular geometry known as low dimensional manifolds.
+              These are geometrical objects generated from embeddings of data that allows us to predict their future behaviors, investigate causal relationships,
+              find if a system is becoming unstable, find early warning signs of critical transitions or catastrophes and more.
+              Our computational approaches are based on tools that have their origin in the generalized Takens theorem, and are collectively known as empirical dynamic modeling (EDM). 
+              As a lab we are both a wet and dry lab where we design wet lab experiments that maximize the capabilities of our mathematical methods. 
+              The results from this data driven science approach then allows us to generate mechanistic hypotheses that can be again tested experimentally for empirical confirmation. 
+              This approach merges traditional hypothesis driven science and the more modern Data driven science approaches into a single virtuous cycle of discovery.
+            homepage_url: https://www.oist.jp/research/research-units/chaos
+            logo: oist.svg
+            academics:
+              - academic:
+                name: Gerald Pao
+                profile_url: https://scholar.google.com/citations?user=b6f0WSQAAAAJ&hl=en
+                hindex: 22
+                citations: 2935
+                i10index: 25
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: non-linear-dynamics, computational-neuroscience, vertex, fortune-500, aist, meti, complex-systems, copmuter-science, marine-science, virology
+          - item:
+            name: Optical Neuroimaging Unit
+            description: |
+              How are sensory stimuli from the outside world processed in the brain?
+              How do the sensory neuronal signals interact with the persistent brain activity?
+              And how does behavior arise from neuronal activity?
+              These are some of the most exciting neuroscience questions of our time.
+              In the Optical Neuroimaging Unit, we develop novel techniques to image neuronal activity during behavior.
+              By visualizing brain activity on a cellular level in the awake mouse we investigate how the brain processes information.
+              Simultaneously, we observe the behavior in detail.
+              By finding correlates between neuronal activity and behavior, we hope to address some of the mysteries of the brain.
+            homepage_url: https://www.oist.jp/research/research-units/onu
+            logo: oist.svg
+            academics:
+              - academic:
+                name: Bernd Kuhn
+                profile_url: https://scholar.google.de/citations?user=ab-HnakAAAAJ&hl=en
+                hindex: 18
+                citations: 1475
+                i10index: 23
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: biophysics, optics, photonics, virology, max-plank, princeton, tum, flint-lab
+          - item:
+            name: Memory Research Unit
+            description: |
+              The Memory Research Unit aims to understand how memories are encoded, retrieved and consolidated in the brain.
+              Extensive evidence and theoretical works suggest unique roles for the hippocampus in these processes and propose that it mnemonically processes external and internal information.
+              Nevertheless, the hippocampus' specific contribution remains unclear.
+              Our goal is to provide a comprehensive view on the hippocampal role in memory.
+              To this end, we use in vivo electrophysiology and Ca2+ imaging in freely moving mice combined with genetic labeling, manipulation, and tracing.
+            homepage_url: https://groups.oist.jp/mru
+            logo: oist-mru.svg
+            academics:
+              - academic:
+                name: Kazumasa Tanaka
+                profile_url: https://scholar.google.com/citations?user=QC_chB0AAAAJ&hl=en
+                citations: 1863
+                hindex: 13
+                i10index: 15
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: ca2+, mouse, university-of-california
+          - item:
+            name: Neural Computation Unit
+            description: |
+              The Neural Computation Unit pursues the dual goals of developing robust and flexible learning algorithms and elucidating the brain's mechanisms for robust and flexible learning.
+              Our specific focus is on how the brain realizes reinforcement learning, in which an agent, biological or artificial, learns novel behaviors in uncertain environments by exploration and reward feedback.
+              We combine top-down, computational approaches and bottom-up, neurobiological approaches to achieve these goals.
+            homepage_url: https://groups.oist.jp/ncu
+            logo: oist.svg
+            academics:
+              - academic:
+                name: Kenji Doya
+                profile_url: https://scholar.google.com/citations?user=SHufeXQAAAAJ&hl=en
+                citations: 24809
+                hindex: 67
+                i10index: 172
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: ai, ml, robotics, reinforcement-learning, agents, computational-neuroscience
+          - item:
+            name: Molecular Neuroscience Unit
+            description: |
+              The Molecular Neuroscience Unit investigates how neurons regulate the flux of information from the periphery to the center.
+              We look at the mechanisms underlying the correct localization of signaling complexes, endosomes, mitochondria and mRNP granules by molecular transport 
+              and/or local protein synthesis and how this affects neurodegeneration and pathology.
+            homepage_url: https://www.oist.jp/research/research-units/mnu
+            logo: oist-mnu.svg
+            academics:
+              - academic:
+                name: Marco Terenzio
+                profile_url: https://scholar.google.co.il/citations?user=nXQ57fkAAAAJ&hl=en
+                citations: 1352
+                hindex: 16
+                i10index: 16
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: cells, molecular-biology, dkfz, ucl
+          - item:
+            name: Computational Neuroethology Unit
+            description: |
+              The Computational Neuroethology Unit seeks to uncover the principles governing animal behavior and its neural basis.
+              To achieve this goal, the unit combines novel methods for high-resolution behavioral recording with systems neuroscience and computational approaches.
+              The unit currently focuses on coleoid cephalopods (cuttlefish, octopus, and squid), a group of marine invertebrates that evolved uniquely large brains and complex behaviors.
+            homepage_url: https://www.oist.jp/research/research-units/cne
+            logo: oist.svg
+            academics:
+              - academic:
+                name: Sam Reiter
+                profile_url: https://www.semanticscholar.org/author/Sam-Reiter/30307788
+                citations: 517
+                hindex: 7
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: max-plank, marine, brown
+          - item:
+            name: Embodied Cognitive Science Unit
+            description: |
+              The Embodied Cognitive Science Unit investigates the hypothesis that agent-environment interaction is an essential part of, rather than only a product of, cognition.
+              An agent's mind is profoundly shaped by its embodiment and the world, especially in terms of social, cultural and technological mediation.
+              Using methods drawn from the intersection of computer science and complex systems, the implications of this hypothesis are modeled and tested across scales from adaptive behavior to human thinking.
+              Applications will advance our understanding of social cognition, addiction, and human-computer interaction.
+            homepage_url: https://www.oist.jp/research/research-units/ecsu
+            logo: oist-ecsu.svg
+            academics:
+              - academic:
+                name: Tom Froese
+                profile_url: https://scholar.google.com.mx/citations?user=uKd8pmUAAAAJ&hl=en
+                citations: 5491
+                hindex: 40
+                i10index: 94
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: social-cognition, embodiment, university-of-sussex
+          - item:
+            name: Cellular and Molecular Synaptic Function Unit
+            description: |
+              In the Cellular and Molecular Synaptic Function Unit, we investigate mechanisms underlying the maintenance of neurotransmission.
+              As model preparations, we developed rodent giant presynaptic terminals visualized in slices or culture, and human synapses newly formed in neuronal culture differentiated from iPS cells.
+              For functional analyses, we utilize patch-clamp electrophysiology, live imaging and quantitative proteomics, in combination.
+              We aim at clarifying cellular and molecular mechanisms underlying dynamic brain functions, thereby obtaining effective therapeutic tools for neuronal diseases.
+            homepage_url: https://groups.oist.jp/cmsfu
+            logo: oist.svg
+            academics:
+              - academic:
+                name: Tomoyuki Takahashi
+                profile_url: https://scholar.google.co.jp/citations?user=t3HsDsYAAAAJ&hl=ja
+                citations: 20243
+                hindex: 71
+                i10index: 123
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: neurotransmission, mouse, synapses, therapeutics
+          - item:
+            name: Human Developmental Neurobiology Unit
+            description: |
+              The Human Developmental Neurobiology Unit investigates the nature, causes, and management of ADHD.
+              Unit members study why children diagnosed with ADHD respond differently to reinforcement, and they work with colleagues overseas conducting fMRI and drug studies to explore the disorder's underlying neurobiology.
+              The unit is also studying the social problem solving skills of children with ADHD and developing a skills program for Japanese parents dealing with ADHD.
+            homepage_url: https://www.oist.jp/research/research-units/hdnu
+            logo: oist.svg
+            academics:
+              - academic:
+                name: Gail Tripp
+                profile_url: https://scholar.google.com/citations?user=-WkN5jAAAAAJ&hl=en
+                citations: 6007
+                hindex: 33
+                i10index: 51
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: adhd, fmri, royal-society-of-new-zealand
+          - item:
+            name: Neuronal Mechanism for Critical Period Unit
+            description: |
+              When we are young, our brains adapt at the whim of our sensory environments.
+              The Neuronal Mechanism for Critical Period Unit studies how this “critical period” of malleability in the young is orchestrated within the brain.
+              Zebra finches, the unit's model organism of choice, learn to sing from their auditory experiences as young birds, allowing researchers to explore what is happening during this marvelous period.
+            homepage_url: https://www.oist.jp/research/research-units/nmcpu
+            logo: oist.svg
+            academics:
+              - academic:
+                name: Yoko Yazaki-Sugiyama
+                profile_url: https://scholar.google.com/citations?user=Pez80yIAAAAJ&hl=en
+                citations: 810
+                hindex: 11
+                i10index: 13
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: critical-period, zebrafish, riken
+          - item:
+            name: Neurobiology Research Unit
+            description: |
+              The goal of the Neurobiology Research Unit is to understand neural mechanisms of learning in the brain.
+              The unit studies physical changes that take place in synapses due to learning experiences and how these changes depend on dopamine, a chemical that plays a key role in motivation.
+              This research has the forward goal of developing better treatments for disorders such as Parkinson's disease and attention-deficit hyperactivity disorder.
+            homepage_url: https://www.oist.jp/research/research-units/nru
+            logo: oist-nru.svg
+            academics:
+              - academic:
+                name: Jeff Wickens
+                profile_url: https://scholar.google.com/citations?user=x2yg1WQAAAAJ&hl=en
+                citations: 11485
+                hindex: 48
+                i10index: 89
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: development, dompamine, motivation, parkinsons, adhd
+          - item:
+            name: Developmental Neurobiology Unit
+            description: |
+              The Developmental Neurobiology Unit uses the zebrafish as a model system to study the mechanisms that control cell development and tissue building.
+              OIST's high-capacity aquarium system houses some 200,000 fish in 4,800 tanks to maintain mutant and transgenic lines of zebrafish for projects that investigate how the vertebrate retina develops.
+            homepage_url: https://groups.oist.jp/dnu
+            logo: oist-dnu.svg
+            academics:
+              - academic:
+                name: Ichiro Masai
+                profile_url: https://scholar.google.co.jp/citations?user=P8FEcOYAAAAJ&hl=ja
+                citations: 3096
+                hindex: 25
+                i10index: 33
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: zebrafish, cells, retina
+          - item:
+            name: Cognitive Neurorobotics Research Unit
+            description: |
+              The Cognitive Neurorobotics Research Unit is dedicated to investigating the principles of embodied cognition by conducting experimental studies in synthetic neurorobotics.
+              The primary goals of our research are to understand: 
+              on how innate structures can be leveraged to develop cognitive constructs through iterative but limited behavioral experiences; 
+              how primary intersubjectivity in social cognition can be formed through enactive and contextual interactions with others; 
+              and how subjective experiences such as consciousness and free will can be scientifically and phenomenologically explained. 
+              In addition, our developmental neurorobotics approach is intended to uncover the underlying mechanisms of neurodevelopmental disorders, such as schizophrenia and autism.
+              Through these researches, we can expect to deepen our ontological understanding of human beings, rather than simply creating another smart machine-learning robot.
+            homepage_url: https://groups.oist.jp/cnru
+            logo: oist.svg
+            academics:
+              - academic:
+                name: Jun Tani
+                profile_url: https://scholar.google.com/citations?user=9tkWMqgAAAAJ&hl=en
+                citations: 7460
+                hindex: 41
+                i10index: 126
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: schizophrenia, autism, robotics, embedded-cognition, social-cognition, kaist, tum, riken
+          - item:
+            name: Membrane Cooperativity Unit
+            description: |
+              The Membrane Cooperativity Unit strives to understand how cellular plasma membranes work at very fundamental levels.
+              For this purpose, the unit is dedicated to developing unique methodologies of single-molecule observation-manipulation in living cells and elucidating the mechanisms for the plasma membrane organization and function.
+              This is enabled by cooperative interactions of molecules in/on the plasma membrane, with particular emphases on signal transduction and neuronal network formation, by extensively using single-molecule technologies.
+            homepage_url: https://groups.oist.jp/mcu
+            logo: oist.svg
+            academics:
+              - academic:
+                name: Akihiro Kusumi
+                profile_url: https://scholar.google.com/citations?user=bK1njdwAAAAJ&hl=ja
+                citations: 22560
+                hindex: 72
+                i10index: 129
+            locations:
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: kyoto, cells, wisconsin, microscopy, avanti-award
       - subcategory:
         name: Duke-NUS
         items:

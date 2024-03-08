@@ -67,7 +67,7 @@ footer:
       year = {2024}
     }
 
-grid_items_size: medium
+grid_items_size: small
 
 groups:
   - name: All categories
