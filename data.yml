@@ -1268,7 +1268,8 @@ landscape:
               Simultaneously, we observe the behavior in detail.
               By finding correlates between neuronal activity and behavior, we hope to address some of the mysteries of the brain.
             homepage_url: https://www.oist.jp/research/research-units/onu
-            logo: oist.svg
+            logo: oist-onu.svg
+            repo_url: https://github.com/phflot/flow_registration
             academics:
               - academic:
                 name: Bernd Kuhn
@@ -2306,6 +2307,39 @@ landscape:
                 country: USA
             extra:
               summary_tags: chan-zuckerberg-foundation, royer-lab
+          - item:
+            name: flow_registration
+            description: |
+              Flow-Registration: Optical flow based motion compensation / video stabilization / registration for 2-photon imaging Data.
+              Toolbox for the compensation and stabilization of multichannel microscopy videos.
+            homepage_url: https://github.com/phflot/flow_registration
+            repo_url: https://github.com/phflot/flow_registration
+            logo: flow_registration.svg
+            locations:
+              - location:
+                country: Japan
+            extra:
+              summary_tags: oist, flow-registration, imaging, microscopy
+          - item:
+            name: variational_aligner
+            description: |
+              Toolbox for fast, variational 1D alignment
+              ImageJ and Fiji Plugin for fast, variational 1D alignment of multichannel linescan data.
+              This is an ImageJ and Fiji plugin that can be used for the variational alignment of displacement jitter in linescan recordings.
+              The plugin supports the simultaneous, weighted registration of multiple channels.
+              The estimated displacements have native subpixel precision and can compensate non-constant displacements.
+            homepage_url: https://phflot.github.io/variational_aligner
+            repo_url: https://github.com/phflot/variational_aligner_IJ
+            additional_repos:
+              - item:
+                name: repository
+                repo_url: https://github.com/phflot/variational_aligner
+            logo: variational_aligner.svg
+            locations:
+              - location:
+                country: Japan
+            extra:
+              summary_tags: oist, flow-registration, imaging, microscopy
       - subcategory:
         name: Segmentation
         items:
