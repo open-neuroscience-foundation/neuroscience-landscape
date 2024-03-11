@@ -20,7 +20,35 @@ landscape:
                 city: Austin
                 country: USA
             extra:
-              summary_tags: bci, robotics, utah-array, hardware
+              summary_tags: bci, robotics, utah-array, hardware, elon-musk
+          - item:
+            name: Kernel
+            description: Kernel is a neuroscience company that specializes in developing brain-recording technologies.
+            homepage_url: https://www.kernel.com/
+            crunchbase: https://www.crunchbase.com/organization/kernel-co
+            logo: kernel-co.svg
+            locations:
+              - location:
+                city: Los Angeles
+                country: USA
+            extra:
+              summary_tags: bci, hardware, eeg, non-invasive, bryan-johnson
+          - item:
+            name: Science
+            description: |
+              Science develops advanced technologies with the goal to, over time, blur the line between medical devices and consumer electronics.
+              Today we are focused on debilitating conditions for which there is a serious unmet medical need.
+              As these technologies mature, they hold the potential to profoundly reshape the human condition.
+            homepage_url: https://science.xyz
+            crunchbase: https://www.crunchbase.com/organization/science-5003
+            github_org_url: https://github.com/sciencecorp
+            logo: science-co.svg
+            locations:
+              - location:
+                city: Alameda
+                country: USA
+            extra:
+              summary_tags: bci, hardware, max-hodak, neuralink
           - item:
             name: Neurolutions
             description: Neurolutions provides non-invasive FDA approved devices for stroke rehabilitation.
@@ -54,6 +82,18 @@ landscape:
                 country: USA
             extra:
               summary_tags: bci, robotics, utah-array, hardware,
+          - item:
+            name: Neuraura
+            description: We leverage proprietary thin film electrodes to provide world-class high fidelity EEG and physiological data for unlocking the brain and metabolic insights.
+            homepage_url: https://www.neuraura.com
+            crunchbase: https://www.crunchbase.com/organization/neuraura
+            logo: neuraura.svg
+            locations:
+              - location:
+                city: Calgary
+                country: Canada
+            extra:
+              summary_tags: bci, hardware, eeg
       - subcategory:
         name: Visualization
         items:
@@ -406,6 +446,32 @@ landscape:
       - subcategory:
         name: Societies
         items:
+          - item:
+            name: The International Brain Research Organization
+            description: |
+              The International Brain Research Organization (IBRO) is the global association of neuroscience societies established in 1961 that aims to promote and support neuroscience around the world 
+              through training, education, research, outreach and engagement activities, and the publication of two journals, Neuroscience and IBRO Neuroscience Reports.
+              More than 90 international, regional and national scientific members constitute IBRO's Governing Council which, together with the IBRO Executive Committee and five Regional Committees, 
+              address the needs and advance the work of individual scientists and research communities everywhere.
+              In addition, IBRO has partnerships with like-minded scientific organizations to identify priorities and help bridge gaps in knowledge, investment and resources in the field of brain research.
+            homepage_url: https://ibro.org/
+            logo: international-brain-research-organization.svg
+            locations:
+              - location:
+                country: Worldwide
+              - location:
+                country: USA
+          - item:
+            name: Chinese Neuroscience Society
+            description: |
+              Chinese Neuroscience Society (CNS) is a non-profit non-governmental organization with the status of an independent legal entity and supported by neuroscientists 
+              from national scientific and research units, universities and hospitals and alike.
+            homepage_url: https://www.cns.org.cn/en/
+            logo: chinese-neuroscience-society.svg
+            locations:
+              - location:
+                city: Shanghai
+                country: China
           - item:
             name: SFN Sigapore
             description: |

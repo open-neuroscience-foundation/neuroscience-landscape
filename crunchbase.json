@@ -39,6 +39,80 @@
             }
         ]
     },
+    "https://www.crunchbase.com/organization/kernel-co": {
+        "name": "Kernel",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "city": "Los Angeles",
+        "company_type": "for_profit",
+        "country": "USA",
+        "num_employees_max": 50,
+        "num_employees_min": 11,
+        "funding": 15820000,
+        "funding_rounds": [
+            {
+                "amount": 5200000,
+                "announced_on": "2023-12-01",
+                "kind": "venture_round"
+            },
+            {
+                "amount": 53000000,
+                "announced_on": "2020-07-09",
+                "kind": "series_c"
+            },
+            {
+                "amount": 100000000,
+                "announced_on": "2016-10-20",
+                "kind": "venture_round"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/science-5003": {
+        "name": "Science",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "city": "Alameda",
+        "company_type": "for_profit",
+        "country": "USA",
+        "num_employees_max": 50,
+        "num_employees_min": 11,
+        "funding_rounds": [
+            {
+                "announced_on": "2021-10-01",
+                "kind": "seed"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/neuraura": {
+        "name": "Neuraura",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "city": "Calgary",
+        "company_type": "for_profit",
+        "country": "Canada",
+        "num_employees_max": 50,
+        "num_employees_min": 11,
+        "funding": 750000,
+        "funding_rounds": [
+            {
+                "announced_on": "2021-01-07",
+                "kind": "pre-seed"
+            },
+            {
+                "announced_on": "2021-01-01",
+                "kind": "pre-seed"
+            },
+            {
+                "announced_on": "2020-06-01",
+                "kind": "pre-seed"
+            },
+            {
+                "announced_on": "2018-06-01",
+                "kind": "pre-seed"
+            },
+            {
+                "announced_on": "2017-10-01",
+                "kind": "pre-seed"
+            }
+        ]
+    },
     "https://www.crunchbase.com/organization/neurolutions": {
         "name": "NeuroLutions",
         "generated_at": "2024-03-04T08:24:54.915013600Z",
