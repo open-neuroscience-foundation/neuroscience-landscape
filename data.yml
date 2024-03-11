@@ -94,6 +94,18 @@ landscape:
                 country: Canada
             extra:
               summary_tags: bci, hardware, eeg
+          - item:
+            name: Synchron
+            description: Synchron is a bioelectronics medicine company that develops neuromodulation solutions for previously-untreatable nervous system conditions.
+            homepage_url: https://synchron.com
+            crunchbase: https://www.crunchbase.com/organization/synchron-inc
+            logo: synchron.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: bci, hardware, eeg
       - subcategory:
         name: Visualization
         items:

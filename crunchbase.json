@@ -319,5 +319,41 @@
         "funding": 2800000000,
         "ticker": "SHL",
         "stock_exchange": "etr"
+    },
+    "https://www.crunchbase.com/organization/synchron-inc": {
+        "name": "Synchron",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "New York",
+        "country": "USA",
+        "num_employees_max": 50,
+        "num_employees_min": 11,
+        "funding": 130000000,
+        "funding_rounds": [
+            {
+                "amount": 75000000,
+                "announced_on": "2022-12-15",
+                "kind": "series_c"
+            },
+            {
+                "announced_on": "2022-02-04",
+                "kind": "venture_round"
+            },
+            {
+                "amount": 40000000,
+                "announced_on": "2021-06-03",
+                "kind": "series_b"
+            },
+            {
+                "amount": 10000000,
+                "announced_on": "2017-04-04",
+                "kind": "series_a"
+            },
+            {
+                "amount": 5000000,
+                "announced_on": "2005-01-28",
+                "kind": "venture_round"
+            }
+        ]
     }
 }
