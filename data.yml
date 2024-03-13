@@ -626,6 +626,38 @@ landscape:
             extra:
               summary_tags: simulation, stars-2000
       - subcategory:
+        name: University of Zurich
+        items:
+          - item:
+            name: Stoeckli Lab
+            description: |
+              Our research focuses on axon guidance as a crucial step in neural circuit formation.
+              We do this from two different perspectives. 
+              On the one hand, we explore the fundamental mechanisms that allow axons to navigate intermediate targets on their way to the final target.
+              On the other hand, we start with patient-derived candidate genes and study their contribution to neural development as a means to understand the patient's symptoms.
+              We use both chicken and mouse embryos as model organisms for nervous system development.
+            homepage_url: https://neuroscience.med.utah.edu/faculty/normann.php
+            logo: stoeckli-lab.svg
+            academics:
+              - academic:
+                name: Esther Stoeckli
+                profile_url: https://scholar.google.ch/citations?user=Lp_wEokAAAAJ&hl=de
+                hindex: 46
+                i10index: 79
+                citations: 8531
+              - academic:
+                name: Alexandre Dumoulin
+                profile_url: https://scholar.google.com/citations?user=DQ0WUoUAAAAJ&hl=en
+                hindex: 7
+                i10index: 5
+                citations: 116
+            locations:
+              - location:
+                city: Zurich
+                country: Switzerland
+            extra:
+              summary_tags: imaging, transcriptomics, development, mouse
+      - subcategory:
         name: Utah
         items:
           - item:
