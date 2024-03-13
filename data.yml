@@ -1923,6 +1923,27 @@ landscape:
                 country: China
             extra:
               summary_tags: neuroplasticity, hindex-100
+          - item:
+            name: Lab of Neural Interface
+            description: |
+              Our lab is aiming to systemically develop a stable, chronic and high bandwidth neural interface by taking advantages of micro/nano fabrication technology and novel materials.
+              The technical platform we developed will be applied in basic neuroscience research, studying and intervening neurological diseases, and to create seamless brain-machine interface.
+              Main research direction: Stable, chronic and high bandwidth brain-machine interface and its clinical applications
+            homepage_url: http://english.cebsit.cas.cn/lab/zhaozhengtuo/research/
+            logo: cebsit-neural-interface.svg
+            academics:
+              - academic:
+                name: ZHAO Zhengtuo
+                profile_url: https://scholar.google.com/citations?user=2iEqeocAAAAJ&hl=en
+                hindex: 11
+                i10index: 12
+                citations: 994
+            locations:
+              - location:
+                city: Shanghai
+                country: China
+            extra:
+              summary_tags: bci, material-science, university-of-texas
   - category:
     name: Hardware
     subcategories:
