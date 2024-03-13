@@ -1903,6 +1903,26 @@ landscape:
                 country: USA
             extra:
               summary_tags: data-science, electrophysiology, optogenetics, rodentds, data-science, tools
+      - subcategory:
+        name: CEBSIT
+        items:
+          - item:
+            name: Lab of Neural Plasticity
+            description: We are interested in the cellular and molecular mechanisms underlying the plasticity of synapses and neural circuits, and the role of neuroplasticity in brain functions and brain disorders.
+            homepage_url: http://english.cebsit.cas.cn/lab/poomuming/people/
+            logo: cbsit.svg
+            academics:
+              - academic:
+                name: POO Muming
+                profile_url: https://www.semanticscholar.org/author/M.-Poo/1823913
+                hindex: 111
+                citations: 49283
+            locations:
+              - location:
+                city: Shanghai
+                country: China
+            extra:
+              summary_tags: neuroplasticity, hindex-100
   - category:
     name: Hardware
     subcategories:
