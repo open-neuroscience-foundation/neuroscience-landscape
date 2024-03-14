@@ -10,7 +10,7 @@ landscape:
             description: Neuralink is developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.
             homepage_url: https://neuralink.com
             crunchbase: https://www.crunchbase.com/organization/neuralink
-            xxxxx: https://github.com/neuralinkcorp
+            github_org_url: https://github.com/neuralinkcorp
             logo: neuralink.svg
             locations:
               - location:
@@ -41,7 +41,7 @@ landscape:
               As these technologies mature, they hold the potential to profoundly reshape the human condition.
             homepage_url: https://science.xyz
             crunchbase: https://www.crunchbase.com/organization/science-5003
-            xxxxx: https://github.com/sciencecorp
+            github_org_url: https://github.com/sciencecorp
             logo: science-co.svg
             locations:
               - location:
@@ -183,7 +183,7 @@ landscape:
               Past projects done with UC San Diego, UCL, University of Edinburgh, State University of New York, Pfizer, Yale, Brain Observatory, BrainCommons, and more.
             homepage_url: https://www.metacell.us
             crunchbase: https://www.crunchbase.com/organization/metacell
-            xxxxx: https://github.com/MetaCell
+            github_org_url: https://github.com/MetaCell
             logo: metacell.svg
             locations:
               - location:
@@ -244,7 +244,7 @@ landscape:
             name: Numenta
             description: Neurologically inspired machine learning algorithms and solutions for cloud.
             homepage_url: https://numenta.com
-            xxxxx: https://github.com/numenta
+            github_org_url: https://github.com/numenta
             logo: numenta.svg
             locations:
               - location:
@@ -264,7 +264,7 @@ landscape:
               We are also a key player in BRAIN CONNECTS, one of the three transformative projects of the US BRAIN Initiative.
               BRAIN CONNECTS is an ambitious ten-year project to map a whole mouse brain at synaptic resolution, turning the dream of exascale connectomics into reality.
             homepage_url: http://zetta.ai
-            xxxxx: https://github.com/ZettaAI
+            github_org_url: https://github.com/ZettaAI
             logo: zettaai.svg
             locations:
               - location:
@@ -284,7 +284,7 @@ landscape:
             homepage_url: https://www.siemens-healthineers.com/en-sg/magnetic-resonance-imaging
             crunchbase: https://www.crunchbase.com/organization/siemens-healthcare
             logo: siemens_healthineers.svg
-            xxxxx: https://github.com/Siemens-Healthineers
+            github_org_url: https://github.com/Siemens-Healthineers
             locations:
               - location:
                 country: USA
@@ -308,7 +308,7 @@ landscape:
               These institutes partner with Chan Zuckerberg Science in its goal to understand the mysteries of the cell and how cells interact within systems.
               This collaboration will bring us closer to our mission to cure, prevent, or manage all diseases by the end of the century.
             homepage_url: https://www.czbiohub.org/
-            xxxxx: https://github.com/czbiohub-sf
+            github_org_url: https://github.com/czbiohub-sf
             logo: chan-zuckerberg-biohub.svg
             locations:
               - location:
@@ -319,7 +319,7 @@ landscape:
               The mission of INCF is to promote the uptake of FAIR data management practices in neuroscience through the development of standards and best practices that support open, FAIR, and citable neuroscience.
               INCF also provides training on how standards and best practices facilitate reproducibility and enable the sharing of data and code.
             homepage_url: http://www.incf.org
-            xxxxx: https://github.com/INCF
+            github_org_url: https://github.com/INCF
             logo: incf.svg
             locations:
               - location:
@@ -379,7 +379,7 @@ landscape:
               The Allen Institute for Brain Science is a division of the Allen Institute, based in Seattle, Washington, that focuses on bioscience research.
               Founded in 2003, it is dedicated to accelerating the understanding of how the human brain works.
             homepage_url: https://alleninstitute.org/what-we-do/brain-science/
-            xxxxx: https://github.com/AllenInstitute
+            github_org_url: https://github.com/AllenInstitute
             crunchbase: https://www.crunchbase.com/organization/allen-institute-for-brain-science
             logo: allen-institute-brain-science.svg
             locations:
@@ -393,7 +393,7 @@ landscape:
               A network of integrated centers and laboratories including U01, RF1, and U19 data generating centers, R24 data archives, 
               and a U24 Brain Cell Data Center (BCDC) are working collaboratively to generate, map, and share these data with the community.
             homepage_url: https://biccn.org
-            xxxxx: https://github.com/BICCN
+            github_org_url: https://github.com/BICCN
             logo: biccn.svg
             locations:
               - location:
@@ -407,7 +407,7 @@ landscape:
               NWB is designed to store a variety of neurophysiology data, including data from intracellular and extracellular electrophysiology experiments, data from optical physiology experiments, and tracking and stimulus data.
               The NWB team consists of neuroscientists and software developers who recognize that adoption of a unified data format is an important step toward breaking down the barriers to data sharing in neuroscience.
             homepage_url: https://www.nwb.org/
-            xxxxx: https://github.com/NeurodataWithoutBorders
+            github_org_url: https://github.com/NeurodataWithoutBorders
             logo: neurodata_without_borders.svg
             locations:
               - location:
@@ -578,7 +578,7 @@ landscape:
               Our goal is to build a time-resolved, multidimensional atlas of vertebrate development using zebrafish as a model organism.
               To attain this goal, we design, build, and implement novel state-of-the-art light-sheet microscopes, as well as deep learning-based image processing and analysis algorithms.
             homepage_url: http://royerlab.org/
-            xxxxx: https://github.com/royerlab
+            github_org_url: https://github.com/royerlab
             logo: royer-lab.svg
             academics:
               - academic:
@@ -605,7 +605,7 @@ landscape:
               We also do a good bit of neural data analysis.
               Right now we are also very much interested in causality and its links with machine learning.
             homepage_url: https://www.kordinglab.com
-            xxxxx: https://github.com/KordingLab
+            github_org_url: https://github.com/KordingLab
             logo: kording-lab.svg
             academics:
               - academic:
@@ -627,7 +627,7 @@ landscape:
             name: BlueBrain
             description: The goal of the Blue Brain Project is to build biologically detailed digital reconstructions and simulations of the mouse brain.
             homepage_url: https://www.epfl.ch/research/domains/bluebrain/
-            xxxxx: https://github.com/BlueBrain
+            github_org_url: https://github.com/BlueBrain
             logo: blue-brain-project.svg
             academics:
               - academic:
@@ -719,7 +719,7 @@ landscape:
             name: Seung Lab
             description: Construction of connectomics from tissue slice data.
             homepage_url: https://seunglab.org/
-            xxxxx: https://github.com/seung-lab
+            github_org_url: https://github.com/seung-lab
             logo: seung-lab.svg
             academics:
               - academic:
@@ -1007,7 +1007,7 @@ landscape:
               We are now responding to the challenge laid down by Cajal by developing computational tools and mathematical laws to describe this link between structure and function.
               Morphology is key to understanding both circuits and computation since it reflects the constraints given by both.
             homepage_url: https://www.esi-frankfurt.de/research/cuntz-lab/
-            xxxxx: https://github.com/cuntzlab
+            github_org_url: https://github.com/cuntzlab
             logo: cuntz_lab.svg
             academics:
               - academic:
@@ -1259,7 +1259,7 @@ landscape:
             name: Califano Lab
             description: The Califano Lab studies biology from the perspective of the complex networks of gene and protein interactions that define and regulate cell physiology.
             homepage_url: http://califano.c2b2.columbia.edu/
-            xxxxx: https://github.com/califano-lab
+            github_org_url: https://github.com/califano-lab
             logo: andrea-califano-lab.svg
             academics:
               - academic:
@@ -1357,7 +1357,7 @@ landscape:
               To uncover neural code and circuit mechanisms of brain computing, we take computational and theoretical approaches.
               Our goal is to construct a minimal but yet effective description of powerful and flexible computation implemented by the brain's neural circuits.
             homepage_url: https://groups.oist.jp/ncbc
-            xxxxx: https://github.com/oist-ncbc
+            github_org_url: https://github.com/oist-ncbc
             logo: oist-ncbc.svg
             academics:
               - academic:
@@ -1722,6 +1722,46 @@ landscape:
             extra:
               summary_tags: clinical, parkinsons, imaging
       - subcategory:
+        name: University of Sussex
+        items:
+          - item:
+            name: Sussex Neuroscience
+            description: Sussex Neuroscience (SN) is a friendly community of researchers from the Schools of Life Sciences, Psychology, Engineering & Informatics and the Brighton and Sussex Medical School (BSMS)
+            homepage_url: https://www.sussex.ac.uk/research/centres/sussex-neuroscience/people
+            logo: sussex-neuroscience.svg
+            github_org_url: https://github.com/sussex-neuroscience
+            academics:
+              - academic:
+                name: Miguel Maravall
+                profile_url: https://scholar.google.com/citations?user=lRZiOnAAAAAJ&hl=en
+                citations: 2614
+                hindex: 21
+                i10index: 24
+              - academic:
+                name: Chris Bird
+                profile_url: https://scholar.google.co.uk/citations?user=smxv3nIAAAAJ&hl=en
+                citations: 5284
+                hindex: 29
+                i10index: 39
+              - academic:
+                name: André Maia Chagas
+                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
+                citations: 1002
+                hindex: 10
+                i10index: 11
+              - academic:
+                name: Chris Racey
+                profile_url: https://scholar.google.com/citations?user=FsOJfEYAAAAJ&hl=en
+                citations: 422
+                hindex: 7
+                i10index: 7
+            locations:
+              - location:
+                city: Sussex
+                country: UK
+            extra:
+              summary_tags: softare, mouse
+      - subcategory:
         name: Stanford
         items:
           - item:
@@ -1739,7 +1779,7 @@ landscape:
               All projects typically involve working with a multidisciplinary team of researchers developing and implementing novel computational tools and 
               experimental techniques for probing brain function and dysfunction.
             homepage_url: https://med.stanford.edu/scsnl/about1.html
-            xxxxx: https://github.com/scsnl
+            github_org_url: https://github.com/scsnl
             logo: scsnl.svg
             academics:
               - academic:
@@ -1761,7 +1801,7 @@ landscape:
               overall dynamical organization in healthy and patient populations.
               We employ algorithms from a wide range of fields, including Applied Mathematics, Econometrics, Machine Learning, Biophysics, and Network Science.
             homepage_url: https://web.stanford.edu/group/bdl
-            xxxxx: https://github.com/braindynamicslab
+            github_org_url: https://github.com/braindynamicslab
             logo: stanford_bdl.svg
             academics:
               - academic:
@@ -1873,7 +1913,7 @@ landscape:
             description: |
               We focus on Cognitive, Systems and Computational Neuroscience.
             homepage_url: https://www.gallantlab.org
-            xxxxx: https://github.com/gallantlab
+            github_org_url: https://github.com/gallantlab
             logo: gallant_lab.svg
             academics:
               - academic:
@@ -1898,7 +1938,7 @@ landscape:
               Our research approach is multifaceted and interdisciplinary; we combine animal behavior, human psychophysics, sensory neurophysiology
               and theoretical and computational neuroscience.
             homepage_url: http://theunissen.berkeley.edu
-            xxxxx: https://github.com/theunissenlab
+            github_org_url: https://github.com/theunissenlab
             logo: theunissen_lab.svg
             academics:
               - academic:
@@ -1923,7 +1963,7 @@ landscape:
               On the data science side, we develop analysis tools for (neuro)-science, including statistical-machine learning algorithms, inference in dynamic graphical models, and data standards/formats.
               These interpretable and predictive tools provide enhanced insight into the generative processes that produce data.
             homepage_url: https://bouchardlab.lbl.gov/
-            xxxxx: https://github.com/BouchardLab
+            github_org_url: https://github.com/BouchardLab
             logo: bouchard_lab.svg
             academics:
               - academic:
