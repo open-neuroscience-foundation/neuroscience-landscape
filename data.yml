@@ -2701,6 +2701,33 @@ landscape:
                 country: USA
             extra:
               summary_tags: imaging, calcium-imaging, nel-lab, university-of-north-carolina
+          - item:
+            name: CaImAn
+            description: |
+              A Python toolbox for large-scale Calcium Imaging Analysis.
+              CaImAn implements a set of essential methods required to analyze calcium and voltage imaging data.
+              It provides fast and scalable algorithms for motion correction, source extraction, spike deconvolution, and registering neurons across multiple sessions.
+              It is suitable for both two-photon and one-photon fluorescence microscopy data, and can be run in both offline and online modes.
+            homepage_url: https://caiman.readthedocs.io/
+            repo_url: https://github.com/flatironinstitute/CaImAn
+            logo: caiman.svg
+            additional_repos:
+              - item:
+                name: repository
+                repo_url: https://github.com/flatironinstitute/CaImAn-MATLAB
+            academics:
+              - academic:
+                name: Andrea Giovannucci
+                profile_url: https://scholar.google.com/citations?user=juWp02sAAAAJ&hl=en
+                citations: 3691
+                hindex: 22
+                i10index: 33
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: imaging, calcium-imaging, flatrion-institute, simons-foundation
       - subcategory:
         name: Segmentation
         items:
