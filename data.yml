@@ -3226,6 +3226,47 @@ landscape:
                 country: Japan
             extra:
               summary_tags: video, data-collection, mouse, behavior, toyama
+          - item:
+            name: TopMouseTracker
+            description: TopMouseTacker is a Python library based on OpenCV made for object tracking in videos.
+            homepage_url: https://github.com/Tom-top/TopMouseTracker
+            repo_url: https://github.com/Tom-top/TopMouseTracker
+            logo: top-mouse-tracker.svg
+            academics:
+              - academic:
+                name: Thomas TOPILKO
+                profile_url: https://scholar.google.com/citations?user=c8-kpPQAAAAJ&hl=en
+                citations: 537
+                hindex: 5
+                i10index: 4
+            locations:
+              - location:
+                city: Paris
+                country: France
+            extra:
+              summary_tags: video, data-collection, mouse, behavior
+          - item:
+            name: PyControl
+            description: |
+              pyControl is a system of open source hardware and software for controlling behavioural experiments in neuroscience and psychology, built around the MicroPython microcontroller.
+              pyControl makes it easy to program complex behavioural tasks using a clean, intuitive, and flexible syntax for specifying tasks as state machines. 
+              User created task definition files, written in Python, run directly on the microcontroller, supported by pyControl framework code.
+              This gives users the power and simplicity of Python for specifying task behaviour, while allowing low-level access to the microcontroller hardware directly from task code.
+            homepage_url: https://pycontrol.readthedocs.io/en/latest/
+            repo_url: https://github.com/pyControl/code
+            logo: pycontrol.svg
+            academics:
+              - academic:
+                name: Thomas Akam
+                profile_url: https://scholar.google.com/citations?user=b809FRsAAAAJ&hl=en
+                citations: 1426
+                hindex: 16
+                i10index: 17
+            locations:
+              - location:
+                country: UK
+            extra:
+              summary_tags: video, data-collection, mouse, behavior, oxford, mouse, behavior
   - category:
     name: Books
     subcategories:
