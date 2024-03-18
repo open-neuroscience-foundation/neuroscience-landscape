@@ -294,6 +294,31 @@ landscape:
                 country: Worldwide
             extra:
               summary_tags: mfi, fmri, clinical
+      - subcategory:
+        name: Electrophysiology
+        items:
+          - item:
+            name: Intan Technologies
+            description: |
+              Intan Technologies miniaturizes the functions of traditional large, expensive electrophysiology equipment and enables small, low-cost scientific instruments and medical devices.
+              We develop specialized integrated circuits to interface with electrical signals in living tissue.
+              We create innovative microchips to sense and stimulate neurons and muscles.
+              Intan products are used by biomedical companies and research labs in over 50 countries around the world.
+            homepage_url: http://www.intantech.com
+            logo: intan-technologies.svg
+            github_org_url: https://github.com/Intan-Technologies
+            academics:
+              - academic:
+                name: Reid Harrison
+                profile_url: https://scholar.google.com/citations?user=rCKlicEAAAAJ&hl=en
+                citations: 8463
+                hindex: 37
+                i10index: 70
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: hardware, electrophysiology, caltech, utah, integrated-circuits, emg
   - category:
     name: Organizations
     subcategories:
@@ -2060,6 +2085,75 @@ landscape:
                 country: USA
             extra:
               summary_tags: chan-zuckerberg-foundation, royer-lab, microscope
+          - item:
+            name: Backyard Brains
+            description: |
+              Our products all have a focus on neuroscience, but have expanded into multiple STEM research fields.
+              Our Neuron SpikerBox kits record directly from neurons in invertebrates.
+              Our Human Physiology kits enable you to record from the brain's electrical activity from motor units an muscular contractions (EMG), from the heart (EKG), and even from the whole brain (EEG).
+              Our neuroengineering devices let you use your nervous system to control computers and robotics.
+              We even have kits that reveal the secrets of plant signalling and behavior, proving that the action potential isn't unique to nervous systems! All of our products are accompanied with Lesson Plans and Experiments to make learning (and teaching) neuroscience a breeze.
+            homepage_url: https://backyardbrains.com/
+            logo: backyard-brains.svg
+            github_org_url: https://github.com/BackyardBrains
+            academics:
+              - academic:
+                name: Greg Gage
+                profile_url: https://scholar.google.com/citations?user=Go7O96oAAAAJ&hl=en
+                hindex: 15
+                citations: 2412
+                i10index: 17
+              - academic:
+                name: Brian Tracy
+                profile_url: https://scholar.google.com/citations?user=NMhIoVMAAAAJ&hl=en
+                hindex: 28
+                citations: 5424
+                i10index: 44
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: hardware, education, eeg
+          - item:
+            name: Open Ephys
+            description: We have made it possible to build an entire extracellular electrophysiology rig from off-the-shelf open-source components.
+            homepage_url: http://open-ephys.org/
+            logo: open-ephys.svg
+            github_org_url: https://github.com/open-ephys
+            academics:
+              - academic:
+                name: Jonathan P. Newman
+                profile_url: https://scholar.google.com/citations?user=Zjv7NDUAAAAJ&hl=en
+                citations: 640
+                hindex: 13
+                i10index: 14
+              - academic:
+                name: Joshua H. Siegle
+                profile_url: https://scholar.google.com/citations?user=jxKYDrEAAAAJ&hl=en
+                citations: 5508
+                hindex: 27
+                i10index: 30
+              - academic:
+                name: Jakob Voigts
+                profile_url: https://scholar.google.com/citations?user=mddoaI0AAAAJ&hl=en
+                citations: 1276
+                hindex: 13
+                i10index: 15
+              - academic:
+                name: Matthew A. Wilson
+                profile_url: https://scholar.google.com/citations?user=OAjQDMwAAAAJ&hl=en
+                citations: 52115
+                hindex: 74
+                i10index: 140
+            locations:
+              - location:
+                city: Atlanta
+                country: USA
+              - location:
+                city: Lisbon
+                country: Portugal
+            extra:
+              summary_tags: hardware, electrophysiology, open-source, tools, allen-institute, mit, brain-initiative, nih
       - subcategory:
         name: Surgery
         items:
@@ -2778,7 +2872,7 @@ landscape:
             extra:
               summary_tags: chan-zuckerberg-foundation, single-cell, imaging
       - subcategory:
-        name: Spikes
+        name: Electrophysiology
         items:
           - item:
             name: SpikeInterface
@@ -2823,6 +2917,79 @@ landscape:
                 country: USA
             extra:
               summary_tags: spikes, kording-lab, university-of-pennsylvania
+          - item:
+            name: Open Ephys GUI
+            description: |
+              Rather than having a hard-coded signal chain, the GUI allows the user to configure processing pipelines by mixing and matching modules.
+              This makes it simple to set up the software for new experiments, especially those involving closed-loop feedback.
+              The GUI was inspired by software for audio processing, and is built on top of the JUCE audio processing library.
+              This ensures that data is handled with low latencies, even for complex signal chains.
+              Features:
+              Works automatically with the Open Ephys acquisition board, Neuropixels probes, and Intan recording systems;
+              Channel count limited only by computer processing speed;
+              Define your own signal chain, or load a standard configuration to get up and running immediately;
+              Flexible LFP display with overlaid events;
+              Spike extraction and visualization for single electrodes, stereotrodes, and tetrodes;
+              Built-in audio monitor;
+              Digital referencing;
+            homepage_url: https://open-ephys.org/gui
+            repo_url: https://github.com/open-ephys/plugin-GUI
+            logo: open-ephys-gui.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: spikes, visualization, electrophysiology, neuropixels, intan, open-ephys
+          - item:
+            name: RTXI
+            description: |
+              RTXI, the Real-Time eXperiment Interface, is a hard real-time data acquisition and controls application for use in a biological research.
+              At the core of RTXI is a real-time operating system, based on the Linux kernel, that provides deterministic control for experiments.
+              The entire project, from the operating system to the drivers for the data acquisition card, is fast, free, and open-source.
+              RTXI is currently used in labs all over to world to probe diverse, technologically challenging problems, 
+              such as dynamic probing of ion-channel function, control of cardiac arrhythmia dynamics, and control of deep-brain stimulation patterns.
+              RTXI is funded by the NIH and has been for the past 10 years. We have a dedicated team for software support and development, 
+              and we work closely with current and potential users to expand RTXI's features and applications.
+            homepage_url: http://www.rtxi.org/
+            github_org_url: https://github.com/rtxi
+            logo: rtxi.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: electrophysiology, open-ephys
+          - item:
+            name: Symphony Data Acquisition system
+            description: |
+              Symphony is a MATLAB based data acquisition system for electrophysiologists.
+              It provides a framework for writing acquisition routines and a user interface to conduct experiments.
+              Symphony is designed with a focus on simplicity, performance, and flexibility. 
+              It is built on the .NET Platform and currently requires 64-bit Windows and MATLAB 2016a+.
+              Supported hardware includes National Instruments and HEKA ITC DAQ devices as well as Molecular Devices MultiClamp and Axopatch amplifiers
+            homepage_url: http://symphony-das.github.io
+            github_org_url: https://github.com/Symphony-DAS
+            logo: symphony-das.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: electrophysiology, open-ephys
+          - item:
+            name: Stage Visual Stimulus System
+            description: |
+              Stage is a MATLAB based visual stimulus system for vision research.
+              It provides a toolbox for writing visual stimulus routines.
+              Stage is designed primarily as a companion for Symphony but it may also be used as a standalone system.
+              It builds on ideas developed by Andrew Straw in Vision Egg.
+              It currently requires 64-bit Windows or macOS and MATLAB 2016a+.
+            homepage_url: http://stage-vss.github.io
+            github_org_url: https://github.com/Stage-VSS
+            logo: stags-vss.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: open-ephys, symphony, vision
       - subcategory:
         name: Data Formats
         items:
@@ -2943,6 +3110,35 @@ landscape:
                 country: USA
             extra:
               summary_tags: software, tooling, university-of-sussex, mit
+      - subcategory:
+        name: Behavior
+        items:
+          - item:
+            name: 3DTracker
+            description: |
+              3DTracker is an open-source, versatile, and low-cost video-based behavioral analysis system developed for neuroscience. The system works as follows:
+              A 3D video is reconstructed from the images of multiple (~4) depth cameras.
+              Positions of body parts are estimated by fitting skeletal models to the 3D videos.
+              Various behaviors are automatically detected based on the trajectories of body parts.
+              Because 3DTracker works without any markers attached to the body, it is able to better capture animals' naturalistic behavior expressions.
+              It also enables robust tracking of overlapped animals (e.g., during social interactions), compared to conventional 2D video based systems.
+              The system has been applied for analyzing social interactions, object recognition, and neural activity during social behavior.
+              The system can be used for both rats and mice. It uses a fast pose estimation algorithm potentially capable of real-time behavioral event detection.
+            homepage_url: https://open-ephys.org/3dtracker
+            repo_url: https://github.com/ThreeD-Tracker-FAB/3DTrackerFAB-main
+            logo: 3d-tracker.svg
+            academics:
+              - academic:
+                name: Jumpei Matsumoto
+                profile_url: https://scholar.google.co.jp/citations?user=_d71FFcAAAAJ&hl=en
+                hindex: 22
+                citations: 1735
+                i10index: 42
+            locations:
+              - location:
+                country: Japan
+            extra:
+              summary_tags: video, data-collection, mouse, behavior, toyama
   - category:
     name: Books
     subcategories:
