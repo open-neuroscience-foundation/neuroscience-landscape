@@ -2551,8 +2551,9 @@ landscape:
             extra:
               summary_tags: allen-institute, university-of-illinois
           - item:
-            name: Allen Institute Synaptic Physiology (aisynphys)
+            name: aisynphys
             description: |
+              Allen Institute Synaptic Physiology (aisynphys).
               This package provides data access and analysis tools for the Allen Institute Synaptic Physiology datasets.
               The Matrix Analyzer allows you to browse and interact with the Synaptic Physiology Dataset through a graphical user interface.
             homepage_url: http://portal.brain-map.org/explore/connectivity/synaptic-physiology
@@ -2560,6 +2561,48 @@ landscape:
             logo: allen-synaptic-physiology.svg
             extra:
               summary_tags: physiology, allen-institute, synapse
+          - item:
+            name: BrainJ
+            description: An accessible tool for automated brain reconstruction, mesoscale mapping, and cell analysis.
+            homepage_url: https://github.com/lahammond/BrainJ
+            repo_url: https://github.com/lahammond/BrainJ
+            logo: brainj.svg
+            academics:
+              - academic:
+                name: Luke Hammond
+                profile_url: https://scholar.google.com/citations?user=Kyb0tMQAAAAJ&hl=en
+                citations: 1156
+                hindex: 13
+                i10index: 13
+            extra:
+              summary_tags: fiji, cells, mapping, analysis, ml
+          - item:
+            name: YASA
+            description: |
+              YASA (Yet Another Spindle Algorithm) is a command-line sleep analysis toolbox in Python. The main functions of YASA are:
+              Automatic sleep staging of polysomnography data (see eLife article).
+              Event detection: sleep spindles, slow-waves and rapid eye movements, on single or multi-channel EEG data.
+              Artefact rejection, on single or multi-channel EEG data.
+              Spectral analyses: bandpower, phase-amplitude coupling, 1/f slope, and more!
+              Hypnogram analysis: sleep statistics and stage transitions.
+            homepage_url: https://raphaelvallat.com/yasa/build/html/index.html
+            repo_url: https://github.com/raphaelvallat/yasa
+            logo: yasa.svg
+            academics:
+              - academic:
+                name: Raphael Vallat
+                profile_url: https://scholar.google.fr/citations?user=XH8IG2UAAAAJ&hl=fr
+                citations: 1822
+                hindex: 15
+                i10index: 15
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: eeg, sleep, berkeley, matt-walker-lab
+      - subcategory:
+        name: Imaging and Microscopy
+        items:
           - item:
             name: dexp
             description: |
@@ -2578,24 +2621,6 @@ landscape:
                 country: USA
             extra:
               summary_tags: chan-zuckerberg-foundation, royer-lab
-          - item:
-            name: BrainJ
-            description: An accessible tool for automated brain reconstruction, mesoscale mapping, and cell analysis.
-            homepage_url: https://github.com/lahammond/BrainJ
-            repo_url: https://github.com/lahammond/BrainJ
-            logo: brainj.svg
-            academics:
-              - academic:
-                name: Luke Hammond
-                profile_url: https://scholar.google.com/citations?user=Kyb0tMQAAAAJ&hl=en
-                citations: 1156
-                hindex: 13
-                i10index: 13
-            extra:
-              summary_tags: fiji, cells, mapping, analysis, ml
-      - subcategory:
-        name: Imaging and Microscopy
-        items:
           - item:
             name: shrimPy
             description: shrimPy is a pythonic framework for correlative 3D imaging of physical and molecular properties of cells at high throughput.
