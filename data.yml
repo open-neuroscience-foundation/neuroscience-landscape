@@ -2578,6 +2578,21 @@ landscape:
                 country: USA
             extra:
               summary_tags: chan-zuckerberg-foundation, royer-lab
+          - item:
+            name: BrainJ
+            description: An accessible tool for automated brain reconstruction, mesoscale mapping, and cell analysis.
+            homepage_url: https://github.com/lahammond/BrainJ
+            repo_url: https://github.com/lahammond/BrainJ
+            logo: brainj.svg
+            academics:
+              - academic:
+                name: Luke Hammond
+                profile_url: https://scholar.google.com/citations?user=Kyb0tMQAAAAJ&hl=en
+                citations: 1156
+                hindex: 13
+                i10index: 13
+            extra:
+              summary_tags: fiji, cells, mapping, analysis, ml
       - subcategory:
         name: Imaging and Microscopy
         items:
@@ -2660,6 +2675,32 @@ landscape:
                 country: Japan
             extra:
               summary_tags: oist, flow-registration, imaging, microscopy
+          - item:
+            name: Mesmerize
+            description: |
+              Mesmerize is a platform for the annotation and analysis of neuronal calcium imaging data.
+              Mesmerize encompasses the entire process of calcium imaging analysis from raw data to interactive visualizations.
+              Mesmerize allows you to create FAIR-functionally linked datasets that are easy to share.
+              The analysis tools are applicable for a broad range of biological experiments and come with GUI interfaces that can be used without requiring a programming background.
+            homepage_url: https://github.com/nel-lab/mesmerize-core
+            repo_url: https://github.com/nel-lab/mesmerize-core
+            logo: mesmerize.svg
+            additional_repos:
+              - item:
+                name: repository
+                repo_url: https://github.com/kushalkolar/mesmerize-viz
+            academics:
+              - academic:
+                name: Kushal Kolar
+                profile_url: https://scholar.google.com.pe/citations?user=wU_Okg8AAAAJ&hl=fr
+                citations: 583
+                hindex: 3
+                i10index: 3
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: imaging, calcium-imaging, nel-lab, university-of-north-carolina
       - subcategory:
         name: Segmentation
         items:
@@ -2871,6 +2912,29 @@ landscape:
                 country: USA
             extra:
               summary_tags: chan-zuckerberg-foundation, single-cell, imaging
+          - item:
+            name: FastSurfer
+            description: |
+              FastSurfer is a fast and extensively validated deep-learning pipeline for the fully automated processing of structural human brain MRIs.
+              As such, it provides FreeSurfer conform outputs, enables scalable big-data analysis and time-critical clinical applications
+              such as structure localization during image acquisition or extraction of quantitative measures.
+            homepage_url: https://deep-mi.org/research/fastsurfer/
+            repo_url: https://github.com/Deep-MI/FastSurfer
+            logo: fastsurfer.svg
+            academics:
+              - academic:
+                name: Martin Reuter
+                profile_url: https://scholar.google.com/citations?user=CbdJk1wAAAAJ&hl=en
+                citations: 13085
+                hindex: 45
+                i10index: 70
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: Germany
+            extra:
+              summary_tags: pytorch, volumetric, reuter-lab, deep-mi-lab, mit, fmri, cnn
       - subcategory:
         name: Electrophysiology
         items:
@@ -3110,6 +3174,29 @@ landscape:
                 country: USA
             extra:
               summary_tags: software, tooling, university-of-sussex, mit
+      - subcategory:
+        name: Copmutation
+        items:
+          - item:
+            name: DataJoint
+            description: |
+              DataJoint for Python is an open-source framework for scientific data pipelines based on the relational data model.
+              DataJoint prescribes a consistent method for organizing, populating, computing, and querying data.
+            homepage_url: https://datajoint.com
+            github_org_url: https://github.com/datajoint
+            logo: datajoint.svg
+            academics:
+              - academic:
+                name: Dimitri Yatsenko
+                profile_url: https://scholar.google.com/citations?user=btJnLV8AAAAJ&hl=en
+                citations: 2249
+                hindex: 17
+                i10index: 23
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: software, data-pipelines, experiments, orchestration
       - subcategory:
         name: Behavior
         items:
