@@ -3294,6 +3294,30 @@ landscape:
                 country: UK
             extra:
               summary_tags: video, data-collection, mouse, behavior, oxford, mouse, behavior
+          - item:
+            name: DANNCE
+            description: |
+              DANNCE (3-Dimensional Aligned Neural Network for Computational Ethology) is a convolutional neural network (CNN) 
+              that calculates the 3D positions of user-defined anatomical landmarks on behaving animals from videos taken at multiple angles.
+              The key innovation of DANNCE compared to existing approaches for 2D keypoint detection in animals (e.g. LEAP, DeepLabCut) 
+              is that the network is fully 3D, so that it can learn about 3D image features and how cameras and landmarks relate to one another in 3D space. 
+              We also pre-trained DANNCE using a large dataset of rat motion capture and synchronized video, so the standard network has extensive prior knowledge of rodent motions and poses. 
+              DANNCE's ability to track landmarks transfers well to mice and other mammals, and works across different camera views, camera types, and illumination conditions.
+            homepage_url: https://github.com/spoonsso/dannce/
+            repo_url: https://github.com/spoonsso/dannce/
+            logo: dannce.svg
+            academics:
+              - academic:
+                name: Timothy Dunn
+                profile_url: https://scholar.google.com/citations?user=6lIlidIAAAAJ&hl=en
+                citations: 1830
+                hindex: 14
+                i10index: 18
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: duke, deep-learning, mouse
   - category:
     name: Books
     subcategories:
