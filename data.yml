@@ -2911,6 +2911,30 @@ landscape:
                 country: USA
             extra:
               summary_tags: allen-institute
+          - item:
+            name: GeNN
+            description: GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
+            homepage_url: http://genn-team.github.io/
+            repo_url: https://github.com/genn-team/genn
+            logo: genn.svg
+            academics:
+              - academic:
+                name: James Knight
+                profile_url: https://scholar.google.co.uk/citations?user=asUiHlIAAAAJ&hl=en
+                citations: 476
+                hindex: 11
+                i10index: 12
+              - academic:
+                name: Thomas Nowotny
+                profile_url: https://scholar.google.ca/citations?user=W3T-i5AAAAAJ&hl=en
+                citations: 3175
+                hindex: 31
+                i10index: 60
+            locations:
+              - location:
+                country: UK
+            extra:
+              summary_tags: university-of-sussex, espr, gpu, cuda
       - subcategory:
         name: Deep Learning
         items:
