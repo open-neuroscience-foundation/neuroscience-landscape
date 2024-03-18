@@ -2728,6 +2728,25 @@ landscape:
                 country: USA
             extra:
               summary_tags: imaging, calcium-imaging, flatrion-institute, simons-foundation
+          - item:
+            name: Cascade
+            description: Cascade translates calcium imaging ΔF/F traces into spiking probabilities or discrete spikes.
+            homepage_url: https://github.com/HelmchenLabSoftware/Cascade
+            repo_url: https://github.com/HelmchenLabSoftware/Cascade
+            logo: cascade.svg
+            academics:
+              - academic:
+                name: Peter Rupprecht
+                profile_url: https://scholar.google.ch/citations?user=cNQCYjkAAAAJ&hl=de
+                citations: 492
+                hindex: 9
+                i10index: 9
+            locations:
+              - location:
+                city: Zurich
+                country: Switzerland
+            extra:
+              summary_tags: imaging, calcium-imaging, zurich, helmchen-lab
       - subcategory:
         name: Segmentation
         items:
