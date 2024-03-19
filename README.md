@@ -24,7 +24,7 @@ Helpful links:
 This project utilizes http://github.com/open-neuroscience-foundation/landscape2-academic.
 
 ```bash
-GITHUB_TOKENS=... landscape2-academic build --data-file data.yml --settings-file settings.yml --guide-file guide.yml --logos-path logos --output-dir build && landscape2-academic serve --landscape-dir build
+CRUNCHBASE_CACHE_TTL=0 CRUNCHBASE_API_KEY=test GITHUB_TOKENS=<your token here> landscape2-academic build --data-file data.yml --settings-file settings.yml --guide-file guide.yml --logos-path logos --output-dir build && landscape2-academic serve --landscape-dir build
 ```
 
 You may also need to copy `crunchbase.json` into `landscape2-academic` cache location. Refer to debug logs.
