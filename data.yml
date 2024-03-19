@@ -319,6 +319,27 @@ landscape:
                 country: USA
             extra:
               summary_tags: hardware, electrophysiology, caltech, utah, integrated-circuits, emg
+      - subcategory:
+        name: Microscopy
+        items:
+          - item:
+            name: OPTARC
+            description: |
+              We focus on microscopy.
+              We specialise in 3D printed, affordable, optical instruments and we are the official UK vendor of the open source PUMA microscope.
+            homepage_url: https://www.optarc.co.uk
+            logo: optarc.svg
+            repo_url: https://github.com/TadPath/PUMA
+            academics:
+              - academic:
+                name: Paul J. Tadrous
+                profile_url: https://scholar.google.com/citations?user=Fb7jTjoAAAAJ&hl=en
+                citations: 2525
+                hindex: 21
+                i10index: 24
+            locations:
+              - location:
+                country: UK
   - category:
     name: Organizations
     subcategories:
@@ -2177,12 +2198,12 @@ landscape:
               Aquatic zebrafish are widely studied and relatively easy to culture using commercial systems. 
               However, a challenging aspect of maintaining aquatic facilities is animal feeding, which is both time- and resource-consuming. 
               To facilitate the implementation of a zebrafish colony in any laboratory, we developed an open-source fully automatic daily feeding system.
-               We named our system ZAF for Zebrafish Automatic Feeder. 
-               ZAF is reliable, provides a standardized amount of food to every tank, is cost-efficient and easy to build. 
-               The advanced version, ZAF+, allows for the precise control of food distribution as a function of fish density per tank. 
-               Here we provide all of the instructions to build the two automatic feeding systems, from the hardware and a friendly user interface 
-               to the open-source python code. Importantly, the design is modular and can be scaled depending on user needs. 
-               Furthermore, our results confirm that ZAF and ZAF+ do not adversely affect zebrafish culture, enabling fully automatic feeding for any aquatic facility.
+              We named our system ZAF for Zebrafish Automatic Feeder. 
+              ZAF is reliable, provides a standardized amount of food to every tank, is cost-efficient and easy to build. 
+              The advanced version, ZAF+, allows for the precise control of food distribution as a function of fish density per tank. 
+              Here we provide all of the instructions to build the two automatic feeding systems, from the hardware and a friendly user interface 
+              to the open-source python code. Importantly, the design is modular and can be scaled depending on user needs. 
+              Furthermore, our results confirm that ZAF and ZAF+ do not adversely affect zebrafish culture, enabling fully automatic feeding for any aquatic facility.
             homepage_url: https://github.com/royerlab/ZAF
             repo_url: https://github.com/royerlab/ZAF
             logo: zaf.svg
@@ -2191,6 +2212,32 @@ landscape:
                 country: USA
             extra:
               summary_tags: chan-zuckerberg-foundation, royer-lab, zebrafish
+          - item:
+            name: PUMA
+            description: |
+              PUMA is 3D printed open source portable modular microscope with augmented reality, fluorescence, phase contrast, epi-illumination, epi- and trans-polarisation and other features.
+              You can either build it fully DIY or purchase the basic scope ready made and upgrade it as required (see below for details).
+              It uses professional quality optics including the option of full Kohler illumination and oil-immersion, and has some very advanced features not usually found on even the most expensive commercially available microscopes.
+              This includes a computer-controlled and programmable TFT-screen-based Spatial Light Modulator for optical Fourier filtration allowing for optimised / dynamic / adaptive apertures.
+              Also, unique to any 3D printed microscope to date, an augmented reality projector system - which is also programmable.
+              Some advanced applications you can do with these are AI microscopy, specimen-directed aperture optimisation, digital measurements, 3D tomography, Fourier ptychography, Schlieren phase contrast and more.
+              The system is fully customisable - the original FreeCAD source files are all available on the GitHub page so you can customise the scope to meed your individual project needs.
+              The PUMA system is also peer reviewed and published in the Journal of Microscopy(https://onlinelibrary.wiley.com/doi/10.1111/jmi.13043) so you can easily reference it if you use a PUMA system for your own research.
+            homepage_url: https://github.com/TadPath/PUMA
+            repo_url: https://github.com/TadPath/PUMA
+            logo: puma-3d.svg
+            academics:
+              - academic:
+                name: Paul J. Tadrous
+                profile_url: https://scholar.google.com/citations?user=Fb7jTjoAAAAJ&hl=en
+                citations: 2525
+                hindex: 21
+                i10index: 24
+            locations:
+              - location:
+                country: UK
+            extra:
+              summary_tags: microscopy, 3d-printed
   - category:
     name: Datasets
     subcategories:
@@ -2772,6 +2819,31 @@ landscape:
                 country: Switzerland
             extra:
               summary_tags: imaging, calcium-imaging, zurich, helmchen-lab
+          - item:
+            name: GuPPy
+            description: |
+              Fiber photometry (FP) is an adaptable method for recording in vivo neural activity in freely behaving animals.
+              It has become a popular tool in neuroscience due to its ease of use, low cost, the ability to combine FP with freely moving behavior, among other advantages.
+              However, analysis of FP data can be a challenge for new users, especially those with a limited programming background.
+              Here, we present Guided Photometry Analysis in Python (GuPPy), a free and open-source FP analysis tool. GuPPy is provided as a Jupyter notebook, a well-commented interactive development environment (IDE) designed to operate across platforms.
+              GuPPy presents the user with a set of graphic user interfaces (GUIs) to load data and provide input parameters.
+              Graphs produced by GuPPy can be exported into various image formats for integration into scientific figures.
+              As an open-source tool, GuPPy can be modified by users with knowledge of Python to fit their specific needs.
+            homepage_url: https://github.com/LernerLab/GuPPy
+            repo_url: https://github.com/LernerLab/GuPPy
+            logo: learner-lab.svg
+            academics:
+              - academic:
+                name: Venus Sherathiya
+                profile_url: https://scholar.google.com/citations?user=411usK4AAAAJ&hl=en
+                citations: 111
+                hindex: 4
+                i10index: 3
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: fiber-photometry, behavior, mouse, visualization, learner-lab
       - subcategory:
         name: Segmentation
         items:
@@ -3149,6 +3221,27 @@ landscape:
                 country: USA
             extra:
               summary_tags: open-ephys, symphony, vision
+          - item:
+            name: ACQ4
+            description: |
+              ACQ4 is a python-based platform for experimental neurophysiology. 
+              It includes support for patch-clamp electrophysiology, multiphoton imaging, scanning laser photostimulation, and many other experimental techniques.
+              ACQ4 is highly modular and extensible, allowing support to be added for new types of devices, techniques, user-interface modules, and analyses.
+            homepage_url: http://www.acq4.org
+            repo_url: https://github.com/acq4/acq4
+            logo: acq4.svg
+            academics:
+              - academic:
+                name: Luke Campagnola
+                profile_url: https://scholar.google.com/citations?user=CwVAgvcAAAAJ&hl=en
+                citations: 1247
+                hindex: 13
+                i10index: 14
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: allen-institute, university-of-north-carolina
       - subcategory:
         name: Data Formats
         items:
@@ -3232,6 +3325,37 @@ landscape:
                 country: USA
             extra:
               summary_tags: allen-institute, clustering, transcriptomic
+          - item:
+            name: SMorph
+            description: |
+              Nervous system development and plasticity involves changes in cellular morphology, making morphological analysis a valuable exercise in the study of nervous system development, function and disease.
+              Morphological analysis is a time-consuming exercise requiring meticulous manual tracing of cellular contours and extensions.
+              We have developed a software tool, called SMorph, to rapidly analyse the morphology of cells of the nervous system.
+              SMorph performs completely automated Sholl analysis. It extracts 23 morphometric features based on cell images and Sholl analysis parameters, followed by Principal Component Analysis.
+              SMorph is tested on neurons, astrocytes and microglia and reveals subtle changes in cell morphology. 
+              Using SMorph, we found that chronic 21-day treatment with antidepressant desipramine results in a significant structural remodeling in hippocampal astrocytes.
+              Given the proposed involvement of astroglial structural changes and atrophy in major depression in humans, our results reveal a novel kind of structural plasticity induced by chronic antidepressant administration.
+            homepage_url: https://github.com/swanandlab/SMorph
+            repo_url: https://github.com/swanandlab/SMorph
+            logo: smorph.svg
+            academics:
+              - academic:
+                name: Parul Sethi
+                profile_url: https://scholar.google.com/citations?user=a3yddV0AAAAJ&hl=en
+                citations: 9
+                hindex: 1
+                i10index: 0
+              - academic:
+                name: Garima Virmani
+                profile_url: https://scholar.google.com/citations?user=OY_aDjEAAAAJ&hl=en
+                citations: 102
+                hindex: 5
+                i10index: 2
+            locations:
+              - location:
+                country: India
+            extra:
+              summary_tags: allen-institute, mapping, iisc
       - subcategory:
         name: Catalogs
         items:
