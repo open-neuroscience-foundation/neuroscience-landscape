@@ -271,7 +271,7 @@ landscape:
                 city: Okinawa
                 country: Japan
             extra:
-              summary_tags: cloud, audio, neuroscience, oist, speaker-detections, spiking-neurons, unsupervised-learning, noise-cancellation, multi-modal
+              summary_tags: cloud, audio, neuroscience, oist, speaker-detection, spiking-neurons, unsupervised-learning, noise-cancellation, multi-modal
           - item:
             name: Numenta
             description: Neurologically inspired machine learning algorithms and solutions for cloud.
