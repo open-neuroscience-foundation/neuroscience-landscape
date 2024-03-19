@@ -298,6 +298,31 @@ landscape:
             homepage_url: http://zetta.ai
             github_org_url: https://github.com/ZettaAI
             logo: zettaai.svg
+            academics:
+              - academic:
+                name: Thomas Macrina
+                profile_url: https://scholar.google.com/citations?user=94I0duAAAAAJ&hl=en
+                citations: 979
+                hindex: 15
+                i10index: 19
+              - academic:
+                name: Kisuk Lee
+                profile_url: https://scholar.google.com/citations?user=NUdCPGkAAAAJ&hl=en
+                citations: 2125
+                hindex: 22
+                i10index: 29
+              - academic:
+                name: Sergiy Popovych
+                profile_url: https://scholar.google.com/citations?user=SW-oensAAAAJ&hl=en
+                citations: 903
+                hindex: 15
+                i10index: 16
+              - academic:
+                name: Tri Minh Nguyen
+                profile_url: https://scholar.google.com/citations?user=AnU408sAAAAJ&hl=en
+                citations: 1003
+                hindex: 14
+                i10index: 15
             locations:
               - location:
                 country: USA
