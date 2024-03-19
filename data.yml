@@ -241,6 +241,38 @@ landscape:
         name: Brain-Inspired Compute
         items:
           - item:
+            name: KanjuTech
+            description: |
+              KanjuTech creates next-generation neural networks using the latest advances in neuroscience.
+              We dream of broader application of AI in everyday life and industry by making neural networks more adaptive and straightforward for setup and use.
+              At KanjuTech, we combine neuroscience and machine learning to achieve the next generation of AI.
+              The algorithms we use are as different from deep learning as deep learning is from mathematical statistics.
+              KanjuTech's vision is to empower people with a broader introduction of AI into life, freeing people from routine tasks and letting them be creative.
+              Now we are working on a product for audio source separation and recognition to enhance speech communication and music production.
+            homepage_url: https://kanju.tech
+            logo: kanjutech.svg
+            academics:
+              - academic:
+                name: Oleg Nikitin
+                profile_url: https://scholar.google.ru/citations?user=XgiByAIAAAAJ&hl=en
+                citations: 135
+                hindex: 4
+                i10index: 2
+              - academic:
+                name: Olga Lukyanova
+                profile_url: https://scholar.google.ru/citations?user=9lg8OpcAAAAJ&hl=en
+                citations: 139
+                hindex: 4
+                i10index: 2
+            locations:
+              - location:
+                country: Hong Kong
+              - location:
+                city: Okinawa
+                country: Japan
+            extra:
+              summary_tags: cloud, audio, neuroscience, oist, speaker-detections, spiking-neurons, unsupervised-learning, noise-cancellation, multi-modal
+          - item:
             name: Numenta
             description: Neurologically inspired machine learning algorithms and solutions for cloud.
             homepage_url: https://numenta.com
