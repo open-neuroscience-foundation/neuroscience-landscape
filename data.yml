@@ -626,6 +626,12 @@ landscape:
             github_org_url: https://github.com/brainglobe
             logo: brainglobe.svg
             academics:
+             - academic:
+                name: Adam L Tyson
+                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ&hl=en
+                citations: 489
+                hindex: 11
+                i10index: 11
               - academic:
                 name: Troy Margrie
                 profile_url: https://scholar.google.co.uk/citations?user=tdeQdPkAAAAJ&hl=en
@@ -645,12 +651,6 @@ landscape:
                 hindex: 29
                 i10index: 40
               - academic:
-                name: Adam L Tyson
-                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ&hl=en
-                citations: 489
-                hindex: 11
-                i10index: 11
-              - academic:
                 name: Federico Claudi
                 profile_url: https://scholar.google.co.uk/citations?user=8eDOmAQAAAAJ&hl=en
                 citations: 308
@@ -662,6 +662,12 @@ landscape:
                 citations: 333
                 hindex: 8
                 i10index: 8
+             - academic:
+                name: Alessandro Felder
+                profile_url: https://scholar.google.com/citations?user=uEuxs7sAAAAJ
+                citations: 212
+                hindex: 5
+                i10index: 4
             locations:
               - location:
                 country: UK
@@ -2882,14 +2888,26 @@ landscape:
             logo: brainrender.svg
             academics:
               - academic:
+                name: Adam L Tyson
+                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ&hl=en
+                citations: 489
+                hindex: 11
+                i10index: 11
+              - academic:
                 name: Federico Claudi
                 profile_url: https://scholar.google.co.uk/citations?user=8eDOmAQAAAAJ&hl=en
                 citations: 308
                 hindex: 7
                 i10index: 7
+              - academic:
+                name: Alessandro Felder
+                profile_url: https://scholar.google.com/citations?user=uEuxs7sAAAAJ
+                citations: 212
+                hindex: 5
+                i10index: 4
             locations:
               - location:
-                country: USA
+                country: UK
             extra:
               summary_tags: brainglobe, rendering, 3d, visualization
       - subcategory:
@@ -3143,9 +3161,15 @@ landscape:
                 citations: 489
                 hindex: 11
                 i10index: 11
+              - academic:
+                name: Alessandro Felder
+                profile_url: https://scholar.google.com/citations?user=uEuxs7sAAAAJ
+                citations: 212
+                hindex: 5
+                i10index: 4
             locations:
               - location:
-                country: USA
+                country: UK
             extra:
               summary_tags: brainglobe, napari, cells, volumetric
       - subcategory:
