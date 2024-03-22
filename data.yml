@@ -609,22 +609,16 @@ landscape:
                 hindex: 17
                 i10index: 26
               - academic:
-                name: Ashwin Narayan
-                profile_url: https://scholar.google.com/citations?user=9jDHZi8AAAAJ&hl=en
-                citations: 169
-                hindex: 4
-                i10index: 3
-              - academic:
-                name: Thomas Shaw
-                profile_url: https://scholar.google.com/citations?user=yJLxYfgAAAAJ&hl=en
+                name: Angela Renton
+                profile_url: https://scholar.google.com/citations?user=6pC19kMAAAAJ&hl=en&oi=ao
                 citations: 89
                 hindex: 5
-                i10index: 4
+                i10index: 3
             locations:
               - location:
                 country: Australia
             extra:
-              summary_tags: cloud, containers, desktop, tooling, software, mit
+              summary_tags: cloud, containers, desktop, tooling, software
       - subcategory:
         name: Societies
         items:
@@ -3612,17 +3606,11 @@ landscape:
                 hindex: 17
                 i10index: 26
               - academic:
-                name: Ashwin Narayan
-                profile_url: https://scholar.google.com/citations?user=9jDHZi8AAAAJ&hl=en
-                citations: 169
-                hindex: 4
-                i10index: 3
-              - academic:
-                name: Thomas Shaw
-                profile_url: https://scholar.google.com/citations?user=yJLxYfgAAAAJ&hl=en
+                name: Angela Renton
+                profile_url: https://scholar.google.com/citations?user=6pC19kMAAAAJ&hl=en&oi=ao
                 citations: 89
                 hindex: 5
-                i10index: 4
+                i10index: 3
             locations:
               - location:
                 country: Australia
