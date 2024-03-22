@@ -626,7 +626,7 @@ landscape:
             github_org_url: https://github.com/brainglobe
             logo: brainglobe.svg
             academics:
-             - academic:
+              - academic:
                 name: Adam L Tyson
                 profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ&hl=en
                 citations: 489
