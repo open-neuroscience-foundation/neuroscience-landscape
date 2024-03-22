@@ -619,6 +619,54 @@ landscape:
                 country: Australia
             extra:
               summary_tags: cloud, containers, desktop, tooling, software
+          - item:
+            name: BrainGlobe
+            description: Interoperable Python-based tools for computational neuroanatomy
+            homepage_url: https://brainglobe.info/
+            github_org_url: https://github.com/brainglobe
+            logo: brainglobe.svg
+            academics:
+              - academic:
+                name: Troy Margrie
+                profile_url: https://scholar.google.co.uk/citations?user=tdeQdPkAAAAJ&hl=en
+                citations: 7003
+                hindex: 35
+                i10index: 53
+              - academic:
+                name: Tiago Branco
+                profile_url: https://scholar.google.com/citations?user=PJ7kIFMAAAAJ&hl=en
+                citations: 5304
+                hindex: 33
+                i10index: 40
+              - academic:
+                name: Ruben Portugues
+                profile_url: https://scholar.google.de/citations?user=gDcRyKsAAAAJ&hl=en
+                citations: 5676
+                hindex: 29
+                i10index: 40
+              - academic:
+                name: Adam L Tyson
+                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ&hl=en
+                citations: 489
+                hindex: 11
+                i10index: 11
+              - academic:
+                name: Federico Claudi
+                profile_url: https://scholar.google.co.uk/citations?user=8eDOmAQAAAAJ&hl=en
+                citations: 308
+                hindex: 7
+                i10index: 7
+              - academic:
+                name: Luigi Petrucco
+                profile_url: https://scholar.google.it/citations?user=FQDeRWQAAAAJ&hl=it
+                citations: 333
+                hindex: 8
+                i10index: 8
+            locations:
+              - location:
+                country: UK
+            extra:
+              summary_tags: software, tooling, ucl, sainsbury, gatsby, blue-sky
       - subcategory:
         name: Societies
         items:
@@ -2823,6 +2871,27 @@ landscape:
                 country: UK
             extra:
               summary_tags: fmri, volume, visualization, statistics, stars-1000, chan-zuckerberg-foundation, inria, human-brain-project, niconnect, digcosme, dataia, stanford
+          - item:
+            name: brainrender
+            description: |
+              brainrender is a python package for the visualization of three dimensional neuro-anatomical data.
+              It can be used to render data from publicly available data set (e.g. Allen Brain atlas) as well as user generated experimental data.
+              The goal of brainrender is to facilitate the exploration and dissemination of neuro-anatomical data by providing a user-friendly platform to create high-quality 3D renderings.
+            homepage_url: https://brainglobe.info/documentation/brainrender/index.html
+            repo_url: https://github.com/brainglobe/brainrender
+            logo: brainrender.svg
+            academics:
+              - academic:
+                name: Federico Claudi
+                profile_url: https://scholar.google.co.uk/citations?user=8eDOmAQAAAAJ&hl=en
+                citations: 308
+                hindex: 7
+                i10index: 7
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: brainglobe, rendering, 3d, visualization
       - subcategory:
         name: Imaging and Microscopy
         items:
@@ -3059,6 +3128,26 @@ landscape:
                 country: USA
             extra:
               summary_tags: allen-institute, exa-spim, allen-institute, royer-lab
+          - item:
+            name: cellfinder
+            description: |
+              cellfinder is software for automated 3D cell detection in very large 3D images (e.g., serial two-photon or lightsheet volumes of whole mouse brains).
+              There are three different ways to interact and use it, each with different user interfaces and objectives in mind.
+            homepage_url: https://brainglobe.info/documentation/cellfinder/index.html
+            repo_url: https://github.com/brainglobe/cellfinder
+            logo: cellfinder.svg
+            academics:
+              - academic:
+                name: Adam L Tyson
+                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ&hl=en
+                citations: 489
+                hindex: 11
+                i10index: 11
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: brainglobe, napari, cells, volumetric
       - subcategory:
         name: Simulation
         items:
@@ -3418,6 +3507,47 @@ landscape:
                 country: USA
             extra:
               summary_tags: allen-institute, university-of-north-carolina
+          - item:
+            name: Kilosort4
+            description: |
+              Kilosort4 is a Python package for spike sorting on GPUs with template matching.
+              The software uses new graph-based approaches to clustering that improve performance compared to previous versions
+            homepage_url: https://kilosort.readthedocs.io/
+            repo_url: https://github.com/MouseLand/Kilosort
+            logo: kilosort.svg
+            academics:
+              - academic:
+                name: Marius Pachitariu
+                profile_url: https://scholar.google.com/citations?user=fdHbkSgAAAAJ&hl=en
+                citations: 10270
+                hindex: 24
+                i10index: 28
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: hhmi
+          - item:
+            name: CellExplorer
+            description: |
+              CellExplorer is a graphical user interface, a standardized processing module and data structure for exploring 
+              and classifying single cells acquired using extracellular electrodes.
+            homepage_url: https://cellexplorer.org
+            repo_url: https://github.com/petersenpeter/CellExplorer
+            logo: cell-explorer.svg
+            academics:
+              - academic:
+                name: Peter Christian Petersen
+                profile_url: https://scholar.google.dk/citations?user=RywQhd8AAAAJ&hl=da
+                citations: 668
+                hindex: 12
+                i10index: 13
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: nyu, buzsaki-lab, petersen-lab, nih, brain-initiative, ucph
       - subcategory:
         name: Data Formats
         items:
@@ -3443,6 +3573,46 @@ landscape:
                 country: USA
             extra:
               summary_tags: allen-institute
+          - item:
+            name: Clinica
+            description: |
+              Clinica is a software platform for clinical research studies involving patients with neurological and psychiatric diseases 
+              and the acquisition of multimodal data (neuroimaging, clinical and cognitive evaluations, genetics...), most often with longitudinal follow-up.
+              Clinica provides tools to convert publicly available neuroimaging datasets into BIDS, namely: ADNI; AIBL; HABS; NIFD; OASIS; OASIS-3.
+              Clinica is command-line driven and written in Python. It uses the Nipype system for pipelining and combines widely-used software packages for neuroimaging data analysis 
+              (ANTs, FreeSurfer, FSL, MRtrix, PETPVC, SPM), machine learning (Scikit-learn) and the BIDS standard for data organization.
+            homepage_url: http://www.clinica.run/
+            repo_url: https://github.com/aramis-lab/clinica
+            logo: clinica.svg
+            academics:
+              - academic:
+                name: Alexandre Routier
+                profile_url: https://scholar.google.com/citations?user=V0nPvnsAAAAJ
+                citations: 1755
+                hindex: 17
+                i10index: 21
+              - academic:
+                name: Ninon Burgos
+                profile_url: https://scholar.google.com/citations?user=lHuYSU0AAAAJ&hl=en
+                citations: 2845
+                hindex: 25
+                i10index: 40
+              - academic:
+                name: Simona Bottani
+                profile_url: https://scholar.google.it/citations?user=ayfZcfkAAAAJ&hl=en
+                citations: 1151
+                hindex: 12
+                i10index: 15
+            locations:
+              - location:
+                country: USA
+              - location:
+                city: Paris
+                country: France
+              - location:
+                country: Italy
+            extra:
+              summary_tags: adni, aibl, habs, nifd, oasis, bids, caps, aramis, paris-brain-institute, mir, pet, deep-learning
       - subcategory:
         name: Cells & Transcriptomics
         items:
