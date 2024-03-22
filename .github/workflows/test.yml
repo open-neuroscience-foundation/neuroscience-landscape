@@ -1,0 +1,27 @@
+name: Test
+
+on:
+  pull_request:
+    branches: [ main ]
+
+permissions: read-all
+
+jobs:
+  build:
+    name: Test
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKENS: ${{ secrets.GH_TOKEN }}
+      CRUNCHBASE_CACHE_TTL: 0
+      CRUNCHBASE_API_KEY: test
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: get landscape cli
+        run: curl --proto '=https' --tlsv1.2 -LsSf https://github.com/open-neuroscience-foundation/landscape2-academic/releases/download/v0.8.1/landscape2-academic-installer.sh | sh
+      - name: copy data
+        run: mkdir -p /home/runner/.cache/landscape && cp *.json /home/runner/.cache/landscape
+      - name: build landscape
+        run: landscape2-academic build --data-file data.yml --settings-file settings.yml --guide-file guide.yml --logos-path logos --output-dir _site
