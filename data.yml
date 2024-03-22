@@ -666,7 +666,7 @@ landscape:
               - location:
                 country: UK
             extra:
-              summary_tags: software, tooling, ucl, sainsbury, gatsby, blue-sky
+              summary_tags: software, tooling, ucl, sainsbury, gatsby
       - subcategory:
         name: Societies
         items:
