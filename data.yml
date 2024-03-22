@@ -593,6 +593,38 @@ landscape:
                 country: USA
             extra:
               summary_tags: software, tooling, university-of-sussex, mit
+          - item:
+            name: Neurodesk
+            description: |
+              Neurodesk provides a containerised data analysis environment to facilitate reproducible analysis of neuroimaging data.
+              At Neurodesk, we believe reproducibility should be a fundamental principle underlying neuroscientific data analysis.
+            homepage_url: https://neurodesk.org
+            github_org_url: https://github.com/NeuroDesk
+            logo: neurodesk.svg
+            academics:
+              - academic:
+                name: Steffen Bollmann
+                profile_url: https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=de
+                citations: 1400
+                hindex: 17
+                i10index: 26
+              - academic:
+                name: Ashwin Narayan
+                profile_url: https://scholar.google.com/citations?user=9jDHZi8AAAAJ&hl=en
+                citations: 169
+                hindex: 4
+                i10index: 3
+              - academic:
+                name: Thomas Shaw
+                profile_url: https://scholar.google.com/citations?user=yJLxYfgAAAAJ&hl=en
+                citations: 89
+                hindex: 5
+                i10index: 4
+            locations:
+              - location:
+                country: Australia
+            extra:
+              summary_tags: cloud, containers, desktop, tooling, software, mit
       - subcategory:
         name: Societies
         items:
@@ -2704,6 +2736,99 @@ landscape:
                 country: USA
             extra:
               summary_tags: eeg, sleep, berkeley, matt-walker-lab
+          - item:
+            name: Stalefish
+            description: |
+              Stalefish is a tool for the analysis of 2D brain slice images, allowing the neurobiologist to reconstruct three dimensional gene expression surfaces from ISH slices.
+              The 3D surfaces can then be digitally unwrapped to make 2D expression maps.
+            homepage_url: https://github.com/ABRG-Models/Stalefish
+            repo_url: https://github.com/ABRG-Models/Stalefish
+            logo: stalefish.svg
+            academics:
+              - academic:
+                name: Sebastian James
+                profile_url: https://scholar.google.com/citations?user=q7nbjxgAAAAJ&hl=en
+                citations: 33
+                hindex: 2
+                i10index: 1
+              - academic:
+                name: Stuart Wilson
+                profile_url: https://scholar.google.com/citations?user=3GjSH5EAAAAJ&hl=en
+                citations: 9574
+                hindex: 45
+                i10index: 59
+            locations:
+              - location:
+                country: UK
+            extra:
+              summary_tags: slices, sheffield, genetics
+          - item:
+            name: Nilearn
+            description: |
+              Nilearn enables approachable and versatile analyses of brain volumes.
+              It provides statistical and machine-learning tools, with instructive documentation & open community.
+              It supports general linear model (GLM) based analysis and leverages the scikit-learn Python toolbox for multivariate statistics with applications such as predictive modelling, classification, decoding, or connectivity analysis.
+            homepage_url: https://nilearn.github.io
+            repo_url: https://github.com/nilearn/nilearn/
+            logo: nilearn.svg
+            academics:
+              - academic:
+                name: Bertrand Thirion
+                profile_url: https://scholar.google.com/citations?user=MeKi5_AAAAAJ
+                citations: 105088
+                hindex: 54
+                i10index: 170
+              - academic:
+                name: Alexis Thual
+                profile_url: https://scholar.google.com/citations?user=FjmtlVkAAAAJ&hl=en
+                citations: 31
+                hindex: 3
+                i10index: 2
+              - academic:
+                name: Elizabeth DuPre
+                profile_url: https://scholar.google.ca/citations?user=9FzK0bcAAAAJ&hl=en
+                citations: 3255
+                hindex: 17
+                i10index: 20
+              - academic:
+                name: Hao-Ting Wang
+                profile_url: https://scholar.google.com/citations?user=FrlzI8IAAAAJ&hl=en
+                citations: 2120
+                hindex: 19
+                i10index: 23
+              - academic:
+                name: Jérôme Dockès
+                profile_url: https://scholar.google.com/citations?user=PXeh3qwAAAAJ&hl=en
+                citations: 180
+                hindex: 3
+                i10index: 2
+              - academic:
+                name: Nicolas Gensollen
+                profile_url: https://scholar.google.com/citations?user=4UsQKiwAAAAJ&hl=fr
+                citations: 115
+                hindex: 6
+                i10index: 2
+              - academic:
+                name: Remi Gau
+                profile_url: https://scholar.google.com/citations?user=gXOB3q8AAAAJ&hl=fr
+                citations: 1316
+                hindex: 12
+                i10index: 12
+              - academic:
+                name: Taylor Salo
+                profile_url: https://scholar.google.com/citations?user=IPacJoAAAAAJ
+                citations: 1952
+                hindex: 20
+                i10index: 27
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: UK
+              - location:
+                country: France
+            extra:
+              summary_tags: fmri, volume, visualization, statistics, stars-1000, chan-zuckerberg-foundation, inria, human-brain-project, niconnect, digcosme, dataia, stanford
       - subcategory:
         name: Imaging and Microscopy
         items:
@@ -3473,6 +3598,36 @@ landscape:
                 country: USA
             extra:
               summary_tags: software, data-pipelines, experiments, orchestration
+          - item:
+            name: neurocommand
+            description: A flexible, scalable, and easy to use data analysis environment for reproducible neuroimaging.
+            homepage_url: https://neurodesk.org/docs/neurocommand
+            repo_url: https://github.com/NeuroDesk
+            logo: neurodesk.svg
+            academics:
+              - academic:
+                name: Steffen Bollmann
+                profile_url: https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=de
+                citations: 1400
+                hindex: 17
+                i10index: 26
+              - academic:
+                name: Ashwin Narayan
+                profile_url: https://scholar.google.com/citations?user=9jDHZi8AAAAJ&hl=en
+                citations: 169
+                hindex: 4
+                i10index: 3
+              - academic:
+                name: Thomas Shaw
+                profile_url: https://scholar.google.com/citations?user=yJLxYfgAAAAJ&hl=en
+                citations: 89
+                hindex: 5
+                i10index: 4
+            locations:
+              - location:
+                country: Australia
+            extra:
+              summary_tags: neurodesk, containers, cloud
       - subcategory:
         name: Behavior
         items:
@@ -3567,6 +3722,27 @@ landscape:
                 country: USA
             extra:
               summary_tags: duke, deep-learning, mouse
+          - item:
+            name: Autopilot
+            description: |
+              Autopilot is a Python framework for performing complex, hardware-intensive behavioral experiments with swarms of networked Raspberry Pis.
+              As a tool, it provides researchers with a toolkit of flexible modules to design experiments without rigid programming & API limitations.
+              As a vision, it dreams of bridging the chaotic hacky creativity of scientific programmers with a standardized, communally developed library of reproducible experiment prototypes.
+            homepage_url: https://docs.auto-pi-lot.com/en/latest/
+            repo_url: https://github.com/auto-pi-lot/autopilot
+            logo: autopilot_logo.svg
+            academics:
+              - academic:
+                name: Jonny Saunders
+                profile_url: https://scholar.google.com/citations?user=bTWvCzEAAAAJ&hl=en
+                citations: 161
+                hindex: 4
+                i10index: 4
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: hardware, raspberry-pi, rpi, behavior, ucla
   - category:
     name: Books
     subcategories:
