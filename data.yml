@@ -397,6 +397,30 @@ landscape:
             locations:
               - location:
                 country: UK
+          - item:
+            name: Oxford Instruments
+            description: |
+              Oxford Instruments is an international corporation that produces technology for a variety of fields, including healthcare and agriculture.
+              Among other things, it creates electron-microscopy, camera, x-ray, other kinds of microscopy, and imaging technology.
+            homepage_url: https://www.oxinst.com
+            logo: oxinst.svg
+            crunchbase: https://www.crunchbase.com/organization/oxford-instruments
+            locations:
+              - location:
+                country: UK
+            extra:
+              summary_tags: imaris
+          - item:
+            name: MBF bioscience
+            description: MBF Bioscience is a biotechnology firm that provides imaging software for stereology, neuron reconstruction, and image analysis.
+            homepage_url: https://www.mbfbioscience.com
+            logo: mbf-bioscience.svg
+            crunchbase: https://www.crunchbase.com/organization/mbf-bioscience
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: mbf-bioscience
   - category:
     name: Organizations
     subcategories:
@@ -842,7 +866,7 @@ landscape:
                 city: Geneva
                 country: Switzerland
             extra:
-              summary_tags: simulation, stars-2000
+              summary_tags: simulation, stars-2000, blue-brain
       - subcategory:
         name: University of Zurich
         items:
@@ -2910,6 +2934,22 @@ landscape:
                 country: UK
             extra:
               summary_tags: brainglobe, rendering, 3d, visualization
+          - item:
+            name: Neurolucida®360
+            description: |
+              Neurolucida 360 is the premier software used by neuroscientists to quickly and accurately reconstruct any neuron from any species using a wide variety of labeling and microscopy techniques.
+              With the most advanced 3D image detection algorithms coupled with machine learning techniques, Neurolucida 360 performs accurate reconstruction of 
+              neuronal structures that range in scale from complex, multicellular neuron networks, to sub-cellular neuronal components such as dendritic spines, varicosities and putative synapses.
+              This comprehensive software also includes methods to analyze glial cells such as oligodendrocytes, microglia, and astrocytes. 
+              Neurolucida 360 is engineered to work efficiently with even the largest 3D multi-channel image datasets using our innovative intelligent precognitive image handling technology.
+              And, it is compatible with file formats acquired from most research microscopes.
+            homepage_url: https://www.mbfbioscience.com/products/neurolucida-360/
+            logo: neurolucida360.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: mbf-bioscience, proprietary
       - subcategory:
         name: Imaging and Microscopy
         items:
@@ -3107,6 +3147,72 @@ landscape:
                 country: USA
             extra:
               summary_tags: fiber-photometry, behavior, mouse, visualization, learner-lab
+          - item:
+            name: Imaris
+            description: |
+              Imaris is the world's leading Interactive Microscopy Image Analysis software, actively shaping the way microscopic images 
+              are processed through constant innovation and a clear focus on 3D and 4D imaging.
+              Serving customers in all parts of the world, our team is dedicated to building fast, stable and intuitive products.
+            homepage_url: https://imaris.oxinst.com
+            logo: imaris.svg
+            extra:
+              summary_tags: oxford-instruments, proprietary
+          - item:
+            name: suite2p
+            description: major software for cell detection in calcium imaging recordings
+            homepage_url: http://www.suite2p.org/
+            repo_url: https://github.com/MouseLand/suite2p
+            logo: suite2p.svg
+            academics:
+              - academic:
+                name: Marius Pachitariu
+                profile_url: https://scholar.google.com/citations?user=fdHbkSgAAAAJ&hl=en
+                citations: 10270
+                hindex: 24
+                i10index: 28
+              - academic:
+                name: Carsen Stringer
+                profile_url: https://scholar.google.co.uk/citations?user=6v9BmeYAAAAJ&hl=en
+                citations: 5120
+                hindex: 15
+                i10index: 17
+              - academic:
+                name: Sven Schröder
+                profile_url: https://scholar.google.com/citations?user=3K6NzFcAAAAJ&hl=en
+                citations: 1888
+                hindex: 22
+                i10index: 47
+              - academic:
+                name: Mario Dipoppa
+                profile_url: https://scholar.google.com/citations?user=QaFiSZUAAAAJ&hl=it
+                citations: 1551
+                hindex: 13
+                i10index: 13
+              - academic:
+                name: L. Federico Rossi
+                profile_url: https://scholar.google.com/citations?user=xxrep34AAAAJ&hl=en
+                citations: 1156
+                hindex: 9
+                i10index: 9
+              - academic:
+                name: Matteo Carandini
+                profile_url: https://scholar.google.com/citations?user=R3PGFHsAAAAJ&hl=en
+                citations: 30283
+                hindex: 80
+                i10index: 112
+              - academic:
+                name: Kenneth Harris
+                profile_url: https://scholar.google.com/citations?user=jcYBNfIAAAAJ&hl=en
+                citations: 32208
+                hindex: 74
+                i10index: 120
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: UK
+            extra:
+              summary_tags: imaging, calcium-imaging, hhmi, ucla
       - subcategory:
         name: Segmentation
         items:
@@ -3321,6 +3427,69 @@ landscape:
                 country: UK
             extra:
               summary_tags: university-of-sussex, espr, gpu, cuda
+          - item:
+            name: Brian2
+            description: |
+              Brian is a simulator for spiking neural networks.
+              It is written in the Python programming language and is available on almost all platforms.
+              We believe that a simulator should not only save the time of processors, but also the time of scientists.
+              Brian is therefore designed to be easy to learn and use, highly flexible and easily extensible.
+            homepage_url: http://briansimulator.org/
+            repo_url: https://github.com/brian-team/brian2
+            logo: brian2.svg
+            academics:
+              - academic:
+                name: Romain Brette
+                profile_url: https://scholar.google.com/citations?user=lEHiPU4AAAAJ&hl=en
+                citations: 8477
+                hindex: 39
+                i10index: 71
+              - academic:
+                name: Dan Goodman
+                profile_url: https://scholar.google.com/citations?user=2HiNqI4AAAAJ&hl=en
+                citations: 4476
+                hindex: 25
+                i10index: 35
+              - academic:
+                name: Marcel Stimberg
+                profile_url: https://scholar.google.com/citations?user=KJs3XswAAAAJ&hl=en
+                citations: 1564
+                hindex: 12
+                i10index: 13
+            locations:
+              - location:
+                country: UK
+              - location:
+                city: Paris
+                country: France
+            extra:
+              summary_tags: ucl, insrem, stars-800, spikes
+          - item:
+            name: NEST
+            description: |
+              NEST is a simulator for spiking neural network models that focuses on the dynamics,
+              size and structure of neural systems rather than on the exact morphology of individual neurons.
+            homepage_url: http://www.nest-simulator.org/
+            repo_url: https://github.com/nest/nest-simulator/
+            logo: nest.svg
+            academics:
+              - academic:
+                name: Marc-Oliver Gewaltig
+                profile_url: https://scholar.google.com/citations?user=Dy-lNyAAAAAJ&hl=en
+                citations: 4989
+                hindex: 25
+                i10index: 40
+              - academic:
+                name: Markus Diesmann
+                profile_url: https://scholar.google.ch/citations?user=q4bTHJoAAAAJ&hl=en
+                citations: 14387
+                hindex: 54
+                i10index: 116
+            locations:
+              - location:
+                country: Switzerland
+            extra:
+              summary_tags: epfl, blue-brain
       - subcategory:
         name: Deep Learning
         items:
@@ -3953,6 +4122,18 @@ landscape:
             description: Patricia S. Churchland, Terrence J. Sejnowski, MIT Press
             homepage_url: https://www.goodreads.com/book/show/32078490-the-computational-brain
             logo: computational_brain.svg
+          - item:
+            name: Neuronal Dynamics
+            description: Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
+            homepage_url: https://neuronaldynamics.epfl.ch/
+            logo: book-neural-dynamics.svg
+          - item:
+            name: Principles of Neurobiology
+            description: Liqun Luo
+            homepage_url: https://www.amazon.com/Principles-Neurobiology-Liqun-Luo-dp-0815346050/dp/0815346050
+            logo: principles-of-neurobiology.svg
+            extra:
+              summary_tags: most-used-book
       - subcategory:
         name: Strüngmann Forum Reports
         items:

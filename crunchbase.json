@@ -355,5 +355,43 @@
                 "kind": "venture_round"
             }
         ]
+    },
+    "https://www.crunchbase.com/organization/oxford-instruments": {
+        "name": "Oxford Instruments",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Abingdon",
+        "country": "UK",
+        "ticker": "LSE:OXIG",
+        "num_employees_max": 5000,
+        "num_employees_min": 1001,
+        "funding": 1190000000
+    },
+    "https://www.crunchbase.com/organization/mbf-bioscience": {
+        "name": "MBF Bioscience",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Williston",
+        "country": "USA",
+        "num_employees_max": 50,
+        "num_employees_min": 11,
+        "funding": 79270000,
+        "funding_rounds": [
+            {
+                "amount": 5470000,
+                "announced_on": "2021-07-02",
+                "kind": "grant"
+            },
+            {
+                "amount": 1000000,
+                "announced_on": "2018-04-01",
+                "kind": "grant"
+            },
+            {
+                "amount": 72800000,
+                "announced_on": "2016-09-22",
+                "kind": "grant"
+            }
+        ]
     }
 }
