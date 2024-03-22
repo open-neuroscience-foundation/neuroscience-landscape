@@ -2822,11 +2822,11 @@ landscape:
                 i10index: 27
             locations:
               - location:
+                country: France
+              - location:
                 country: USA
               - location:
                 country: UK
-              - location:
-                country: France
             extra:
               summary_tags: fmri, volume, visualization, statistics, stars-1000, chan-zuckerberg-foundation, inria, human-brain-project, niconnect, digcosme, dataia, stanford
       - subcategory:
