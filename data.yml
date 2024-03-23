@@ -3089,7 +3089,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: eeg meg, chan-zuckerberg-foundation, google, nih, nsf, erc, anr, amazon, us-department-of-energy, stars-4000
+              summary_tags: eeg meg, chan-zuckerberg-foundation, google, nih, nsf, erc, anr, amazon, us-department-of-energy, stars-2000
       - subcategory:
         name: Imaging and Microscopy
         items:
