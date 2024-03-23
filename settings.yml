@@ -26,24 +26,27 @@ featured_items:
         label: h-index 100+
   - field: tag
     options:
-      - value: stars-2000
+      - value: stars-4000
         order: 2
+        label: 4K+ stars
+      - value: stars-2000
+        order: 3
         label: 2K+ stars
       - value: stars-1000
-        order: 3
+        order: 4
         label: 1K+ stars
       - value: stars-800
-        order: 4
+        order: 5
         label: 800+ stars
   - field: tag
     options:
       - value: most-used-book
-        order: 4
+        order: 6
         label: Major Reading
   - field: tag
     options:
       - value: largest-podcast
-        order: 5
+        order: 7
         label: Largest Podcast
   - field: tag
     options:

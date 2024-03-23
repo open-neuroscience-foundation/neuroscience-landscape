@@ -2399,6 +2399,75 @@ landscape:
                 country: UK
             extra:
               summary_tags: microscopy, 3d-printed
+          - item:
+            name: nTC(DBO)-Scope
+            description: An open source and ultra-low-cost design for large 3D field of view 2-photon microscopy.
+            homepage_url: https://github.com/BadenLab/nTCscope
+            repo_url: https://github.com/BadenLab/nTCscope
+            logo: baden-lab.svg
+            academics:
+              - academic:
+                name: Filip Janiak
+                profile_url: https://scholar.google.pl/citations?user=_ltvaeYAAAAJ&hl=pl
+                citations: 320
+                hindex: 12
+                i10index: 15
+            locations:
+              - location:
+                country: UK
+            extra:
+              summary_tags: microscopy, sussex, baden-lab
+          - item:
+            name: LED-Zappelin
+            description: An open source and versatile LED controller for arbitrary spectrum visual stimulation and optogenetics during 2-photon imaging.
+            homepage_url: https://github.com/BadenLab/LED-Zappelin
+            repo_url: https://github.com/BadenLab/LED-Zappelin
+            logo: led-zappelin.svg
+            academics:
+              - academic:
+                name: André Maia Chagas
+                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
+                citations: 1002
+                hindex: 10
+                i10index: 11
+            locations:
+              - location:
+                country: UK
+            extra:
+              summary_tags: microscopy, sussex, baden-lab
+          - item:
+            name: FrescoM
+            description: This is an an open-source hardware that allows for automatic high-throughput generation of large amounts of cell biology data.
+            homepage_url: https://github.com/frescolabs/FrescoM
+            repo_url: https://github.com/frescolabs/FrescoM
+            logo: frescom.svg
+            locations:
+              - location:
+                country: UK
+              - location:
+                country: Russia
+          - item:
+            name: SignalBuddy
+            description: |
+              SignalBuddy is an easy-to-make, easy-to-use signal generator for scientific applications.
+              Making friends is hard, but making SignalBuddy is easy.
+              All you need is an Arduino Uno! SignalBuddy replaces more complicated and (much) more expensive signal generators in laboratory settings where one millisecond resolution is sufficient.
+            homepage_url: https://github.com/richard-warren/SignalBuddy
+            repo_url: https://github.com/richard-warren/SignalBuddy
+            logo: signalbuddy.svg
+            academics:
+              - item:
+                name: Richard Warren
+                profile_url: https://scholar.google.com/citations?hl=en&user=lCyg13UAAAAJ
+                citations: 591
+                hindex: 13
+                i10index: 13
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: meta, columbia-university
   - category:
     name: Datasets
     subcategories:
@@ -2544,6 +2613,31 @@ landscape:
                 country: USA
             extra:
               summary_tags: allen-institute, molecular-toolkit, transcriptomic
+          - item:
+            name: AAV
+            description: |
+              Addgene is a nonprofit plasmid repository.
+              We store and distribute high-quality plasmids from your colleagues.
+            homepage_url: https://datahub.addgene.org/aav/
+            logo: aav-datahub.svg
+            academics:
+              - academic:
+                name: Daniela Bourges-Waldegg
+                profile_url: https://scholar.google.com/citations?user=6-K_5jIAAAAJ&hl=en
+                citations: 381
+                hindex: 10
+                i10index: 10
+              - academic:
+                name: Eric Perkins
+                profile_url: https://scholar.google.com/citations?user=uuOw_jQAAAAJ&hl=en
+                citations: 309
+                hindex: 4
+                i10index: 4
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags:
       - subcategory:
         name: Models
         items:
@@ -2950,6 +3044,52 @@ landscape:
                 country: USA
             extra:
               summary_tags: mbf-bioscience, proprietary
+          - item:
+            name: MNE
+            description: |
+              MNE-Python is an open-source Python package for exploring, visualizing, and analyzing human neurophysiological data such as MEG, EEG, sEEG, ECoG, and more.
+              It includes modules for data input/output, preprocessing, visualization, source estimation, time-frequency analysis, connectivity analysis, machine learning, statistics, and more.
+            homepage_url: https://mne.tools/
+            repo_url: https://github.com/mne-tools/mne-python
+            logo: mne.svg
+            academics:
+              - academic:
+                name: Alexandre Gramfort
+                profile_url: https://scholar.google.com/citations?user=fhxshS0AAAAJ&hl=en
+                citations: 112101
+                hindex: 60
+                i10index: 155
+              - academic:
+                name: Martin Luessi
+                profile_url: https://scholar.google.com/citations?user=GMo1tYEAAAAJ&hl=en
+                citations: 5142
+                hindex: 16
+                i10index: 19
+              - academic:
+                name: Eric R. Larson
+                profile_url: https://scholar.google.com/citations?user=bv0ezf0AAAAJ&hl=en
+                citations: 3550
+                hindex: 34
+                i10index: 60
+              - academic:
+                name: Denis A. Engemann
+                profile_url: https://scholar.google.de/citations?user=ombAzhMAAAAJ&hl=en
+                citations: 7211
+                hindex: 24
+                i10index: 37
+              - academic:
+                name: Christian Brodbeck
+                profile_url: https://scholar.google.com/citations?user=m2x515IAAAAJ&hl=en
+                citations: 5341
+                hindex: 14
+                i10index: 19
+            locations:
+              - location:
+                country: Global
+              - location:
+                country: USA
+            extra:
+              summary_tags: eeg meg, chan-zuckerberg-foundation, google, nih, nsf, erc, anr, amazon, us-department-of-energy, stars-4000
       - subcategory:
         name: Imaging and Microscopy
         items:
@@ -3213,12 +3353,64 @@ landscape:
                 country: UK
             extra:
               summary_tags: imaging, calcium-imaging, hhmi, ucla
+          - item:
+            name: EASI-FISH
+            description: |
+              This workflow is used to analyze large-scale, multi-round, high-resolution image data acquired using EASI-FISH (Expansion-Assisted Iterative Fluorescence In Situ Hybridization).
+              It takes advantage of the n5 filesystem to allow for rapid and parallel data reading and writing.
+              It performs automated image stitching, distributed and highly accurate multi-round image registration, 3D cell segmentation, and distributed spot detection.
+              We also envision this workflow being adapted for analysis of other image-based spatial transcriptomic data.
+            homepage_url: https://github.com/multiFISH/EASI-FISH
+            repo_url: https://github.com/multiFISH/EASI-FISH
+            logo: easi-fish.svg
+            academics:
+              - academic:
+                name: Yuhan Wang
+                profile_url: https://scholar.google.com/citations?user=tIWfvJcAAAAJ&hl=en
+                citations: 365
+                hindex: 8
+                i10index: 8
+              - academic:
+                name: Konrad Rokicki
+                profile_url: https://scholar.google.com/citations?user=DLHPD1kAAAAJ&hl=en
+                citations: 1958
+                hindex: 9
+                i10index: 9
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: n5, hhmi, segmentation
+          - item:
+            name: CLIJ2
+            description: |
+              CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
+              It comes with hundreds of operations for filtering, binarizing, labeling, measuring in images, projections, transformations and mathematical operations for images.
+              While most of these are classical image processing operations, CLIJ2 also allows performing operations on matrices potentially representing neighborhood relationships between cells and pixels.
+            homepage_url: https://clij.github.io
+            repo_url: https://github.com/clij/clij2/
+            logo: clij2.svg
+            academics:
+              - academic:
+                name: Robert Haase
+                profile_url: https://scholar.google.de/citations?user=giB4g-MAAAAJ&hl=de
+                citations: 1719
+                hindex: 19
+                i10index: 26
+            locations:
+              - location:
+                city: Leipzig
+                country: Germany
+            extra:
+              summary_tags: fiji, icy
       - subcategory:
         name: Segmentation
         items:
           - item:
             name: Segment Anything
-            description: The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. It has been trained on a dataset of 11 million images and 1.1 billion masks, and has strong zero-shot performance on a variety of segmentation tasks.
+            description: |
+              The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image.
+              It has been trained on a dataset of 11 million images and 1.1 billion masks, and has strong zero-shot performance on a variety of segmentation tasks.
             homepage_url: https://github.com/facebookresearch/segment-anything
             repo_url: https://github.com/facebookresearch/segment-anything
             logo: segment-anything.svg
@@ -3741,6 +3933,41 @@ landscape:
                 country: USA
             extra:
               summary_tags: nyu, buzsaki-lab, petersen-lab, nih, brain-initiative, ucph
+          - item:
+            name: OPETH
+            description: |
+              Single cell electrophysiology remains one of the most widely used approaches of systems neuroscience.
+              Decisions made by the experimenter during electrophysiology recording largely determine recording quality, duration of the project and value of the collected data.
+              Therefore, online feedback aiding these decisions can lower monetary and time investment, 
+              and substantially speed up projects as well as allow novel studies otherwise not possible due to prohibitively low throughput.
+              Real-time feedback is especially important in studies that involve optogenetic cell type identification by enabling a systematic search for neurons of interest.
+              However, such tools are scarce and limited to costly commercial systems with high degree of specialization, which hitherto prevented wide-ranging benefits for the community.
+              To address this, we present an open-source tool that enables online feedback during electrophysiology experiments and provides a Python interface for the widely used Open Ephys open source data acquisition system.
+              Specifically, our software allows flexible online visualization of spike alignment to external events, called the online peri-event time histogram (OPETH).
+              These external events, conveyed by digital logic signals, may indicate photostimulation time stamps for in vivo optogenetic cell type identification or the times of behaviorally relevant events during in vivo behavioral neurophysiology experiments.
+              Therefore, OPETH allows real-time identification of genetically defined neuron types or behaviorally responsive populations.
+              By allowing “hunting” for neurons of interest, OPETH significantly reduces experiment time and thus increases the efficiency of experiments that combine in vivo electrophysiology with behavior or optogenetic tagging of neurons.
+            homepage_url: https://github.com/hangyabalazs/opeth
+            repo_url: https://github.com/hangyabalazs/opeth
+            logo: opeth.svg
+            academics:
+              - academic:
+                name: András Széll
+                profile_url: https://scholar.google.hu/citations?user=IZMp1vQAAAAJ&hl=en
+                citations: 18
+                hindex: 2
+                i10index: 0
+              - academic:
+                name: Balazs Hangya
+                profile_url: https://scholar.google.com/citations?user=v2DY1SwAAAAJ&hl=en
+                citations: 4917
+                hindex: 25
+                i10index: 33
+            locations:
+              - location:
+                country: Hungary
+            extra:
+              summary_tags: single-cell
       - subcategory:
         name: Data Formats
         items:
@@ -3933,7 +4160,7 @@ landscape:
             extra:
               summary_tags: software, tooling, university-of-sussex, mit
       - subcategory:
-        name: Copmutation
+        name: Compute
         items:
           - item:
             name: DataJoint
@@ -3979,6 +4206,42 @@ landscape:
                 country: Australia
             extra:
               summary_tags: neurodesk, containers, cloud
+          - item:
+            name: COINSTAC
+            description: |
+              COINSTAC is software to foster collaborative research, removing large barriers to traditional data-centric collaboration approaches.
+              It enables groups of users to run common analyses on their own machines over their own datasets with ease.
+              The results of these analyses are synchronized to the cloud, and undergo aggregate analyses processes using all contributor data.
+              Federated (decentralized) pipelines allow for distributed, iterative, and feature rich analyses to be run, opening new and exciting capabilities for collaborative computation.
+              It also offers data anonymity through differentially private algorithms, so members do not need to fear PHI traceback.
+            homepage_url: https://github.com/trendscenter/coinstac?tab=readme-ov-file
+            repo_url: https://github.com/trendscenter/coinstac
+            logo: coinstack.svg
+            academics:
+              - academic:
+                name: Sergey M. Plis
+                profile_url: https://scholar.google.com/citations?hl=en&user=nm3liowAAAAJ
+                citations: 8158
+                hindex: 32
+                i10index: 86
+              - academic:
+                name: Anand Sarwate
+                profile_url: https://scholar.google.com/citations?user=jgr1-eEAAAAJ&hl=en
+                citations: 6236
+                hindex: 29
+                i10index: 75
+              - academic:
+                name: Jessica Turner
+                profile_url: https://scholar.google.com/citations?user=ZKNV2f4AAAAJ&hl=en
+                citations: 30344
+                hindex: 82
+                i10index: 255
+            locations:
+              - location:
+                city: Atlanta
+                country: USA
+            extra:
+              summary_tags: data-sharing
       - subcategory:
         name: Behavior
         items:
@@ -4094,6 +4357,112 @@ landscape:
                 country: USA
             extra:
               summary_tags: hardware, raspberry-pi, rpi, behavior, ucla
+          - item:
+            name: lab.js
+            description: |
+              lab.js makes it easy to build, run and share studies that help understand the mind.
+              It allows everyone to construct and construct experiments and surveys within the browser;
+              the graphical builder makes it easy to get started without writing code.
+            homepage_url: https://lab.js.org/
+            repo_url: https://github.com/FelixHenninger/lab.js
+            logo: labjs.svg
+            academics:
+              - academic:
+                name: Felix Henninger
+                profile_url: https://scholar.google.de/citations?user=X9A-7EsAAAAJ&hl=de
+                citations: 9916
+                hindex: 11
+                i10index: 12
+            locations:
+              - location:
+                city: Munich
+                country: Germany
+            extra:
+              summary_tags: behavioral, surveys, reality-labs, meta
+          - item:
+            name: jsPsych
+            description: |
+              jsPsych is a JavaScript framework for creating behavioral experiments that run in a web browser.
+              Experiments in jsPsych are created using plugins.
+              Each plugin defines different kinds of events, like showing an image on the screen, and collects different kinds of data, like recording which key was pressed at which time.
+              By assembling different plugins together into a timeline, it is possible to create a wide range of online experiments.
+            homepage_url: https://www.jspsych.org/
+            repo_url: https://github.com/jspsych/jsPsych
+            logo: jspsych.svg
+            academics:
+              - academic:
+                name: Josh de Leeuw
+                profile_url: https://scholar.google.com/citations?user=fUtClyAAAAAJ&hl=en
+                citations: 2372
+                hindex: 14
+                i10index: 15
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: behavioral, surveys
+          - item:
+            name: DeepLabCut™
+            description: |
+              DeepLabCut™ is an efficient method for 2D and 3D markerless pose estimation 
+              based on transfer learning with deep neural networks that achieves excellent results (i.e. you can match human labeling accuracy) 
+              with minimal training data (typically 50-200 frames). 
+              We demonstrate the versatility of this framework by tracking various body parts in multiple species across a broad collection of behaviors.
+              The package is open source, fast, robust, and can be used to compute 3D pose estimates or for multi-animals.
+            homepage_url: http://deeplabcut.org/
+            repo_url: https://github.com/DeepLabCut/DeepLabCut
+            logo: deeplabcut.svg
+            academics:
+              - academic:
+                name: Alexander Mathis
+                profile_url: https://scholar.google.ch/citations?user=Y1xCzE0AAAAJ&hl=de
+                citations: 6888
+                hindex: 24
+                i10index: 27
+              - academic:
+                name: Mackenzie Weygandt Mathis
+                profile_url: https://scholar.google.com/citations?user=IhqY9XgAAAAJ&hl=en
+                citations: 9030
+                hindex: 23
+                i10index: 26
+              - academic:
+                name: Jessy Lauer
+                profile_url: https://scholar.google.com/citations?user=F5tdw9oAAAAJ&hl=en
+                citations: 579
+                hindex: 8
+                i10index: 7
+            locations:
+              - location:
+                country: Global
+              - location:
+                country: USA
+              - location:
+                country: Switzerland
+            extra:
+              summary_tags: pose-estimation, mouse, human, fish, deep-learning, stars-4000, chan-zuckerberg-foundation
+          - item:
+            name: pirecorder
+            description: |
+              pirecorder is a Python package, built on the picamera and OpenCV libraries, 
+              that provides a flexible solution for the collection of consistent image and video data with the raspberry pi.
+              It was developed to overcome the need for a complete solution to help researchers, especially those with limited coding skills, 
+              to easily set up and configure their raspberry pi to run large numbers of controlled and automated image and video recordings using optimal settings.
+            homepage_url: https://jollejolles.github.io/pirecorder/
+            repo_url: https://github.com/JolleJolles/pirecorder
+            logo: pirecorder.svg
+            academics:
+              - academic:
+                name: Jolle W Jolles
+                profile_url: https://scholar.google.co.uk/citations?user=VCZqbK4AAAAJ&hl=en
+                citations: 1713
+                hindex: 21
+                i10index: 26
+            locations:
+              - location:
+                country: Spain
+            extra:
+              summary_tags: raspberry-pi, imaging, jolleslab
   - category:
     name: Books
     subcategories:

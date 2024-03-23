@@ -28,7 +28,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: get landscape cli
-        run: curl --proto '=https' --tlsv1.2 -LsSf https://github.com/open-neuroscience-foundation/landscape2-academic/releases/download/v0.8.1/landscape2-academic-installer.sh | sh
+        run: curl --proto '=https' --tlsv1.2 -LsSf https://github.com/open-neuroscience-foundation/landscape2-academic/releases/download/v0.8.2/landscape2-academic-installer.sh | sh
       - name: copy data
         run: mkdir -p /home/runner/.cache/landscape && cp *.json /home/runner/.cache/landscape
       - name: build landscape
