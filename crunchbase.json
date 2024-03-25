@@ -393,5 +393,47 @@
                 "kind": "grant"
             }
         ]
+    },
+    "https://www.crunchbase.com/organization/opentrons": {
+        "name": "Opentrons",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "New York",
+        "country": "USA",
+        "num_employees_max": 500,
+        "num_employees_min": 201,
+        "funding": 240000000,
+        "funding_rounds": [
+            {
+                "amount": 200000000,
+                "announced_on": "2021-09-23",
+                "kind": "series_c"
+            },
+            {
+                "amount": 20600000,
+                "announced_on": "2020-10-14",
+                "kind": "series_b"
+            },
+            {
+                "amount": 2300000,
+                "announced_on": "2019-11-11",
+                "kind": "venture_round"
+            },
+            {
+                "amount": 10000000,
+                "announced_on": "2018-03-27",
+                "kind": "seed"
+            },
+            {
+                "amount": 7200000,
+                "announced_on": "2016-03-22",
+                "kind": "seed"
+            },
+            {
+                "amount": 25000,
+                "announced_on": "2014-07-14",
+                "kind": "pre-seed"
+            }
+        ]
     }
 }

@@ -254,13 +254,13 @@ landscape:
             academics:
               - academic:
                 name: Oleg Nikitin
-                profile_url: https://scholar.google.ru/citations?user=XgiByAIAAAAJ&hl=en
+                profile_url: https://scholar.google.ru/citations?user=XgiByAIAAAAJ
                 citations: 135
                 hindex: 4
                 i10index: 2
               - academic:
                 name: Olga Lukyanova
-                profile_url: https://scholar.google.ru/citations?user=9lg8OpcAAAAJ&hl=en
+                profile_url: https://scholar.google.ru/citations?user=9lg8OpcAAAAJ
                 citations: 139
                 hindex: 4
                 i10index: 2
@@ -285,6 +285,45 @@ landscape:
             extra:
               summary_tags: cloud
       - subcategory:
+        name: Lab Equipment & Robotics
+        items:
+          - item:
+            name: Opentrons
+            description: |
+              We make robots for scientists
+              At Opentrons we believe that scientists should be able to focus on their science to accelerate discovery and innovation, and that access to automation is a key tool to facilitate that.
+              Our mission is to democratize access to laboratory robotics.
+              There are currently ten times the number of scientists to lab robots in the world. When we're done, that ratio will be flipped, and there will be ten times the number of lab robots to scientists.
+            homepage_url: https://opentrons.com
+            logo: opentrons.svg
+            crunchbase: https://www.crunchbase.com/organization/opentrons
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: automation, robotics
+          - item:
+            name: OpenUC2
+            description: We provide composable lab equipment openUC2 optical toolboxes.
+            homepage_url: https://openuc2.com/team/#overview
+            logo: openuc2.svg
+            academics:
+              - academic:
+                name: Benedict Diederich
+                profile_url: https://scholar.google.de/citations?user=TvSHTGkAAAAJ
+                citations: 411
+                hindex: 10
+                i10index: 11
+              - academic:
+                name: René Lachmann
+                profile_url: https://scholar.google.de/citations?user=kNlEu-sAAAAJ
+                citations: 170
+                hindex: 5
+                i10index: 4
+            locations:
+              - location:
+                country: Germany
+      - subcategory:
         name: Connectomics
         items:
           - item:
@@ -301,25 +340,25 @@ landscape:
             academics:
               - academic:
                 name: Thomas Macrina
-                profile_url: https://scholar.google.com/citations?user=94I0duAAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=94I0duAAAAAJ
                 citations: 979
                 hindex: 15
                 i10index: 19
               - academic:
                 name: Kisuk Lee
-                profile_url: https://scholar.google.com/citations?user=NUdCPGkAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=NUdCPGkAAAAJ
                 citations: 2125
                 hindex: 22
                 i10index: 29
               - academic:
                 name: Sergiy Popovych
-                profile_url: https://scholar.google.com/citations?user=SW-oensAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=SW-oensAAAAJ
                 citations: 903
                 hindex: 15
                 i10index: 16
               - academic:
                 name: Tri Minh Nguyen
-                profile_url: https://scholar.google.com/citations?user=AnU408sAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=AnU408sAAAAJ
                 citations: 1003
                 hindex: 14
                 i10index: 15
@@ -367,7 +406,7 @@ landscape:
             academics:
               - academic:
                 name: Reid Harrison
-                profile_url: https://scholar.google.com/citations?user=rCKlicEAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=rCKlicEAAAAJ
                 citations: 8463
                 hindex: 37
                 i10index: 70
@@ -390,7 +429,7 @@ landscape:
             academics:
               - academic:
                 name: Paul J. Tadrous
-                profile_url: https://scholar.google.com/citations?user=Fb7jTjoAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=Fb7jTjoAAAAJ
                 citations: 2525
                 hindex: 21
                 i10index: 24
@@ -594,19 +633,19 @@ landscape:
             academics:
               - academic:
                 name: André Maia Chagas
-                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ
                 hindex: 10
                 citations: 1002
                 i10index: 11
               - academic:
                 name: Matias Andina
-                profile_url: https://scholar.google.com/citations?user=PnTVdPAAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=PnTVdPAAAAAJ
                 citations: 187
                 hindex: 2
                 i10index: 1
               - academic:
                 name: Cecilia Thomsett Herbert
-                profile_url: https://scholar.google.com/citations?user=wAjdb0cAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=wAjdb0cAAAAJ
                 citations: 9
                 hindex: 2
                 i10index: 0
@@ -628,13 +667,13 @@ landscape:
             academics:
               - academic:
                 name: Steffen Bollmann
-                profile_url: https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=de
+                profile_url: https://scholar.google.com/citations?user=HmXlj24AAAAJ
                 citations: 1400
                 hindex: 17
                 i10index: 26
               - academic:
                 name: Angela Renton
-                profile_url: https://scholar.google.com/citations?user=6pC19kMAAAAJ&hl=en&oi=ao
+                profile_url: https://scholar.google.com/citations?user=6pC19kMAAAAJ&oi=ao
                 citations: 89
                 hindex: 5
                 i10index: 3
@@ -652,37 +691,37 @@ landscape:
             academics:
               - academic:
                 name: Adam L Tyson
-                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ
                 citations: 489
                 hindex: 11
                 i10index: 11
               - academic:
                 name: Troy Margrie
-                profile_url: https://scholar.google.co.uk/citations?user=tdeQdPkAAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=tdeQdPkAAAAJ
                 citations: 7003
                 hindex: 35
                 i10index: 53
               - academic:
                 name: Tiago Branco
-                profile_url: https://scholar.google.com/citations?user=PJ7kIFMAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=PJ7kIFMAAAAJ
                 citations: 5304
                 hindex: 33
                 i10index: 40
               - academic:
                 name: Ruben Portugues
-                profile_url: https://scholar.google.de/citations?user=gDcRyKsAAAAJ&hl=en
+                profile_url: https://scholar.google.de/citations?user=gDcRyKsAAAAJ
                 citations: 5676
                 hindex: 29
                 i10index: 40
               - academic:
                 name: Federico Claudi
-                profile_url: https://scholar.google.co.uk/citations?user=8eDOmAQAAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=8eDOmAQAAAAJ
                 citations: 308
                 hindex: 7
                 i10index: 7
               - academic:
                 name: Luigi Petrucco
-                profile_url: https://scholar.google.it/citations?user=FQDeRWQAAAAJ&hl=it
+                profile_url: https://scholar.google.it/citations?user=FQDeRWQAAAAJ
                 citations: 333
                 hindex: 8
                 i10index: 8
@@ -790,7 +829,7 @@ landscape:
             academics:
               - academic:
                 name: Loic A. Royer
-                profile_url: https://scholar.google.com/citations?user=qNDoTVcAAAAJ&hl=en&oi=ao
+                profile_url: https://scholar.google.com/citations?user=qNDoTVcAAAAJ&oi=ao
                 hindex: 27
                 citations: 6953
                 i10index: 36
@@ -817,7 +856,7 @@ landscape:
             academics:
               - academic:
                 name: Konrad Kording
-                profile_url: https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=MiFqJGcAAAAJ
                 hindex: 77
                 citations: 25763
                 i10index: 239
@@ -839,25 +878,25 @@ landscape:
             academics:
               - academic:
                 name: Henry Markram
-                profile_url: https://scholar.google.com/citations?user=W3lyJF8AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=W3lyJF8AAAAJ
                 hindex: 94
                 citations: 51941
                 i10index: 201
               - academic:
                 name: Marc-Oliver Gewaltig
-                profile_url: https://scholar.google.com/citations?user=Dy-lNyAAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=Dy-lNyAAAAAJ
                 hindex: 25
                 citations: 4989
                 i10index: 40
               - academic:
                 name: Michael W. Reimann
-                profile_url: https://scholar.google.com/citations?user=uzjd33kAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=uzjd33kAAAAJ
                 hindex: 16
                 citations: 2899
                 i10index: 19
               - academic:
                 name: Werner Van Geit
-                profile_url: https://scholar.google.com/citations?user=5sr9FJgAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=5sr9FJgAAAAJ
                 hindex: 15
                 citations: 2505
                 i10index: 17
@@ -883,13 +922,13 @@ landscape:
             academics:
               - academic:
                 name: Esther Stoeckli
-                profile_url: https://scholar.google.ch/citations?user=Lp_wEokAAAAJ&hl=de
+                profile_url: https://scholar.google.ch/citations?user=Lp_wEokAAAAJ
                 hindex: 46
                 i10index: 79
                 citations: 8531
               - academic:
                 name: Alexandre Dumoulin
-                profile_url: https://scholar.google.com/citations?user=DQ0WUoUAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=DQ0WUoUAAAAJ
                 hindex: 7
                 i10index: 5
                 citations: 116
@@ -931,7 +970,7 @@ landscape:
             academics:
               - academic:
                 name: Sebastian Seung
-                profile_url: https://scholar.google.com/citations?user=BD8llAEAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=BD8llAEAAAAJ
                 hindex: 81
                 citations: 60280
                 i10index: 166
@@ -958,7 +997,7 @@ landscape:
             academics:
               - academic:
                 name: Yong Jeong
-                profile_url: https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=zsVfg6sAAAAJ
                 hindex: 40
                 citations: 6254
                 i10index: 85
@@ -976,7 +1015,7 @@ landscape:
             academics:
               - academic:
                 name: Eunjoon Kim
-                profile_url: https://scholar.google.com/citations?user=fgt4fvkAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=fgt4fvkAAAAJ
                 hindex: 81
                 citations: 27907
                 i10index: 167
@@ -999,7 +1038,7 @@ landscape:
             academics:
               - academic:
                 name: Jaeseung Jeong
-                profile_url: https://scholar.google.com/citations?user=ZfNxZ3sAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=ZfNxZ3sAAAAJ
                 hindex: 38
                 citations: 7222
                 i10index: 85
@@ -1067,7 +1106,7 @@ landscape:
             academics:
               - academic:
                 name: Seung-Hee Lee
-                profile_url: https://scholar.google.com/citations?user=ifoan_MAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=ifoan_MAAAAJ
                 hindex: 24
                 citations: 4225
                 i10index: 35
@@ -1099,7 +1138,7 @@ landscape:
             academics:
               - academic:
                 name: Min Whan Jung
-                profile_url: https://scholar.google.co.kr/citations?user=Yb3-08YAAAAJ&hl=en
+                profile_url: https://scholar.google.co.kr/citations?user=Yb3-08YAAAAJ
                 hindex: 50
                 citations: 11614
                 i10index: 96
@@ -1118,7 +1157,7 @@ landscape:
             academics:
               - academic:
                 name: Pann-Ghill Suh
-                profile_url: https://scholar.google.co.kr/citations?user=ih5KsPkAAAAJ&hl=ko
+                profile_url: https://scholar.google.co.kr/citations?user=ih5KsPkAAAAJ
                 hindex: 82
                 citations: 24218
                 i10index: 315
@@ -1138,7 +1177,7 @@ landscape:
             academics:
               - academic:
                 name: Ruben Portugues
-                profile_url: https://scholar.google.de/citations?user=gDcRyKsAAAAJ&hl=en
+                profile_url: https://scholar.google.de/citations?user=gDcRyKsAAAAJ
                 hindex: 29
                 citations: 5676
                 i10index: 40
@@ -1165,7 +1204,7 @@ landscape:
             academics:
               - academic:
                 name: Wolf Singer
-                profile_url: https://scholar.google.com/citations?user=Ho8cFO8AAAAJ&hl=en&oi=ao
+                profile_url: https://scholar.google.com/citations?user=Ho8cFO8AAAAJ&oi=ao
                 hindex: 148
                 citations: 104519
                 i10index: 513
@@ -1219,7 +1258,7 @@ landscape:
             academics:
               - academic:
                 name: Hermann Cuntz
-                profile_url: https://scholar.google.nl/citations?user=9g7Uj-MAAAAJ&hl=en&oi=ao
+                profile_url: https://scholar.google.nl/citations?user=9g7Uj-MAAAAJ&oi=ao
                 hindex: 25
                 citations: 2092
                 i10index: 33
@@ -1247,13 +1286,13 @@ landscape:
             academics:
               - academic:
                 name: Marieke Scholvinck
-                profile_url: https://scholar.google.de/citations?user=N2MfHR8AAAAJ&hl=en
+                profile_url: https://scholar.google.de/citations?user=N2MfHR8AAAAJ
                 hindex: 18
                 citations: 3419
                 i10index: 23
               - academic:
                 name: Martha Nari Havenith
-                profile_url: https://scholar.google.com/citations?user=EY_4zioAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=EY_4zioAAAAJ
                 hindex: 11
                 citations: 778
                 i10index: 10
@@ -1278,7 +1317,7 @@ landscape:
             academics:
               - academic:
                 name: Jean Laurens
-                profile_url: https://scholar.google.com/citations?user=4dentLsAAAAJ&hl=de
+                profile_url: https://scholar.google.com/citations?user=4dentLsAAAAJ
                 hindex: 19
                 citations: 1629
                 i10index: 32
@@ -1302,7 +1341,7 @@ landscape:
             academics:
               - academic:
                 name: Rosanne Rademaker
-                profile_url: https://scholar.google.com/citations?user=KP28dO8AAAAJ&hl=en&oi=ao
+                profile_url: https://scholar.google.com/citations?user=KP28dO8AAAAJ&oi=ao
                 hindex: 14
                 citations: 1137
                 i10index: 16
@@ -1331,7 +1370,7 @@ landscape:
             academics:
               - academic:
                 name: Helene Schmidt
-                profile_url: https://scholar.google.de/citations?user=YWft174AAAAJ&hl=en
+                profile_url: https://scholar.google.de/citations?user=YWft174AAAAJ
                 hindex: 6
                 citations: 572
                 i10index: 6
@@ -1364,7 +1403,7 @@ landscape:
             academics:
               - academic:
                 name: Martin Vinck
-                profile_url: https://scholar.google.de/citations?user=2DB-CR8AAAAJ&hl=de&oi=ao
+                profile_url: https://scholar.google.de/citations?user=2DB-CR8AAAAJ&oi=ao
                 hindex: 39
                 citations: 7138
                 i10index: 55
@@ -1388,7 +1427,7 @@ landscape:
             academics:
               - academic:
                 name: Roger Levy
-                profile_url: https://scholar.google.com/citations?user=i86O0SAAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=i86O0SAAAAAJ
                 hindex: 52
                 citations: 23780
                 i10index: 123
@@ -1435,7 +1474,7 @@ landscape:
             academics:
               - academic:
                 name: Hashim M Al-Hashimi
-                profile_url: https://scholar.google.com/citations?user=WpE2xEcAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=WpE2xEcAAAAJ
                 hindex: 64
                 citations: 11812
                 i10index: 152
@@ -1453,7 +1492,7 @@ landscape:
             academics:
               - academic:
                 name: Richard Axel
-                profile_url: https://scholar.google.com/citations?user=WpE2xEcAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=WpE2xEcAAAAJ
                 hindex: 92
                 citations: 44676
             locations:
@@ -1471,7 +1510,7 @@ landscape:
             academics:
               - academic:
                 name: Andrea Califano
-                profile_url: https://scholar.google.com/citations?user=NxBuRgcAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=NxBuRgcAAAAJ
                 hindex: 91
                 citations: 44607
                 i10index: 222
@@ -1489,7 +1528,7 @@ landscape:
             academics:
               - academic:
                 name: Joachim Frank
-                profile_url: https://scholar.google.com/citations?user=a7LHl00AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=a7LHl00AAAAJ
                 hindex: 119
                 citations: 51901
                 i10index: 384
@@ -1507,7 +1546,7 @@ landscape:
             academics:
               - academic:
                 name: Oliver Hobert
-                profile_url: https://scholar.google.com/citations?user=BJ1TE4AAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=BJ1TE4AAAAAJ
                 hindex: 86
                 citations: 25730
                 i10index: 189
@@ -1525,7 +1564,7 @@ landscape:
             academics:
               - academic:
                 name: Alexander Sobolevsky
-                profile_url: https://scholar.google.com/citations?user=Gsf2Q_8AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=Gsf2Q_8AAAAJ
                 hindex: 36
                 citations: 6269
                 i10index: 62
@@ -1543,7 +1582,7 @@ landscape:
             academics:
               - academic:
                 name: Chaolin Zhang
-                profile_url: https://scholar.google.com/citations?user=hWYleB8AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=hWYleB8AAAAJ
                 hindex: 41
                 citations: 14481
                 i10index: 53
@@ -1569,7 +1608,7 @@ landscape:
             academics:
               - academic:
                 name: Tomoki Fukai
-                profile_url: https://scholar.google.com/citations?user=iO7jHc4AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=iO7jHc4AAAAJ
                 hindex: 46
                 citations: 6324
                 i10index: 116
@@ -1598,7 +1637,7 @@ landscape:
             academics:
               - academic:
                 name: Gerald Pao
-                profile_url: https://scholar.google.com/citations?user=b6f0WSQAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=b6f0WSQAAAAJ
                 hindex: 22
                 citations: 2935
                 i10index: 25
@@ -1625,7 +1664,7 @@ landscape:
             academics:
               - academic:
                 name: Bernd Kuhn
-                profile_url: https://scholar.google.de/citations?user=ab-HnakAAAAJ&hl=en
+                profile_url: https://scholar.google.de/citations?user=ab-HnakAAAAJ
                 hindex: 18
                 citations: 1475
                 i10index: 23
@@ -1648,7 +1687,7 @@ landscape:
             academics:
               - academic:
                 name: Kazumasa Tanaka
-                profile_url: https://scholar.google.com/citations?user=QC_chB0AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=QC_chB0AAAAJ
                 citations: 1863
                 hindex: 13
                 i10index: 15
@@ -1669,7 +1708,7 @@ landscape:
             academics:
               - academic:
                 name: Kenji Doya
-                profile_url: https://scholar.google.com/citations?user=SHufeXQAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=SHufeXQAAAAJ
                 citations: 24809
                 hindex: 67
                 i10index: 172
@@ -1690,7 +1729,7 @@ landscape:
             academics:
               - academic:
                 name: Marco Terenzio
-                profile_url: https://scholar.google.co.il/citations?user=nXQ57fkAAAAJ&hl=en
+                profile_url: https://scholar.google.co.il/citations?user=nXQ57fkAAAAJ
                 citations: 1352
                 hindex: 16
                 i10index: 16
@@ -1732,7 +1771,7 @@ landscape:
             academics:
               - academic:
                 name: Tom Froese
-                profile_url: https://scholar.google.com.mx/citations?user=uKd8pmUAAAAJ&hl=en
+                profile_url: https://scholar.google.com.mx/citations?user=uKd8pmUAAAAJ
                 citations: 5491
                 hindex: 40
                 i10index: 94
@@ -1754,7 +1793,7 @@ landscape:
             academics:
               - academic:
                 name: Tomoyuki Takahashi
-                profile_url: https://scholar.google.co.jp/citations?user=t3HsDsYAAAAJ&hl=ja
+                profile_url: https://scholar.google.co.jp/citations?user=t3HsDsYAAAAJ
                 citations: 20243
                 hindex: 71
                 i10index: 123
@@ -1775,7 +1814,7 @@ landscape:
             academics:
               - academic:
                 name: Gail Tripp
-                profile_url: https://scholar.google.com/citations?user=-WkN5jAAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=-WkN5jAAAAAJ
                 citations: 6007
                 hindex: 33
                 i10index: 51
@@ -1796,7 +1835,7 @@ landscape:
             academics:
               - academic:
                 name: Yoko Yazaki-Sugiyama
-                profile_url: https://scholar.google.com/citations?user=Pez80yIAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=Pez80yIAAAAJ
                 citations: 810
                 hindex: 11
                 i10index: 13
@@ -1817,7 +1856,7 @@ landscape:
             academics:
               - academic:
                 name: Jeff Wickens
-                profile_url: https://scholar.google.com/citations?user=x2yg1WQAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=x2yg1WQAAAAJ
                 citations: 11485
                 hindex: 48
                 i10index: 89
@@ -1837,7 +1876,7 @@ landscape:
             academics:
               - academic:
                 name: Ichiro Masai
-                profile_url: https://scholar.google.co.jp/citations?user=P8FEcOYAAAAJ&hl=ja
+                profile_url: https://scholar.google.co.jp/citations?user=P8FEcOYAAAAJ
                 citations: 3096
                 hindex: 25
                 i10index: 33
@@ -1862,7 +1901,7 @@ landscape:
             academics:
               - academic:
                 name: Jun Tani
-                profile_url: https://scholar.google.com/citations?user=9tkWMqgAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=9tkWMqgAAAAJ
                 citations: 7460
                 hindex: 41
                 i10index: 126
@@ -1883,7 +1922,7 @@ landscape:
             academics:
               - academic:
                 name: Akihiro Kusumi
-                profile_url: https://scholar.google.com/citations?user=bK1njdwAAAAJ&hl=ja
+                profile_url: https://scholar.google.com/citations?user=bK1njdwAAAAJ
                 citations: 22560
                 hindex: 72
                 i10index: 129
@@ -1912,13 +1951,13 @@ landscape:
             academics:
               - academic:
                 name: Zhang Suchun
-                profile_url: https://scholar.google.ca/citations?user=YTQT5RgAAAAJ&hl=en
+                profile_url: https://scholar.google.ca/citations?user=YTQT5RgAAAAJ
                 hindex: 71
                 citations: 23018
                 i10index: 132
               - academic:
                 name: Hongyan Wang
-                profile_url: https://scholar.google.com/citations?user=ZY-eyuwAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=ZY-eyuwAAAAJ
                 hindex: 30
                 citations: 3554
                 i10index: 46
@@ -1940,25 +1979,25 @@ landscape:
             academics:
               - academic:
                 name: Miguel Maravall
-                profile_url: https://scholar.google.com/citations?user=lRZiOnAAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=lRZiOnAAAAAJ
                 citations: 2614
                 hindex: 21
                 i10index: 24
               - academic:
                 name: Chris Bird
-                profile_url: https://scholar.google.co.uk/citations?user=smxv3nIAAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=smxv3nIAAAAJ
                 citations: 5284
                 hindex: 29
                 i10index: 39
               - academic:
                 name: André Maia Chagas
-                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ
                 citations: 1002
                 hindex: 10
                 i10index: 11
               - academic:
                 name: Chris Racey
-                profile_url: https://scholar.google.com/citations?user=FsOJfEYAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=FsOJfEYAAAAJ
                 citations: 422
                 hindex: 7
                 i10index: 7
@@ -1991,7 +2030,7 @@ landscape:
             academics:
               - academic:
                 name: Vinod Menon
-                profile_url: https://scholar.google.com/citations?user=QzqctJgAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=QzqctJgAAAAJ
                 hindex: 125
                 citations: 90821
                 i10index: 243
@@ -2061,7 +2100,7 @@ landscape:
             academics:
               - academic:
                 name: Andrew Huberman
-                profile_url: https://scholar.google.com/citations?user=CoADxCwAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=CoADxCwAAAAJ
                 hindex: 42
                 citations: 11641
                 i10index: 54
@@ -2085,7 +2124,7 @@ landscape:
             academics:
               - academic:
                 name: Steven T. Piantadosi
-                profile_url: https://scholar.google.com/citations?user=zykJTC4AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=zykJTC4AAAAJ
                 hindex: 41
                 citations: 9022
                 i10index: 80
@@ -2105,7 +2144,7 @@ landscape:
             academics:
               - academic:
                 name: Emily Averill Cooper
-                profile_url: https://scholar.google.com/citations?user=6Wo3XX4AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=6Wo3XX4AAAAJ
                 hindex: 22
                 citations: 1741
                 i10index: 28
@@ -2125,7 +2164,7 @@ landscape:
             academics:
               - academic:
                 name: Jack Gallant
-                profile_url: https://scholar.google.com/citations?user=nSZG-vcAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=nSZG-vcAAAAJ
                 hindex: 57
                 citations: 20864
                 i10index: 77
@@ -2150,7 +2189,7 @@ landscape:
             academics:
               - academic:
                 name: Frederic Theunissen
-                profile_url: https://scholar.google.com/citations?user=0gyS3z0AAAAJ&hl=fr
+                profile_url: https://scholar.google.com/citations?user=0gyS3z0AAAAJ
                 hindex: 48
                 citations: 11199
                 i10index: 69
@@ -2175,7 +2214,7 @@ landscape:
             academics:
               - academic:
                 name: Kristofer Bouchard
-                profile_url: https://scholar.google.com/citations?user=mDvGOLkAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=mDvGOLkAAAAJ
                 hindex: 21
                 citations: 2173
                 i10index: 34
@@ -2216,7 +2255,7 @@ landscape:
             academics:
               - academic:
                 name: ZHAO Zhengtuo
-                profile_url: https://scholar.google.com/citations?user=2iEqeocAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=2iEqeocAAAAJ
                 hindex: 11
                 i10index: 12
                 citations: 994
@@ -2281,13 +2320,13 @@ landscape:
             academics:
               - academic:
                 name: Greg Gage
-                profile_url: https://scholar.google.com/citations?user=Go7O96oAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=Go7O96oAAAAJ
                 hindex: 15
                 citations: 2412
                 i10index: 17
               - academic:
                 name: Brian Tracy
-                profile_url: https://scholar.google.com/citations?user=NMhIoVMAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=NMhIoVMAAAAJ
                 hindex: 28
                 citations: 5424
                 i10index: 44
@@ -2305,25 +2344,25 @@ landscape:
             academics:
               - academic:
                 name: Jonathan P. Newman
-                profile_url: https://scholar.google.com/citations?user=Zjv7NDUAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=Zjv7NDUAAAAJ
                 citations: 640
                 hindex: 13
                 i10index: 14
               - academic:
                 name: Joshua H. Siegle
-                profile_url: https://scholar.google.com/citations?user=jxKYDrEAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=jxKYDrEAAAAJ
                 citations: 5508
                 hindex: 27
                 i10index: 30
               - academic:
                 name: Jakob Voigts
-                profile_url: https://scholar.google.com/citations?user=mddoaI0AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=mddoaI0AAAAJ
                 citations: 1276
                 hindex: 13
                 i10index: 15
               - academic:
                 name: Matthew A. Wilson
-                profile_url: https://scholar.google.com/citations?user=OAjQDMwAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=OAjQDMwAAAAJ
                 citations: 52115
                 hindex: 74
                 i10index: 140
@@ -2336,6 +2375,48 @@ landscape:
                 country: Portugal
             extra:
               summary_tags: hardware, electrophysiology, open-source, tools, allen-institute, mit, brain-initiative, nih
+          - item:
+            name: pyPhotometry
+            description: system of open source hardware and software for neuroscience fiber photometry data acquisition, consisting of an acquisition board and graphical user interface.
+            homepage_url: https://pyphotometry.readthedocs.io/en/latest/
+            repo_url: https://github.com/pyPhotometry/code
+            logo: pyphotometry.svg
+            academics:
+              - academic:
+                name: Thomas Akam
+                profile_url: https://scholar.google.com/citations?user=b809FRsAAAAJ
+                citations: 1432
+                hindex: 16
+                i10index: 17
+            locations:
+              - location:
+                country: UK
+            extra:
+              summary_tags: oxford
+          - item:
+            name: UC2
+            description: UC2 is a general-purpose modular framework for making interactive (electro)-optical projects.
+            homepage_url: https://github.com/openUC2/UC2-GIT
+            repo_url: https://github.com/openUC2/UC2-GIT
+            logo: uc2.svg
+            academics:
+              - academic:
+                name: Benedict Diederich
+                profile_url: https://scholar.google.de/citations?user=TvSHTGkAAAAJ
+                citations: 411
+                hindex: 10
+                i10index: 11
+              - academic:
+                name: René Lachmann
+                profile_url: https://scholar.google.de/citations?user=kNlEu-sAAAAJ
+                citations: 170
+                hindex: 5
+                i10index: 4
+            locations:
+              - location:
+                country:
+            extra:
+              summary_tags: germany, open-uc2
       - subcategory:
         name: Surgery
         items:
@@ -2390,7 +2471,7 @@ landscape:
             academics:
               - academic:
                 name: Paul J. Tadrous
-                profile_url: https://scholar.google.com/citations?user=Fb7jTjoAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=Fb7jTjoAAAAJ
                 citations: 2525
                 hindex: 21
                 i10index: 24
@@ -2408,7 +2489,7 @@ landscape:
             academics:
               - academic:
                 name: Filip Janiak
-                profile_url: https://scholar.google.pl/citations?user=_ltvaeYAAAAJ&hl=pl
+                profile_url: https://scholar.google.pl/citations?user=_ltvaeYAAAAJ
                 citations: 320
                 hindex: 12
                 i10index: 15
@@ -2426,7 +2507,7 @@ landscape:
             academics:
               - academic:
                 name: André Maia Chagas
-                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ
                 citations: 1002
                 hindex: 10
                 i10index: 11
@@ -2571,6 +2652,16 @@ landscape:
             logo: connectome-db.svg
             extra:
               summary_tags: connectomics, human
+          - item:
+            name: OpenNeuro
+            description: A major free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data.
+            homepage_url: https://openneuro.org
+            logo: openneuro.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: mri, pet, meg, eeg, bids, datalad, nih, brain-initiative, stanford, sqm.io, cophenagen, nsf
       - subcategory:
         name: Transcriptomics
         items:
@@ -2623,13 +2714,13 @@ landscape:
             academics:
               - academic:
                 name: Daniela Bourges-Waldegg
-                profile_url: https://scholar.google.com/citations?user=6-K_5jIAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=6-K_5jIAAAAJ
                 citations: 381
                 hindex: 10
                 i10index: 10
               - academic:
                 name: Eric Perkins
-                profile_url: https://scholar.google.com/citations?user=uuOw_jQAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=uuOw_jQAAAAJ
                 citations: 309
                 hindex: 4
                 i10index: 4
@@ -2872,7 +2963,7 @@ landscape:
             academics:
               - academic:
                 name: Luke Hammond
-                profile_url: https://scholar.google.com/citations?user=Kyb0tMQAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=Kyb0tMQAAAAJ
                 citations: 1156
                 hindex: 13
                 i10index: 13
@@ -2893,7 +2984,7 @@ landscape:
             academics:
               - academic:
                 name: Raphael Vallat
-                profile_url: https://scholar.google.fr/citations?user=XH8IG2UAAAAJ&hl=fr
+                profile_url: https://scholar.google.fr/citations?user=XH8IG2UAAAAJ
                 citations: 1822
                 hindex: 15
                 i10index: 15
@@ -2913,13 +3004,13 @@ landscape:
             academics:
               - academic:
                 name: Sebastian James
-                profile_url: https://scholar.google.com/citations?user=q7nbjxgAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=q7nbjxgAAAAJ
                 citations: 33
                 hindex: 2
                 i10index: 1
               - academic:
                 name: Stuart Wilson
-                profile_url: https://scholar.google.com/citations?user=3GjSH5EAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=3GjSH5EAAAAJ
                 citations: 9574
                 hindex: 45
                 i10index: 59
@@ -2946,37 +3037,37 @@ landscape:
                 i10index: 170
               - academic:
                 name: Alexis Thual
-                profile_url: https://scholar.google.com/citations?user=FjmtlVkAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=FjmtlVkAAAAJ
                 citations: 31
                 hindex: 3
                 i10index: 2
               - academic:
                 name: Elizabeth DuPre
-                profile_url: https://scholar.google.ca/citations?user=9FzK0bcAAAAJ&hl=en
+                profile_url: https://scholar.google.ca/citations?user=9FzK0bcAAAAJ
                 citations: 3255
                 hindex: 17
                 i10index: 20
               - academic:
                 name: Hao-Ting Wang
-                profile_url: https://scholar.google.com/citations?user=FrlzI8IAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=FrlzI8IAAAAJ
                 citations: 2120
                 hindex: 19
                 i10index: 23
               - academic:
                 name: Jérôme Dockès
-                profile_url: https://scholar.google.com/citations?user=PXeh3qwAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=PXeh3qwAAAAJ
                 citations: 180
                 hindex: 3
                 i10index: 2
               - academic:
                 name: Nicolas Gensollen
-                profile_url: https://scholar.google.com/citations?user=4UsQKiwAAAAJ&hl=fr
+                profile_url: https://scholar.google.com/citations?user=4UsQKiwAAAAJ
                 citations: 115
                 hindex: 6
                 i10index: 2
               - academic:
                 name: Remi Gau
-                profile_url: https://scholar.google.com/citations?user=gXOB3q8AAAAJ&hl=fr
+                profile_url: https://scholar.google.com/citations?user=gXOB3q8AAAAJ
                 citations: 1316
                 hindex: 12
                 i10index: 12
@@ -3007,13 +3098,13 @@ landscape:
             academics:
               - academic:
                 name: Adam L Tyson
-                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ
                 citations: 489
                 hindex: 11
                 i10index: 11
               - academic:
                 name: Federico Claudi
-                profile_url: https://scholar.google.co.uk/citations?user=8eDOmAQAAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=8eDOmAQAAAAJ
                 citations: 308
                 hindex: 7
                 i10index: 7
@@ -3055,31 +3146,31 @@ landscape:
             academics:
               - academic:
                 name: Alexandre Gramfort
-                profile_url: https://scholar.google.com/citations?user=fhxshS0AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=fhxshS0AAAAJ
                 citations: 112101
                 hindex: 60
                 i10index: 155
               - academic:
                 name: Martin Luessi
-                profile_url: https://scholar.google.com/citations?user=GMo1tYEAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=GMo1tYEAAAAJ
                 citations: 5142
                 hindex: 16
                 i10index: 19
               - academic:
                 name: Eric R. Larson
-                profile_url: https://scholar.google.com/citations?user=bv0ezf0AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=bv0ezf0AAAAJ
                 citations: 3550
                 hindex: 34
                 i10index: 60
               - academic:
                 name: Denis A. Engemann
-                profile_url: https://scholar.google.de/citations?user=ombAzhMAAAAJ&hl=en
+                profile_url: https://scholar.google.de/citations?user=ombAzhMAAAAJ
                 citations: 7211
                 hindex: 24
                 i10index: 37
               - academic:
                 name: Christian Brodbeck
-                profile_url: https://scholar.google.com/citations?user=m2x515IAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=m2x515IAAAAJ
                 citations: 5341
                 hindex: 14
                 i10index: 19
@@ -3090,6 +3181,54 @@ landscape:
                 country: USA
             extra:
               summary_tags: eeg meg, chan-zuckerberg-foundation, google, nih, nsf, erc, anr, amazon, us-department-of-energy, stars-2000
+          - item:
+            name: ITK-SNAP
+            description: ITK-SNAP is a free, open-source, multi-platform software application used to segment structures in 3D and 4D biomedical images.
+            homepage_url: http://www.itksnap.org/
+            repo_url: https://github.com/ABRG-Models/Stalefish
+            logo: stalefish.svg
+            academics:
+              - academic:
+                name: Paul Yushkevich
+                profile_url: https://scholar.google.com/citations?user=x-a4f8wAAAAJ
+                citations: 26657
+                hindex: 56
+                i10index: 159
+              - academic:
+                name: Jilei Hao
+                profile_url: https://scholar.google.com/citations?user=6SIsC2UAAAAJ
+                citations: 1
+                hindex: 1
+                i10index: 0
+              - academic:
+                name: Alison Pouch
+                profile_url: https://scholar.google.com/citations?user=FLKTVUYAAAAJ
+                citations: 1311
+                hindex: 23
+                i10index: 30
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: university-of-pennsylvania
+          - item:
+            name: WholeBrain
+            description: |
+              This tool provides a user-friendly and efficient way for scientist with minimal knowledge of computers to create anatomical maps 
+              and integrate this information with behavioral and physiological data for sharing on the web.
+            homepage_url: https://github.com/tractatus/wholebrain/
+            repo_url: https://github.com/tractatus/wholebrain/
+            logo: wholebrain.svg
+            academics:
+              - academic:
+                name: Daniel Fürth
+                profile_url: https://scholar.google.com/citations?user=ZpYuXPIAAAAJ
+                citations: 1640
+                hindex: 11
+                i10index: 11
+            locations:
+              - location:
+                country: Sweden
       - subcategory:
         name: Imaging and Microscopy
         items:
@@ -3207,7 +3346,7 @@ landscape:
             academics:
               - academic:
                 name: Kushal Kolar
-                profile_url: https://scholar.google.com.pe/citations?user=wU_Okg8AAAAJ&hl=fr
+                profile_url: https://scholar.google.com.pe/citations?user=wU_Okg8AAAAJ
                 citations: 583
                 hindex: 3
                 i10index: 3
@@ -3233,7 +3372,7 @@ landscape:
             academics:
               - academic:
                 name: Andrea Giovannucci
-                profile_url: https://scholar.google.com/citations?user=juWp02sAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=juWp02sAAAAJ
                 citations: 3691
                 hindex: 22
                 i10index: 33
@@ -3252,7 +3391,7 @@ landscape:
             academics:
               - academic:
                 name: Peter Rupprecht
-                profile_url: https://scholar.google.ch/citations?user=cNQCYjkAAAAJ&hl=de
+                profile_url: https://scholar.google.ch/citations?user=cNQCYjkAAAAJ
                 citations: 492
                 hindex: 9
                 i10index: 9
@@ -3278,7 +3417,7 @@ landscape:
             academics:
               - academic:
                 name: Venus Sherathiya
-                profile_url: https://scholar.google.com/citations?user=411usK4AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=411usK4AAAAJ
                 citations: 111
                 hindex: 4
                 i10index: 3
@@ -3306,43 +3445,43 @@ landscape:
             academics:
               - academic:
                 name: Marius Pachitariu
-                profile_url: https://scholar.google.com/citations?user=fdHbkSgAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=fdHbkSgAAAAJ
                 citations: 10270
                 hindex: 24
                 i10index: 28
               - academic:
                 name: Carsen Stringer
-                profile_url: https://scholar.google.co.uk/citations?user=6v9BmeYAAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=6v9BmeYAAAAJ
                 citations: 5120
                 hindex: 15
                 i10index: 17
               - academic:
                 name: Sven Schröder
-                profile_url: https://scholar.google.com/citations?user=3K6NzFcAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=3K6NzFcAAAAJ
                 citations: 1888
                 hindex: 22
                 i10index: 47
               - academic:
                 name: Mario Dipoppa
-                profile_url: https://scholar.google.com/citations?user=QaFiSZUAAAAJ&hl=it
+                profile_url: https://scholar.google.com/citations?user=QaFiSZUAAAAJ
                 citations: 1551
                 hindex: 13
                 i10index: 13
               - academic:
                 name: L. Federico Rossi
-                profile_url: https://scholar.google.com/citations?user=xxrep34AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=xxrep34AAAAJ
                 citations: 1156
                 hindex: 9
                 i10index: 9
               - academic:
                 name: Matteo Carandini
-                profile_url: https://scholar.google.com/citations?user=R3PGFHsAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=R3PGFHsAAAAJ
                 citations: 30283
                 hindex: 80
                 i10index: 112
               - academic:
                 name: Kenneth Harris
-                profile_url: https://scholar.google.com/citations?user=jcYBNfIAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=jcYBNfIAAAAJ
                 citations: 32208
                 hindex: 74
                 i10index: 120
@@ -3366,13 +3505,13 @@ landscape:
             academics:
               - academic:
                 name: Yuhan Wang
-                profile_url: https://scholar.google.com/citations?user=tIWfvJcAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=tIWfvJcAAAAJ
                 citations: 365
                 hindex: 8
                 i10index: 8
               - academic:
                 name: Konrad Rokicki
-                profile_url: https://scholar.google.com/citations?user=DLHPD1kAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=DLHPD1kAAAAJ
                 citations: 1958
                 hindex: 9
                 i10index: 9
@@ -3393,7 +3532,7 @@ landscape:
             academics:
               - academic:
                 name: Robert Haase
-                profile_url: https://scholar.google.de/citations?user=giB4g-MAAAAJ&hl=de
+                profile_url: https://scholar.google.de/citations?user=giB4g-MAAAAJ
                 citations: 1719
                 hindex: 19
                 i10index: 26
@@ -3403,6 +3542,72 @@ landscape:
                 country: Germany
             extra:
               summary_tags: fiji, icy
+          - item:
+            name: DIPY
+            description: |
+              DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images.
+              Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.
+            homepage_url: https://dipy.org/
+            repo_url: https://github.com/dipy/dipy
+            logo: dipy.svg
+            academics:
+              - academic:
+                name: Eleftherios Garyfallidis
+                profile_url: https://scholar.google.com/citations?user=Ln2EyRYAAAAJ
+                citations: 5298
+                hindex: 26
+                i10index: 46
+              - academic:
+                name: Matthew Brett
+                profile_url: https://scholar.google.com.vn/citations?user=q12RP7AAAAAJ
+                citations: 64079
+                hindex: 42
+                i10index: 59
+              - academic:
+                name: Ariel Rokem
+                profile_url: https://scholar.google.com/citations?user=hrBeLVYAAAAJ
+                citations: 7583
+                hindex: 40
+                i10index: 64
+              - academic:
+                name: Stéfan van der Walt
+                profile_url: https://scholar.google.com/citations?user=WWa5B6kAAAAJ
+                citations: 59736
+                hindex: 20
+                i10index: 25
+              - academic:
+                name: Maxime Descoteaux
+                profile_url: https://scholar.google.com/citations?user=ohzG9ScAAAAJ
+                citations: 15724
+                hindex: 60
+                i10index: 177
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: ml, statistics, nih, chan-zuckerberg-foundation, uw
+          - item:
+            name: neuTube
+            description: |
+              DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images.
+              Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.
+            homepage_url: https://www.neutracing.com/
+            repo_url: https://github.com/tingzhao/neutube
+            logo: neutube.svg
+            academics:
+              - academic:
+                name: Ting Zhao
+                profile_url: https://scholar.google.com/citations?user=lGzMhGIAAAAJ&hl=en
+                citations: 3969
+                hindex: 22
+                i10index: 32
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: South Korea
+            extra:
+              summary_tags: hhmi, kist
       - subcategory:
         name: Segmentation
         items:
@@ -3455,7 +3660,7 @@ landscape:
             academics:
               - academic:
                 name: Adam L Tyson
-                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=YhF8QhoAAAAJ
                 citations: 489
                 hindex: 11
                 i10index: 11
@@ -3604,13 +3809,13 @@ landscape:
             academics:
               - academic:
                 name: James Knight
-                profile_url: https://scholar.google.co.uk/citations?user=asUiHlIAAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=asUiHlIAAAAJ
                 citations: 476
                 hindex: 11
                 i10index: 12
               - academic:
                 name: Thomas Nowotny
-                profile_url: https://scholar.google.ca/citations?user=W3T-i5AAAAAJ&hl=en
+                profile_url: https://scholar.google.ca/citations?user=W3T-i5AAAAAJ
                 citations: 3175
                 hindex: 31
                 i10index: 60
@@ -3632,19 +3837,19 @@ landscape:
             academics:
               - academic:
                 name: Romain Brette
-                profile_url: https://scholar.google.com/citations?user=lEHiPU4AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=lEHiPU4AAAAJ
                 citations: 8477
                 hindex: 39
                 i10index: 71
               - academic:
                 name: Dan Goodman
-                profile_url: https://scholar.google.com/citations?user=2HiNqI4AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=2HiNqI4AAAAJ
                 citations: 4476
                 hindex: 25
                 i10index: 35
               - academic:
                 name: Marcel Stimberg
-                profile_url: https://scholar.google.com/citations?user=KJs3XswAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=KJs3XswAAAAJ
                 citations: 1564
                 hindex: 12
                 i10index: 13
@@ -3667,13 +3872,13 @@ landscape:
             academics:
               - academic:
                 name: Marc-Oliver Gewaltig
-                profile_url: https://scholar.google.com/citations?user=Dy-lNyAAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=Dy-lNyAAAAAJ
                 citations: 4989
                 hindex: 25
                 i10index: 40
               - academic:
                 name: Markus Diesmann
-                profile_url: https://scholar.google.ch/citations?user=q4bTHJoAAAAJ&hl=en
+                profile_url: https://scholar.google.ch/citations?user=q4bTHJoAAAAJ
                 citations: 14387
                 hindex: 54
                 i10index: 116
@@ -3682,6 +3887,60 @@ landscape:
                 country: Switzerland
             extra:
               summary_tags: epfl, blue-brain
+          - item:
+            name: neurolib
+            description: |
+              neurolib is a simulation and optimization framework for whole-brain modeling.
+              It allows you to implement your own neural mass models which can simulate fMRI BOLD activity.
+              neurolib helps you to analyse your simulations, to load and handle structural and functional brain data,
+              and to use powerful evolutionary algorithms to tune your model's parameters and fit it to empirical data.
+            homepage_url: https://github.com/neurolib-dev/neurolib
+            repo_url: https://github.com/neurolib-dev/neurolib
+            logo: neurolib.svg
+            academics:
+              - academic:
+                name: Caglar Cakan
+                profile_url: https://scholar.google.com/citations?user=WcS2RxwAAAAJ
+                citations: 201
+                hindex: 6
+                i10index: 5
+              - academic:
+                name: Nikola Jajcay
+                profile_url: https://scholar.google.cz/citations?user=kynXndQAAAAJ
+                citations: 637
+                hindex: 10
+                i10index: 10
+            locations:
+              - location:
+                city: Berlin
+                country: Germany
+              - location:
+                country: Czechia
+            extra:
+              summary_tags: bccn
+          - item:
+            name: emergent
+            description: |
+              emergent provides a toolkit / framework for implementing neural network models, written in Go, with an optional Python interface that is automatically generated from the Go code. See the github site for all the code and extensive documentation.
+              The primary application of emergent is for the biologically-based Leabra algorithm, which simulates point neuron equations with either rate-code or spiking activations, and a biologically-based form of error-backpropagation based on bidirectional excitatory projections.
+              This more complex, many-state-variable model is not well-supported by existing backpropagation-oriented tools such as PyTorch or TensorFlow, which operate fundamentally on simple tensors of floating-point numbers.
+              A primary goal of emergent is to provide effective GUI interfaces that make it easier to understand the functioning of complex neural models, including an interactive 3D NetView, interactive 2D line and bar plots, heat-map grids of tensors, and tables of data.
+              The eTorch repository provides these interactive GUI elements for PyTorch-based models.
+            homepage_url: http://emersim.org/
+            repo_url: https://github.com/emer/emergent
+            logo: emergent.svg
+            academics:
+              - academic:
+                name: Randall C. O'Reilly
+                profile_url: https://scholar.google.com/citations?user=tZpKKm4AAAAJ
+                citations: 33694
+                hindex: 70
+                i10index: 124
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: bccn, ucdavis
       - subcategory:
         name: Deep Learning
         items:
@@ -3741,7 +4000,7 @@ landscape:
             academics:
               - academic:
                 name: Martin Reuter
-                profile_url: https://scholar.google.com/citations?user=CbdJk1wAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=CbdJk1wAAAAJ
                 citations: 13085
                 hindex: 45
                 i10index: 70
@@ -3752,6 +4011,39 @@ landscape:
                 country: Germany
             extra:
               summary_tags: pytorch, volumetric, reuter-lab, deep-mi-lab, mit, fmri, cnn
+          - item:
+            name: MorphoPy
+            description: |
+              MorphoPy is a Python3 package that uses networkX to compute and show information about neurites.
+              The input can be passed with single swc-files or it can handle whole directories with multiple files at once.
+              You can use MorphoPy imported in Python, as well as from the command line as a batch-tool.
+            homepage_url: https://jollejolles.github.io/pirecorder/
+            repo_url: https://github.com/JolleJolles/pirecorder
+            logo: morphopy.svg
+            academics:
+              - academic:
+                name: Sophie Laturnus
+                profile_url: https://scholar.google.de/citations?user=MDz7wOIAAAAJ
+                citations: 793
+                hindex: 7
+                i10index: 5
+              - academic:
+                name: Ziwei Huang
+                profile_url: https://scholar.google.com/citations?user=nCAr1egAAAAJ
+                citations: 79
+                hindex: 4
+                i10index: 2
+              - academic:
+                name: Philipp Berens
+                profile_url: https://scholar.google.com/citations?user=lPQLk3QAAAAJ
+                citations: 13437
+                hindex: 41
+                i10index: 69
+            locations:
+              - location:
+                country: Germany
+            extra:
+              summary_tags: features
       - subcategory:
         name: Electrophysiology
         items:
@@ -3883,7 +4175,7 @@ landscape:
             academics:
               - academic:
                 name: Luke Campagnola
-                profile_url: https://scholar.google.com/citations?user=CwVAgvcAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=CwVAgvcAAAAJ
                 citations: 1247
                 hindex: 13
                 i10index: 14
@@ -3903,7 +4195,7 @@ landscape:
             academics:
               - academic:
                 name: Marius Pachitariu
-                profile_url: https://scholar.google.com/citations?user=fdHbkSgAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=fdHbkSgAAAAJ
                 citations: 10270
                 hindex: 24
                 i10index: 28
@@ -3923,7 +4215,7 @@ landscape:
             academics:
               - academic:
                 name: Peter Christian Petersen
-                profile_url: https://scholar.google.dk/citations?user=RywQhd8AAAAJ&hl=da
+                profile_url: https://scholar.google.dk/citations?user=RywQhd8AAAAJ
                 citations: 668
                 hindex: 12
                 i10index: 13
@@ -3953,13 +4245,13 @@ landscape:
             academics:
               - academic:
                 name: András Széll
-                profile_url: https://scholar.google.hu/citations?user=IZMp1vQAAAAJ&hl=en
+                profile_url: https://scholar.google.hu/citations?user=IZMp1vQAAAAJ
                 citations: 18
                 hindex: 2
                 i10index: 0
               - academic:
                 name: Balazs Hangya
-                profile_url: https://scholar.google.com/citations?user=v2DY1SwAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=v2DY1SwAAAAJ
                 citations: 4917
                 hindex: 25
                 i10index: 33
@@ -4013,13 +4305,13 @@ landscape:
                 i10index: 21
               - academic:
                 name: Ninon Burgos
-                profile_url: https://scholar.google.com/citations?user=lHuYSU0AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=lHuYSU0AAAAJ
                 citations: 2845
                 hindex: 25
                 i10index: 40
               - academic:
                 name: Simona Bottani
-                profile_url: https://scholar.google.it/citations?user=ayfZcfkAAAAJ&hl=en
+                profile_url: https://scholar.google.it/citations?user=ayfZcfkAAAAJ
                 citations: 1151
                 hindex: 12
                 i10index: 15
@@ -4033,6 +4325,33 @@ landscape:
                 country: Italy
             extra:
               summary_tags: adni, aibl, habs, nifd, oasis, bids, caps, aramis, paris-brain-institute, mir, pet, deep-learning
+          - item:
+            name: ERPLAB
+            description: |
+              ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data.
+              It is tightly integrated with EEGLAB Toolbox, extending EEGLAB's capabilities to provide robust, industrial-strength tools for ERP processing, visualization, and analysis. 
+              A graphical user interface makes it easy for beginners to learn, and Matlab scripting provides enormous power for intermediate and advanced users.
+            homepage_url: http://erpinfo.org/erplab
+            repo_url: https://github.com/ucdavis/erplab
+            logo: erplab.svg
+            academics:
+              - academic:
+                name: Steve Luck
+                profile_url: https://scholar.google.com/citations?user=vlTXmTgAAAAJ
+                citations: 69676
+                hindex: 114
+                i10index: 241
+              - academic:
+                name: Emily Kappenman
+                profile_url: https://scholar.google.com/citations?user=ccbjkokAAAAJ
+                citations: 8097
+                hindex: 34
+                i10index: 47
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: erp, ucdavis, san-diego-state-university
       - subcategory:
         name: Cells & Transcriptomics
         items:
@@ -4107,13 +4426,13 @@ landscape:
             academics:
               - academic:
                 name: Parul Sethi
-                profile_url: https://scholar.google.com/citations?user=a3yddV0AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=a3yddV0AAAAJ
                 citations: 9
                 hindex: 1
                 i10index: 0
               - academic:
                 name: Garima Virmani
-                profile_url: https://scholar.google.com/citations?user=OY_aDjEAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=OY_aDjEAAAAJ
                 citations: 102
                 hindex: 5
                 i10index: 2
@@ -4136,19 +4455,19 @@ landscape:
             academics:
               - academic:
                 name: André Maia Chagas
-                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ
                 hindex: 10
                 citations: 1002
                 i10index: 11
               - academic:
                 name: Matias Andina
-                profile_url: https://scholar.google.com/citations?user=PnTVdPAAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=PnTVdPAAAAAJ
                 citations: 187
                 hindex: 2
                 i10index: 1
               - academic:
                 name: Cecilia Thomsett Herbert
-                profile_url: https://scholar.google.com/citations?user=wAjdb0cAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=wAjdb0cAAAAJ
                 citations: 9
                 hindex: 2
                 i10index: 0
@@ -4173,7 +4492,7 @@ landscape:
             academics:
               - academic:
                 name: Dimitri Yatsenko
-                profile_url: https://scholar.google.com/citations?user=btJnLV8AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=btJnLV8AAAAJ
                 citations: 2249
                 hindex: 17
                 i10index: 23
@@ -4191,13 +4510,13 @@ landscape:
             academics:
               - academic:
                 name: Steffen Bollmann
-                profile_url: https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=de
+                profile_url: https://scholar.google.com/citations?user=HmXlj24AAAAJ
                 citations: 1400
                 hindex: 17
                 i10index: 26
               - academic:
                 name: Angela Renton
-                profile_url: https://scholar.google.com/citations?user=6pC19kMAAAAJ&hl=en&oi=ao
+                profile_url: https://scholar.google.com/citations?user=6pC19kMAAAAJ&oi=ao
                 citations: 89
                 hindex: 5
                 i10index: 3
@@ -4226,13 +4545,13 @@ landscape:
                 i10index: 86
               - academic:
                 name: Anand Sarwate
-                profile_url: https://scholar.google.com/citations?user=jgr1-eEAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=jgr1-eEAAAAJ
                 citations: 6236
                 hindex: 29
                 i10index: 75
               - academic:
                 name: Jessica Turner
-                profile_url: https://scholar.google.com/citations?user=ZKNV2f4AAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=ZKNV2f4AAAAJ
                 citations: 30344
                 hindex: 82
                 i10index: 255
@@ -4242,6 +4561,88 @@ landscape:
                 country: USA
             extra:
               summary_tags: data-sharing
+          - item:
+            name: Uncertainpy
+            description: Uncertainpy is a python toolbox for uncertainty quantification and sensitivity analysis tailored towards computational neuroscience.
+            homepage_url: https://github.com/simetenn/uncertainpy
+            repo_url: https://github.com/simetenn/uncertainpy
+            logo: uncertainpy.svg
+            academics:
+              - academic:
+                name: Simen Tennøe
+                profile_url: https://scholar.google.com/citations?user=zFbLES8AAAAJ
+                citations: 345
+                hindex: 7
+                i10index: 6
+              - academic:
+                name: Geir Halnes
+                profile_url: https://scholar.google.com/citations?user=68xilNsAAAAJ
+                citations: 1003
+                hindex: 18
+                i10index: 26
+              - academic:
+                name: Gaute Einevoll
+                profile_url: https://scholar.google.no/citations?user=np0Lz5kAAAAJ
+                citations: 9901
+                hindex: 47
+                i10index: 112
+            locations:
+              - location:
+                country: Norway
+            extra:
+              summary_tags: statistics
+          - item:
+            name: BrainSMASH
+            description: |
+              BrainSMASH (Brain Surrogate Maps with Autocorrelated Spatial Heterogeneity) is a Python-based computational platform for statistical testing of spatially autocorrelated brain maps.
+              At the heart of BrainSMASH is the ability to simulate surrogate brain maps with spatial autocorrelation that is matched to spatial autocorrelation in a target brain map.
+              Additional utilities are provided for users using Connectome Workbench style surface-based neuroimaging files.
+            homepage_url: https://github.com/murraylab/brainsmash
+            repo_url: https://github.com/murraylab/brainsmash
+            logo: brainsmash.svg
+            academics:
+              - academic:
+                name: Joshua B. Burt
+                profile_url: https://scholar.google.com/citations?user=FeXjzecAAAAJ
+                citations: 1434
+                hindex: 7
+                i10index: 7
+              - academic:
+                name: John D. Murray
+                profile_url: https://scholar.google.com/citations?user=LCAIVIUAAAAJ
+                citations: 8694
+                hindex: 39
+                i10index: 63
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: statistics, dartmouth
+          - item:
+            name: neurodocker
+            description: Generate custom Docker and Singularity images, and minimize existing containers
+            homepage_url: https://www.repronim.org/neurodocker/
+            repo_url: https://github.com/ReproNim/neurodocker
+            logo: repronim.svg
+            academics:
+              - academic:
+                name: Jakub Kaczmarzyk
+                profile_url: https://scholar.google.com/citations?user=1QmdUeUAAAAJ
+                citations: 818
+                hindex: 11
+                i10index: 12
+              - academic:
+                name: Remi Gau
+                profile_url: https://scholar.google.com/citations?user=gXOB3q8AAAAJ
+                citations: 1316
+                hindex: 12
+                i10index: 12
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: neurodesk, containers, cloud
       - subcategory:
         name: Behavior
         items:
@@ -4262,7 +4663,7 @@ landscape:
             academics:
               - academic:
                 name: Jumpei Matsumoto
-                profile_url: https://scholar.google.co.jp/citations?user=_d71FFcAAAAJ&hl=en
+                profile_url: https://scholar.google.co.jp/citations?user=_d71FFcAAAAJ
                 hindex: 22
                 citations: 1735
                 i10index: 42
@@ -4280,7 +4681,7 @@ landscape:
             academics:
               - academic:
                 name: Thomas TOPILKO
-                profile_url: https://scholar.google.com/citations?user=c8-kpPQAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=c8-kpPQAAAAJ
                 citations: 537
                 hindex: 5
                 i10index: 4
@@ -4303,7 +4704,7 @@ landscape:
             academics:
               - academic:
                 name: Thomas Akam
-                profile_url: https://scholar.google.com/citations?user=b809FRsAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=b809FRsAAAAJ
                 citations: 1426
                 hindex: 16
                 i10index: 17
@@ -4327,7 +4728,7 @@ landscape:
             academics:
               - academic:
                 name: Timothy Dunn
-                profile_url: https://scholar.google.com/citations?user=6lIlidIAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=6lIlidIAAAAJ
                 citations: 1830
                 hindex: 14
                 i10index: 18
@@ -4348,7 +4749,7 @@ landscape:
             academics:
               - academic:
                 name: Jonny Saunders
-                profile_url: https://scholar.google.com/citations?user=bTWvCzEAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=bTWvCzEAAAAJ
                 citations: 161
                 hindex: 4
                 i10index: 4
@@ -4369,7 +4770,7 @@ landscape:
             academics:
               - academic:
                 name: Felix Henninger
-                profile_url: https://scholar.google.de/citations?user=X9A-7EsAAAAJ&hl=de
+                profile_url: https://scholar.google.de/citations?user=X9A-7EsAAAAJ
                 citations: 9916
                 hindex: 11
                 i10index: 12
@@ -4392,7 +4793,7 @@ landscape:
             academics:
               - academic:
                 name: Josh de Leeuw
-                profile_url: https://scholar.google.com/citations?user=fUtClyAAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=fUtClyAAAAAJ
                 citations: 2372
                 hindex: 14
                 i10index: 15
@@ -4416,19 +4817,19 @@ landscape:
             academics:
               - academic:
                 name: Alexander Mathis
-                profile_url: https://scholar.google.ch/citations?user=Y1xCzE0AAAAJ&hl=de
+                profile_url: https://scholar.google.ch/citations?user=Y1xCzE0AAAAJ
                 citations: 6888
                 hindex: 24
                 i10index: 27
               - academic:
                 name: Mackenzie Weygandt Mathis
-                profile_url: https://scholar.google.com/citations?user=IhqY9XgAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=IhqY9XgAAAAJ
                 citations: 9030
                 hindex: 23
                 i10index: 26
               - academic:
                 name: Jessy Lauer
-                profile_url: https://scholar.google.com/citations?user=F5tdw9oAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=F5tdw9oAAAAJ
                 citations: 579
                 hindex: 8
                 i10index: 7
@@ -4454,7 +4855,7 @@ landscape:
             academics:
               - academic:
                 name: Jolle W Jolles
-                profile_url: https://scholar.google.co.uk/citations?user=VCZqbK4AAAAJ&hl=en
+                profile_url: https://scholar.google.co.uk/citations?user=VCZqbK4AAAAJ
                 citations: 1713
                 hindex: 21
                 i10index: 26
@@ -4463,6 +4864,101 @@ landscape:
                 country: Spain
             extra:
               summary_tags: raspberry-pi, imaging, jolleslab
+          - item:
+            name: FastTrack
+            description: FastTrack is a cross-platform application designed to track multiple objects in video recording.
+            homepage_url: https://www.fasttrack.sh/
+            repo_url: https://github.com/FastTrackOrg/FastTrack
+            logo: fasttrack.svg
+            locations:
+              - location:
+                country: France
+            extra:
+              summary_tags: tracking, behavioral, video
+          - item:
+            name: SLEAP
+            description: |
+              SLEAP is an open source deep-learning based framework for multi-animal pose tracking (Pereira et al., Nature Methods, 2022). 
+              It can be used to track any type or number of animals and includes an advanced labeling/training GUI for active learning and proofreading.
+            homepage_url: https://sleap.ai
+            repo_url: https://github.com/talmolab/sleap
+            logo: sleap.svg
+            academics:
+              - academic:
+                name: Pereira, Talmo D
+                profile_url: https://scholar.google.com/citations?user=tFrElIUAAAAJ
+                citations: 1788
+                hindex: 14
+                i10index: 15
+              - academic:
+                name: Matsliah, Arie
+                profile_url: https://scholar.google.com/citations?user=x9ywWiEAAAAJ
+                citations: 1473
+                hindex: 21
+                i10index: 26
+              - academic:
+                name: David Turner
+                profile_url: https://scholar.google.com/citations?user=ceklpzkAAAAJ
+                citations: 845
+                hindex: 11
+                i10index: 11
+            locations:
+              - location:
+                country: USA
+          - item:
+            name: SimBA
+            description: SimBA (Simple Behavioral Analysis), a pipeline and GUI for developing supervised behavioral classifiers.
+            homepage_url: https://github.com/sgoldenlab/simba
+            repo_url: https://github.com/sgoldenlab/simba
+            logo: simba.svg
+            academics:
+              - academic:
+                name: Nilsson, Simon RO
+                profile_url: https://scholar.google.com/citations?user=dKt60xAAAAAJ
+                citations: 1710
+                hindex: 21
+                i10index: 24
+              - academic:
+                name: Goodwin, Nastacia L.
+                profile_url: https://scholar.google.com/citations?user=FzBJaYQAAAAJ
+                citations: 474
+                hindex: 10
+                i10index: 10
+              - academic:
+                name: Jia Jie Choong
+                profile_url: https://scholar.google.com/citations?user=De4kC2AAAAAJ
+                citations: 217
+                hindex: 3
+                i10index: 2
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: no-code, ui, uw
+          - item:
+            name: Stytra
+            description: A modular package to control stimulation and track behaviour.
+            homepage_url: http://www.portugueslab.com/stytra/
+            repo_url: https://github.com/portugueslab/stytra
+            logo: stytra.svg
+            academics:
+              - academic:
+                name: Vilim Štih
+                profile_url: https://scholar.google.com/citations?user=No0UofIAAAAJ
+                citations: 307
+                hindex: 6
+                i10index: 5
+              - academic:
+                name: Luigi Petrucco
+                profile_url: https://scholar.google.it/citations?user=FQDeRWQAAAAJ
+                citations: 333
+                hindex: 8
+                i10index: 8
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: portugues-lab, zebrafish
   - category:
     name: Books
     subcategories:
@@ -4589,7 +5085,7 @@ landscape:
             academics:
               - academic:
                 name: Andrew Huberman
-                profile_url: https://scholar.google.com/citations?user=CoADxCwAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=CoADxCwAAAAJ
                 hindex: 42
                 citations: 11641
             locations:
@@ -4633,7 +5129,7 @@ landscape:
             academics:
               - academic:
                 name: Paul Middlebrooks
-                profile_url: https://scholar.google.com/citations?user=wGUwjdQAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=wGUwjdQAAAAJ
                 hindex: 6
                 citations: 327
                 i10index: 5
