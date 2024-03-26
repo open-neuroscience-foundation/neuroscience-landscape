@@ -323,6 +323,19 @@ landscape:
             locations:
               - location:
                 country: Germany
+          - item:
+            name: LABmaker
+            description: |
+              LabMaker is a maker and assembly service for OPEN SCIENCE instruments. OPEN SCIENCE initiatives provide part lists or "Bill Of Materials" (BOM) for openly available scientific instruments.
+              LabMaker bridges the gap between the BOM and the ready-to-use instrument for those not wanting to build by themselves.
+            homepage_url: https://www.labmaker.org
+            logo: labmaker.svg
+            locations:
+              - location:
+                city: Berlin
+                country: Germany
+            extra:
+              summary_tags: open-science
       - subcategory:
         name: Connectomics
         items:
@@ -736,6 +749,32 @@ landscape:
                 country: UK
             extra:
               summary_tags: software, tooling, ucl, sainsbury, gatsby
+          - item:
+            name: OME
+            description: OME is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data.
+            homepage_url: https://www.openmicroscopy.org
+            github_org_url: https://github.com/openmicroscopy
+            logo: ome.svg
+            academics:
+              - academic:
+                name: Jason Swedlow
+                profile_url: https://scholar.google.com/citations?user=wlaX20IAAAAJ&hl=en
+                citations: 16441
+                hindex: 63
+                i10index: 109
+              - academic:
+                name: Alvis Brazma
+                profile_url: https://scholar.google.com/citations?user=4QnYN1sAAAAJ&hl=en
+                citations: 64229
+                hindex: 81
+                i10index: 178
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: UK
+            extra:
+              summary_tags: microscopy
       - subcategory:
         name: Societies
         items:
@@ -2269,7 +2308,7 @@ landscape:
     name: Hardware
     subcategories:
       - subcategory:
-        name: Sensors
+        name: Sensors and Electrophysiology
         items:
           - item:
             name: Neuropixels
@@ -2285,27 +2324,6 @@ landscape:
                 country: USA
             extra:
               summary_tags: allen-institute, neuropixels, ucl, hhmi
-          - item:
-            name: "DaXi: High-Resolution, Large Imaging Volume, and Multi-View Single Objective Light-Sheet Microscope"
-            description: |
-              The DaXi microscope is a single-objective light-sheet microscope design that combines the advantages of 
-              standard single-objective microscopes with the speed, coverage, resolution, and gentleness of light-sheet microscopes.
-              Its main features include a wider field of view and high-resolution imaging via a custom remote focusing objective, 
-              fast volumetric imaging over larger volumes without compromising image quality or necessitating tiled acquisition, 
-              fuller image coverage for large samples via multi-view imaging, and higher throughput multi-well imaging via remote coverslip placement. 
-              The microscope achieves a resolution of 450 nm laterally and 2 μm axially over an imaging volume of 3,000 x 800 x 300 μm, 
-              making it suitable for imaging large living samples such as developing embryos. 
-              The DaXi microscope also improves sample mounting ergonomics and can be converted from upright to inverted using remote focusing. 
-              The microscope has been successfully used to image various systems, including Drosophila egg chamber development, 
-              zebrafish whole-brain activity, and zebrafish embryonic development, up to nine embryos at a time.
-            homepage_url: https://github.com/royerlab/daxi
-            repo_url: https://github.com/royerlab/daxi
-            logo: daxi.svg
-            locations:
-              - location:
-                country: USA
-            extra:
-              summary_tags: chan-zuckerberg-foundation, royer-lab, microscope
           - item:
             name: Backyard Brains
             description: |
@@ -2375,6 +2393,9 @@ landscape:
                 country: Portugal
             extra:
               summary_tags: hardware, electrophysiology, open-source, tools, allen-institute, mit, brain-initiative, nih
+      - subcategory:
+        name: Microscopy and Imaging
+        items:
           - item:
             name: pyPhotometry
             description: system of open source hardware and software for neuroscience fiber photometry data acquisition, consisting of an acquisition board and graphical user interface.
@@ -2417,43 +2438,6 @@ landscape:
                 country:
             extra:
               summary_tags: germany, open-uc2
-      - subcategory:
-        name: Surgery
-        items:
-          - item:
-            name: Auto-Surgery
-            description: A method for performing precise surgery, automated cranitomies and large cranial windows.
-            homepage_url: http://www.autosurgery.org
-            logo: autosurgery.svg
-            locations:
-              - location:
-                country: USA
-            extra:
-              summary_tags: mit, allen-institute
-      - subcategory:
-        name: Lab Equipment
-        items:
-          - item:
-            name: "ZAF: Zebrafish Automated Feeder"
-            description: |
-              In the past few decades, aquatic animals have become popular model organisms in biology, spurring a growing interest in establishing aquatic facilities. 
-              Aquatic zebrafish are widely studied and relatively easy to culture using commercial systems. 
-              However, a challenging aspect of maintaining aquatic facilities is animal feeding, which is both time- and resource-consuming. 
-              To facilitate the implementation of a zebrafish colony in any laboratory, we developed an open-source fully automatic daily feeding system.
-              We named our system ZAF for Zebrafish Automatic Feeder. 
-              ZAF is reliable, provides a standardized amount of food to every tank, is cost-efficient and easy to build. 
-              The advanced version, ZAF+, allows for the precise control of food distribution as a function of fish density per tank. 
-              Here we provide all of the instructions to build the two automatic feeding systems, from the hardware and a friendly user interface 
-              to the open-source python code. Importantly, the design is modular and can be scaled depending on user needs. 
-              Furthermore, our results confirm that ZAF and ZAF+ do not adversely affect zebrafish culture, enabling fully automatic feeding for any aquatic facility.
-            homepage_url: https://github.com/royerlab/ZAF
-            repo_url: https://github.com/royerlab/ZAF
-            logo: zaf.svg
-            locations:
-              - location:
-                country: USA
-            extra:
-              summary_tags: chan-zuckerberg-foundation, royer-lab, zebrafish
           - item:
             name: PUMA
             description: |
@@ -2516,6 +2500,83 @@ landscape:
                 country: UK
             extra:
               summary_tags: microscopy, sussex, baden-lab
+          - item:
+            name: "DaXi: High-Resolution, Large Imaging Volume, and Multi-View Single Objective Light-Sheet Microscope"
+            description: |
+              The DaXi microscope is a single-objective light-sheet microscope design that combines the advantages of 
+              standard single-objective microscopes with the speed, coverage, resolution, and gentleness of light-sheet microscopes.
+              Its main features include a wider field of view and high-resolution imaging via a custom remote focusing objective, 
+              fast volumetric imaging over larger volumes without compromising image quality or necessitating tiled acquisition, 
+              fuller image coverage for large samples via multi-view imaging, and higher throughput multi-well imaging via remote coverslip placement. 
+              The microscope achieves a resolution of 450 nm laterally and 2 μm axially over an imaging volume of 3,000 x 800 x 300 μm, 
+              making it suitable for imaging large living samples such as developing embryos. 
+              The DaXi microscope also improves sample mounting ergonomics and can be converted from upright to inverted using remote focusing. 
+              The microscope has been successfully used to image various systems, including Drosophila egg chamber development, 
+              zebrafish whole-brain activity, and zebrafish embryonic development, up to nine embryos at a time.
+            homepage_url: https://github.com/royerlab/daxi
+            repo_url: https://github.com/royerlab/daxi
+            logo: daxi.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: chan-zuckerberg-foundation, royer-lab, microscope
+          - item:
+            name: MicroscoPy
+            description: |
+              https://github.com/IBM/MicroscoPy
+            homepage_url: https://github.com/IBM/MicroscoPy
+            repo_url: https://github.com/IBM/MicroscoPy
+            logo: microsco-py.svg
+            academics:
+              - item:
+                name: Yuksel Temiz
+                profile_url: https://scholar.google.com/citations?user=jo4NxswAAAAJ
+                citations: 1525
+                hindex: 18
+                i10index: 31
+            locations:
+              - location:
+                country: Switzerland
+            extra:
+              summary_tags: ibm, stars-1000, 3d-printed
+      - subcategory:
+        name: Surgery
+        items:
+          - item:
+            name: Auto-Surgery
+            description: A method for performing precise surgery, automated cranitomies and large cranial windows.
+            homepage_url: http://www.autosurgery.org
+            logo: autosurgery.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: mit, allen-institute
+      - subcategory:
+        name: Lab Equipment
+        items:
+          - item:
+            name: "ZAF: Zebrafish Automated Feeder"
+            description: |
+              In the past few decades, aquatic animals have become popular model organisms in biology, spurring a growing interest in establishing aquatic facilities. 
+              Aquatic zebrafish are widely studied and relatively easy to culture using commercial systems. 
+              However, a challenging aspect of maintaining aquatic facilities is animal feeding, which is both time- and resource-consuming. 
+              To facilitate the implementation of a zebrafish colony in any laboratory, we developed an open-source fully automatic daily feeding system.
+              We named our system ZAF for Zebrafish Automatic Feeder. 
+              ZAF is reliable, provides a standardized amount of food to every tank, is cost-efficient and easy to build. 
+              The advanced version, ZAF+, allows for the precise control of food distribution as a function of fish density per tank. 
+              Here we provide all of the instructions to build the two automatic feeding systems, from the hardware and a friendly user interface 
+              to the open-source python code. Importantly, the design is modular and can be scaled depending on user needs. 
+              Furthermore, our results confirm that ZAF and ZAF+ do not adversely affect zebrafish culture, enabling fully automatic feeding for any aquatic facility.
+            homepage_url: https://github.com/royerlab/ZAF
+            repo_url: https://github.com/royerlab/ZAF
+            logo: zaf.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: chan-zuckerberg-foundation, royer-lab, zebrafish
           - item:
             name: FrescoM
             description: This is an an open-source hardware that allows for automatic high-throughput generation of large amounts of cell biology data.
@@ -2662,6 +2723,44 @@ landscape:
                 country: USA
             extra:
               summary_tags: mri, pet, meg, eeg, bids, datalad, nih, brain-initiative, stanford, sqm.io, cophenagen, nsf
+          - item:
+            name: BossDB
+            description: |
+              BossDB is a volumetric database for 3D and 4D neuroscience data, focused on Electron Microscopy and X-ray Micro/Nano Tomography.
+              Store petabytes of high-dimensional data faster and bigger. BossDB currently stores thousands of terabytes of data from all over the world.
+            homepage_url: https://bossdb.org
+            repo_url: https://github.com/jhuapl-boss/boss/
+            logo: bossdb.svg
+            academics:
+              - academic:
+                name: Brock Wester
+                profile_url: https://scholar.google.com/citations?user=Xb9h0MwAAAAJ
+                citations: 1682
+                hindex: 21
+                i10index: 33
+              - academic:
+                name: William R. Gray-Roncal
+                profile_url: https://scholar.google.com/citations?user=54lnkjAAAAAJ
+                citations: 2053
+                hindex: 18
+                i10index: 25
+              - academic:
+                name: Jordan Matelsky
+                profile_url: https://scholar.google.com/citations?user=QgJ7CPUAAAAJ
+                citations: 373
+                hindex: 9
+                i10index: 9
+              - academic:
+                name: Erik Johnson
+                profile_url: https://scholar.google.com/citations?user=1xfrN5kAAAAJ
+                citations: 423
+                hindex: 11
+                i10index: 13
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: electron-microscopy, 3d, 4d, brain-initiative, aws
       - subcategory:
         name: Transcriptomics
         items:
@@ -2791,6 +2890,13 @@ landscape:
             homepage_url: https://github.com/google/neuroglancer
             repo_url: https://github.com/google/neuroglancer
             logo: neuroglancer.svg
+            locations:
+              - location:
+                country: USA
+              - location:
+                country: UK
+              - location:
+                country: Global
             extra:
               summary_tags: connectomics, tissue-slices, google, stars-800
           - item:
@@ -3229,6 +3335,60 @@ landscape:
             locations:
               - location:
                 country: Sweden
+          - item:
+            name: Slicer
+            description: |
+              A software application for visualization and analysis of medical image computing data sets. All commonly used data sets are supported, such as images, segmentations, surfaces, annotations, transformations, etc., in 2D, 3D, and 4D. Visualization is available on desktop and in virtual reality. Analysis includes segmentation, registration, and various quantifications.
+              A research software platform, which allows researchers to quickly develop and evaluate new methods and distribute them to clinical users. All features are available and extensible in Python and C++. A full Python environment is provided where any Python packages can be installed and combined with built-in features. Slicer has a built-in Python console and can act as a Jupyter notebook kernel with remote 3D rendering capabilities.
+              Product development platform, which allows companies to quickly prototype and release products to users. Developers can focus on developing new methods and do not need to spend time with redeveloping basic data import/export, visualization, interaction features. The application is designed to be highly customizable (with custom branding, simplified user interface, etc.). 3D Slicer is completely free and there are no restrictions on how it is used - it is up to the software distributor to ensure that the developed application is suitable for the intended use.
+            homepage_url: https://www.slicer.org/
+            repo_url: https://github.com/Slicer/Slicer
+            logo: slicer.svg
+            academics:
+              - academic:
+                name: Andrey Fedorov
+                profile_url: https://scholar.google.com/citations?user=gaI80hgAAAAJ
+                citations: 17438
+                hindex: 35
+                i10index: 78
+              - academic:
+                name: Kalpathy-Cramer J.
+                profile_url: https://scholar.google.com/citations?user=8JTcfFMAAAAJ
+                citations: 29788
+                hindex: 68
+                i10index: 222
+              - academic:
+                name: Julien Finet
+                profile_url: https://scholar.google.bg/citations?user=AvyagSsAAAAJ
+                citations: 6675
+                hindex: 3
+                i10index: 2
+              - academic:
+                name: Jean-Christophe Fillion-Robin
+                profile_url: https://scholar.google.com/citations?user=gMzGjCgAAAAJ
+                citations: 11325
+                hindex: 13
+                i10index: 16
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: harvard, dmri, morpometric-analysis, 3d, radiomics, stars-1000
+          - item:
+            name: BrainBrowser
+            description: |
+              BrainBrowser is an open source JavaScript library exposing a set of web-based 3D visualization tools primarily targetting neuroimaging [Sherif et al. 2015].
+              Using open web-standard technologies, such as WebGL and HTML5, it allows for real-time manipulation and analysis of 3D imaging data through any modern web browser.
+              The BrainBrowser Surface Viewer is a WebGL-based 3D viewer capable of displaying 3D surfaces in real-time and mapping various sorts of data to them.
+              The BrainBrowser Volume Viewer is an HTML5 canvas-based viewer allowing slice-by-slice traversal of MINC, NIfTI and MGH/freesurfer volumetric data.
+            homepage_url: https://brainbrowser.cbrain.mcgill.ca
+            repo_url: https://github.com/aces/brainbrowser
+            logo: brainbrowser.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: javascript, mcgill
       - subcategory:
         name: Imaging and Microscopy
         items:
@@ -3597,7 +3757,7 @@ landscape:
             academics:
               - academic:
                 name: Ting Zhao
-                profile_url: https://scholar.google.com/citations?user=lGzMhGIAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=lGzMhGIAAAAJ
                 citations: 3969
                 hindex: 22
                 i10index: 32
@@ -3608,6 +3768,66 @@ landscape:
                 country: South Korea
             extra:
               summary_tags: hhmi, kist
+          - item:
+            name: nipype
+            description: |
+              Nipype, an open-source, community-developed initiative under the umbrella of NiPy, is a Python project that provides 
+              a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow. 
+              Nipype provides an environment that encourages interactive exploration of algorithms from different packages 
+              (e.g., SPM, FSL, FreeSurfer, AFNI, Slicer, ANTS), eases the design of workflows within and between packages, 
+              and reduces the learning curve necessary to use different packages. 
+              Nipype is creating a collaborative platform for neuroimaging software development in a high-level language and addressing limitations of existing pipeline systems.
+            homepage_url: https://github.com/nipy/nipype
+            repo_url: https://github.com/nipy/nipype
+            logo: nipy.svg
+            academics:
+              - academic:
+                name: Satrajit Ghosh
+                profile_url: https://scholar.google.com/citations?user=QnYCqUsAAAAJ
+                citations: 18429
+                hindex: 53
+                i10index: 109
+              - academic:
+                name: Krzysztof J. Gorgolewski
+                profile_url: https://scholar.google.com/citations?user=q1CgMZ8AAAAJ
+                citations: 16691
+                hindex: 47
+                i10index: 60
+              - academic:
+                name: Oscar Esteban
+                profile_url: https://scholar.google.com/citations?user=sipSQH8AAAAJ
+                citations: 7468
+                hindex: 21
+                i10index: 27
+              - academic:
+                name: Chris Markiewicz
+                profile_url: https://scholar.google.com/citations?user=8yh5_cgAAAAJ
+                citations: 3527
+                hindex: 19
+                i10index: 109
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: mit, nipy
+          - item:
+            name: micro-manager
+            description: Microscope control and image acquisition integrated with ImageJ.
+            homepage_url: https://micro-manager.org/
+            repo_url: https://github.com/micro-manager/micro-manager
+            logo: micro-manager.svg
+            academics:
+              - academic:
+                name: Mark Tsuchida
+                profile_url: https://scholar.google.com/citations?user=xLZ5O4MAAAAJ
+                citations: 2396
+                hindex: 6
+                i10index: 6
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags:
       - subcategory:
         name: Segmentation
         items:
@@ -4260,6 +4480,17 @@ landscape:
                 country: Hungary
             extra:
               summary_tags: single-cell
+          - item:
+            name: BrainFlow
+            description: BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors.
+            homepage_url: https://brainflow.org
+            repo_url: https://github.com/brainflow-dev/brainflow
+            logo: brainflow.svg
+            locations:
+              - location:
+                country: Norway
+            extra:
+              summary_tags: stars-1000, open-bci
       - subcategory:
         name: Data Formats
         items:
@@ -4352,6 +4583,45 @@ landscape:
                 country: USA
             extra:
               summary_tags: erp, ucdavis, san-diego-state-university
+          - item:
+            name: nibabel
+            description: |
+              Read and write access to common neuroimaging file formats, including: ANALYZE (plain, SPM99, SPM2 and later), GIFTI, NIfTI1, NIfTI2, CIFTI-2, MINC1, MINC2, AFNI BRIK/HEAD, ECAT and Philips PAR/REC.
+              In addition, NiBabel also supports FreeSurfer's MGH, geometry, annotation and morphometry files, and provides some limited support for DICOM.
+              NiBabel's API gives full or selective access to header information (metadata), and image data is made available via NumPy arrays.
+            homepage_url: http://nipy.org/nibabel/
+            repo_url: https://github.com/nipy/nibabel
+            logo: nibabel.svg
+            academics:
+              - academic:
+                name: Matthew Brett
+                profile_url: https://scholar.google.com/citations?user=q12RP7AAAAAJ
+                citations: 64079
+                hindex: 42
+                i10index: 59
+              - academic:
+                name: Chris Markiewicz
+                profile_url: https://scholar.google.com/citations?user=8yh5_cgAAAAJ
+                citations: 3527
+                hindex: 19
+                i10index: 109
+              - academic:
+                name: Michael Hanke
+                profile_url: https://scholar.google.com/citations?user=3tT7QQ8AAAAJ
+                citations: 6150
+                hindex: 27
+                i10index: 42
+              - academic:
+                name: Marc-Alexandre Côté
+                profile_url: https://scholar.google.com.sg/citations?user=L83CE5gAAAAJ
+                citations: 4483
+                hindex: 24
+                i10index: 42
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: mit, nipy
       - subcategory:
         name: Cells & Transcriptomics
         items:
