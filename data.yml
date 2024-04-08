@@ -106,6 +106,128 @@ landscape:
                 country: USA
             extra:
               summary_tags: bci, hardware, eeg
+          - item:
+            name: Precision Neuroscience
+            description: |
+              Precision's goal is to provide breakthrough treatments for the one billion patients worldwide suffering from neurological illnesses.
+              We are building the only brain-computer interface that is designed to be minimally invasive, safely removable, and capable of processing large amounts of data.
+            homepage_url: https://precisionneuro.io
+            crunchbase: https://www.crunchbase.com/organization/precision-neuroscience
+            logo: precision_neuroscience_corporation_logo.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: bci
+          - item:
+            name: Motif
+            description: |
+              First pea-sized brain stimulator designed for humans. Precise brain stimulation with an implant that never touches the brain.
+              Designed to be implanted in a 20-minute procedure.
+            homepage_url: https://www.motifneuro.tech
+            crunchbase: https://www.crunchbase.com/organization/motif-neurotech
+            logo: motif.svg
+            academics:
+              - academic:
+                name: Sameer Sheth
+                profile_url: https://scholar.google.com/citations?user=lgG2xMgAAAAJ
+                citations: 10037
+                hindex: 56
+                i10index: 166
+              - academic:
+                name: Sunil Sheth
+                profile_url: https://scholar.google.com/citations?user=LhKdnzsAAAAJ
+                citations: 7508
+                hindex: 36
+                i10index: 83
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: bci, baylor-college-of-medicine, harvard
+          - item:
+            name: Ruten Neuro
+            description: Ruten is a Brain-Machine Interface company aiming to establish reconstructive treatments for conditions where standard options are either infeasible or ineffective.
+            homepage_url: https://www.ruten-neuro.com
+            logo: ruten.svg
+            locations:
+              - location:
+                city: Tokyo
+                country: Japan
+              - location:
+                city: Sacramento
+                country: USA
+            extra:
+              summary_tags: bci
+          - item:
+            name: Neurosoft Bioelectronics
+            description: |
+              Subdural Electrodes For Sub-Chronic Use
+              The SOFT ECoG is the most compliant and flexible subdural electrode technology in the world. It can be used to record from and stimulate the surface of the brain with no added risk to the patient thanks to its conformability and softness.
+              The devices can be used for a wide range of sub-chronic applications such as the precise identification of epileptogenic brain tissue in drug-resistant epilepsy patients.
+              The SOFT ECoG is a family of products that can be tailored to fit your requirements and we are excited to announce that a wide range of devices will be available for your clinical needs.
+            homepage_url: http://neurosoft-bio.com
+            crunchbase: https://www.crunchbase.com/organization/neurosoft-bioelectronics
+            logo: neurosoft.svg
+            academics:
+              - academic:
+                name: Stéphanie P. Lacour
+                profile_url: https://scholar.google.ch/citations?user=1K-jygEAAAAJ
+                citations: 15192
+                hindex: 60
+                i10index: 155
+              - academic:
+                name: Ivan Minev
+                profile_url: https://scholar.google.com/citations?user=BK1fVjgAAAAJ
+                citations: 2366
+                hindex: 19
+                i10index: 21
+              - academic:
+                name: Dirk De Ridder
+                profile_url: https://scholar.google.be/citations?user=6xmyxH4AAAAJ
+                citations: 27569
+                hindex: 82
+                i10index: 300
+              - academic:
+                name: Christian Hauptmann
+                profile_url: https://scholar.google.de/citations?user=b2x8znYAAAAJ
+                citations: 4126
+                hindex: 34
+                i10index: 52
+            locations:
+              - location:
+                city: Geneva
+                country: Switzerland
+            extra:
+              summary_tags: bci, epfl, sheffield
+          - item:
+            name: Blackrock Neurotech
+            description: |
+              Nearly all BCIs implanted in humans have used Blackrock's technology—specifically the NeuroPort Electrode, the world's most advanced and longest lasting intracortical electrode.
+              1.7K+ published studies.
+              116 peer reviewed journal articles.
+              1000+ research customers.
+              40+ system configurations.
+              19+ years of human studies.
+              30K+ collective days implanted.
+            homepage_url: https://blackrockneurotech.com
+            crunchbase: https://www.crunchbase.com/organization/blackrock-neurotech
+            logo: blackrock-neurotech.svg
+            academics:
+              - academic:
+                name: Florian Solzbacher
+                profile_url: https://scholar.google.com/citations?user=drmp_CAAAAAJ
+                citations: 7572
+                hindex: 44
+                i10index: 104
+            locations:
+              - location:
+                city: Sacramento
+                country: USA
+            extra:
+              summary_tags: bci, utah, utah-array, neuroprosthetics, computer-control, communication, sensory-restoration
       - subcategory:
         name: Visualization
         items:
@@ -758,13 +880,13 @@ landscape:
             academics:
               - academic:
                 name: Jason Swedlow
-                profile_url: https://scholar.google.com/citations?user=wlaX20IAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=wlaX20IAAAAJ
                 citations: 16441
                 hindex: 63
                 i10index: 109
               - academic:
                 name: Alvis Brazma
-                profile_url: https://scholar.google.com/citations?user=4QnYN1sAAAAJ&hl=en
+                profile_url: https://scholar.google.com/citations?user=4QnYN1sAAAAJ
                 citations: 64229
                 hindex: 81
                 i10index: 178
@@ -775,6 +897,19 @@ landscape:
                 country: UK
             extra:
               summary_tags: microscopy
+          - item:
+            name: NeuroTechX
+            description: |
+              NeuroTechX is a non-profit organization whose mission is to facilitate the advancement of neurotechnology by providing key resources and learning opportunities, and by being leaders in local and worldwide technological initiatives. Our 3 pillars are “Community”, “Education”, and “Professional Development”.
+              NeuroTechX has active Slack channel, events, and jobs board.
+            homepage_url: http://neurotechx.com/
+            github_org_url: https://github.com/NeuroTechX/
+            logo: neurotechx.svg
+            locations:
+              - location:
+                country: Worldwide
+              - location:
+                country: Canada
       - subcategory:
         name: Societies
         items:

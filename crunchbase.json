@@ -435,5 +435,103 @@
                 "kind": "pre-seed"
             }
         ]
+    },
+    "https://www.crunchbase.com/organization/precision-neuroscience": {
+        "name": "Precision Neuroscience",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "New York",
+        "country": "USA",
+        "num_employees_max": 50,
+        "num_employees_min": 21,
+        "funding": 53000000,
+        "funding_rounds": [
+            {
+                "amount": 41000000,
+                "announced_on": "2023-01-25",
+                "kind": "series_b"
+            },
+            {
+                "amount": 12000000,
+                "announced_on": "2021-05-25",
+                "kind": "series_a"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/motif-neurotech": {
+        "name": "Motif Neurotech",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Texas",
+        "country": "USA",
+        "num_employees_max": 10,
+        "num_employees_min": 1,
+        "funding": 18900000,
+        "funding_rounds": [
+            {
+                "amount": 18800000,
+                "announced_on": "2024-01-24",
+                "kind": "series_a"
+            },
+            {
+                "amount": 100000,
+                "announced_on": "2023-02-28",
+                "kind": "seed"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/neurosoft-bioelectronics": {
+        "name": "Neurosoft Bioelectronics",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Geneva",
+        "country": "Switzerland",
+        "num_employees_max": 10,
+        "num_employees_min": 1,
+        "funding": 3300000,
+        "funding_rounds": [
+            {
+                "amount": 2880000,
+                "announced_on": "2022-03-29",
+                "kind": "grant"
+            },
+            {
+                "amount": 110000,
+                "announced_on": "2021-12-17",
+                "kind": "grant"
+            },
+            {
+                "amount": 166000,
+                "announced_on": "2021-01-28",
+                "kind": "grant"
+            },
+            {
+                "amount": 166000,
+                "announced_on": "2020-06-02",
+                "kind": "grant"
+            },
+            {
+                "amount": 11000,
+                "announced_on": "2020-01-28",
+                "kind": "grant"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/blackrock-neurotech": {
+        "name": "Blackrock Neurotech",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Salt Lake City",
+        "country": "USA",
+        "num_employees_max": 250,
+        "num_employees_min": 101,
+        "funding": 10000000,
+        "funding_rounds": [
+            {
+                "amount": 10000000,
+                "announced_on": "2021-05-19",
+                "kind": "private_equity"
+            }
+        ]
     }
 }
