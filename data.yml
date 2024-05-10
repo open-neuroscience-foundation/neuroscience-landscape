@@ -1041,6 +1041,34 @@ landscape:
             extra:
               summary_tags: causality, computational-neuroscience, spikes
       - subcategory:
+        name: PennState
+        items:
+          - item:
+            name: Kim Lab
+            description: |
+              The main interest of the Kim lab is to understand the cellular architecture of the nervous system 
+              and how it supports cognitive functions in the mammalian brain.
+              We use mice as our main animal model.
+              The unique challenge to understanding the governing principles of the mammalian brain is that microscopic structures (e.g., cell bodies, axons) 
+              interact with each other in a macroscopic network (e.g., whole brain) to generate behavior.
+              To overcome this challenge, we develop and utilize high-resolution 3D brain mapping methods to examine cellular details in the entire mouse brain.
+              Leveraging our novel methods, we focus on three discreet, yet inter-related research topics.
+            homepage_url: https://kimlab.io
+            logo: kim-lab-pennstate.png
+            academics:
+              - academic:
+                name: Yongsoo Kim
+                profile_url: https://scholar.google.com/citations?user=WOQx1ksAAAAJ
+                hindex: 22
+                citations: 3109
+                i10index: 30
+            locations:
+              - location:
+                city: Pennsylvania
+                country: USA
+            extra:
+              summary_tags: connectomics, visualization, mice, allen-institute, atlas, neuroinformatics,
+      - subcategory:
         name: EPFL
         items:
           - item:
