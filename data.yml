@@ -551,6 +551,49 @@ landscape:
             extra:
               summary_tags: hardware, electrophysiology, caltech, utah, integrated-circuits, emg
       - subcategory:
+        name: Pharmaceuticals
+        items:
+          - item:
+            name: Reunion Neuroscience
+            description: |
+              Reunion is a venture backed clinical-stage biopharmaceutical company committed to pushing the boundaries of neuroscience to develop innovative, 
+              patented, FDA-approved serotonergic psychedelic therapeutic solutions that serve as safe, fast-acting, short duration therapies for 
+              underserved mental health disorders, beginning with postpartum depression (PPD).
+              We envision a day when depression isn't just a disorder that can be managed, but instead is curable.
+              We relentlessly pursue the development of safer therapeutics that provide durable antidepressive effects for the millions of people
+              whose needs are not met by the current standard of care.
+            homepage_url: https://reunionneuro.com
+            crunchbase: https://www.crunchbase.com/organization/reunion-neuroscience
+            logo: reunionneuro.svg
+            locations:
+              - location:
+                country: USA
+              - location:
+                city: Toronto
+                country: Canada
+            extra:
+              summary_tags: psychodelics, epilepsy-foundation
+          - item:
+            name: Gubra
+            description: |
+              Gubra is a highly specialized preclinical CRO and biotech company focused on peptide-based drug discovery within metabolic and fibrotic diseases.
+              The combination of our advanced, high-end models and technologies ensures rapid turnaround time and high quality data.
+            homepage_url: https://www.gubra.dk
+            crunchbase: https://www.crunchbase.com/organization/gubra
+            logo: gubra.svg
+            academics:
+              - academic:
+                name: Niels Vrang
+                profile_url: https://scholar.google.com/citations?user=eLiX6owAAAAJ
+                citations: 11342
+                hindex: 55
+                i10index: 115
+            locations:
+              - location:
+                country: Denmark
+            extra:
+              summary_tags: drug-discovery, target-discovery, research, histology, RNA-seq
+      - subcategory:
         name: Microscopy
         items:
           - item:
@@ -910,6 +953,41 @@ landscape:
                 country: Worldwide
               - location:
                 country: Canada
+          - item:
+            name: Epilepsy Foundation
+            description: |
+              The mission of the Epilepsy Foundation is to improve the lives of people affected by epilepsy through education, advocacy, research, and connection.
+              For more than five decades, the Epilepsy Foundation and our network of nearly 50 partners have helped to:
+              1) Connect people to treatment, support and resources;
+              2) Fund innovative research and the training of specialists; and
+              3) Educate the public about epilepsy and seizure first aid.
+            homepage_url: https://www.epilepsy.com
+            logo: epilepsy_foundation.svg
+            academics:
+              - academic:
+                name: Jacqueline French
+                profile_url: https://scholar.google.com/citations?user=U1_bFK0AAAAJ&hl=en
+                citations: 69261
+                hindex: 102
+                i10index: 306
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: epilepsy, funding, foundation, nyu
+          - item:
+            name: Flatrion Institute
+            description: |
+              The institute, an internal research division of the Simons Foundation, is a community of scientists who are working to use modern 
+              computational tools to advance our understanding of science, both through the analysis of large, rich datasets and through the simulations of physical processes.
+            homepage_url: https://flatironinstitute.org/
+            github_org_url: https://github.com/flatironinstitute
+            logo: flatrion-institute.svg
+            locations:
+              - location:
+                country: USA
+            extra:
+              summary_tags: simons-foundation
       - subcategory:
         name: Societies
         items:
@@ -1639,6 +1717,27 @@ landscape:
                 country: USA
             extra:
               summary_tags: cellular-neuroscience, systems-neuroscience, cognitive-neuroscience, computational-neuroscience
+          - item:
+            name: Deep Medical Imaging Lab
+            description: Our research is focused on the development of novel computational methods (deep-learning, AI) for the automated analysis, segmentation, classification, diagnosis and prognosis of medical imaging data to support the study of neurodegenerative diseases.
+            homepage_url: https://deep-mi.org
+            github_org_url: https://github.com/Deep-MI
+            logo: deep-mi.svg
+            academics:
+              - academic:
+                name: Martin Reuter
+                profile_url: https://scholar.google.com/citations?user=CbdJk1wAAAAJ
+                citations: 13085
+                hindex: 45
+                i10index: 70
+            locations:
+              - location:
+                city: Cambridge
+                country: USA
+              - location:
+                country: Germany
+            extra:
+              summary_tags: reuter-lab, mit-csail, computation, segmentation
       - subcategory:
         name: Columbia University
         items:
@@ -4875,44 +4974,7 @@ landscape:
             extra:
               summary_tags: allen-institute, mapping, iisc
       - subcategory:
-        name: Catalogs
-        items:
-          - item:
-            name: Open Neuroscience
-            description: |
-              We are a user-driven database of open neuroscience projects.
-              This is large database of software and hardware projects in neuroscience.
-            homepage_url: https://open-neuroscience.com
-            repo_url: https://github.com/open-neuroscience/open-neuroscience.github.io
-            logo: open-neuroscience.svg
-            academics:
-              - academic:
-                name: André Maia Chagas
-                profile_url: https://scholar.google.com/citations?user=CGSly_wAAAAJ
-                hindex: 10
-                citations: 1002
-                i10index: 11
-              - academic:
-                name: Matias Andina
-                profile_url: https://scholar.google.com/citations?user=PnTVdPAAAAAJ
-                citations: 187
-                hindex: 2
-                i10index: 1
-              - academic:
-                name: Cecilia Thomsett Herbert
-                profile_url: https://scholar.google.com/citations?user=wAjdb0cAAAAJ
-                citations: 9
-                hindex: 2
-                i10index: 0
-            locations:
-              - location:
-                country: UK
-              - location:
-                country: USA
-            extra:
-              summary_tags: software, tooling, university-of-sussex, mit
-      - subcategory:
-        name: Compute
+        name: Compute & Toolsets
         items:
           - item:
             name: DataJoint
@@ -5076,6 +5138,36 @@ landscape:
                 country: USA
             extra:
               summary_tags: neurodesk, containers, cloud
+          - item:
+            name: Pynapple
+            description: |
+              PYthon Neural Analysis Package. pynapple is a light-weight python library for neurophysiological data analysis.
+              The goal is to offer a versatile set of tools to study typical data in the field, i.e. time series (spike times, behavioral events, etc.)
+              and time intervals (trials, brain states, etc.).
+              It also provides users with generic functions for neuroscience such as tuning curves and cross-correlograms.
+            homepage_url: https://pynapple-org.github.io/pynapple/
+            repo_url: https://github.com/pynapple-org/pynapple
+            logo: pynapple.svg
+            academics:
+              - academic:
+                name: Guillaume Viejo
+                profile_url: https://scholar.google.ca/citations?user=o-deIVsAAAAJ
+                citations: 424
+                hindex: 7
+                i10index: 7
+              - academic:
+                name: Daniel Levenstein
+                profile_url: https://scholar.google.com/citations?user=bHxpXt4AAAAJ
+                citations: 877
+                hindex: 6
+                i10index: 6
+            locations:
+              - location:
+                country: Canada
+              - location:
+                country: USA
+            extra:
+              summary_tags: analysis, behavioral, spikes, signals, flatrion-institute, nyu
       - subcategory:
         name: Behavior
         items:
@@ -5392,6 +5484,25 @@ landscape:
                 country: USA
             extra:
               summary_tags: portugues-lab, zebrafish
+          - item:
+            name: DeepSqueakV3
+            description: Using Machine Vision to Accelerate Bioacoustics Research.
+            repo_url: https://github.com/DrCoffey/DeepSqueak
+            homepage_url: https://github.com/DrCoffey/DeepSqueak
+            logo: deep-squeak.svg
+            academics:
+              - academic:
+                name: Kevin R Coffey
+                profile_url: https://scholar.google.com/citations?user=U_QZuLIAAAAJ
+                citations: 531
+                hindex: 12
+                i10index: 13
+            locations:
+              - location:
+                city: Seattle
+                country: USA
+            extra:
+              summary_tags: mouse, computer-vision, deep-learning, machine-learning, gui, clustering, audio
   - category:
     name: Books
     subcategories:

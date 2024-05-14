@@ -533,5 +533,34 @@
                 "kind": "private_equity"
             }
         ]
+    },
+    "https://www.crunchbase.com/organization/reunion-neuroscience": {
+        "name": "Reunion Neuroscience",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Toronto",
+        "country": "Canada",
+        "num_employees_max": 10,
+        "num_employees_min": 1,
+        "funding": 103000000,
+        "funding_rounds": [
+            {
+                "amount": 103000000,
+                "announced_on": "2024-05-02",
+                "kind": "private_equity"
+            }
+        ]
+    },
+    "https://www.crunchbase.com/organization/gubra": {
+        "name": "Gubra",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Horsolm",
+        "country": "Denmark",
+        "num_employees_max": 250,
+        "num_employees_min": 101,
+        "stock_exchange": "NCSE",
+        "ticker": "GUBRA",
+        "funding": 800000000
     }
 }
