@@ -1218,6 +1218,31 @@ landscape:
                 country: Switzerland
             extra:
               summary_tags: imaging, transcriptomics, development, mouse
+          - item:
+            name: Helmchen Lab
+            description: |
+              Animal behavior is governed by dynamic patterns of activity in the astonishingly complex neuronal circuits of the various brain regions. 
+              Our current understanding of how these neuronal circuits operate, how they interact to process information, and how they continually adapt to the needs of the whole organism still remains rudimentary.
+              We only begin to grasp the cellular and circuit mechanisms underlying higher brain functions such as sensory feature discrimination, context-dependent decision-making, adaptation of behavior through learning, or fine-control of motor output.
+              In our research group we study neural circuit function and principles of computation in the mammalian brain, with a particular focus on advancing and applying optical imaging methods for in vivo measurements and manipulations of brain dynamics.
+              We investigate both the local cellular micro-level with the help of high-resolution microscopies as well as the more global 'mesoscale' brain network using large-scale imaging tools.
+              Our specific goals are to better understand sensory and motor representations in the brain, to reveal principles of single-cell and neural circuit computation, and to decipher the neural codes governing information processing as well as circuit plasticity.
+            homepage_url: http://www.hifo.uzh.ch/en/research/helmchen.html
+            github_org_url: https://github.com/HelmchenLabSoftware
+            logo: helmchen-lab.svg
+            academics:
+              - academic:
+                name: Fritjof Helmchen
+                profile_url: https://scholar.google.ch/citations?user=Lp_wEokAAAAJ
+                citations: 32015
+                hindex: 71
+                i10index: 135
+            locations:
+              - location:
+                city: Zurich
+                country: Switzerland
+            extra:
+              summary_tags: circuitry, imaging,
       - subcategory:
         name: Utah
         items:
