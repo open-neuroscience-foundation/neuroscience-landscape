@@ -5213,17 +5213,17 @@ landscape:
             logo: chunkflow.svg
             academics:
               - academic:
-                name: William Silversmith
-                profile_url: https://scholar.google.com/citations?user=3_4PvSMAAAAJ
-                citations: 1231
-                hindex: 16
-                i10index: 24
-              - academic:
                 name: Jingpeng Wu
                 profile_url: https://scholar.google.com/citations?user=ZB6o8OMAAAAJ
                 citations: 2107
                 hindex: 20
                 i10index: 26
+              - academic:
+                name: William Silversmith
+                profile_url: https://scholar.google.com/citations?user=3_4PvSMAAAAJ
+                citations: 1231
+                hindex: 16
+                i10index: 24
               - academic:
                 name: Kisuk Lee
                 profile_url: https://scholar.google.com/citations?user=NUdCPGkAAAAJ
