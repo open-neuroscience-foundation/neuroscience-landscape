@@ -228,6 +228,18 @@ landscape:
                 country: USA
             extra:
               summary_tags: bci, utah, utah-array, neuroprosthetics, computer-control, communication, sensory-restoration
+          - item:
+            name: Prophetic AI
+            description: Prophetic AI is a non-invasive neurotech company that offers neural devices to help people stabilize and induce lucid dreaming.
+            homepage_url: https://propheticai.co
+            crunchbase: https://www.crunchbase.com/organization/prophetic-ai
+            logo: propheticai.svg
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: bci, eeg, sleep
       - subcategory:
         name: Visualization
         items:

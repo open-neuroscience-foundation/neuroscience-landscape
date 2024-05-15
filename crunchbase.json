@@ -562,5 +562,22 @@
         "stock_exchange": "NCSE",
         "ticker": "GUBRA",
         "funding": 800000000
+    },
+    "https://www.crunchbase.com/organization/prophetic-ai": {
+        "name": "Prophetic AI",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "New York",
+        "country": "USA",
+        "num_employees_max": 10,
+        "num_employees_min": 1,
+        "funding": 1100000,
+        "funding_rounds": [
+            {
+                "amount": 1100000,
+                "announced_on": "2023-10-04",
+                "kind": "seed"
+            }
+        ]
     }
 }
