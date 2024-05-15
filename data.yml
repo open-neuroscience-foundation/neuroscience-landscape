@@ -5224,6 +5224,12 @@ landscape:
                 citations: 2107
                 hindex: 20
                 i10index: 26
+              - academic:
+                name: Kisuk Lee
+                profile_url: https://scholar.google.com/citations?user=NUdCPGkAAAAJ
+                citations: 2207
+                hindex: 23
+                i10index: 20
             locations:
               - location:
                 city: Princeton
