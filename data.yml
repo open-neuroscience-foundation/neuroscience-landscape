@@ -5205,6 +5205,34 @@ landscape:
                 country: USA
             extra:
               summary_tags: analysis, behavioral, spikes, signals, flatrion-institute, nyu
+          - item:
+            name: Chunkflow
+            description: Compose chunk operators to create a pipeline for local or distributed petabyte-scale computation.
+            homepage_url: https://pychunkflow.readthedocs.io/en/latest/
+            repo_url: https://github.com/seung-lab/chunkflow
+            logo: chunkflow.svg
+            academics:
+              - academic:
+                name: William Silversmith
+                profile_url: https://scholar.google.com/citations?user=3_4PvSMAAAAJ
+                citations: 1231
+                hindex: 16
+                i10index: 24
+              - academic:
+                name: Jingpeng Wu
+                profile_url: https://scholar.google.com/citations?user=ZB6o8OMAAAAJ
+                citations: 2107
+                hindex: 20
+                i10index: 26
+            locations:
+              - location:
+                city: Princeton
+                country: USA
+              - location:
+                city: Shanghai
+                country: China
+            extra:
+              summary_tags: software, data-pipelines, experiments, orchestration, seung-lab, princeton, mit, shanghai, lin-gang-lab
       - subcategory:
         name: Behavior
         items:
