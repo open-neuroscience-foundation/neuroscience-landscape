@@ -1256,6 +1256,36 @@ landscape:
             extra:
               summary_tags: circuitry, imaging,
       - subcategory:
+        name: UCPH
+        items:
+          - item:
+            name: Petersen Lab
+            description: |
+              Our lab was founded in 2022, with the goal to understand the neuronal mechanisms involved in memory and cognition and how imbalances in the circuits can lead to pathological conditions. In particular, we study spatial memory, and theta oscillations in behaving rats, and how the distributed populations of neurons across the distributed brain circuits central to memory, are coordinating their dynamics to generate complex cognitive functions in awake rodents.
+              We are using state-of-the-art methods for measuring and manipulating the neuronal activity at large-scale and high specificity, together with advanced data analysis. This includes using Neuropixels and other high-density silicon probes, applying optogenetics, thermal and other perturbation techniques, dimensionality reduction, and other advanced population-analysis methods.
+              We are also strong supporters of open science and have developed multiple tools and solutions for the neuroscience community (both software and hardware solutions. We build CellExplorer – a framework for analyzing single cells and are currently developing BrainSTEM – a collaborative electronic lab notebook for FAIR experimental neuroscience. Our hardware development includes 3D printed and machined microdrives and head cap systems and surgical protocols.
+            homepage_url: https://petersenlab.org
+            github_org_url: https://github.com/petersen-lab
+            repo_url: https://github.com/petersenpeter/CellExplorer
+            additional_repos:
+              - item:
+                name: repository
+                repo_url: https://github.com/buzsakilab/3d_print_designs
+            logo: petersen-lab.svg
+            academics:
+              - academic:
+                name: Peter Petersen
+                profile_url: https://scholar.google.dk/citations?user=RywQhd8AAAAJ
+                citations: 696
+                hindex: 13
+                i10index: 13
+            locations:
+              - location:
+                city: Copenhagen
+                country: Denmark
+            extra:
+              summary_tags: systems-neuroscience, spatial-memory, mouse, memory
+      - subcategory:
         name: Utah
         items:
           - item:
@@ -2909,6 +2939,31 @@ landscape:
                 country: USA
             extra:
               summary_tags: meta, columbia-university
+          - item:
+            name: 3DPrints
+            description: Metal microdrive and head cap system for silicon probe recovery in freely moving rodent.
+            homepage_url: https://buzsakilab.github.io/3d_print_designs/
+            repo_url: https://github.com/buzsakilab/3d_print_designs
+            logo: 3dprints.svg
+            academics:
+              - item:
+                name: Mihály Vöröslakos
+                profile_url: https://scholar.google.com/citations?user=iWWbUqsAAAAJ
+                citations: 1444
+                hindex: 12
+                i10index: 12
+              - academic:
+                name: Peter Christian Petersen
+                profile_url: https://scholar.google.dk/citations?user=RywQhd8AAAAJ
+                citations: 668
+                hindex: 12
+                i10index: 13
+            locations:
+              - location:
+                city: Copenhagen
+                country: Denmark
+            extra:
+              summary_tags: mouse, petersen-lab
   - category:
     name: Datasets
     subcategories:
