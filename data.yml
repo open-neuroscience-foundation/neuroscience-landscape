@@ -2650,7 +2650,7 @@ landscape:
               (e.g. tempo, punctuation, etc), resulting in congruent interpretation of meaning.
               We endeavor to study the syntax, and not just the vocabulary, of the brain.
             homepage_url: https://buzsakilab.com/wp/
-            github_org_url: https://github.com/buzsakilab
+            repo_url: https://github.com/buzsakilab/buzcode
             logo: buzsakilab.svg
             academics:
               - academic:
