@@ -2664,7 +2664,7 @@ landscape:
                 city: New York
                 country: USA
             extra:
-              summary_tags: neuroplasticity, hindex-100
+              summary_tags: hindex-100
   - category:
     name: Hardware
     subcategories:
