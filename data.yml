@@ -2682,7 +2682,7 @@ landscape:
                 city: Atlanta
                 country: USA
             extra:
-              summary_tags: georgiatech, neuroinformatics, imaging, hindex-100
+              summary_tags: gsu, georgiatech, neuroinformatics, imaging, hindex-100
       - subcategory:
         name: New York University
         items:
