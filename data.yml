@@ -1000,6 +1000,53 @@ landscape:
                 country: USA
             extra:
               summary_tags: simons-foundation
+          - item:
+            name: TReNDS
+            description: |
+              The Georgia State University/Georgia Institute of Technology/Emory University Center for Translational Research in Neuroimaging and Data Science (TReNDS)
+              is focused on developing, applying and sharing advanced analytic approaches and neuroinformatics tools that leverage advanced brain imaging and omics data, 
+              with a goal of translating these approaches into biomarkers that can help address relevant areas of brain health and disease.
+              Large scale data sharing and multimodal data fusion techniques are the underpinnings of our approach.
+            homepage_url: https://trendscenter.org
+            github_org_url: https://github.com/trendscenter
+            logo: trends.svg
+            academics:
+              - academic:
+                name: Vince D. Calhoun
+                profile_url: https://scholar.google.com/citations?user=WNOoGKIAAAAJ
+                citations: 104098
+                hindex: 148
+                i10index: 1030
+              - academic:
+                name: Sergey Plis
+                profile_url: https://scholar.google.com/citations?user=nm3liowAAAAJ
+                citations: 8367
+                hindex: 33
+                i10index: 87
+              - academic:
+                name: Robin Morris
+                profile_url: https://scholar.google.com/citations?user=WMeoyfkAAAAJ
+                citations: 18527
+                hindex: 67
+                i10index: 166
+              - academic:
+                name: Jingyu Liu
+                profile_url: https://scholar.google.com/citations?user=s0MUCP0AAAAJ
+                citations: 8082
+                hindex: 46
+                i10index: 113
+              - academic:
+                name: H. Jeremy Bockholt
+                profile_url: https://scholar.google.com/citations?user=kJX1-zMAAAAJ
+                citations: 7096
+                hindex: 30
+                i10index: 40
+            locations:
+              - location:
+                city: Atlanta
+                country: USA
+            extra:
+              summary_tags: georgiatech, neuroinformatics, imaging, hindex-100
       - subcategory:
         name: Societies
         items:
