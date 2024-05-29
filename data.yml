@@ -1022,7 +1022,7 @@ landscape:
                 city: New York
                 country: USA
             extra:
-              summary_tags: software, tooling, eeg, non-invasive
+              summary_tags: software, tooling, eeg, non-invasive, columbia-university
       - subcategory:
         name: Societies
         items:
