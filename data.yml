@@ -2633,7 +2633,8 @@ landscape:
                 country: China
             extra:
               summary_tags: bci, material-science, university-of-texas
-      - subcategory: Georgia
+      - subcategory:
+        name: Georgia
         items:
           - item:
             name: TReNDS
