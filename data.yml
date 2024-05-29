@@ -2738,6 +2738,72 @@ landscape:
                 country: USA
             extra:
               summary_tags: hindex-100
+      - subcategory:
+        name: Paris Brain Institute
+        items:
+          - item:
+            name: ARAMIS Lab
+            description: |
+              The Aramis Lab brings together methodological researchers (computer scientists, applied mathematics) and medical experts (neurology, medical imaging)
+              to build numerical models of brain diseases from multimodal patient data: medical imaging, clinical data and genomic data.
+            homepage_url: http://www.aramislab.fr/
+            github_org_url: https://github.com/aramis-lab
+            logo: aramis-lab.svg
+            academics:
+              - academic:
+                name: Olivier Colliot
+                profile_url: https://scholar.google.com/citations?user=uOsWxtMAAAAJ
+                citations: 13827
+                hindex: 56
+                i10index: 158
+              - academic:
+                name: Stanley Durrleman
+                profile_url: https://scholar.google.com/citations?user=-K2XrGUAAAAJ
+                citations: 6015
+                hindex: 41
+                i10index: 94
+              - academic:
+                name: Fabrizio, De Vico Fallani
+                profile_url: https://scholar.google.fr/citations?user=JzofpdUAAAAJ
+                citations: 7838
+                hindex: 46
+                i10index: 101
+              - academic:
+                name: Ninon Burgos
+                profile_url: https://scholar.google.com/citations?user=lHuYSU0AAAAJ
+                citations: 2959
+                hindex: 25
+                i10index: 40
+              - academic:
+                name: Baptiste Couvy-Duchesne
+                profile_url: https://scholar.google.com.au/citations?user=OWzqoIMAAAAJ
+                citations: 9051
+                hindex: 33
+                i10index: 47
+              - academic:
+                name: Daniel RACOCEANU
+                profile_url: https://scholar.google.com/citations?user=2eBRLj0AAAAJ
+                citations: 7753
+                hindex: 28
+                i10index: 62
+              - academic:
+                name: Didier Dormont
+                profile_url: https://scholar.google.com/citations?user=uH3qaYUAAAAJ
+                citations: 23518
+                hindex: 75
+                i10index: 220
+              - academic:
+                name: Marie-Constance Corsi
+                profile_url: https://scholar.google.com/citations?user=KR61ojYAAAAJ
+                citations: 642
+                hindex: 12
+                i10index: 14
+            locations:
+              - location:
+                city: Paris
+                country: France
+            extra:
+              summary_tags: cnrs, inria, inserm, sorbonne-university, machine-learning, alzheimer, imaging, network-science, parkinsons, bci
   - category:
     name: Hardware
     subcategories:
@@ -5014,7 +5080,7 @@ landscape:
               - location:
                 country: Italy
             extra:
-              summary_tags: adni, aibl, habs, nifd, oasis, bids, caps, aramis, paris-brain-institute, mir, pet, deep-learning
+              summary_tags: adni, aibl, habs, nifd, oasis, bids, caps, aramis-lab, paris-brain-institute, mir, pet, deep-learning
           - item:
             name: ERPLAB
             description: |
