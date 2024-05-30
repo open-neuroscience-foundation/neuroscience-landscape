@@ -2814,7 +2814,7 @@ landscape:
     name: Hardware
     subcategories:
       - subcategory:
-        name: Sensors and Electrophysiology
+        name: Sensors & Electrophysiology
         items:
           - item:
             name: Neuropixels
@@ -2899,6 +2899,28 @@ landscape:
                 country: Portugal
             extra:
               summary_tags: hardware, electrophysiology, open-source, tools, allen-institute, mit, brain-initiative, nih
+          - item:
+            name: EmotiBit
+            description: |
+              EmotiBit is a wearable sensor module for capturing high-quality emotional, physiological, and movement data.
+              Easy-to-use and scientifically-validated sensing lets you enjoy wireless data streaming to any platform or direct data recording to the built-in SD card.
+              Customize the Arduino-compatible hardware and fully open-source software to meet any project needs!
+            homepage_url: https://www.emotibit.com
+            logo: emotibit.svg
+            github_org_url: https://github.com/EmotiBit
+            academics:
+              - academic:
+                name: Sean Montgomery
+                profile_url: https://scholar.google.com/citations?user=HfF-2I8AAAAJ
+                citations: 3846
+                hindex: 11
+                i10index: 12
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              summary_tags: hardware, emotion, movement, sensor, connected-future-labs, nyu
       - subcategory:
         name: Microscopy and Imaging
         items:
