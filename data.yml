@@ -240,6 +240,29 @@ landscape:
                 country: USA
             extra:
               summary_tags: bci, eeg, sleep
+          - item:
+              name: OpenBCI
+              description: |
+                OpenBCI creates open-source tools for biosensing and neuroscience.
+                OpenBCI’s mission is to lower the barrier to entry for brain-computer interfacing,
+                while ensuring that these technologies are adopted into the consumer landscape in an ethical way that protects user agency and mental health.
+              homepage_url: https://openbci.com
+              github_org_url: https://github.com/OpenBCI
+              twitter: https://twitter.com/OpenBCI
+              logo: open-bci.svg
+              academics:
+                - academic:
+                  name: Paul Sajda
+                  profile_url: https://scholar.google.com/citations?user=kEXTeI4AAAAJ
+                  citations: 11685
+                  hindex: 53
+                  i10index: 153
+              locations:
+                - location:
+                  city: New York
+                  country: USA
+              extra:
+                summary_tags: hardware, software, spatial-computing, tooling, eeg, emg, non-invasive, columbia-university
       - subcategory:
         name: Visualization
         items:
@@ -1000,29 +1023,6 @@ landscape:
                 country: USA
             extra:
               summary_tags: simons-foundation
-          - item:
-            name: OpenBCI
-            description: |
-              OpenBCI creates open-source tools for biosensing and neuroscience.
-              OpenBCI’s mission is to lower the barrier to entry for brain-computer interfacing,
-              while ensuring that these technologies are adopted into the consumer landscape in an ethical way that protects user agency and mental health.
-            homepage_url: https://openbci.com
-            github_org_url: https://github.com/OpenBCI
-            twitter: https://twitter.com/OpenBCI
-            logo: open-bci.svg
-            academics:
-              - academic:
-                name: Paul Sajda
-                profile_url: https://scholar.google.com/citations?user=kEXTeI4AAAAJ
-                citations: 11685
-                hindex: 53
-                i10index: 153
-            locations:
-              - location:
-                city: New York
-                country: USA
-            extra:
-              summary_tags: software, tooling, eeg, non-invasive, columbia-university
       - subcategory:
         name: Societies
         items:
