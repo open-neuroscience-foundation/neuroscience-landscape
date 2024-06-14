@@ -2682,6 +2682,50 @@ landscape:
             extra:
               summary_tags: bci, material-science, university-of-texas
       - subcategory:
+        name: HKUST
+        items:
+          - item:
+            name: Computational Cognitive Engineering Lab
+            description: |
+              Neural Engineering is one of the most exciting inter-disciplinary technologies to impact neuroscience and information science, computation, and robotics.
+              A greater understanding of the brain and how it learns, acts, and interprets the world has immensely impacted the development of Brain-Machine Interface (BMI) and the design of bio-inspired robots.
+              The ambition is to reach beyond the phenomena observation, but to understand, harness, and recreate the mechanism in engineering design.
+              The development of the novel device allows the acquisition of in vivo single neural activity.
+              The AI approach enhances our understanding of how the brain processes the information during learning and interprets brain intention into real-time prosthesis control command.
+              The application using BMI technology aims to build engineering approaches to diagnose the impairment and restore the cognitive functions for the disabled, such as memory loss, motor paralyze, and attention deficit etc.
+              We are interested in developing interdisciplinary and integrative approaches to study brain plasticity and incorporate it as an integral part of the overall effort to revolutionize neuro-prosthesis design.
+              More specifically, we develop computational models on how the brain adjusts neural patterns, pass information across cortical areas, and generates accurate autonomous moor control on neuroprosthetic devices via learning and adaptation to the environmental demand.
+              The significance of the study is to provide a quantitatively dynamic understanding of the neuroplasticity from multiple scales, which sheds light on fully interpreting the essence of plasticity for neuroscience.
+              From an engineering point of view, it will revolutionize the design of BMI from the rigid motion executor to the next generation, an intelligence learner capable of performing various movements through learning.
+              Its translation impact is to yield stable performance with generalization over multiple movement tasks, which makes clinic trial realistic for an individual with motor disability with long-term use and full motor function restore.
+            homepage_url: https://bmi.hkust.edu.hk
+            logo: hkust.svg
+            academics:
+              - academic:
+                name: Yiwen Wang
+                profile_url: https://scholar.google.com/citations?user=co625jEAAAAJ
+                citations: 1414
+                hindex: 20
+                i10index: 39
+              - academic:
+                name: Yifan Huang
+                profile_url: https://scholar.google.com/citations?user=h0yY3eQAAAAJ
+                citations: 41
+                hindex: 4
+                i10index: 0
+              - academic:
+                name: Mingdong Li
+                profile_url: https://scholar.google.com/citations?user=BhYcNg0AAAAJ
+                citations: 41
+                hindex: 4
+                i10index: 2
+            locations:
+              - location:
+                city: Hong Kong
+                country: China
+            extra:
+              summary_tags: bci, hkust, neuroplasticity, robotics, neuroprosthetics
+      - subcategory:
         name: Georgia
         items:
           - item:
