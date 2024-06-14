@@ -73,7 +73,7 @@ footer:
 grid_items_size: small
 
 groups:
-  - name: All categories
+  - name: All
     categories:
       - Companies
       - Organizations

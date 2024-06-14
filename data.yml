@@ -1029,6 +1029,25 @@ landscape:
                 country: USA
             extra:
               summary_tags: simons-foundation
+          - item:
+            name: Stanford Neurotech
+            description: |
+              We are an undergrad-led engineering group committed to making impactful contributions to the field of neurotechnology.
+              Our mission is to support the field to the best of our capacity by leveraging our unique student-run and non-profit characteristics.
+              We strive to target niches such as:
+              1. Education: Translating knowledge to hands-on experiences;
+              2. Industry: Addressing logistically complex projects difficult through commercial efforts; 
+              3. Community: Building bridges among students, enthusiasts from other institutions, and professionals;
+              4. Research: Explore niche and emerging areas that complement existing academic and commercial pursuits;
+              Through these efforts, we hope to make an active contribution and inspire the next generation of neuroengineers who will radically change the fabric of society.
+            homepage_url: https://www.linkedin.com/company/stanford-neurotech/
+            logo: stanford-neurotech.svg
+            locations:
+              - location:
+                city: Stanford
+                country: USA
+            extra:
+              summary_tags: stanford, student-organization, bci
       - subcategory:
         name: Societies
         items:
