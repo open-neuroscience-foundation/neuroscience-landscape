@@ -6022,6 +6022,7 @@ landscape:
                 citations: 11641
             locations:
               - location:
+                city: Stanford
                 country: USA
             extra:
               summary_tags: stanford, largest-podcast
@@ -6036,7 +6037,8 @@ landscape:
             logo: coretexcast.svg
             locations:
               - location:
-                country: USA
+                city: Oxford
+                country: UK
             extra:
               summary_tags: oxford
           - item:
