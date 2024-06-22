@@ -6070,3 +6070,12 @@ landscape:
                 country: USA
             extra:
               summary_tags: university-of-pittsburg, vanderbilt-university
+          - item:
+            name: Dynamic Neurotech
+            description: Long form conversations and interviews with innovators in the field of neurotech.
+            homepage_url: https://neurotechnologynews.beehiiv.com
+            logo: dynamic_neurotech.svg
+            locations:
+              - location:
+                city: Cleveland
+                country: USA
