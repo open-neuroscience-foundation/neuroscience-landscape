@@ -6074,6 +6074,8 @@ landscape:
             name: Dynamic Neurotech
             description: Long form conversations and interviews with innovators in the field of neurotech.
             homepage_url: https://neurotechnologynews.beehiiv.com
+            twitter: https://twitter.com/DynamicNeuro
+            youtube_url: https://www.youtube.com/@DynamicNeurotech
             logo: dynamic_neurotech.svg
             locations:
               - location:
