@@ -8,7 +8,7 @@ url: https://neuroscience-landscape.com
 
 analytics:
   gtm:
-    container_id: G-XZ2BK3C8FR
+    container_id: GT-TQVSNC35
 
 colors:
   color1: "rgba(0, 107, 204, 1)" # Buttons, groups, links
