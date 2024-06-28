@@ -3226,6 +3226,31 @@ landscape:
                 country: Denmark
             extra:
               summary_tags: mouse, petersen-lab
+      - subcategory:
+        name: EEG
+        items:
+          - item:
+            name: PiEEG
+            description: |
+              We provide an easy way to use and buy low-cost brain-computer interface devices to neuroscience (Measure EEG, EMG, EKG with RaspberryPi, Arduino, Jetson Nano).
+              Our focus is to make it possible not only to study neural science and bioscience but also to easily find useful opportunities for using these data for applied purposes for all those interested.
+              It offers versatility, a user-friendly interface, and compatibility with various electrode types.
+            homepage_url: https://pieeg.com/
+            repo_url: https://github.com/Ildaron/ironbci
+            logo: pieeg.svg
+            academics:
+              - item:
+                name: Ildar Rakhmatulin
+                profile_url: https://scholar.google.com/citations?user=L8q-KSoAAAAJ
+                citations: 346
+                hindex: 10
+                i10index: 12
+            locations:
+              - location:
+                city: Edinburgh
+                country: UK
+            extra:
+              summary_tags: bci, raspberry-pi
   - category:
     name: Datasets
     subcategories:
