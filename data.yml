@@ -6037,7 +6037,6 @@ landscape:
               Alongside hosting the Huberman Lab podcast, Andrew Huberman is the co-founder of Scicomm Media, and actively invests in and advises a handful of businesses.
             homepage_url: https://www.hubermanlab.com
             twitter: https://twitter.com/hubermanlab
-            youtube_url: https://www.youtube.com/@hubermanlab
             logo: hubberman_lab.svg
             academics:
               - academic:
@@ -6050,6 +6049,7 @@ landscape:
                 city: Stanford
                 country: USA
             extra:
+              youtube_url: https://www.youtube.com/@hubermanlab
               summary_tags: stanford, largest-podcast
           - item:
             name: CortexCast
@@ -6102,8 +6102,17 @@ landscape:
             description: Long form conversations and interviews with innovators in the field of neurotech.
             homepage_url: https://neurotechnologynews.beehiiv.com
             twitter: https://twitter.com/DynamicNeuro
-            youtube_url: https://www.youtube.com/@DynamicNeurotech
+            extra:
+              youtube_url: https://www.youtube.com/@DynamicNeurotech
             logo: dynamic_neurotech.svg
+            repo_url: https://github.com/dynamic-neurotech/dynamic-neurotech
+            academics:
+              - academic:
+                name: Paul Middlebrooks
+                profile_url: https://www.researchgate.net/profile/Robert-Murcko
+                citations: 10
+                hindex: 1
+                i10index: 0
             locations:
               - location:
                 city: Cleveland
