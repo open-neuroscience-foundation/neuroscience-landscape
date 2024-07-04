@@ -20,7 +20,7 @@ landscape:
                 city: Austin
                 country: USA
             extra:
-              summary_tags: bci, robotics, utah-array, hardware, elon-musk
+              summary_tags: bci, robotics, utah-array, hardware, elon-musk, funding-100M
           - item:
             name: Science
             description: |
@@ -78,7 +78,7 @@ landscape:
                 city: New York
                 country: USA
             extra:
-              summary_tags: bci, hardware, eeg
+              summary_tags: bci, hardware, eeg, funding-100M
           - item:
             name: Precision Neuroscience
             description: |
@@ -267,6 +267,8 @@ landscape:
               - location:
                 city: Boston
                 country: USA
+            extra:
+              summary_tags: funding-100M
           - item:
             name: Paradromics
             description: |
@@ -339,7 +341,7 @@ landscape:
                 country: USA
             extra:
               linkedin_url: https://www.linkedin.com/company/paradromics-inc/
-              summary_tags: hardware, software, bci, darpa
+              summary_tags: hardware, software, bci, darpa, funding-100M
       - subcategory:
         name: BCI (EEG & non-invasive)
         items:

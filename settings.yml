@@ -21,6 +21,11 @@ colors:
 featured_items:
   - field: tag
     options:
+      - value: funding-100M
+        order: 1
+        label: 100M+ Funding
+  - field: tag
+    options:
       - value: hindex-100
         order: 2
         label: h-index 100+

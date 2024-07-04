@@ -76,6 +76,11 @@
         "num_employees_min": 11,
         "funding_rounds": [
             {
+                "amount": 26000000,
+                "announced_on": "2024-06-06",
+                "kind": "venture_round"
+            },
+            {
                 "announced_on": "2021-10-01",
                 "kind": "seed"
             }
