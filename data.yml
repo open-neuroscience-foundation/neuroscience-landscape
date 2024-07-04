@@ -22,18 +22,6 @@ landscape:
             extra:
               summary_tags: bci, robotics, utah-array, hardware, elon-musk
           - item:
-            name: Kernel
-            description: Kernel is a neuroscience company that specializes in developing brain-recording technologies.
-            homepage_url: https://www.kernel.com/
-            crunchbase: https://www.crunchbase.com/organization/kernel-co
-            logo: kernel-co.svg
-            locations:
-              - location:
-                city: Los Angeles
-                country: USA
-            extra:
-              summary_tags: bci, hardware, eeg, non-invasive, bryan-johnson
-          - item:
             name: Science
             description: |
               Science develops advanced technologies with the goal to, over time, blur the line between medical devices and consumer electronics.
@@ -49,21 +37,6 @@ landscape:
                 country: USA
             extra:
               summary_tags: bci, hardware, max-hodak, neuralink
-          - item:
-            name: Neurolutions
-            description: Neurolutions provides non-invasive FDA approved devices for stroke rehabilitation.
-            homepage_url: https://www.neurolutions.com
-            crunchbase: https://www.crunchbase.com/organization/neurolutions
-            logo: neurolutions.svg
-            locations:
-              - location:
-                city: St. Louis
-                country: USA
-              - location:
-                city: Santa Cruz
-                country: USA
-            extra:
-              summary_tags: bci, robotics, fda, stroke, non-invasive, hardware
           - item:
             name: Braingate
             description: |
@@ -229,18 +202,6 @@ landscape:
             extra:
               summary_tags: bci, utah, utah-array, neuroprosthetics, computer-control, communication, sensory-restoration
           - item:
-            name: Prophetic AI
-            description: Prophetic AI is a non-invasive neurotech company that offers neural devices to help people stabilize and induce lucid dreaming.
-            homepage_url: https://propheticai.co
-            crunchbase: https://www.crunchbase.com/organization/prophetic-ai
-            logo: propheticai.svg
-            locations:
-              - location:
-                city: New York
-                country: USA
-            extra:
-              summary_tags: bci, eeg, sleep
-          - item:
             name: OpenBCI
             description: |
               OpenBCI creates open-source tools for biosensing and neuroscience.
@@ -379,6 +340,51 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/paradromics-inc/
               summary_tags: hardware, software, bci, darpa
+      - subcategory:
+        name: BCI (EEG & non-invasive)
+        items:
+          - item:
+            name: Neurolutions
+            description: Neurolutions provides non-invasive FDA approved devices for stroke rehabilitation.
+            homepage_url: https://www.neurolutions.com
+            crunchbase: https://www.crunchbase.com/organization/neurolutions
+            logo: neurolutions.svg
+            locations:
+              - location:
+                city: St. Louis
+                country: USA
+              - location:
+                city: Santa Cruz
+                country: USA
+            extra:
+              summary_tags: bci, robotics, fda, stroke, non-invasive, hardware
+          - item:
+            name: Kernel
+            description: Kernel is a neuroscience company that specializes in developing brain-recording technologies.
+            homepage_url: https://www.kernel.com/
+            crunchbase: https://www.crunchbase.com/organization/kernel-co
+            logo: kernel-co.svg
+            locations:
+              - location:
+                city: Los Angeles
+                country: USA
+            extra:
+              summary_tags: bci, hardware, eeg, non-invasive, bryan-johnson
+          - item:
+            name: Prophetic
+            description: Prophetic AI is a non-invasive neurotech company that offers neural devices to help people stabilize and induce lucid dreaming.
+            homepage_url: https://www.prophetic.com
+            crunchbase: https://www.crunchbase.com/organization/prophetic-ai
+            logo: propheticai.svg
+            twitter: https://twitter.com/PropheticAI
+            locations:
+              - location:
+                city: New York
+                country: USA
+            extra:
+              youtube_url: https://www.youtube.com/channel/UCGgnWz-IX0wkbohlGp6FUEg
+              linkedin_url: https://linkedin.com/company/propheticai/
+              summary_tags: bci, eeg, sleep
       - subcategory:
         name: Visualization
         items:
