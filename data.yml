@@ -298,7 +298,14 @@ landscape:
                 i10index: 91
             locations:
               - location:
+                city: Eindhoven
                 country: Netherlands
+              - location:
+                city: Lusanne
+                country: Switzerland
+              - location:
+                city: Boston
+                country: USA
             extra:
               youtube_url: https://www.youtube.com/@ONWARD_EMPOWERED
               linkedin_url: https://www.linkedin.com/company/onwdempowered/
