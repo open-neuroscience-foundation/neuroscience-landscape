@@ -306,10 +306,79 @@ landscape:
               - location:
                 city: Boston
                 country: USA
+          - item:
+            name: Paradromics
+            description: |
+              We are building a direct data interface with the brain to provide technology solutions to unmet medical challenges.
+              A revolutionary leap beyond today’s research-grade brain computer interfaces (BCI), our Connexus® Direct Data Interface (DDI) collects neural signals at an industry-leading high data-rate and is designed for long-term daily use.
+              Our first clinical application will enable severely motor-impaired people to communicate and independently use a computer, translating their neural signals into synthesized speech, text, and cursor control.
+              We will continue to expand the capabilities of our massively scalable platform to support a pipeline of future applications that could benefit millions.
+            homepage_url: https://www.paradromics.com
+            crunchbase: https://www.crunchbase.com/organization/paradromics
+            logo: paradromics.svg
+            twitter: https://twitter.com/paradromics
+            academics:
+              - academic:
+                name: Matt Angle
+                profile_url: https://scholar.google.com/citations?user=jO1zRcQAAAAJ
+                citations: 685
+                hindex: 9
+                i10index: 9
+              - academic:
+                name: Vikash Gilja
+                profile_url: https://scholar.google.com/citations?user=EO3cAGQAAAAJ
+                citations: 5300
+                hindex: 34
+                i10index: 56
+              - academic:
+                name: Kurtis Nishimura
+                profile_url: https://scholar.google.com/citations?user=91-2b10AAAAJ
+                citations: 17781
+                hindex: 64
+                i10index: 172
+              - academic:
+                name: Shaoyu Qiao
+                profile_url: https://scholar.google.com/citations?user=JQ7ksGsAAAAJ&hl=en
+                citations: 262
+                hindex: 9
+                i10index: 8
+              - academic:
+                name: Shaoyu Qiao
+                profile_url: https://scholar.google.com/citations?user=JQ7ksGsAAAAJ&hl=en
+                citations: 262
+                hindex: 9
+                i10index: 8
+              - academic:
+                name: Saul Jaime
+                profile_url: https://scholar.google.com/citations?user=dmZfFSMAAAAJ&hl=en
+                citations: 171
+                hindex: 5
+                i10index: 5
+              - academic:
+                name: Aamir Ahmed Khan
+                profile_url: https://scholar.google.com/citations?user=7pVWwbsAAAAJ&hl=en
+                citations: 289
+                hindex: 8
+                i10index: 7
+              - academic:
+                name: Sean Perkins
+                profile_url: https://scholar.google.com/citations?user=Wpuq5pgwrLMC&hl=en
+                citations: 510
+                hindex: 7
+                i10index: 6
+              - academic:
+                name: Michael Trumpis
+                profile_url: https://scholar.google.com/citations?user=bLuaC5oAAAAJ&hl=en
+                citations: 1426
+                hindex: 15
+                i10index: 18
+            locations:
+              - location:
+                city: Austin
+                country: USA
             extra:
-              youtube_url: https://www.youtube.com/@ONWARD_EMPOWERED
-              linkedin_url: https://www.linkedin.com/company/onwdempowered/
-              summary_tags: hardware, software, bci, spinal-cord, deep-learning, epfl, chuv, swizerland, medtronic, neuro-restore
+              linkedin_url: https://www.linkedin.com/company/paradromics-inc/
+              summary_tags: hardware, software, bci, darpa
       - subcategory:
         name: Visualization
         items:

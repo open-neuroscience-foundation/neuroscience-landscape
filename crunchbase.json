@@ -631,5 +631,47 @@
                 "kind": "grant"
             }
         ]
+    },
+    "https://www.crunchbase.com/organization/paradromics": {
+        "name": "Paradromics",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "Austin",
+        "country": "USA",
+        "num_employees_max": 100,
+        "num_employees_min": 51,
+        "funding": 108400000,
+        "funding_rounds": [
+            {
+                "amount": 50100000,
+                "announced_on": "2023-05-18",
+                "kind": "series_a"
+            },
+            {
+                "amount": 8900000,
+                "announced_on": "2022-09-21",
+                "kind": "venture_round"
+            },
+            {
+                "amount": 200000000,
+                "announced_on": "2022-07-22",
+                "kind": "seed"
+            },
+            {
+                "amount": 4100000,
+                "announced_on": "2021-02-01",
+                "kind": "equity"
+            },
+            {
+                "amount": 7000000,
+                "announced_on": "2018-06-11",
+                "kind": "seed"
+            },
+            {
+                "amount": 18300000,
+                "announced_on": "2017-05-14",
+                "kind": "grant"
+            }
+        ]
     }
 }
