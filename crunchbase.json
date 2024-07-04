@@ -579,5 +579,57 @@
                 "kind": "seed"
             }
         ]
+    },
+    "https://www.crunchbase.com/organization/gtx-medical": {
+        "name": "Onward Medical",
+        "generated_at": "2024-03-04T08:24:54.915013600Z",
+        "company_type": "for_profit",
+        "city": "New York",
+        "country": "USA",
+        "num_employees_max": 250,
+        "num_employees_min": 101,
+        "funding": 152300000,
+        "funding_rounds": [
+            {
+                "amount": 56624400,
+                "announced_on": "2024-06-28",
+                "kind": "post_ipo_debt"
+            },
+            {
+                "amount": 21571200,
+                "announced_on": "2024-03-20",
+                "kind": "post_ipo_equity"
+            },
+            {
+                "amount": 1294272,
+                "announced_on": "2022-06-16",
+                "kind": "grant"
+            },
+            {
+                "amount": 28581840,
+                "announced_on": "2021-04-22",
+                "kind": "venture_round"
+            },
+            {
+                "amount": 28042560,
+                "announced_on": "2016-04-19",
+                "kind": "series_a"
+            },
+            {
+                "amount": 10785620,
+                "announced_on": "2016-04-16",
+                "kind": "debt_financing"
+            },
+            {
+                "amount": 1100000,
+                "announced_on": "2014-04-22",
+                "kind": "grant"
+            },
+            {
+                "amount": 23000,
+                "announced_on": "2014-02-05",
+                "kind": "grant"
+            }
+        ]
     }
 }

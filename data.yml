@@ -269,6 +269,40 @@ landscape:
                 country: USA
             extra:
               summary_tags: hardware, software, spatial-computing, tooling, eeg, emg, non-invasive, columbia-university
+          - item:
+            name: OnwardMedical
+            description: |
+              We are a team of scientists, engineers, and physicians, collectively driven to create therapies that change lives.
+              We are driven to innovate, with 10 FDA Breakthrough Device Designation awards and nearly 400 issued or pending patents.
+              We developed flagship product ARCBCI System that creates a digital bridge between the brain and the body to restore thought-driven movement after paralysis.
+              The ARCBCI System uses artificial intelligence (AI) to decode a person’s brain signals and translate their intention to move into precise stimulation instructions for the ARCIM System.
+              The US FDA awarded Breakthrough Device Designation to the ARCBCI System in early 2024.
+              In partnership with EPFL and CEA-Clinatec, in 2021 we successfully implanted an investigational BCI in a human to augment our ARCIM Therapy with thought-driven movement of the legs after paralysis. The approach was published in Nature in May 2023.
+              With a European Innovation Council grant to study restoration of thought-driven arm and hand movement after SCI, an additional human was implanted with ARCIM Therapy + BCI in 2023. Three more people are scheduled to participate in the study in 2024.
+            homepage_url: https://www.onwd.com/
+            crunchbase: https://www.crunchbase.com/organization/gtx-medical
+            logo: onward-medical.svg
+            twitter: https://www.twitter.com/onwdempowered/
+            academics:
+              - academic:
+                name: Gregoire COURTINE
+                profile_url: https://scholar.google.fr/citations?user=Jvd6Y1UAAAAJ
+                citations: 19648
+                hindex: 69
+                i10index: 129
+              - academic:
+                name: Jocelyne Bloch
+                profile_url: https://scholar.google.com/citations?user=EAGtm20AAAAJ
+                citations: 10979
+                hindex: 45
+                i10index: 91
+            locations:
+              - location:
+                country: Netherlands
+            extra:
+              youtube_url: https://www.youtube.com/@ONWARD_EMPOWERED
+              linkedin_url: https://www.linkedin.com/company/onwdempowered/
+              summary_tags: hardware, software, bci, spinal-cord, deep-learning, epfl, chuv, swizerland, medtronic, neuro-restore
       - subcategory:
         name: Visualization
         items:
