@@ -804,6 +804,16 @@ landscape:
         name: Groups
         items:
           - item:
+            name: Wyss Center for Bio and Neuroengineering
+            description: |
+              The Wyss Center is an independent, non-profit, research organization based in Geneva, Switzerland. The Center innovates 
+              and accelerates technologies and therapies to transform the lives of people with neurological and mental health disorders.
+            homepage_url: https://www.wysscenter.ch
+            logo: wyss-center.svg
+            locations:
+              - location:
+                country: Switzerland
+          - item:
             name: The Chan Zuckerberg Biohub Network
             description: |
               The Chan Zuckerberg Biohub Network is a group of nonprofit research institutes that bring together physicians, scientists, 
