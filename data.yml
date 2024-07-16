@@ -810,9 +810,50 @@ landscape:
               and accelerates technologies and therapies to transform the lives of people with neurological and mental health disorders.
             homepage_url: https://www.wysscenter.ch
             logo: wyss-center.svg
+            twitter: https://twitter.com/wysscenter
+            academics:
+              - academic:
+                name: Erwin Böttinger
+                profile_url: https://scholar.google.de/citations?user=3dWDnnYAAAAJ
+                citations: 67655
+                hindex: 127
+                i10index: 301
+              - academic:
+                name: Stephane Pages
+                profile_url: https://scholar.google.fr/citations?user=laDKI1EAAAAJ
+                citations: 1922
+                hindex: 17
+                i10index: 20
+              - academic:
+                name: Mark A Anderson
+                profile_url: https://scholar.google.ch/citations?user=9i4zjegAAAAJ
+                citations: 5532
+                hindex: 15
+                i10index: 15
+              - academic:
+                name: Kyuhwa Lee
+                profile_url: https://scholar.google.co.uk/citations?user=e_XetgsAAAAJ
+                citations: 547
+                hindex: 12
+                i10index: 15
+              - academic:
+                name: Jonas B Zimmermann
+                profile_url: https://scholar.google.com/citations?hl=en&user=5HP1QhsAAAAJ
+                citations: 956
+                hindex: 9
+                i10index: 9
+              - academic:
+                name: Pablo Maceira Elvira
+                profile_url: https://scholar.google.com/citations?user=KpJ0dbcAAAAJ
+                citations: 326
+                hindex: 6
+                i10index: 6
             locations:
               - location:
                 country: Switzerland
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wyss-center-for-bio-and-neuroengineering/
+              summary_tags: imaging alice electrical-engineering fabrication hindex-100
           - item:
             name: The Chan Zuckerberg Biohub Network
             description: |
