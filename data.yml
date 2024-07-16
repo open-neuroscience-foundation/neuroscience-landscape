@@ -853,7 +853,7 @@ landscape:
                 country: Switzerland
             extra:
               linkedin_url: https://www.linkedin.com/company/wyss-center-for-bio-and-neuroengineering/
-              summary_tags: imaging alice electrical-engineering fabrication hindex-100
+              summary_tags: imaging, alice, electrical-engineering, fabrication, hindex-100
           - item:
             name: The Chan Zuckerberg Biohub Network
             description: |
