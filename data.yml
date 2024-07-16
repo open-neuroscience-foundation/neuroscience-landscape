@@ -939,6 +939,8 @@ landscape:
             locations:
               - location:
                 country: USA
+            extra:
+              summary_tags: brain-initiative, funding-100M
           - item:
             name: BICCN
             description: |
@@ -1184,7 +1186,7 @@ landscape:
               - location:
                 country: USA
             extra:
-              summary_tags: epilepsy, funding, foundation, nyu
+              summary_tags: epilepsy, funding, foundation, nyu, hindex-100
           - item:
             name: Flatrion Institute
             description: |
