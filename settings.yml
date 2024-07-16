@@ -21,8 +21,11 @@ colors:
 featured_items:
   - field: tag
     options:
-      - value: funding-100M
+      - value: funding-500M
         order: 1
+        label: 500M+ Funding
+      - value: funding-100M
+        order: 2
         label: 100M+ Funding
   - field: tag
     options:

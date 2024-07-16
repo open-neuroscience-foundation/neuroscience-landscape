@@ -20,7 +20,7 @@ landscape:
                 city: Austin
                 country: USA
             extra:
-              summary_tags: bci, robotics, utah-array, hardware, elon-musk, funding-100M
+              summary_tags: bci, robotics, utah-array, hardware, elon-musk, funding-500M
           - item:
             name: Science
             description: |
