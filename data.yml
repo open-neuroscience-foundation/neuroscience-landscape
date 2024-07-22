@@ -1378,6 +1378,82 @@ landscape:
             extra:
               summary_tags: connectomics, visualization, mice, allen-institute, atlas, neuroinformatics,
       - subcategory:
+        name: Rice University
+        items:
+          - item:
+            name: Luan Lab
+            description: |
+              Our research focuses on the development of multimodal neural interfaces that combine the state-of-art electrical, optical and other technologies to monitor and manipulate brain activity.
+              The application of these neurotechnology advancements enables the fundamental investigation of neurological disorders and the development of novel therapies.
+              By developing and applying a more complete arsenal of novel tools, we hope to provide a revolutionary multifaceted picture of the brain in health and in disease, and to seek new ways to better diagnose, treat, cure, and even prevent brain disorders.
+            homepage_url: https://www.luanlab.net/
+            logo: luan-lab.svg
+            academics:
+              - academic:
+                name: Lan Luan
+                profile_url: https://scholar.google.com/citations?user=sP7dg0YAAAAJ&hl=en
+                citations: 2781
+                hindex: 22
+                i10index: 26
+              - academic:
+                name: Rongkang Yin
+                profile_url: https://scholar.google.com/citations?user=Y18cgqAAAAAJ&hl=en
+                citations: 977
+                hindex: 8
+                i10index: 7
+            locations:
+              - location:
+                city: Houston
+                country: USA
+            extra:
+              summary_tags: brain-initiative, bci, nuerovascular
+      - subcategory:
+        name: Harvard
+        items:
+          - item:
+            name: Cash Lab
+            description: |
+              The focus of our group is on understanding brain function works under both normal and pathological conditions with an ultimate goal of developing techniques for diagnosing and treating some of the most devastating neuropsychiatric diseases.
+              We focus on using approaches which extract information at multiple scales and then combine them into a more complete and meaningful understanding of brain physiology.
+              We feel this multi-scalar, multi-modal approach is particularly powerful for understanding the human brain because of its complexity and architecture which is, by nature, multi-scalar.
+              This information can then be used to design therapeutic interventions including brain-computer (machine) neuroprosthetics.
+              To reach these goals we are actively developing new methods (neurotechnology) for measuring and modulating neural activity in the brain and using sophisticated signal processing and machine learning techniques to better understand complex neural signals.
+              We are a founding lab of the Clinical Data Animal Center (CDAC) and the Center for Neurotechnology and Neurorecovery (CNTR). We are also part of the consortium of labs involved in the BrainGate Clinical Trial.
+            homepage_url: https://cashlab.mgh.harvard.edu
+            logo: cash-lab.svg
+            github_org_url: https://github.com/Center-For-Neurotechnology
+            academics:
+              - academic:
+                name: Sydney S. Cash
+                profile_url: https://scholar.google.com/citations?user=rGUFLI8AAAAJ
+                citations: 24157
+                hindex: 81
+                i10index: 238
+              - academic:
+                name: Pariya Salami
+                profile_url: https://scholar.google.com/citations?user=eKv9KdQAAAAJ
+                citations: 657
+                hindex: 12
+                i10index: 13
+              - academic:
+                name: Rina Zelmann
+                profile_url: https://scholar.google.ca/citations?user=tbnAm6UAAAAJ
+                citations: 5585
+                hindex: 34
+                i10index: 44
+              - academic:
+                name: Domokos Meszéna
+                profile_url: https://scholar.google.hu/citations?user=Ws9N7HcAAAAJ&hl=hu
+                citations: 183
+                hindex: 8
+                i10index: 7
+            locations:
+              - location:
+                city: Boston
+                country: USA
+            extra:
+              summary_tags: brain-initiative, bci
+      - subcategory:
         name: EPFL
         items:
           - item:
@@ -5303,6 +5379,30 @@ landscape:
                 country: Norway
             extra:
               summary_tags: stars-1000, open-bci
+      - subcategory:
+        name: Surgery
+        items:
+          - item:
+            name: Ibis Neuronav
+            description: |
+              The Intraoperative Brain Imaging System (Ibis) is an open source image-guided neurosurgery (IGNS) platform that replicates most of the basic functionality of it commercial counterparts while allowing for rapid development of new techniques.
+              The platform focuses on intraoperative imaging such as tracked ultrasound and improved visualization throught the use of augmented reality.
+            homepage_url: http://ibisneuronav.org
+            github_org_url: https://github.com/IbisNeuronav
+            logo: ibis-surgery.svg
+            academics:
+              - academic:
+                name: Simon Drouin
+                profile_url: https://scholar.google.ca/citations?user=Mu3pWzYAAAAJ
+                citations: 878
+                hindex: 16
+                i10index: 24
+            locations:
+              - location:
+                city: Montreal
+                country: Canada
+            extra:
+              summary_tags: surgery, augumented-reality, path-planning, imaging
       - subcategory:
         name: Data Formats
         items:
