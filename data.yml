@@ -2868,6 +2868,54 @@ landscape:
                 country: USA
             extra:
               summary_tags: tools, computational-ethology, complex-morpohlogy-phenotyping, neuro-ai-modeling, pose-estimation
+          - item:
+            name: Daneman Lab
+            description: |
+              Molecular mechanisms that regulate the blood-brain barrier in health and disease.
+              Our goal is to understand the molecular mechanisms that regulate blood-brain barrier (BBB) function during health and disease. 
+              The BBB is a specialized structure formed by the blood vessels in the central nervous system (CNS) that is critical for proper brain function as well as protecting the brain from injury and disease.
+              In most tissues the blood vessels are leaky allowing a relatively free flow of molecules and ions from blood into tissues, whereas in the brain, the blood vessels tightly restrict the movement of molecules and ions between the blood and the brain. This barrier clamps the extracellular environment allowing for proper neuronal communication while also limiting toxins, pathogens and even the body’s own immune system from entering and damaging the CNS. Breakdown of the BBB occurs during stroke, edema, brain trauma, and multiple sclerosis and is a major component of the symptoms and progression of these diseases. Furthermore, the BBB not only impedes the movement of toxins and pathogens, but also inhibits the delivery of potential therapeutic agents to the CNS.
+            homepage_url: https://www.danemanlab.com
+            github_org_url: https://github.com/denmanlab
+            logo: daneman-lab.svg
+            academics:
+              - academic:
+                name: Richard Daneman
+                profile_url: https://www.semanticscholar.org/author/R.-Daneman/6678232
+                citations: 15763
+                hindex: 38
+                i10index: 15
+              - academic:
+                name: Eric Nudleman
+                profile_url: https://www.researchgate.net/profile/Eric-Nudleman
+                citations: 2169
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: blood-brain-barrier
+          - item:
+            name: Desplats Lab
+            description: |
+              Our research is focused on elucidating the role of epigenetic mechanisms in the onset and progression of neurodegenerative diseases, particularly Parkinson’s and Alzheimer’s.
+              We seek to understand how gene expression profiles become altered in the brain and contribute to neurodegeneration.
+              Our translational neuroepigenetics program combines cutting-edge, multi-omic technologies with cellular physiology, molecular neuroscience, and neuropathological assays to address mechanistic questions, identify therapeutic targets, and provide novel diagnostic tools.
+            homepage_url: https://desplatslab.org
+            logo: desplats-lab.svg
+            academics:
+              - academic:
+                name: Paula Desplats
+                profile_url: https://scholar.google.com/citations?user=_LsSxPsAAAAJ&hl=en
+                citations: 9719
+                hindex: 43
+                i10index: 53
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: translational, neuroprosthetics
       - subcategory:
         name: Berkeley
         items:
