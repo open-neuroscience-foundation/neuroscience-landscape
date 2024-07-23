@@ -2916,6 +2916,111 @@ landscape:
                 country: USA
             extra:
               summary_tags: translational, neuroprosthetics
+          - item:
+            name: Malinow Lab
+            description: |
+              We investigate the physiological analogs of learning and memory by studying adaptive behavior and the neural dynamics that underlie synaptic plasticity.
+              Further, we are actively searching for ways to prevent and treat brain disorders, including Alzheimer's disease and other forms of dementia.
+              We probe these questions on multiple levels (network, cellular, synaptic, and molecular) using a range of technologies, including electrophysiology, imaging, computational modeling, and various genetic and biochemical assays.
+            homepage_url: http://webaxon.com/index.html
+            logo: malinow-lab.svg
+            repo_url: https://github.com/bradmonk/plasticity
+            academics:
+              - academic:
+                name: Roberto Malinow
+                profile_url: https://scholar.google.com/citations?user=fyEA24EAAAAJ&hl=en
+                citations: 44594
+                hindex: 81
+                i10index: 123
+              - academic:
+                name: Kim Dore
+                profile_url: https://scholar.google.com/citations?user=j5UlmE8AAAAJ&hl=en
+                citations: 2473
+                hindex: 17
+                i10index: 19
+              - academic:
+                name: Adina R Buxbaum
+                profile_url: https://scholar.google.com/citations?user=p1W5IeUAAAAJ&hl=en
+                citations: 2067
+                hindex: 11
+                i10index: 11
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: learning, memory, alzheimer
+          - item:
+            name: Komiyama Lab
+            description: |
+              Animals constantly modify their behavior through experience.
+              Flexible behavior is key to our ability to adapt to the ever-changing environment.
+              Our laboratory is interested in studying the activity of neuronal ensembles in behaving animals, and how it might change with experience and learning.
+              The main technique we use is in vivo two-photon calcium imaging.
+              This technique enables the recording of the activity of large neuronal ensembles in intact animals.
+              Combining this with genetically-encoded calcium indicators, we can image the same neuronal populations over days, weeks and months.
+              The use of transgenic mouse lines allows the identification of molecularly-defined neuron types.
+              We are among the pioneers to use this imaging technique in awake, behaving mice that are head-fixed under two-photon microscopes.
+              We are developing a number of behavioral paradigms for head-fixed mice to address fundamental questions in systems neuroscience; how are sensory representations shaped by brain state and sensory experience?
+              How does the brain learn new motor skills? How does the brain support flexible behavior?
+              We are tackling these questions, combining a variety of techniques including in vivo two-photon imaging, behavioral, genetic, electrophysiological and pharmacogenetic techniques.
+            homepage_url: https://komiyamalab.biosci.ucsd.edu
+            logo: komiyama-lab.svg
+            academics:
+              - academic:
+                name: Takaki Komiyama
+                profile_url: https://scholar.google.co.jp/citations?user=xcXWbb4AAAAJ
+                citations: 6850
+                hindex: 36
+                i10index: 53
+              - academic:
+                name: An Wu
+                profile_url: https://scholar.google.com/citations?user=8lImeSgAAAAJ
+                citations: 462
+                hindex: 12
+                i10index: 14
+              - academic:
+                name: Enida Gjoni
+                profile_url: https://scholar.google.co.jp/citations?user=RpIAVd4AAAAJ&hl=en
+                citations: 207
+                hindex: 5
+                i10index: 5
+              - academic:
+                name: Jake Wright
+                profile_url: https://scholar.google.com/citations?user=AGSoTjcAAAAJ&hl=en
+                citations: 499
+                hindex: 8
+                i10index: 6
+              - academic:
+                name: Yvonne Yuling Hu
+                profile_url: https://scholar.google.com.tw/citations?user=ESgqJO8AAAAJ&hl=zh-TW
+                citations: 339
+                hindex: 7
+                i10index: 7
+              - academic:
+                name: Shingo Hiroki
+                profile_url: https://scholar.google.com/citations?user=Q7n2-K4AAAAJ&hl=en
+                citations: 30
+                hindex: 3
+                i10index: 2
+              - academic:
+                name: Sonja Blumenstock
+                profile_url: https://scholar.google.de/citations?user=gG4KSIEAAAAJ&hl=en
+                citations: 404
+                hindex: 9
+                i10index: 9
+              - academic:
+                name: Soyoung Chae
+                profile_url: https://scholar.google.com/citations?user=5F75RskAAAAJ&hl=ko
+                citations: 4
+                hindex: 2
+                i10index: 0
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: learning, memory, imaging, mice
       - subcategory:
         name: Berkeley
         items:
