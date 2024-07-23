@@ -81,11 +81,10 @@ footer:
 grid_items_size: small
 
 groups:
-  - name: All
+  - name: Everything
     categories:
       - Companies
       - Organizations
-      - Laboratories
       - Software
       - Hardware
       - Datasets

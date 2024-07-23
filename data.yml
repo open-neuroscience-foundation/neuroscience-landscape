@@ -1623,6 +1623,41 @@ landscape:
             extra:
               summary_tags: connectomics
       - subcategory:
+        name: Seoul National University
+        items:
+          - item:
+            name: Human Brain Function Laboratory
+            description: |
+              We study functions of the human brain and its neural mechanisms primarily using intracranial EEG including electrocorticography, 
+              in order to develop novel approaches to modulate human brain function with direct electrical brain stimulation.
+            homepage_url: https://www.hbf.re.kr
+            logo: snu-hbf.svg
+            academics:
+              - academic:
+                name: Chun Kee Chung
+                profile_url: https://scholar.google.com/citations?user=lbDDH6UAAAAJ&hl=en
+                citations: 15915
+                hindex: 63
+                i10index: 237
+              - academic:
+                name: Seokyun Ryun
+                profile_url: https://scholar.google.co.kr/citations?user=Avi8kcwAAAAJ&hl=ko
+                citations: 117
+                hindex: 6
+                i10index: 4
+              - academic:
+                name: Mikyung Choe
+                profile_url: https://scholar.google.com/citations?user=ekZfDeMAAAAJ&hl=ko
+                citations: 40
+                hindex: 1
+                i10index: 1
+            locations:
+              - location:
+                city: Seoul
+                country: South Korea
+            extra:
+              summary_tags: bci, sensorimotor, memory, music, sound
+      - subcategory:
         name: KAIST
         items:
           - item:
@@ -1829,6 +1864,40 @@ landscape:
                 country: Germany
             extra:
               summary_tags: zebrafish
+      - subcategory:
+        name: Max Delbrück Center
+        items:
+          - item:
+            name: Kettenmann Lab
+            description: |
+              Our goal is to understand the role of glial cells in physiology and pathology.
+              We analyze how glial cells communicate among each other and with neurons.
+              We determine how astrocytes and oligodendrocytes are connected via gap junctions and how the panglial network influences neuronal function.
+              We study the expression of transmitter receptors in microglial cells and how activation of these receptors influences microglial functions.
+              Within the context of pathology we are currently studying the importance of microglial cells in stroke, Alzheimer’s disease and schizophrenia.
+              Another line of research addresses the question how microglia interact with glioma cells.
+              We aim to understand this interaction on a molecular level for the purpose of identifying therapeutic targets.
+            homepage_url: https://www.mdc-berlin.de/kettenmann
+            logo: mdc-kettenmann.svg
+            academics:
+              - academic:
+                name: Helmut Kettenmann
+                profile_url: https://scholar.google.com/citations?user=9Blw_uMAAAAJ&hl=en
+                citations: 59099
+                hindex: 124
+                i10index: 351
+              - academic:
+                name: Marcus Semtner
+                profile_url: https://scholar.google.com/citations?user=UKQnDGYAAAAJ&hl=de
+                citations: 1686
+                hindex: 21
+                i10index: 27
+            locations:
+              - location:
+                city: Berlin
+                country: Germany
+            extra:
+              summary_tags: hindex-100, glial, alzheimer, schizophrenia, stroke
       - subcategory:
         name: Ernst Strüngmann Institute for Neuroscience
         items:
@@ -2928,6 +2997,43 @@ landscape:
                 country: China
             extra:
               summary_tags: bci, material-science, university-of-texas
+      - subcategory:
+        name: Peking University
+        items:
+          - item:
+            name: Neuroscience Research Institute
+            description: |
+              The past 20 years have witnessed several breakthroughs of the Department. 
+              It has received the honor to be Key Laboratories of Neuroscience of Ministry of Education and National Health and Family Planning Commission, as well as National Key Discipline of Neuroscience.
+              Two faculty members (HAN Ji-Sheng and WAN You) serve as chief-scientists of the National Basic Research Program of China (973 Program) by the Ministry of Science and Technology.
+              Additional financial support comes from the Ministry of Education for Innovative Research, National Natural Science Foundations and other foundations.
+              The Department has published more than 350 papers in SCI journals of the neurobiology field, and has received the National Award of Science and Technology Progress, and several awards at provincial or ministerial levels.
+              The Department is the hosting institution of the Chinese Association for the Study of Pain (CASP), the China Branch of the International Association for the Study of Pain (IASP), and the Beijing Society for Neuroscience.
+              It is also a founding institution of the Chinese Neuroscience Society.
+              The Department is an important neuroscience research center in China. Currently, 19 faculty members, 24 M.Sc. students, 123 Ph.D. students, and 2 post-doctoral researchers work in the Department.
+              Students from the Department have won National and Beijing Excellent Doctoral Dissertation Awards for several times.
+              A number of alumni from the Department have obtained professorships in institutions worldwide, and become Chang Jiang Scholars, and recipients of the National Science Fund for Distinguished Young Scholars.
+            homepage_url: https://nri.bjmu.edu.cn/english/index.htm
+            logo: peking-neuro-research-institute.svg
+            academics:
+              - academic:
+                name: You Wan
+                profile_url: https://scholar.google.com/citations?user=wU7GYe4AAAAJ&hl=en&oi=sra
+                citations: 6255
+                hindex: 46
+                i10index: 98
+              - academic:
+                name: Zhang Yong
+                profile_url: https://scholar.google.com/citations?user=79K9E8gAAAAJ&hl=en&oi=ao
+                citations: 2900
+                hindex: 11
+                i10index: 13
+            locations:
+              - location:
+                city: Beijing
+                country: China
+            extra:
+              summary_tags: analgesia, neurodegeneration, addiction
       - subcategory:
         name: HKUST
         items:
