@@ -3078,6 +3078,43 @@ landscape:
                 country: China
             extra:
               summary_tags: bci, hkust, neuroplasticity, robotics, neuroprosthetics
+          - item:
+            name: Molecular Neuroscience Laboratory
+            description: |
+              Proper brain development and function depends on the intricate interplay of multiple signaling pathways in neurons.
+              Cell surface receptors serve to transduce signals to the intracellular targets in response to external stimuli, and dysregulation of these signaling events can lead to various neurological disorders.
+              Ip’s research is focused on unravelling the key molecular mechanisms essential for wiring neural circuitry as well as experience-dependent modulation of synaptic strength.
+              Her earlier work on understanding the biology of neurotrophic factors and their signal transduction pathways has revealed their pivotal roles in neuronal survival, differentiation and synaptic plasticity, providing important implications for the development of neurotrophic factors as therapeutic agents for neurodegenerative diseases.
+              Ip’s recent research involves understanding how receptor tyrosine kinases and G-protein-coupled receptors modulate hippocampal synaptic plasticity.
+              Her work reveals that deregulation of these signaling pathways might underlie the synaptic dysfunctions observed during the progression of Alzheimer’s disease, highlighting the use of synaptic modulators as a potential therapeutic strategy.
+              Research efforts are also directed at identifying drug leads for neurodegenerative diseases, for example from Chinese medicine.
+            homepage_url: https://iplab.hkust.edu.hk/index.html
+            logo: hkust-iplab.svg
+            academics:
+              - academic:
+                name: Nancy Y Ip
+                profile_url: https://scholar.google.com/citations?user=kKg1mo8AAAAJ
+                citations: 49319
+                hindex: 91
+                i10index: 282
+              - academic:
+                name: Ge LV
+                profile_url: https://scholar.google.com/citations?user=_Kc2wxYAAAAJ&hl=en
+                citations: 27
+                hindex: 3
+                i10index: 1
+              - academic:
+                name: Han Cao
+                profile_url: https://scholar.google.com/citations?user=omd7AQ0AAAAJ&hl=en
+                citations: 366
+                hindex: 6
+                i10index: 5
+            locations:
+              - location:
+                city: Hong Kong
+                country: China
+            extra:
+              summary_tags: hkust, harvard, neuroal-development, memory, plasticity, drug-discovery
       - subcategory:
         name: Georgia
         items:
