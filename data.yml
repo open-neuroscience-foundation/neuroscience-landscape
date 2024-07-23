@@ -2841,6 +2841,34 @@ landscape:
                 city: Palo Alto
                 country: USA
       - subcategory:
+        name: UCSD
+        items:
+          - item:
+            name: Talmo Lab
+            description: Our lab leverages deep learning and computer vision to study complex biological systems by building novel computational tools.
+            homepage_url: https://talmolab.org
+            github_org_url: https://github.com/talmolab
+            logo: talmo-lab.svg
+            academics:
+              - academic:
+                name: Pereira, Talmo D
+                profile_url: https://scholar.google.com/citations?user=tFrElIUAAAAJ
+                citations: 1788
+                hindex: 14
+                i10index: 15
+              - academic:
+                name: Eric J. Leonardis
+                profile_url: https://scholar.google.com/citations?user=ikKZ3u4AAAAJ&hl=en
+                citations: 32
+                hindex: 2
+                i10index: 2
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: tools, computational-ethology, complex-morpohlogy-phenotyping, neuro-ai-modeling, pose-estimation
+      - subcategory:
         name: Berkeley
         items:
           - item:
@@ -6256,6 +6284,7 @@ landscape:
                 i10index: 11
             locations:
               - location:
+                city: San Diego
                 country: USA
           - item:
             name: SimBA
