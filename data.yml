@@ -3205,6 +3205,31 @@ landscape:
             extra:
               summary_tags: alzheimer, taupathies, huntington, down-syndrome, cmt2b
       - subcategory:
+        name: UCLA
+        items:
+          - item:
+            name: Neural Engineering and Computation Lab
+            description: |
+              Our research group studies questions at the intersection of neuroscience and computation.
+              In particular, we develop and apply statistical signal processing and machine learning techniques to elucidate how populations of neurons carry out computations in the brain.
+              We also develop experimental and algorithmic techniques for neural engineering applications, including brain-machine interfaces.
+            homepage_url: https://seas.ucla.edu/~kao/research
+            logo: ucla-kao-lab.svg
+            repo_url: https://github.com/jcykao/subspace-opt
+            academics:
+              - academic:
+                name: Jonathan Kao
+                profile_url: https://scholar.google.com/citations?user=9Pu0NtAAAAAJ&hl=en
+                citations: 3598
+                hindex: 28
+                i10index: 42
+            locations:
+              - location:
+                city: Los Angeles
+                country: USA
+            extra:
+              summary_tags: bci
+      - subcategory:
         name: Berkeley
         items:
           - item:
