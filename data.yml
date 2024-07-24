@@ -229,7 +229,7 @@ landscape:
                 city: New York
                 country: USA
             extra:
-              summary_tags: hardware, software, spatial-computing, tooling, eeg, emg, non-invasive, columbia-university
+              summary_tags: hardware, software, spatial-computing, tooling, eeg, emg, non-invasive, columbia-university, bci
           - item:
             name: OnwardMedical
             description: |
@@ -1723,6 +1723,8 @@ landscape:
               - location:
                 city: Daejeon
                 country: South Korea
+            extra:
+              summary_tags: bci
           - item:
             name: Lab of Neural Interoception
             description: |
@@ -3226,6 +3228,109 @@ landscape:
             locations:
               - location:
                 city: Los Angeles
+                country: USA
+            extra:
+              summary_tags: bci
+      - subcategory:
+        name: UCSF
+        items:
+          - item:
+            name: Chang Lab
+            description: |
+              A unique and defining trait of human behavior is our ability to communicate through speech. Our laboratory is interested in determining the basic mechanisms that underlie our ability to perceive and produce speech.  While much of this processing has been localized to the peri-sylvian cortex, including Broca’s and Wernicke’s areas, the fundamental organizational principles of the neural circuits within these areas are completely unknown.
+              To address this, our laboratory applies a variety of experimental approaches including psychophysics, local field potential and microelectrode array recordings, electrocortical stimulation, and real-time signal processing.  These methods allow us to examine both local circuitry and global network dynamics spanning multiple cortical and sub-cortical regions with unparalleled spatial and temporal resolution in humans.
+              Our central goal is to provide a mechanistic account for the major properties of speech behavior in normal speakers and those with language disorders. Our ongoing research is not only deepening understanding of speech and its disorders, but also is leading directly to safer mapping methods to preserve language function during brain surgery.
+            homepage_url: https://changlab.ucsf.edu
+            logo: ucsf-chang-lab.svg
+            github_org_url: https://github.com/ChangLabUcsf
+            academics:
+              - academic:
+                name: Edward Chang
+                profile_url: https://scholar.google.com/citations?user=21_amyAAAAAJ&hl=en
+                citations: 38170
+                hindex: 97
+                i10index: 290
+              - academic:
+                name: Matthew Leonard
+                profile_url: https://scholar.google.com/citations?user=CYmC6O4AAAAJ&hl=en&oi=ao
+                citations: 2623
+                hindex: 27
+                i10index: 36
+              - academic:
+                name: David A. Moses
+                profile_url: https://scholar.google.com/citations?user=yW593xUAAAAJ&hl=en
+                citations: 1222
+                hindex: 9
+                i10index: 9
+              - academic:
+                name: Kristin Sellers
+                profile_url: https://scholar.google.com/citations?user=wYQBZz4AAAAJ&hl=en
+                citations: 1757
+                hindex: 18
+                i10index: 24
+              - academic:
+                name: Anusha Allawala
+                profile_url: https://scholar.google.com/citations?user=LfYzRxsAAAAJ&hl=en
+                citations: 169
+                hindex: 7
+                i10index: 6
+              - academic:
+                name: Jon Gauthier
+                profile_url: https://scholar.google.com/citations?user=n7Z2vI4AAAAJ&hl=de
+                citations: 1848
+                hindex: 12
+                i10index: 12
+              - academic:
+                name: Shailee Jain
+                profile_url: https://scholar.google.com/citations?user=sVSA2okAAAAJ&hl=en&authuser=1
+                citations: 632
+                hindex: 11
+                i10index: 11
+              - academic:
+                name: Ankit N. Khambhati
+                profile_url: https://scholar.google.com/citations?user=fMjeFt8AAAAJ&hl=en
+                citations: 2360
+                hindex: 24
+                i10index: 29
+              - academic:
+                name: Jessie Liu
+                profile_url: https://scholar.google.com/citations?user=-T2Gq-EAAAAJ&hl=en&oi=ao
+                citations: 766
+                hindex: 8
+                i10index: 7
+              - academic:
+                name: Yitzhak Norman
+                profile_url: https://scholar.google.co.il/citations?user=ZSWNQdAAAAAJ&hl=en
+                citations: 430
+                hindex: 7
+                i10index: 7
+              - academic:
+                name: Terri Scott
+                profile_url: https://scholar.google.com/citations?user=4zmw9xwAAAAJ&hl=en
+                citations: 1094
+                hindex: 10
+                i10index: 10
+              - academic:
+                name: Xiaofang Yang
+                profile_url: https://scholar.google.com/citations?user=NDZk9AIAAAAJ&hl=en
+                citations: 421
+                hindex: 5
+                i10index: 5
+              - academic:
+                name: Yizhen Zhang
+                profile_url: https://scholar.google.com/citations?user=z_KXE18AAAAJ&hl=en
+                citations: 954
+                hindex: 11
+                i10index: 11
+              - academic:
+                name: Lingyun Zhao
+                profile_url: https://scholar.google.com/citations?user=c28XzBYAAAAJ&hl=en
+                citations: 324
+                hindex: 9
+                i10index: 9
+            locations:
+              - location:
+                city: San Francisco
                 country: USA
             extra:
               summary_tags: bci
