@@ -3021,6 +3021,189 @@ landscape:
                 country: USA
             extra:
               summary_tags: learning, memory, imaging, mice
+          - item:
+            name: CNEN
+            description: |
+              The Center for Neurodegeneration and Experimental Neuropathology (CNEN), was created to advance basic and translational neuroscience research of neurodegenerative diseases. Our core mission is to support the advancement of novel therapeutics by providing a consolidated infrastructure of resources and collaborations. 
+              CNEN draws faculty, laboratories, and students into a cooperative environment where needed equipment and core resources can be shared to propel science discovery forward.  While the level of scientific investigation is intense, CNEN strives to provide an atmosphere that is collegial and informal where collaborators, staff research technicians, postdoctoral fellows, graduate students, and administrative support staff act collectively as part of one team alongside CNEN investigators.  
+              Established in 2016 by Dr. Robert Rissman, Associate Professor of Neurosciences at the University of California San Diego, CNEN is located at the UC San Diego School of Medicine campus where its Department of Neurosciences has a rich, internationally acclaimed history for its contribution to the research of neurodegenerative diseases, particularly Alzheimer’s Disease (AD). 
+              Research studies of AD and other neurodegenerative disorders at UC San Diego are part of the clinical bench strength of the UC System. For the past 30 years, UC San Diego has been a leader in Alzheimer’s Disease research and home to the prestigious Shiley-Marcos Alzheimer’s Disease Research Center (ADRC) and the Alzheimer’s Disease Cooperative Study (ADCS).
+            homepage_url: https://rissmancnen.org
+            logo: ucsd-cnen.svg
+            academics:
+              - academic:
+                name: Robert A. Rissman
+                profile_url: https://scholar.google.com/citations?user=OHqZzgYAAAAJ&hl=en
+                citations: 16666
+                hindex: 62
+                i10index: 144
+              - academic:
+                name: Brian Spencer
+                profile_url: https://www.researchgate.net/profile/Brian-Spencer-3
+                citations: 10823
+              - academic:
+                name: Charisse N. Winston
+                profile_url: https://www.researchgate.net/profile/Charisse-Winston
+                citations: 1062
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: alzheimer, brain-bank, adrc, biomarkers, animal-models, imaging, microscopy, parkinsons, histopathology, viral-vectors
+          - item:
+            name: Roy Lab
+            description: |
+              A static cell is a dead cell. Our broad interest is to explore movement in neurons – mechanisms that convey, deposit, and retain cargoes in axons, dendrites and synapses.
+              A related interest is to manipulate trafficking-pathways for therapeutics in neurodegenerative diseases (particularly gene- and CRISPR- based therapies).
+            homepage_url: http://www.roylab.org
+            logo: ucsd-roy-lab.svg
+            academics:
+              - academic:
+                name: Subhojit Roy
+                profile_url: https://scholar.google.com/citations?user=FIiF03AAAAAJ&hl=en
+                citations: 6197
+                hindex: 34
+                i10index: 52
+              - academic:
+                name: Brent Aulston
+                profile_url: https://scholar.google.com/citations?user=mPVVo4gAAAAJ&hl=en
+                citations: 223
+                hindex: 8
+                i10index: 7
+              - academic:
+                name: Leonardo A Parra-Rivas
+                profile_url: https://scholar.google.com/citations?user=GUbAX9cAAAAJ&hl=en
+                citations: 484
+                hindex: 8
+                i10index: 7
+              - academic:
+                name: Rohan Sharma
+                profile_url: https://scholar.google.com/citations?user=Zl3p68oAAAAJ&hl=en
+                citations: 139
+                hindex: 7
+                i10index: 7
+              - academic:
+                name: Sheila Garcia-Rosa
+                profile_url: https://scholar.google.com.br/citations?user=HA9Ys80AAAAJ&hl=pt-PT
+                citations: 179
+                hindex: 8
+                i10index: 7
+              - academic:
+                name: Tamara Tomanic
+                profile_url: https://www.researchgate.net/profile/Tamara-Tomanic
+                citations: 18
+              - academic:
+                name: Alec T. Nabb
+                profile_url: https://scholar.google.com/citations?user=nmE-QXAAAAAJ&hl=en
+                citations: 47
+                hindex: 3
+                i10index: 2
+              - academic:
+                name: Anshul Milap Bhatt
+                profile_url: https://scholar.google.co.in/citations?user=aKXNdBwAAAAJ&hl=en
+                citations: 44
+                hindex: 1
+                i10index: 1
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: alzheimer, parkinsons, crispr, genes, trafficking, cytosceleton
+          - item:
+            name: Shtrahman Lab
+            description: |
+              We study spatiotemporal patterns of neuronal activity that are generated in the brain.
+              This collective neuronal firing not only underlies thought and memory, but also is essential to our understanding of neurological disease.
+              We develop advanced optical techniques for recording neuronal activity in a variety of experimental models to understand how network firing codes for information, is shaped through learning, and becomes altered in diseases of the nervous system.
+            homepage_url: https://shtrahmanlab.org
+            logo: ucsd-shtrahman.svg
+            academics:
+              - academic:
+                name: Matthew Shtrahman
+                profile_url: https://scholar.google.com/citations?user=zBYhXhcAAAAJ&hl=en
+                citations: 1191
+                hindex: 9
+                i10index: 9
+              - academic:
+                name: Daniel Enterría-Morales
+                profile_url: https://www.researchgate.net/profile/Daniel-Enterria-Morales
+                citations: 33
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: optics, imaging
+          - item:
+            name: Sternson Lab
+            description: |
+              The overall goal of the lab is to understand the origin of motivations— why do we do what we do? How do brains set priorities for an organism’s behavior?
+              The lab is uncovering elegant mechanisms sculpted by natural selection in the brain that ensure compliance with the body’s essential survival needs.
+              We have discovered molecular, synaptic, and motivational principles underlying the neurobiology of homeostasis– away from innate (reflexive) behaviors and towards an emphasis on learning mechanisms.
+              These discoveries are enabled by new tools for precisely monitoring, mapping, and manipulating neurons.
+            homepage_url: https://sternsonlab.com
+            logo: ucsd-sternson-lab.svg
+            academics:
+              - academic:
+                name: Scott Sternson
+                profile_url: https://scholar.google.com/citations?user=0apK5SkAAAAJ
+                citations: 12774
+                hindex: 39
+                i10index: 48
+              - academic:
+                name: Wenzhen Chen
+                profile_url: https://scholar.google.com/citations?user=fz_GeVgAAAAJ&hl=en
+                citations: 195
+                hindex: 3
+                i10index: 2
+              - academic:
+                name: Zhenggang Zhu
+                profile_url: https://scholar.google.com/citations?user=JIwfL4oAAAAJ&hl=en
+                citations: 393
+                hindex: 9
+                i10index: 9
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: motivation, CaRMA
+          - item:
+            name: Wu Lab
+            description: |
+              Axons are the primary target in many neurodegenerative diseases associated with both the central and peripheral nervous system.
+              Dysfunction and degeneration of axons i.e. axonopathy, is often the earliest sign of neurodegeneration. 
+              We use molecular, cellular, biochemical, and imaging methods to investigate the cellular and molecular mechanisms of axonopathy and neurodegeneration.
+              Our ultimate goal is to understand how impairment of axonal functions leads to neurodegenerative diseases such as Alzheimer’s disease (AD), Tauopathies, Huntington’s disease (HD), Down syndrome (DS), and Charcot-Marie-Tooth 2B (CMT2B) peripheral sensory neuropathy.​
+            homepage_url: https://wulabucsd.weebly.com
+            logo: ucsd-wu-lab.svg
+            academics:
+              - academic:
+                name: Chengbiao Wu
+                profile_url: https://scholar.google.com/citations?user=4jUQAp8AAAAJ&hl=en
+                citations: 19435
+                hindex: 37
+                i10index: 63
+              - academic:
+                name: Xiaobei Zhao
+                profile_url: https://scholar.google.com/citations?user=Zs-EJpMAAAAJ&hl=en
+                citations: 1425
+                hindex: 17
+                i10index: 17
+              - academic:
+                name: Xu-Qiao Chen
+                profile_url: https://scholar.google.com/citations?user=YPDu8u4AAAAJ&hl=en
+                citations: 1092
+                hindex: 13
+                i10index: 14
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+            extra:
+              summary_tags: alzheimer, taupathies, huntington, down-syndrome, cmt2b
       - subcategory:
         name: Berkeley
         items:
@@ -4601,6 +4784,45 @@ landscape:
                 country: USA
             extra:
               summary_tags: javascript, mcgill
+          - item:
+            name: Cytoscape
+            description: |
+              Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data.
+              A lot of Apps are available for various kinds of problem domains, including bioinformatics, social network analysis, and semantic web.
+            homepage_url: https://cytoscape.org
+            repo_url: https://github.com/cytoscape/cytoscape
+            logo: cytoscape.svg
+            academics:
+              - academic:
+                name: Trey Ideker
+                profile_url: https://scholar.google.com/citations?user=KnAit3cAAAAJ&hl=en
+                citations: 109843
+                hindex: 108
+                i10index: 247
+              - academic:
+                name: Gary Bader
+                profile_url: https://scholar.google.com/citations?user=22M9eisAAAAJ&hl=en
+                citations: 85929
+                hindex: 113
+                i10index: 254
+              - academic:
+                name: Alexander R Pico
+                profile_url: https://scholar.google.com/citations?user=FUsTMX8AAAAJ&hl=en
+                citations: 21071
+                hindex: 51
+                i10index: 84
+            locations:
+              - location:
+                city: San Diego
+                country: USA
+              - location:
+                city: Toronto
+                country: Canada
+              - location:
+                city: Paris
+                country: France
+            extra:
+              summary_tags: graphs, ucds, hindex-100, utoronto, ucsf, nrnb, gladstone-institute, institute-pasteur
       - subcategory:
         name: Imaging and Microscopy
         items:
