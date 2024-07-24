@@ -346,6 +346,20 @@ landscape:
         name: BCI (EEG & non-invasive)
         items:
           - item:
+            name: Nexstem
+            description: Nexstem is making state-of-the-art BCI headsets intuitive and affordable for everyone. 
+            homepage_url: https://www.nexstem.ai
+            logo: nexstem.svg
+            twitter: https://twitter.com/nexstemai
+            locations:
+              - location:
+                city: Bengaluru
+                country: India
+            extra:
+              youtube_url: https://www.youtube.com/channel/UCZIMG32ABv_HkikxU8wcF_A
+              linkedin_url: https://linkedin.com/company/nexstemai
+              summary_tags: bci, eeg, non-invasive, hardware
+          - item:
             name: Neurolutions
             description: Neurolutions provides non-invasive FDA approved devices for stroke rehabilitation.
             homepage_url: https://www.neurolutions.com
