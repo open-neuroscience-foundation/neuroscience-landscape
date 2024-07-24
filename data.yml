@@ -3333,7 +3333,7 @@ landscape:
                 city: San Francisco
                 country: USA
             extra:
-              summary_tags: bci
+              summary_tags: bci, speech
       - subcategory:
         name: Berkeley
         items:
