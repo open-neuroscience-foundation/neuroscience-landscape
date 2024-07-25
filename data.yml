@@ -347,7 +347,7 @@ landscape:
         items:
           - item:
             name: Nexstem
-            description: Nexstem is making state-of-the-art BCI headsets intuitive and affordable for everyone. 
+            description: Nexstem is making state-of-the-art BCI headsets intuitive and affordable for everyone.
             homepage_url: https://www.nexstem.ai
             logo: nexstem.svg
             twitter: https://twitter.com/nexstemai
@@ -3348,6 +3348,128 @@ landscape:
                 country: USA
             extra:
               summary_tags: bci, speech
+          - item:
+            name: Abbasi Lab
+            description: |
+              We investigate the role of advanced computational tools in understanding brain functions and its related disorders.
+              More specifically, our research program revolves around the development of interpretable machine learning tools to (1) integrate multi-modal data collected from the brain (and body) in both microscopic and macroscopic resolutions, (2) predict functions of biological systems in different resolutions, and (3) determine the functional differences across neurological disorders.
+              We are a part of the Neuroscape Center and Cognitive Neuroscience division at UCSF and our team is supported through funding from NIH National Institute of Mental Health, NIH National Institute of Aging, Weill Neurohub, Sandler Program for Breakthrough in Biomedical Research, UCSF Innovation Ventures, and Google.
+            homepage_url: https://abbasilab.org
+            logo: ucsf-abbasi-lab.svg
+            github_org_url: https://github.com/abbasilab
+            academics:
+              - academic:
+                name: Reza Abbasi-Asl
+                profile_url: https://scholar.google.com/citations?user=ob-lLYYAAAAJ&hl=en
+                citations: 2410
+                hindex: 10
+                i10index: 11
+              - academic:
+                name: Arefeh Sherafati
+                profile_url: https://scholar.google.com/citations?user=jHe0WysAAAAJ&hl=en
+                citations: 167
+                hindex: 7
+                i10index: 5
+              - academic:
+                name: Rui Patrick Xian
+                profile_url: https://scholar.google.com/citations?user=jbmy4JAAAAAJ&hl=en
+                citations: 968
+                hindex: 16
+                i10index: 20
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
+            extra:
+              summary_tags: multi-modal, tools, computation
+          - item:
+            name: Katerina Akassoglou Lab
+            description: |
+              Our lab studies mechanisms of neurovascular regulation of inflammation and tissue repair.
+              Our research focuses on identifying the molecular and cellular interface that blood proteins utilize to interact with nervous system cells and change their functions.
+              Our ultimate goal is to target these interactions for therapeutic intervention in neurologic diseases.
+            homepage_url: https://akassogloulab.org
+            logo: ucsf-akassoglou-lab.svg
+            repo_url: https://github.com/gladstone-institutes/BC-AM-1148
+            academics:
+              - academic:
+                name: Katerina Akassoglou
+                profile_url: https://scholar.google.com/citations?user=Co7bMB4AAAAJ&hl=en
+                citations: 17431
+                hindex: 62
+                i10index: 95
+              - academic:
+                name: Jae Kyu Ryu
+                profile_url: https://scholar.google.com/citations?user=FLtwkwEAAAAJ&hl=en
+                citations: 8881
+                hindex: 46
+                i10index: 66
+              - academic:
+                name: Kayoung Han
+                profile_url: https://scholar.google.com/citations?user=zCXRWx8AAAAJ&hl=ko
+                citations: 78
+                hindex: 4
+                i10index: 3
+              - academic:
+                name: Hisao Miyajima
+                profile_url: https://scholar.google.com/citations?user=3b2J5FcAAAAJ&hl=ja
+                citations: 91
+                hindex: 5
+                i10index: 4
+              - academic:
+                name: Zhaoqi Yan
+                profile_url: https://scholar.google.com/citations?user=PgGOyOUAAAAJ&hl=en
+                citations: 1612
+                hindex: 16
+                i10index: 19
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
+            extra:
+              summary_tags: nuerovascular, imaging, therapeutics
+          - item:
+            name: Alvarez-Buylla Lab
+            description: Our laboratory is interested in neuronal origin, proliferation, migration, and integration in the adult brain.
+            homepage_url: https://ablab.ucsf.edu
+            logo: ucsf.svg
+            academics:
+              - academic:
+                name: Arturo Alvarez-Buylla
+                profile_url: https://scholar.google.com/citations?user=wos_LrcAAAAJ&hl=en
+                citations: 82085
+                hindex: 126
+                i10index: 204
+              - academic:
+                name: David M Steffen
+                profile_url: https://scholar.google.com/citations?user=NJAdCAUAAAAJ&hl=en
+                citations: 1705
+                hindex: 7
+                i10index: 7
+              - academic:
+                name: Zhenmeiyu Li
+                profile_url: https://scholar.google.com/citations?user=jtCZhaAAAAAJ&hl=zh-CN
+                citations: 776
+                hindex: 13
+                i10index: 13
+              - academic:
+                name: Arantxa Cebrian-Silla
+                profile_url: https://scholar.google.com/citations?user=nWVaWU8AAAAJ&hl=en
+                citations: 3112
+                hindex: 20
+                i10index: 22
+              - academic:
+                name: Marcos Assis Nascimento
+                profile_url: https://scholar.google.com.br/citations?user=WVienuwAAAAJ&hl=pt-BR
+                citations: 432
+                hindex: 8
+                i10index: 7
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
+            extra:
+              summary_tags: migration, birth, hindex-100
       - subcategory:
         name: Berkeley
         items:
