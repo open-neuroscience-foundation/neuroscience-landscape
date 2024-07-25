@@ -4934,7 +4934,24 @@ landscape:
               Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data.
               A lot of Apps are available for various kinds of problem domains, including bioinformatics, social network analysis, and semantic web.
             homepage_url: https://cytoscape.org
-            repo_url: https://github.com/cytoscape/cytoscape
+            github_org_url: https://github.com/cytoscape
+            repo_url: https://github.com/cytoscape/cytoscape-impl
+            additional_repos:
+              - item:
+                name: repository
+                repo_url: https://github.com/cytoscape/cytoscape
+              - item:
+                name: repository
+                repo_url: https://github.com/cytoscape/cytoscape.js
+              - item:
+                name: repository
+                repo_url: https://github.com/cytoscape/cytoscape-tutorials
+              - item:
+                name: repository
+                repo_url: https://github.com/cytoscape/ipycytoscape
+              - item:
+                name: repository
+                repo_url: https://github.com/cytoscape/py2cytoscape
             logo: cytoscape.svg
             academics:
               - academic:
@@ -4963,10 +4980,10 @@ landscape:
                 city: Toronto
                 country: Canada
               - location:
-                city: Paris
-                country: France
+                city: San Francisco
+                country: USA
             extra:
-              summary_tags: graphs, ucds, hindex-100, utoronto, ucsf, nrnb, gladstone-institute, institute-pasteur
+              summary_tags: graphs, networks, ucsd, hindex-100, stars-4000, utoronto, ucsf, nrnb, gladstone-institute, institute-pasteur
       - subcategory:
         name: Imaging and Microscopy
         items:
