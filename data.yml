@@ -3618,6 +3618,38 @@ landscape:
                 country: USA
             extra:
               summary_tags: neuromodulation, channelopathies, crispr, electrophysiology
+          - item:
+            name: Corces Lab
+            description: Functional epigenomics in neurodegenerative diseases
+            homepage_url: https://www.corceslab.com/
+            logo: ucsf-corces-lab.svg
+            github_org_url: https://github.com/corceslab
+            twitter: https://twitter.com/doctorcorces
+            academics:
+              - academic:
+                name: Ryan Corces
+                profile_url: http://scholar.google.com/citations?user=GUctBkkAAAAJ
+                citations: 14647
+                hindex: 34
+                i10index: 40
+              - academic:
+                name: Sachin Patel
+                profile_url: https://scholar.google.com/citations?user=OebRB9EAAAAJ
+                citations: 1951
+                hindex: 10
+                i10index: 10
+              - academic:
+                name: Cathrine Petersen
+                profile_url: http://scholar.google.com/citations?user=EtTtF5wAAAAJ
+                citations: 815
+                hindex: 12
+                i10index: 12
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
+            extra:
+              summary_tags: epigenetics, neurodegenerative
       - subcategory:
         name: Berkeley
         items:
@@ -6600,6 +6632,33 @@ landscape:
                 country: India
             extra:
               summary_tags: allen-institute, mapping, iisc
+          - item:
+            name: CHOIR
+            description: |
+              CHOIR (clustering hierachy optimization by iterative random forests) is a clustering algorithm for single-cell data.
+              CHOIR applies a framework of permutation tests and random forest classifiers across a hierarchical clustering tree to statistically identify clusters that represent distinct populations.
+            homepage_url: https://www.choirclustering.com/
+            repo_url: https://github.com/corceslab/CHOIR
+            logo: choir.svg
+            academics:
+              - academic:
+                name: Cathrine Petersen
+                profile_url: https://scholar.google.com/citations?user=EtTtF5wAAAAJ&hl=en
+                citations: 815
+                hindex: 12
+                i10index: 12
+              - academic:
+                name: Ryan Corces
+                profile_url: https://scholar.google.ca/citations?user=GUctBkkAAAAJ&hl=en
+                citations: 14647
+                hindex: 34
+                i10index: 40
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
+            extra:
+              summary_tags: ucsf, corces-lab
       - subcategory:
         name: Compute & Toolsets
         items:
