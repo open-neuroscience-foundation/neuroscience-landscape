@@ -3470,6 +3470,154 @@ landscape:
                 country: USA
             extra:
               summary_tags: migration, birth, hindex-100
+          - item:
+            name: Baraban Lab
+            description: Neurobiology of Epilepsy
+            homepage_url: https://barabanlab.ucsf.edu
+            twitter: https://twitter.com/barabanlab
+            logo: ucsf.svg
+            academics:
+              - academic:
+                name: Scott C. Baraban
+                profile_url: https://scholar.google.com/citations?user=x6hud7gAAAAJ&hl=en
+                citations: 10904
+                hindex: 55
+                i10index: 119
+              - academic:
+                name: Joseane Righes Marafiga
+                profile_url: https://scholar.google.com.br/citations?user=IvuSbLcAAAAJ&hl=pt-BR
+                citations: 334
+                hindex: 10
+                i10index: 11
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
+            extra:
+              youtube_url: https://www.youtube.com/@UCSFNeurosurgery
+              summary_tags: zebrafish, sea-lion, crispr, epilepsy, blackrock, machine-learning, eeg, mge
+          - item:
+            name: Basbaum Lab
+            description: The Neurobiological Basis of Pain and its Control
+            homepage_url: https://basbaumlab.ucsf.edu
+            logo: ucsf-basbaum-lab.svg
+            academics:
+              - academic:
+                name: Allan Basbaum
+                profile_url: https://scholar.google.com/citations?user=gIA2Q24AAAAJ&hl=en
+                citations: 79534
+                hindex: 129
+                i10index: 345
+              - academic:
+                name: Joao M. Braz
+                profile_url: https://scholar.google.com/citations?user=VfiqwiIAAAAJ&hl=en
+                citations: 5173
+                hindex: 33
+                i10index: 52
+              - academic:
+                name: Julian Motzkin
+                profile_url: https://scholar.google.com/citations?user=7UajsAIAAAAJ&hl=en
+                citations: 2021
+                hindex: 13
+                i10index: 13
+              - academic:
+                name: Biafra Ahanonu
+                profile_url: https://scholar.google.com/citations?user=1ddfA3sAAAAJ&hl=en
+                citations: 1432
+                hindex: 9
+                i10index: 9
+              - academic:
+                name: Élora Midavaine
+                profile_url: https://scholar.google.com/citations?user=GiQ55swAAAAJ&hl=fr
+                citations: 195
+                hindex: 6
+                i10index: 6
+              - academic:
+                name: Jarret A.P. Weinrich
+                profile_url: https://scholar.google.com/citations?user=caUfzkMAAAAJ&hl=en
+                citations: 230
+                hindex: 5
+                i10index: 5
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
+            extra:
+              summary_tags: hindex-100, mice, pain, calcium-imaging, spinal-cord
+          - item:
+            name: Berke Lab
+            description: Neurobiology of Motivation and Adaptive Decision-Making
+            homepage_url: http://berkelab.org/index.html
+            logo: ucsf-berke-lab.svg
+            academics:
+              - academic:
+                name: Josh Berke
+                profile_url: https://scholar.google.com/citations?user=N7VqzusAAAAJ&hl=en
+                citations: 12334
+                hindex: 40
+                i10index: 61
+              - academic:
+                name: Seongtak Kang
+                profile_url: https://scholar.google.com/citations?user=4f5YoCQAAAAJ&hl=ko
+                citations: 26
+                hindex: 3
+                i10index: 1
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
+            extra:
+              summary_tags: motivation, choice, action, decision-making, basal-ganglia
+          - item:
+            name: Bender Lab
+            description: |
+              The Bender Lab is interested in understanding how the brain encodes information at the synaptic, cellular, and network level.
+              We employ a variety of electrophysiological, optical, and genetic techniques to probe information processing across neuronal compartments, from synaptic inputs onto dendritic spines, to the site of action potential initiation in the axon initial segment, to transmitter release in axonal boutons.
+              This work is complemented by biophysical studies of single channels, compartmental modeling, and in vivo recordings and behavior.
+            homepage_url: https://benderlab.ucsf.edu/home
+            logo: ucsf-bender-lab.svg
+            repo_url: https://github.com/roybens/NeuroGPU
+            additional_repos:
+              - item:
+                name: repository
+                repo_url: https://github.com/kenburke/event_detection
+            academics:
+              - academic:
+                name: Kevin J. Bender
+                profile_url: https://scholar.google.com/citations?user=LSvmZIkAAAAJ&hl=en
+                citations: 4117
+                hindex: 33
+                i10index: 42
+              - academic:
+                name: Katie Salvati
+                profile_url: https://scholar.google.com/citations?user=IwkuD7gAAAAJ&hl=en
+                citations: 175
+                hindex: 7
+                i10index: 6
+              - academic:
+                name: Ying C. Li
+                profile_url: https://scholar.google.com/citations?user=kDhW7w4AAAAJ&hl=en
+                citations: 507
+                hindex: 7
+                i10index: 5
+              - academic:
+                name: Ryan PD Alexander
+                profile_url: https://scholar.google.com/citations?user=Ft1Ts-QAAAAJ&hl=en
+                citations: 382
+                hindex: 7
+                i10index: 6
+              - academic:
+                name: Andrew Nelson
+                profile_url: https://scholar.google.com/citations?user=TKVqb2UAAAAJ&hl=en
+                citations: 565
+                hindex: 11
+                i10index: 11
+            locations:
+              - location:
+                city: San Francisco
+                country: USA
+            extra:
+              summary_tags: neuromodulation, channelopathies, crispr, electrophysiology
       - subcategory:
         name: Berkeley
         items:
